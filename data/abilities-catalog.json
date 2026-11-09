@@ -1,0 +1,2326 @@
+{
+  "byId": {
+    "1": {
+      "id": 1,
+      "nameEn": "Stench",
+      "nameCn": "恶臭",
+      "aliases": [
+        "Stench"
+      ],
+      "descriptionEn": "Helps repel wild Pokemon."
+    },
+    "2": {
+      "id": 2,
+      "nameEn": "Drizzle",
+      "nameCn": "降雨",
+      "aliases": [
+        "Drizzle"
+      ],
+      "descriptionEn": "Summons Rain for 5 turns."
+    },
+    "3": {
+      "id": 3,
+      "nameEn": "Speed Boost",
+      "nameCn": "加速",
+      "aliases": [
+        "Speed Boost"
+      ],
+      "descriptionEn": "Gradually boosts Speed."
+    },
+    "4": {
+      "id": 4,
+      "nameEn": "Battle Armor",
+      "nameCn": "战斗盔甲",
+      "aliases": [
+        "Battle Armor",
+        "Shell Armor"
+      ],
+      "descriptionEn": "Blocks critical hits."
+    },
+    "5": {
+      "id": 5,
+      "nameEn": "Sturdy",
+      "nameCn": "结实",
+      "aliases": [
+        "Sturdy"
+      ],
+      "descriptionEn": "Negates 1-hit KO attacks."
+    },
+    "6": {
+      "id": 6,
+      "nameEn": "Damp",
+      "nameCn": "湿气",
+      "aliases": [
+        "Damp"
+      ],
+      "descriptionEn": "Prevents self-destruction."
+    },
+    "7": {
+      "id": 7,
+      "nameEn": "Limber",
+      "nameCn": "柔软",
+      "aliases": [
+        "Limber"
+      ],
+      "descriptionEn": "Prevents paralysis."
+    },
+    "8": {
+      "id": 8,
+      "nameEn": "Sand Veil",
+      "nameCn": "沙隐",
+      "aliases": [
+        "Sand Veil"
+      ],
+      "descriptionEn": "Ups evasion in a sandstorm."
+    },
+    "9": {
+      "id": 9,
+      "nameEn": "Static",
+      "nameCn": "静电",
+      "aliases": [
+        "Static"
+      ],
+      "descriptionEn": "Paralyzes on contact."
+    },
+    "10": {
+      "id": 10,
+      "nameEn": "Volt Absorb",
+      "nameCn": "蓄电",
+      "aliases": [
+        "Volt Absorb"
+      ],
+      "descriptionEn": "Turns electricity into HP."
+    },
+    "11": {
+      "id": 11,
+      "nameEn": "Water Absorb",
+      "nameCn": "储水",
+      "aliases": [
+        "Water Absorb"
+      ],
+      "descriptionEn": "Changes water into HP."
+    },
+    "12": {
+      "id": 12,
+      "nameEn": "Oblivious",
+      "nameCn": "迟钝",
+      "aliases": [
+        "Oblivious"
+      ],
+      "descriptionEn": "Prevents attraction and Intimidate."
+    },
+    "13": {
+      "id": 13,
+      "nameEn": "Cloud Nine",
+      "nameCn": "无关天气",
+      "aliases": [
+        "Cloud Nine",
+        "Air Lock"
+      ],
+      "descriptionEn": "Negates weather effects."
+    },
+    "14": {
+      "id": 14,
+      "nameEn": "Compound Eyes",
+      "nameCn": "复眼",
+      "aliases": [
+        "Compound Eyes"
+      ],
+      "descriptionEn": "Raises accuracy by 30%."
+    },
+    "15": {
+      "id": 15,
+      "nameEn": "Insomnia",
+      "nameCn": "不眠",
+      "aliases": [
+        "Insomnia",
+        "Vital Spirit"
+      ],
+      "descriptionEn": "Prevents sleep."
+    },
+    "16": {
+      "id": 16,
+      "nameEn": "Wind Rider",
+      "nameCn": "乘风",
+      "aliases": [
+        "Wind Rider"
+      ],
+      "descriptionEn": "Immune to Wind moves and gets +1 Attack instead."
+    },
+    "17": {
+      "id": 17,
+      "nameEn": "Immunity",
+      "nameCn": "免疫",
+      "aliases": [
+        "Immunity"
+      ],
+      "descriptionEn": "Prevents poisoning."
+    },
+    "18": {
+      "id": 18,
+      "nameEn": "Flash Fire",
+      "nameCn": "引火",
+      "aliases": [
+        "Flash Fire"
+      ],
+      "descriptionEn": "Powers up if hit by fire."
+    },
+    "19": {
+      "id": 19,
+      "nameEn": "Shield Dust",
+      "nameCn": "鳞粉",
+      "aliases": [
+        "Shield Dust",
+        "Frozen Mist"
+      ],
+      "descriptionEn": "Stops added effects and entry hazard damage."
+    },
+    "20": {
+      "id": 20,
+      "nameEn": "Own Tempo",
+      "nameCn": "我行我素",
+      "aliases": [
+        "Own Tempo"
+      ],
+      "descriptionEn": "Prevents confusion and Intimidate."
+    },
+    "21": {
+      "id": 21,
+      "nameEn": "Suction Cups",
+      "nameCn": "吸盘",
+      "aliases": [
+        "Suction Cups"
+      ],
+      "descriptionEn": "Firmly anchors the body."
+    },
+    "22": {
+      "id": 22,
+      "nameEn": "Intimidate",
+      "nameCn": "威吓",
+      "aliases": [
+        "Intimidate"
+      ],
+      "descriptionEn": "Lowers the foe's Attack."
+    },
+    "23": {
+      "id": 23,
+      "nameEn": "Shadow Tag",
+      "nameCn": "踩影",
+      "aliases": [
+        "Shadow Tag"
+      ],
+      "descriptionEn": "Prevents the foe's escape."
+    },
+    "24": {
+      "id": 24,
+      "nameEn": "Quick Draw",
+      "nameCn": "速击",
+      "aliases": [
+        "Quick Draw"
+      ],
+      "descriptionEn": "Has a 30% chance to move first."
+    },
+    "25": {
+      "id": 25,
+      "nameEn": "Wonder Guard",
+      "nameCn": "神奇守护",
+      "aliases": [
+        "Wonder Guard"
+      ],
+      "descriptionEn": "\"Super effective\" hits."
+    },
+    "26": {
+      "id": 26,
+      "nameEn": "Levitate",
+      "nameCn": "飘浮",
+      "aliases": [
+        "Levitate"
+      ],
+      "descriptionEn": "Not hit by Ground attacks."
+    },
+    "27": {
+      "id": 27,
+      "nameEn": "Effect Spore",
+      "nameCn": "孢子",
+      "aliases": [
+        "Effect Spore"
+      ],
+      "descriptionEn": "Leaves spores on contact."
+    },
+    "28": {
+      "id": 28,
+      "nameEn": "Synchronize",
+      "nameCn": "同步",
+      "aliases": [
+        "Synchronize"
+      ],
+      "descriptionEn": "Passes on status problems."
+    },
+    "29": {
+      "id": 29,
+      "nameEn": "Clear Body",
+      "nameCn": "透明特性",
+      "aliases": [
+        "Clear Body",
+        "White Smoke",
+        "Full Metal Body"
+      ],
+      "descriptionEn": "Prevents ability reduction."
+    },
+    "30": {
+      "id": 30,
+      "nameEn": "Natural Cure",
+      "nameCn": "自然回复",
+      "aliases": [
+        "Natural Cure"
+      ],
+      "descriptionEn": "Heals upon switching out."
+    },
+    "31": {
+      "id": 31,
+      "nameEn": "Lightning Rod",
+      "nameCn": "避雷针",
+      "aliases": [
+        "Lightning Rod"
+      ],
+      "descriptionEn": "Draws electrical moves."
+    },
+    "32": {
+      "id": 32,
+      "nameEn": "Serene Grace",
+      "nameCn": "天恩",
+      "aliases": [
+        "Serene Grace"
+      ],
+      "descriptionEn": "Promotes added effects."
+    },
+    "33": {
+      "id": 33,
+      "nameEn": "Swift Swim",
+      "nameCn": "悠游自如",
+      "aliases": [
+        "Swift Swim"
+      ],
+      "descriptionEn": "Doubles Speed in Rain."
+    },
+    "34": {
+      "id": 34,
+      "nameEn": "Chlorophyll",
+      "nameCn": "叶绿素",
+      "aliases": [
+        "Chlorophyll"
+      ],
+      "descriptionEn": "Doubles Speed in Sun."
+    },
+    "35": {
+      "id": 35,
+      "nameEn": "Gulp Missile",
+      "nameCn": "一口导弹",
+      "aliases": [
+        "Gulp Missile"
+      ],
+      "descriptionEn": "Spits prey if damaged after a swim."
+    },
+    "36": {
+      "id": 36,
+      "nameEn": "Trace",
+      "nameCn": "复制",
+      "aliases": [
+        "Trace"
+      ],
+      "descriptionEn": "Copies special ability."
+    },
+    "37": {
+      "id": 37,
+      "nameEn": "Huge Power",
+      "nameCn": "大力士",
+      "aliases": [
+        "Huge Power",
+        "Pure Power"
+      ],
+      "descriptionEn": "Raises Attack."
+    },
+    "38": {
+      "id": 38,
+      "nameEn": "Dragon's Maw",
+      "nameCn": "龙颚",
+      "aliases": [
+        "Dragon's Maw"
+      ],
+      "descriptionEn": "Powers up Dragon-type moves by 50%."
+    },
+    "39": {
+      "id": 39,
+      "nameEn": "Inner Focus",
+      "nameCn": "精神力",
+      "aliases": [
+        "Inner Focus"
+      ],
+      "descriptionEn": "Prevents flinching and Intimidate."
+    },
+    "40": {
+      "id": 40,
+      "nameEn": "Magma Armor",
+      "nameCn": "熔岩铠甲",
+      "aliases": [
+        "Magma Armor"
+      ],
+      "descriptionEn": "Prevents frostbite."
+    },
+    "41": {
+      "id": 41,
+      "nameEn": "Water Veil",
+      "nameCn": "水幕",
+      "aliases": [
+        "Water Veil"
+      ],
+      "descriptionEn": "Prevents burns."
+    },
+    "42": {
+      "id": 42,
+      "nameEn": "Magnet Pull",
+      "nameCn": "磁力",
+      "aliases": [
+        "Magnet Pull"
+      ],
+      "descriptionEn": "Traps Steel-type Pokemon."
+    },
+    "43": {
+      "id": 43,
+      "nameEn": "Soundproof",
+      "nameCn": "隔音",
+      "aliases": [
+        "Soundproof"
+      ],
+      "descriptionEn": "Avoids sound-based moves."
+    },
+    "44": {
+      "id": 44,
+      "nameEn": "Rain Dish",
+      "nameCn": "雨盘",
+      "aliases": [
+        "Rain Dish"
+      ],
+      "descriptionEn": "Slight HP recovery in rain."
+    },
+    "45": {
+      "id": 45,
+      "nameEn": "Sand Stream",
+      "nameCn": "沙暴",
+      "aliases": [
+        "Sand Stream"
+      ],
+      "descriptionEn": "Summons Sand for 5 turns."
+    },
+    "46": {
+      "id": 46,
+      "nameEn": "Pressure",
+      "nameCn": "压迫感",
+      "aliases": [
+        "Pressure"
+      ],
+      "descriptionEn": "Raises foe's PP usage."
+    },
+    "47": {
+      "id": 47,
+      "nameEn": "Thick Fat",
+      "nameCn": "厚脂肪",
+      "aliases": [
+        "Thick Fat"
+      ],
+      "descriptionEn": "Ups resistance to Fire and Ice moves by 50%."
+    },
+    "48": {
+      "id": 48,
+      "nameEn": "Early Bird",
+      "nameCn": "早起",
+      "aliases": [
+        "Early Bird"
+      ],
+      "descriptionEn": "Awakens quickly from sleep."
+    },
+    "49": {
+      "id": 49,
+      "nameEn": "Flame Body",
+      "nameCn": "火焰之躯",
+      "aliases": [
+        "Flame Body"
+      ],
+      "descriptionEn": "Burns the foe on contact."
+    },
+    "50": {
+      "id": 50,
+      "nameEn": "Run Away",
+      "nameCn": "逃跑",
+      "aliases": [
+        "Run Away"
+      ],
+      "descriptionEn": "Makes escaping easier."
+    },
+    "51": {
+      "id": 51,
+      "nameEn": "Bad Company",
+      "nameCn": "乌龙搭档",
+      "aliases": [
+        "Bad Company"
+      ],
+      "descriptionEn": "Stops self-lowering stats and prevents recoil."
+    },
+    "52": {
+      "id": 52,
+      "nameEn": "Hyper Cutter",
+      "nameCn": "怪力钳",
+      "aliases": [
+        "Hyper Cutter"
+      ],
+      "descriptionEn": "Prevents Attack reduction."
+    },
+    "53": {
+      "id": 53,
+      "nameEn": "Pickup",
+      "nameCn": "捡拾",
+      "aliases": [
+        "Pickup"
+      ],
+      "descriptionEn": "10% chance to pickup items after battle."
+    },
+    "54": {
+      "id": 54,
+      "nameEn": "Truant",
+      "nameCn": "懒惰",
+      "aliases": [
+        "Truant"
+      ],
+      "descriptionEn": "Moves only every two turns."
+    },
+    "55": {
+      "id": 55,
+      "nameEn": "Hustle",
+      "nameCn": "活力",
+      "aliases": [
+        "Hustle"
+      ],
+      "descriptionEn": "Reduces accuracy by 20% but boosts Atk by 50%."
+    },
+    "56": {
+      "id": 56,
+      "nameEn": "Cute Charm",
+      "nameCn": "迷人之躯",
+      "aliases": [
+        "Cute Charm"
+      ],
+      "descriptionEn": "Has a 30% chance to infatuate on contact."
+    },
+    "57": {
+      "id": 57,
+      "nameEn": "Plus",
+      "nameCn": "正电",
+      "aliases": [
+        "Plus"
+      ],
+      "descriptionEn": "Boosts Sp. Atk by 50% with Minus."
+    },
+    "58": {
+      "id": 58,
+      "nameEn": "Minus",
+      "nameCn": "负电",
+      "aliases": [
+        "Minus"
+      ],
+      "descriptionEn": "Boosts Sp. Atk by 50% with Plus."
+    },
+    "59": {
+      "id": 59,
+      "nameEn": "Forecast",
+      "nameCn": "阴晴不定",
+      "aliases": [
+        "Forecast"
+      ],
+      "descriptionEn": "Changes with the weather."
+    },
+    "60": {
+      "id": 60,
+      "nameEn": "Sticky Hold",
+      "nameCn": "黏着",
+      "aliases": [
+        "Sticky Hold"
+      ],
+      "descriptionEn": "Prevents item theft."
+    },
+    "61": {
+      "id": 61,
+      "nameEn": "Shed Skin",
+      "nameCn": "蜕皮",
+      "aliases": [
+        "Shed Skin"
+      ],
+      "descriptionEn": "Has a 30% chance to heal its own status problem."
+    },
+    "62": {
+      "id": 62,
+      "nameEn": "Guts",
+      "nameCn": "毅力",
+      "aliases": [
+        "Guts"
+      ],
+      "descriptionEn": "Boosts Atk by 50% if statused."
+    },
+    "63": {
+      "id": 63,
+      "nameEn": "Marvel Scale",
+      "nameCn": "神奇鳞片",
+      "aliases": [
+        "Marvel Scale"
+      ],
+      "descriptionEn": "Boosts Defense by 50% if statused."
+    },
+    "64": {
+      "id": 64,
+      "nameEn": "Liquid Ooze",
+      "nameCn": "污泥浆",
+      "aliases": [
+        "Liquid Ooze"
+      ],
+      "descriptionEn": "Draining causes injury."
+    },
+    "65": {
+      "id": 65,
+      "nameEn": "Overgrow",
+      "nameCn": "茂盛",
+      "aliases": [
+        "Overgrow"
+      ],
+      "descriptionEn": "Boosts Grass moves by 50% at 1/3 or less HP."
+    },
+    "66": {
+      "id": 66,
+      "nameEn": "Blaze",
+      "nameCn": "猛火",
+      "aliases": [
+        "Blaze"
+      ],
+      "descriptionEn": "Boosts Fire moves by 50% at 1/3 or less HP."
+    },
+    "67": {
+      "id": 67,
+      "nameEn": "Torrent",
+      "nameCn": "激流",
+      "aliases": [
+        "Torrent"
+      ],
+      "descriptionEn": "Boosts Water moves by 50% at 1/3 or less HP."
+    },
+    "68": {
+      "id": 68,
+      "nameEn": "Swarm",
+      "nameCn": "虫之预感",
+      "aliases": [
+        "Swarm"
+      ],
+      "descriptionEn": "Boosts Bug moves by 50% at 1/3 or less HP."
+    },
+    "69": {
+      "id": 69,
+      "nameEn": "Rock Head",
+      "nameCn": "坚硬脑袋",
+      "aliases": [
+        "Rock Head"
+      ],
+      "descriptionEn": "Prevents recoil damage."
+    },
+    "70": {
+      "id": 70,
+      "nameEn": "Drought",
+      "nameCn": "日照",
+      "aliases": [
+        "Drought"
+      ],
+      "descriptionEn": "Summons Sun for 5 turns."
+    },
+    "71": {
+      "id": 71,
+      "nameEn": "Arena Trap",
+      "nameCn": "沙穴",
+      "aliases": [
+        "Arena Trap"
+      ],
+      "descriptionEn": "Prevents fleeing."
+    },
+    "72": {
+      "id": 72,
+      "nameEn": "Purifying Salt",
+      "nameCn": "洁净之盐",
+      "aliases": [
+        "Purifying Salt"
+      ],
+      "descriptionEn": "Resists Ghost and immune to status."
+    },
+    "73": {
+      "id": 73,
+      "nameEn": "As One",
+      "nameCn": "人马一体",
+      "aliases": [
+        "As One"
+      ],
+      "descriptionEn": "Both Unnerve and Grim Neigh."
+    },
+    "74": {
+      "id": 74,
+      "nameEn": "Neutralize Gas",
+      "nameCn": "Neutralize Gas",
+      "aliases": [
+        "Neutralize Gas"
+      ],
+      "descriptionEn": "All Abilities are nullified."
+    },
+    "75": {
+      "id": 75,
+      "nameEn": "Fatal Precision",
+      "nameCn": "致命瞄准",
+      "aliases": [
+        "Fatal Precision"
+      ],
+      "descriptionEn": "Super effective moves can't miss & boosted by 20%"
+    },
+    "76": {
+      "id": 76,
+      "nameEn": "Hunger Switch",
+      "nameCn": "饱了又饿",
+      "aliases": [
+        "Hunger Switch"
+      ],
+      "descriptionEn": "Changes form each turn."
+    },
+    "77": {
+      "id": 77,
+      "nameEn": "As One",
+      "nameCn": "人马一体",
+      "aliases": [
+        "As One"
+      ],
+      "descriptionEn": "Both Unnerve and Moxie."
+    },
+    "78": {
+      "id": 78,
+      "nameEn": "Sweet Veil",
+      "nameCn": "甜幕",
+      "aliases": [
+        "Sweet Veil"
+      ],
+      "descriptionEn": "Keeps user and allies awake."
+    },
+    "79": {
+      "id": 79,
+      "nameEn": "Skill Link",
+      "nameCn": "连续攻击",
+      "aliases": [
+        "Skill Link"
+      ],
+      "descriptionEn": "Multi-hit moves hit five times."
+    },
+    "80": {
+      "id": 80,
+      "nameEn": "Motor Drive",
+      "nameCn": "电气引擎",
+      "aliases": [
+        "Motor Drive"
+      ],
+      "descriptionEn": "Raises Speed if hit by an Electric-type move."
+    },
+    "81": {
+      "id": 81,
+      "nameEn": "Multiscale",
+      "nameCn": "多重鳞片",
+      "aliases": [
+        "Multiscale",
+        "Blubber Defense",
+        "Shadow Shield",
+        "Tera Shell"
+      ],
+      "descriptionEn": "Reduces damage at full HP."
+    },
+    "82": {
+      "id": 82,
+      "nameEn": "Technician",
+      "nameCn": "技术高手",
+      "aliases": [
+        "Technician"
+      ],
+      "descriptionEn": "Boosts moves with less than 60 BP by 1.5x."
+    },
+    "83": {
+      "id": 83,
+      "nameEn": "Scrappy",
+      "nameCn": "胆量",
+      "aliases": [
+        "Scrappy"
+      ],
+      "descriptionEn": "Can hit Ghost-types and prevents Intimidate."
+    },
+    "84": {
+      "id": 84,
+      "nameEn": "Super Luck",
+      "nameCn": "超幸运",
+      "aliases": [
+        "Super Luck"
+      ],
+      "descriptionEn": "Critical hits land more often."
+    },
+    "85": {
+      "id": 85,
+      "nameEn": "Sniper",
+      "nameCn": "狙击手",
+      "aliases": [
+        "Sniper"
+      ],
+      "descriptionEn": "Critical hits deal 2.25x instead of 1.5x."
+    },
+    "86": {
+      "id": 86,
+      "nameEn": "Regenerator",
+      "nameCn": "再生力",
+      "aliases": [
+        "Regenerator"
+      ],
+      "descriptionEn": "Heals 1/3 of HP when switching out."
+    },
+    "87": {
+      "id": 87,
+      "nameEn": "Prankster",
+      "nameCn": "恶作剧之心",
+      "aliases": [
+        "Prankster"
+      ],
+      "descriptionEn": "Gives +1 priority to status moves."
+    },
+    "88": {
+      "id": 88,
+      "nameEn": "Adaptability",
+      "nameCn": "适应力",
+      "aliases": [
+        "Adaptability"
+      ],
+      "descriptionEn": "Boosts same type attacks by 2x instead of 1.5x."
+    },
+    "89": {
+      "id": 89,
+      "nameEn": "Illuminate",
+      "nameCn": "发光",
+      "aliases": [
+        "Illuminate"
+      ],
+      "descriptionEn": "Raises accuracy by 20%."
+    },
+    "90": {
+      "id": 90,
+      "nameEn": "Magic Bounce",
+      "nameCn": "魔法镜",
+      "aliases": [
+        "Magic Bounce"
+      ],
+      "descriptionEn": "Reflects status moves."
+    },
+    "91": {
+      "id": 91,
+      "nameEn": "Reckless",
+      "nameCn": "舍身",
+      "aliases": [
+        "Reckless"
+      ],
+      "descriptionEn": "Boosts moves with recoil by 20%."
+    },
+    "92": {
+      "id": 92,
+      "nameEn": "Sheer Force",
+      "nameCn": "强行",
+      "aliases": [
+        "Sheer Force"
+      ],
+      "descriptionEn": "Removes added effects to boost damage by 30%."
+    },
+    "93": {
+      "id": 93,
+      "nameEn": "Iron Fist",
+      "nameCn": "铁拳",
+      "aliases": [
+        "Iron Fist"
+      ],
+      "descriptionEn": "Boosts punching moves by 30%."
+    },
+    "94": {
+      "id": 94,
+      "nameEn": "Rivalry",
+      "nameCn": "斗争心",
+      "aliases": [
+        "Rivalry"
+      ],
+      "descriptionEn": "Boosts moves by 1.25x if foe is of same gender."
+    },
+    "95": {
+      "id": 95,
+      "nameEn": "Sand Force",
+      "nameCn": "沙之力",
+      "aliases": [
+        "Sand Force"
+      ],
+      "descriptionEn": "Boosts Rock, Ground, and Steel moves in sand."
+    },
+    "96": {
+      "id": 96,
+      "nameEn": "Solar Power",
+      "nameCn": "太阳之力",
+      "aliases": [
+        "Solar Power"
+      ],
+      "descriptionEn": "Boosts Sp. Atk by 50% in Sun."
+    },
+    "97": {
+      "id": 97,
+      "nameEn": "Heatproof",
+      "nameCn": "耐热",
+      "aliases": [
+        "Heatproof"
+      ],
+      "descriptionEn": "Weakens the power of Fire-type moves."
+    },
+    "98": {
+      "id": 98,
+      "nameEn": "Dry Skin",
+      "nameCn": "干燥皮肤",
+      "aliases": [
+        "Dry Skin"
+      ],
+      "descriptionEn": "Reduces HP if it is hot. Water restores HP."
+    },
+    "99": {
+      "id": 99,
+      "nameEn": "Tinted Lens",
+      "nameCn": "有色眼镜",
+      "aliases": [
+        "Tinted Lens"
+      ],
+      "descriptionEn": "Doubles the damage of not very effective moves."
+    },
+    "100": {
+      "id": 100,
+      "nameEn": "Solid Rock",
+      "nameCn": "坚硬岩石",
+      "aliases": [
+        "Solid Rock",
+        "Filter",
+        "Prism Armor"
+      ],
+      "descriptionEn": "Weakens super effective moves by 25%."
+    },
+    "101": {
+      "id": 101,
+      "nameEn": "Stalwart",
+      "nameCn": "坚毅",
+      "aliases": [
+        "Stalwart",
+        "Propeller Tail"
+      ],
+      "descriptionEn": "Moves ignore redirection."
+    },
+    "102": {
+      "id": 102,
+      "nameEn": "Infiltrator",
+      "nameCn": "穿透",
+      "aliases": [
+        "Infiltrator"
+      ],
+      "descriptionEn": "Passes through the foe's barriers."
+    },
+    "103": {
+      "id": 103,
+      "nameEn": "Download",
+      "nameCn": "下载",
+      "aliases": [
+        "Download"
+      ],
+      "descriptionEn": "Adjusts power based on the foe's stats."
+    },
+    "104": {
+      "id": 104,
+      "nameEn": "Poison Heal",
+      "nameCn": "毒疗",
+      "aliases": [
+        "Poison Heal"
+      ],
+      "descriptionEn": "Restores 1/8 of maximum HP if poisoned."
+    },
+    "105": {
+      "id": 105,
+      "nameEn": "Ice Body",
+      "nameCn": "冰冻之躯",
+      "aliases": [
+        "Ice Body"
+      ],
+      "descriptionEn": "HP heals in hail, can freeze on hit."
+    },
+    "106": {
+      "id": 106,
+      "nameEn": "Bull Rush",
+      "nameCn": "野蛮冲锋",
+      "aliases": [
+        "Bull Rush",
+        "Quill Rush"
+      ],
+      "descriptionEn": "Boosts power by 20% & Speed by 50% in first turn."
+    },
+    "107": {
+      "id": 107,
+      "nameEn": "Hydration",
+      "nameCn": "湿润之躯",
+      "aliases": [
+        "Hydration"
+      ],
+      "descriptionEn": "Heals status problems in rain."
+    },
+    "108": {
+      "id": 108,
+      "nameEn": "SupremeOverlord",
+      "nameCn": "大将",
+      "aliases": [
+        "SupremeOverlord"
+      ],
+      "descriptionEn": "Boosts power depending on fainted allies."
+    },
+    "109": {
+      "id": 109,
+      "nameEn": "Anger Shell",
+      "nameCn": "愤怒甲壳",
+      "aliases": [
+        "Anger Shell"
+      ],
+      "descriptionEn": "+Atk/SpA/Spe, -Def/SpD if hit lowers HP below 50%"
+    },
+    "110": {
+      "id": 110,
+      "nameEn": "Good as Gold",
+      "nameCn": "黄金之躯",
+      "aliases": [
+        "Good as Gold"
+      ],
+      "descriptionEn": "Full immunity to status moves."
+    },
+    "111": {
+      "id": 111,
+      "nameEn": "Snow Warning",
+      "nameCn": "降雪",
+      "aliases": [
+        "Snow Warning"
+      ],
+      "descriptionEn": "Summons Snow for 5 turns."
+    },
+    "112": {
+      "id": 112,
+      "nameEn": "Quick Feet",
+      "nameCn": "飞毛腿",
+      "aliases": [
+        "Quick Feet"
+      ],
+      "descriptionEn": "Doubles Speed if it has a status condition."
+    },
+    "113": {
+      "id": 113,
+      "nameEn": "Sap Sipper",
+      "nameCn": "食草",
+      "aliases": [
+        "Sap Sipper"
+      ],
+      "descriptionEn": "Boosts Attack if hit by a Grass -type move."
+    },
+    "114": {
+      "id": 114,
+      "nameEn": "Overcoat",
+      "nameCn": "防尘",
+      "aliases": [
+        "Overcoat"
+      ],
+      "descriptionEn": "Immune to weather and powder."
+    },
+    "115": {
+      "id": 115,
+      "nameEn": "Magic Guard",
+      "nameCn": "魔法防守",
+      "aliases": [
+        "Magic Guard"
+      ],
+      "descriptionEn": "Only damaged by attacks."
+    },
+    "116": {
+      "id": 116,
+      "nameEn": "Bulletproof",
+      "nameCn": "防弹",
+      "aliases": [
+        "Bulletproof"
+      ],
+      "descriptionEn": "Immune to some ball and bomb moves."
+    },
+    "117": {
+      "id": 117,
+      "nameEn": "Gale Wings",
+      "nameCn": "疾风之翼",
+      "aliases": [
+        "Gale Wings"
+      ],
+      "descriptionEn": "Gives +1 priority to Flying moves at full HP."
+    },
+    "118": {
+      "id": 118,
+      "nameEn": "Moxie",
+      "nameCn": "自信过度",
+      "aliases": [
+        "Moxie",
+        "Chilling Neigh"
+      ],
+      "descriptionEn": "Boosts Attack after knocking out a Pokemon."
+    },
+    "119": {
+      "id": 119,
+      "nameEn": "Aftermath",
+      "nameCn": "引爆",
+      "aliases": [
+        "Aftermath"
+      ],
+      "descriptionEn": "Fainting damages the foe by 1/4 its max HP."
+    },
+    "120": {
+      "id": 120,
+      "nameEn": "Cursed Body",
+      "nameCn": "咒术之躯",
+      "aliases": [
+        "Cursed Body"
+      ],
+      "descriptionEn": "30% chance to disable a foe's move when hit."
+    },
+    "121": {
+      "id": 121,
+      "nameEn": "Gooey",
+      "nameCn": "黏滑",
+      "aliases": [
+        "Gooey",
+        "Tangling Hair"
+      ],
+      "descriptionEn": "Lowers the foe's Speed if hit by a contact move."
+    },
+    "122": {
+      "id": 122,
+      "nameEn": "Mummy",
+      "nameCn": "木乃伊",
+      "aliases": [
+        "Mummy",
+        "Lingering Aroma"
+      ],
+      "descriptionEn": "Contact with this Pokemon spreads this Ability."
+    },
+    "123": {
+      "id": 123,
+      "nameEn": "Iron Barbs",
+      "nameCn": "铁刺",
+      "aliases": [
+        "Iron Barbs",
+        "Rough Skin"
+      ],
+      "descriptionEn": "Inflicts damage (1/8 HP) to a foe on contact."
+    },
+    "124": {
+      "id": 124,
+      "nameEn": "Sand Rush",
+      "nameCn": "拨沙",
+      "aliases": [
+        "Sand Rush"
+      ],
+      "descriptionEn": "Doubles Speed in Sand."
+    },
+    "125": {
+      "id": 125,
+      "nameEn": "Analytic",
+      "nameCn": "分析",
+      "aliases": [
+        "Analytic"
+      ],
+      "descriptionEn": "Moving last boosts power by 30%."
+    },
+    "126": {
+      "id": 126,
+      "nameEn": "No Guard",
+      "nameCn": "无防守",
+      "aliases": [
+        "No Guard"
+      ],
+      "descriptionEn": "Ensures that all moves land."
+    },
+    "127": {
+      "id": 127,
+      "nameEn": "Mega Launcher",
+      "nameCn": "超级发射器",
+      "aliases": [
+        "Mega Launcher"
+      ],
+      "descriptionEn": "Boosts aura and pulse moves by 50%."
+    },
+    "128": {
+      "id": 128,
+      "nameEn": "Tough Claws",
+      "nameCn": "硬爪",
+      "aliases": [
+        "Tough Claws"
+      ],
+      "descriptionEn": "Boosts moves that make contact by 30%."
+    },
+    "129": {
+      "id": 129,
+      "nameEn": "Strong Jaw",
+      "nameCn": "强颚",
+      "aliases": [
+        "Strong Jaw"
+      ],
+      "descriptionEn": "Boosts biting moves by 50%."
+    },
+    "130": {
+      "id": 130,
+      "nameEn": "Victory Star",
+      "nameCn": "胜利之星",
+      "aliases": [
+        "Victory Star"
+      ],
+      "descriptionEn": "Raises own and ally's accuracy by 10%."
+    },
+    "131": {
+      "id": 131,
+      "nameEn": "Storm Drain",
+      "nameCn": "引水",
+      "aliases": [
+        "Storm Drain"
+      ],
+      "descriptionEn": "Immune to & draws in Water moves to boost Sp. Atk"
+    },
+    "132": {
+      "id": 132,
+      "nameEn": "Dark Aura",
+      "nameCn": "暗黑气场",
+      "aliases": [
+        "Dark Aura"
+      ],
+      "descriptionEn": "Powers up all Dark-type moves by 33%."
+    },
+    "133": {
+      "id": 133,
+      "nameEn": "Fairy Aura",
+      "nameCn": "妖精气场",
+      "aliases": [
+        "Fairy Aura"
+      ],
+      "descriptionEn": "Powers up all Fairy-type moves by 33%."
+    },
+    "134": {
+      "id": 134,
+      "nameEn": "Seed Sower",
+      "nameCn": "掉出种子",
+      "aliases": [
+        "Seed Sower"
+      ],
+      "descriptionEn": "Summons Grassy Terrain for 5 turns when hit."
+    },
+    "135": {
+      "id": 135,
+      "nameEn": "Refrigerate",
+      "nameCn": "冰冻皮肤",
+      "aliases": [
+        "Refrigerate"
+      ],
+      "descriptionEn": "Normal moves become Ice & boosted by 20%."
+    },
+    "136": {
+      "id": 136,
+      "nameEn": "Pixilate",
+      "nameCn": "妖精皮肤",
+      "aliases": [
+        "Pixilate"
+      ],
+      "descriptionEn": "Normal moves become Fairy & boosted by 20%."
+    },
+    "137": {
+      "id": 137,
+      "nameEn": "Aerilate",
+      "nameCn": "飞行皮肤",
+      "aliases": [
+        "Aerilate"
+      ],
+      "descriptionEn": "Normal moves become Flying & boosted by 20%."
+    },
+    "138": {
+      "id": 138,
+      "nameEn": "Feline Prowess",
+      "nameCn": "大猫猫",
+      "aliases": [
+        "Feline Prowess"
+      ],
+      "descriptionEn": "Doubles Special Attack stat."
+    },
+    "139": {
+      "id": 139,
+      "nameEn": "Unburden",
+      "nameCn": "轻装",
+      "aliases": [
+        "Unburden"
+      ],
+      "descriptionEn": "Doubles Speed if item is lost."
+    },
+    "140": {
+      "id": 140,
+      "nameEn": "Simple",
+      "nameCn": "单纯",
+      "aliases": [
+        "Simple"
+      ],
+      "descriptionEn": "Doubles stat changes."
+    },
+    "141": {
+      "id": 141,
+      "nameEn": "Unaware",
+      "nameCn": "纯朴",
+      "aliases": [
+        "Unaware"
+      ],
+      "descriptionEn": "Ignores foe's stat changes."
+    },
+    "142": {
+      "id": 142,
+      "nameEn": "Defiant",
+      "nameCn": "不服输",
+      "aliases": [
+        "Defiant"
+      ],
+      "descriptionEn": "Attack rises when its stats are lowered."
+    },
+    "143": {
+      "id": 143,
+      "nameEn": "Competitive",
+      "nameCn": "好胜",
+      "aliases": [
+        "Competitive"
+      ],
+      "descriptionEn": "Raises Sp. Atk when its stats are lowered."
+    },
+    "144": {
+      "id": 144,
+      "nameEn": "Defeatist",
+      "nameCn": "软弱",
+      "aliases": [
+        "Defeatist"
+      ],
+      "descriptionEn": "Halves Atk/Sp.Atk when its HP is at 1/3 or less."
+    },
+    "145": {
+      "id": 145,
+      "nameEn": "Slow Start",
+      "nameCn": "慢启动",
+      "aliases": [
+        "Slow Start"
+      ],
+      "descriptionEn": "Takes a while to get going."
+    },
+    "146": {
+      "id": 146,
+      "nameEn": "Toxic Boost",
+      "nameCn": "中毒激升",
+      "aliases": [
+        "Toxic Boost"
+      ],
+      "descriptionEn": "Boosts Attack by 50% when poisoned."
+    },
+    "147": {
+      "id": 147,
+      "nameEn": "Flare Boost",
+      "nameCn": "受热激升",
+      "aliases": [
+        "Flare Boost"
+      ],
+      "descriptionEn": "Boosts Sp. Atk by 50% when burned."
+    },
+    "148": {
+      "id": 148,
+      "nameEn": "Fur Coat",
+      "nameCn": "毛皮大衣",
+      "aliases": [
+        "Fur Coat"
+      ],
+      "descriptionEn": "Halves physical damage."
+    },
+    "149": {
+      "id": 149,
+      "nameEn": "Wonder Skin",
+      "nameCn": "奇迹皮肤",
+      "aliases": [
+        "Wonder Skin"
+      ],
+      "descriptionEn": "Ups status move evasion."
+    },
+    "150": {
+      "id": 150,
+      "nameEn": "Protean",
+      "nameCn": "变幻自如",
+      "aliases": [
+        "Protean",
+        "Libero"
+      ],
+      "descriptionEn": "Changes type to match move."
+    },
+    "151": {
+      "id": 151,
+      "nameEn": "Parental Bond",
+      "nameCn": "亲子爱",
+      "aliases": [
+        "Parental Bond"
+      ],
+      "descriptionEn": "Moves hit a second time for 25% damage."
+    },
+    "152": {
+      "id": 152,
+      "nameEn": "Mold Breaker",
+      "nameCn": "破格",
+      "aliases": [
+        "Mold Breaker",
+        "Turboblaze",
+        "Teravolt"
+      ],
+      "descriptionEn": "Moves can be used regardless of abilities."
+    },
+    "153": {
+      "id": 153,
+      "nameEn": "Hadron Engine",
+      "nameCn": "强子引擎",
+      "aliases": [
+        "Hadron Engine"
+      ],
+      "descriptionEn": "Set E.Terrain for 5 turns Up Sp.Atk by 30% in it"
+    },
+    "154": {
+      "id": 154,
+      "nameEn": "OrichalcumPulse",
+      "nameCn": "或奥拉激励",
+      "aliases": [
+        "OrichalcumPulse"
+      ],
+      "descriptionEn": "Sets Sun for 5 turns. Boosts Atk by 30% in Sun."
+    },
+    "155": {
+      "id": 155,
+      "nameEn": "Zen Mode",
+      "nameCn": "达摩模式",
+      "aliases": [
+        "Zen Mode"
+      ],
+      "descriptionEn": "Transforms into Zen Mode."
+    },
+    "156": {
+      "id": 156,
+      "nameEn": "Battle Bond",
+      "nameCn": "牵绊变身",
+      "aliases": [
+        "Battle Bond"
+      ],
+      "descriptionEn": "Transforms into Ash Greninja after it KOs a foe."
+    },
+    "157": {
+      "id": 157,
+      "nameEn": "Beast Boost",
+      "nameCn": "兽提升",
+      "aliases": [
+        "Beast Boost"
+      ],
+      "descriptionEn": "KOing a foe boosts its highest stat."
+    },
+    "158": {
+      "id": 158,
+      "nameEn": "Corrosion",
+      "nameCn": "腐蚀",
+      "aliases": [
+        "Corrosion"
+      ],
+      "descriptionEn": "Poison can hit Steel types."
+    },
+    "159": {
+      "id": 159,
+      "nameEn": "Disguise",
+      "nameCn": "画皮",
+      "aliases": [
+        "Disguise"
+      ],
+      "descriptionEn": "Takes one hit with no damage."
+    },
+    "160": {
+      "id": 160,
+      "nameEn": "Emergency Exit",
+      "nameCn": "危险回避",
+      "aliases": [
+        "Emergency Exit",
+        "Wimp Out"
+      ],
+      "descriptionEn": "Switches out below half HP."
+    },
+    "161": {
+      "id": 161,
+      "nameEn": "Fluffy",
+      "nameCn": "毛茸茸",
+      "aliases": [
+        "Fluffy"
+      ],
+      "descriptionEn": "Halves contact hits. Takes 2x to Fire moves."
+    },
+    "162": {
+      "id": 162,
+      "nameEn": "Steely Spirit",
+      "nameCn": "钢之意志",
+      "aliases": [
+        "Steely Spirit"
+      ],
+      "descriptionEn": "Boosts own and ally Steel moves by 50%."
+    },
+    "163": {
+      "id": 163,
+      "nameEn": "Perish Body",
+      "nameCn": "灭亡之躯",
+      "aliases": [
+        "Perish Body"
+      ],
+      "descriptionEn": "Gives a perish count when hit by a contact move."
+    },
+    "164": {
+      "id": 164,
+      "nameEn": "Wandering Soul",
+      "nameCn": "Wandering Soul",
+      "aliases": [
+        "Wandering Soul"
+      ],
+      "descriptionEn": "Trades Abilities on contact."
+    },
+    "165": {
+      "id": 165,
+      "nameEn": "Power Construct",
+      "nameCn": "群聚变形",
+      "aliases": [
+        "Power Construct"
+      ],
+      "descriptionEn": "Transforms to Complete form when below half HP."
+    },
+    "166": {
+      "id": 166,
+      "nameEn": "Tablets of Ruin",
+      "nameCn": "灾祸之简",
+      "aliases": [
+        "Tablets of Ruin"
+      ],
+      "descriptionEn": "Lowers the Attack of all other Pokemon by 25%."
+    },
+    "167": {
+      "id": 167,
+      "nameEn": "ORAORAORAORA!",
+      "nameCn": "欧拉欧拉欧拉",
+      "aliases": [
+        "ORAORAORAORA!"
+      ],
+      "descriptionEn": "Punch moves hit a second time for 50% dmg."
+    },
+    "168": {
+      "id": 168,
+      "nameEn": "Schooling",
+      "nameCn": "鱼群",
+      "aliases": [
+        "Schooling"
+      ],
+      "descriptionEn": "Schools up when above 25% HP."
+    },
+    "169": {
+      "id": 169,
+      "nameEn": "Beads of Ruin",
+      "nameCn": "灾祸之玉",
+      "aliases": [
+        "Beads of Ruin"
+      ],
+      "descriptionEn": "Lowers the Sp.Def of all other Pokemon by 25%."
+    },
+    "170": {
+      "id": 170,
+      "nameEn": "Shields Down",
+      "nameCn": "界限盾壳",
+      "aliases": [
+        "Shields Down"
+      ],
+      "descriptionEn": "Lowers shields below half HP."
+    },
+    "171": {
+      "id": 171,
+      "nameEn": "Slush Rush",
+      "nameCn": "拨雪",
+      "aliases": [
+        "Slush Rush"
+      ],
+      "descriptionEn": "Doubles Speed in Hail."
+    },
+    "172": {
+      "id": 172,
+      "nameEn": "Soul-Heart",
+      "nameCn": "魂心",
+      "aliases": [
+        "Soul-Heart"
+      ],
+      "descriptionEn": "Boosts Sp. Atk every time a Pokemon faints."
+    },
+    "173": {
+      "id": 173,
+      "nameEn": "Stamina",
+      "nameCn": "持久力",
+      "aliases": [
+        "Stamina"
+      ],
+      "descriptionEn": "Boosts Defense when hit by an attack."
+    },
+    "174": {
+      "id": 174,
+      "nameEn": "Zero To Hero",
+      "nameCn": "全能变身",
+      "aliases": [
+        "Zero To Hero"
+      ],
+      "descriptionEn": "Changes form upon switching."
+    },
+    "175": {
+      "id": 175,
+      "nameEn": "ThermalExchange",
+      "nameCn": "热交换",
+      "aliases": [
+        "ThermalExchange"
+      ],
+      "descriptionEn": "Fire-type hits raise Attack. Immune to burn."
+    },
+    "176": {
+      "id": 176,
+      "nameEn": "Triage",
+      "nameCn": "先行治疗",
+      "aliases": [
+        "Triage"
+      ],
+      "descriptionEn": "Gives +3 priority to healing moves."
+    },
+    "177": {
+      "id": 177,
+      "nameEn": "Water Bubble",
+      "nameCn": "水泡",
+      "aliases": [
+        "Water Bubble",
+        "Cash Splash"
+      ],
+      "descriptionEn": "Doubles Water moves. Takes half from Fire moves."
+    },
+    "178": {
+      "id": 178,
+      "nameEn": "Water Compaction",
+      "nameCn": "遇水凝固",
+      "aliases": [
+        "WaterCompaction"
+      ],
+      "descriptionEn": "Halves Water damage & raises Defense."
+    },
+    "179": {
+      "id": 179,
+      "nameEn": "Parasitic Waste",
+      "nameCn": "毒素垃圾",
+      "aliases": [
+        "Parasitic Waste"
+      ],
+      "descriptionEn": "Attacks that poison also drain. "
+    },
+    "180": {
+      "id": 180,
+      "nameEn": "Multitype",
+      "nameCn": "多属性",
+      "aliases": [
+        "Multitype"
+      ],
+      "descriptionEn": "Changes type to match held Plate."
+    },
+    "181": {
+      "id": 181,
+      "nameEn": "Electric Surge",
+      "nameCn": "电气制造者",
+      "aliases": [
+        "Electric Surge"
+      ],
+      "descriptionEn": "Sets Electric Terrain for 5 turns."
+    },
+    "182": {
+      "id": 182,
+      "nameEn": "Grassy Surge",
+      "nameCn": "青草制造者",
+      "aliases": [
+        "Grassy Surge"
+      ],
+      "descriptionEn": "Creates Grassy Terrain for 5 turns."
+    },
+    "183": {
+      "id": 183,
+      "nameEn": "Misty Surge",
+      "nameCn": "薄雾制造者",
+      "aliases": [
+        "Misty Surge"
+      ],
+      "descriptionEn": "Creates Misty Terrain for 5 turns."
+    },
+    "184": {
+      "id": 184,
+      "nameEn": "Psychic Surge",
+      "nameCn": "精神场地",
+      "aliases": [
+        "Psychic Surge"
+      ],
+      "descriptionEn": "Creates a Psychic Terrain for 5 turns."
+    },
+    "185": {
+      "id": 185,
+      "nameEn": "Surge Surfer",
+      "nameCn": "冲浪之尾",
+      "aliases": [
+        "Surge Surfer"
+      ],
+      "descriptionEn": "Doubles Speed in Electric Terrain."
+    },
+    "186": {
+      "id": 186,
+      "nameEn": "Grass Pelt",
+      "nameCn": "草之毛皮",
+      "aliases": [
+        "Grass Pelt"
+      ],
+      "descriptionEn": "Ups Defense by 50% in Grassy Terrain."
+    },
+    "187": {
+      "id": 187,
+      "nameEn": "Anger Point",
+      "nameCn": "愤怒穴位",
+      "aliases": [
+        "Anger Point"
+      ],
+      "descriptionEn": "Maxes Attack after a critical hit."
+    },
+    "188": {
+      "id": 188,
+      "nameEn": "Earth Eater",
+      "nameCn": "食土",
+      "aliases": [
+        "Earth Eater"
+      ],
+      "descriptionEn": "Absorbs Ground moves."
+    },
+    "189": {
+      "id": 189,
+      "nameEn": "Toxic Chain",
+      "nameCn": "毒锁链",
+      "aliases": [
+        "Toxic Chain"
+      ],
+      "descriptionEn": "Moves have a 30% chance of badly poisoning."
+    },
+    "190": {
+      "id": 190,
+      "nameEn": "Frisk",
+      "nameCn": "察觉",
+      "aliases": [
+        "Frisk"
+      ],
+      "descriptionEn": "Reveals the foe's held item."
+    },
+    "191": {
+      "id": 191,
+      "nameEn": "Contrary",
+      "nameCn": "唱反调",
+      "aliases": [
+        "Contrary"
+      ],
+      "descriptionEn": "Reverses stat changes."
+    },
+    "192": {
+      "id": 192,
+      "nameEn": "Unnerve",
+      "nameCn": "紧张感",
+      "aliases": [
+        "Unnerve"
+      ],
+      "descriptionEn": "Stops the foe from eating Berries."
+    },
+    "193": {
+      "id": 193,
+      "nameEn": "Weak Armor",
+      "nameCn": "碎裂铠甲",
+      "aliases": [
+        "Weak Armor"
+      ],
+      "descriptionEn": "Hits by physical moves drop Def but raises Speed."
+    },
+    "194": {
+      "id": 194,
+      "nameEn": "Heavy Metal",
+      "nameCn": "重金属",
+      "aliases": [
+        "Heavy Metal"
+      ],
+      "descriptionEn": "Doubles weight."
+    },
+    "195": {
+      "id": 195,
+      "nameEn": "Quark Drive",
+      "nameCn": "夸克充能",
+      "aliases": [
+        "Quark Drive"
+      ],
+      "descriptionEn": "Boosts highest stat in Electric Terrain."
+    },
+    "196": {
+      "id": 196,
+      "nameEn": "Steadfast",
+      "nameCn": "不屈之心",
+      "aliases": [
+        "Steadfast"
+      ],
+      "descriptionEn": "Being flinched raises Speed."
+    },
+    "197": {
+      "id": 197,
+      "nameEn": "Imposter",
+      "nameCn": "变身者",
+      "aliases": [
+        "Imposter"
+      ],
+      "descriptionEn": "Transforms into foe upon entering battle."
+    },
+    "198": {
+      "id": 198,
+      "nameEn": "Justified",
+      "nameCn": "正义之心",
+      "aliases": [
+        "Justified"
+      ],
+      "descriptionEn": "Dark-type hits raise Attack."
+    },
+    "199": {
+      "id": 199,
+      "nameEn": "Unseen Fist",
+      "nameCn": "无形拳",
+      "aliases": [
+        "Unseen Fist"
+      ],
+      "descriptionEn": "Contact moves bypass Protect."
+    },
+    "200": {
+      "id": 200,
+      "nameEn": "Merciless",
+      "nameCn": "不仁不义",
+      "aliases": [
+        "Merciless"
+      ],
+      "descriptionEn": "Guarantees critical-hits on poisoned foes."
+    },
+    "201": {
+      "id": 201,
+      "nameEn": "Aroma Veil",
+      "nameCn": "芳香幕",
+      "aliases": [
+        "Aroma Veil"
+      ],
+      "descriptionEn": "Protects against mental problems."
+    },
+    "202": {
+      "id": 202,
+      "nameEn": "Toxic Debris",
+      "nameCn": "毒满地",
+      "aliases": [
+        "Toxic Debris"
+      ],
+      "descriptionEn": "Sets Toxic Spikes when hit by a physical move."
+    },
+    "203": {
+      "id": 203,
+      "nameEn": "Leaf Guard",
+      "nameCn": "叶子防守",
+      "aliases": [
+        "Leaf Guard"
+      ],
+      "descriptionEn": "Protects from status in Sun."
+    },
+    "204": {
+      "id": 204,
+      "nameEn": "Electromrphosis",
+      "nameCn": "Electromrphosis",
+      "aliases": [
+        "Electromrphosis"
+      ],
+      "descriptionEn": "Gains Charge when hit by an attack."
+    },
+    "205": {
+      "id": 205,
+      "nameEn": "Flower Gift",
+      "nameCn": "花之礼",
+      "aliases": [
+        "Flower Gift"
+      ],
+      "descriptionEn": "Boosts Atk and Speed by 50% in Sun."
+    },
+    "206": {
+      "id": 206,
+      "nameEn": "Bad Dreams",
+      "nameCn": "梦魇",
+      "aliases": [
+        "Bad Dreams"
+      ],
+      "descriptionEn": "Bypass Sleep Clause & damage sleeping foes."
+    },
+    "207": {
+      "id": 207,
+      "nameEn": "Grim Neigh",
+      "nameCn": "漆黑嘶鸣",
+      "aliases": [
+        "Grim Neigh"
+      ],
+      "descriptionEn": "Boosts Sp. Atk after knocking out a Pokemon."
+    },
+    "208": {
+      "id": 208,
+      "nameEn": "Transistor",
+      "nameCn": "晶体管",
+      "aliases": [
+        "Transistor"
+      ],
+      "descriptionEn": "Powers up Electric-type moves by 50%."
+    },
+    "209": {
+      "id": 209,
+      "nameEn": "Poison Touch",
+      "nameCn": "毒手",
+      "aliases": [
+        "Poison Touch"
+      ],
+      "descriptionEn": "30% chance to poison foe on contact."
+    },
+    "210": {
+      "id": 210,
+      "nameEn": "Magician",
+      "nameCn": "魔术师",
+      "aliases": [
+        "Magician"
+      ],
+      "descriptionEn": "Can steal foe's item after attack."
+    },
+    "211": {
+      "id": 211,
+      "nameEn": "Stance Change",
+      "nameCn": "战斗切换",
+      "aliases": [
+        "Stance Change"
+      ],
+      "descriptionEn": "Switches form when attacking."
+    },
+    "212": {
+      "id": 212,
+      "nameEn": "Primordial Sea",
+      "nameCn": "始源之海",
+      "aliases": [
+        "Primordial Sea"
+      ],
+      "descriptionEn": "Summons Heavy Rain that nullifies Fire moves."
+    },
+    "213": {
+      "id": 213,
+      "nameEn": "Desolate Land",
+      "nameCn": "终结之地",
+      "aliases": [
+        "Desolate Land"
+      ],
+      "descriptionEn": "Summons Harsh Sun that nullifies Water moves."
+    },
+    "214": {
+      "id": 214,
+      "nameEn": "Delta Stream",
+      "nameCn": "德尔塔气流",
+      "aliases": [
+        "Delta Stream"
+      ],
+      "descriptionEn": "Changes weather to remove Flying-type weaknesses."
+    },
+    "215": {
+      "id": 215,
+      "nameEn": "Gorilla Tactics",
+      "nameCn": "一猩一意",
+      "aliases": [
+        "Gorilla Tactics"
+      ],
+      "descriptionEn": "Ups  Atk by 50% but only uses 1st picked move."
+    },
+    "216": {
+      "id": 216,
+      "nameEn": "Berserk",
+      "nameCn": "怒火冲天",
+      "aliases": [
+        "Berserk"
+      ],
+      "descriptionEn": "Raises Sp. Atk if hit sends it below half HP."
+    },
+    "217": {
+      "id": 217,
+      "nameEn": "Primal Armor",
+      "nameCn": "原始盔甲",
+      "aliases": [
+        "Primal Armor"
+      ],
+      "descriptionEn": "Decreases super effective moves by 50%."
+    },
+    "218": {
+      "id": 218,
+      "nameEn": "Liquid Voice",
+      "nameCn": "湿润之声",
+      "aliases": [
+        "Liquid Voice"
+      ],
+      "descriptionEn": "Sound moves become Water-type & boosted by 20%."
+    },
+    "219": {
+      "id": 219,
+      "nameEn": "Phoenix Down",
+      "nameCn": "凤凰之羽",
+      "aliases": [
+        "Phoenix Down"
+      ],
+      "descriptionEn": "Revives to half health on first faint."
+    },
+    "220": {
+      "id": 220,
+      "nameEn": "Innards Out",
+      "nameCn": "飞出的内在物",
+      "aliases": [
+        "Innards Out"
+      ],
+      "descriptionEn": "Fainting damages the foe equal to its last HP."
+    },
+    "221": {
+      "id": 221,
+      "nameEn": "Dazzling",
+      "nameCn": "鲜艳之躯",
+      "aliases": [
+        "Dazzling",
+        "Queenly Majesty",
+        "Armor Tail"
+      ],
+      "descriptionEn": "Blocks priority moves."
+    },
+    "222": {
+      "id": 222,
+      "nameEn": "Gluttony",
+      "nameCn": "贪吃鬼",
+      "aliases": [
+        "Gluttony"
+      ],
+      "descriptionEn": "Eats Berries at 50% HP instead of 25%."
+    },
+    "223": {
+      "id": 223,
+      "nameEn": "Mountaineer",
+      "nameCn": "登顶",
+      "aliases": [
+        "Mountaineer"
+      ],
+      "descriptionEn": "Immune to Rock attacks and Stealth Rocks."
+    },
+    "224": {
+      "id": 224,
+      "nameEn": "Friend Guard",
+      "nameCn": "友情防守",
+      "aliases": [
+        "Friend Guard"
+      ],
+      "descriptionEn": "Reduces damage done to allies."
+    },
+    "225": {
+      "id": 225,
+      "nameEn": "Harvest",
+      "nameCn": "收获",
+      "aliases": [
+        "Harvest"
+      ],
+      "descriptionEn": "50% chance to restore berry."
+    },
+    "226": {
+      "id": 226,
+      "nameEn": "Telepathy",
+      "nameCn": "心灵感应",
+      "aliases": [
+        "Telepathy"
+      ],
+      "descriptionEn": "Protects from allies' moves."
+    },
+    "227": {
+      "id": 227,
+      "nameEn": "Illusion",
+      "nameCn": "幻觉",
+      "aliases": [
+        "Illusion"
+      ],
+      "descriptionEn": "Enters disguised and deals 30% more damage."
+    },
+    "228": {
+      "id": 228,
+      "nameEn": "Cheek Pouch",
+      "nameCn": "颊囊",
+      "aliases": [
+        "Cheek Pouch"
+      ],
+      "descriptionEn": "Eating Berries restores HP by 1/3."
+    },
+    "229": {
+      "id": 229,
+      "nameEn": "Protosynthesis",
+      "nameCn": "古代活性",
+      "aliases": [
+        "Protosynthesis"
+      ],
+      "descriptionEn": "Boosts highest stat in Sun."
+    },
+    "230": {
+      "id": 230,
+      "nameEn": "Stakeout",
+      "nameCn": "蹲守",
+      "aliases": [
+        "Stakeout"
+      ],
+      "descriptionEn": "Doubles damage if foe switches out."
+    },
+    "231": {
+      "id": 231,
+      "nameEn": "Comatose",
+      "nameCn": "绝对睡眠",
+      "aliases": [
+        "Comatose"
+      ],
+      "descriptionEn": "Acts as if asleep."
+    },
+    "232": {
+      "id": 232,
+      "nameEn": "Dancer",
+      "nameCn": "舞者",
+      "aliases": [
+        "Dancer"
+      ],
+      "descriptionEn": "Copies dance moves."
+    },
+    "233": {
+      "id": 233,
+      "nameEn": "Bone Zone",
+      "nameCn": "尸骨无存",
+      "aliases": [
+        "Bone Zone "
+      ],
+      "descriptionEn": "Bone moves ignore immunity and resistances."
+    },
+    "234": {
+      "id": 234,
+      "nameEn": "Receiver",
+      "nameCn": "接球手",
+      "aliases": [
+        "Receiver",
+        "Alchemic Power"
+      ],
+      "descriptionEn": "Takes over a KOed ally's Ability."
+    },
+    "235": {
+      "id": 235,
+      "nameEn": "Self Sufficient",
+      "nameCn": "自给自足",
+      "aliases": [
+        "Self Sufficient"
+      ],
+      "descriptionEn": "Recover 1/16 HP at end of turn."
+    },
+    "236": {
+      "id": 236,
+      "nameEn": "Neuroforce",
+      "nameCn": "脑核之力",
+      "aliases": [
+        "Neuroforce"
+      ],
+      "descriptionEn": "Powers up super effective hits by 25%."
+    },
+    "237": {
+      "id": 237,
+      "nameEn": "Galvanize",
+      "nameCn": "电气皮肤",
+      "aliases": [
+        "Galvanize"
+      ],
+      "descriptionEn": "Normal moves become Electric & boosted by 20%."
+    },
+    "238": {
+      "id": 238,
+      "nameEn": "Intrepid Sword",
+      "nameCn": "不挠之剑",
+      "aliases": [
+        "Intrepid Sword"
+      ],
+      "descriptionEn": "Raises Attack on entry."
+    },
+    "239": {
+      "id": 239,
+      "nameEn": "Valiant Shield",
+      "nameCn": "Valiant Shield",
+      "aliases": [
+        "Valiant Shield"
+      ],
+      "descriptionEn": "Raises Defense on entry."
+    },
+    "240": {
+      "id": 240,
+      "nameEn": "Striker",
+      "nameCn": "前锋",
+      "aliases": [
+        "Striker"
+      ],
+      "descriptionEn": "Boosts kicking moves by 30%."
+    },
+    "241": {
+      "id": 241,
+      "nameEn": "Cotton Down",
+      "nameCn": "棉絮",
+      "aliases": [
+        "Cotton Down"
+      ],
+      "descriptionEn": "Lowers everyone's Speed when hit."
+    },
+    "242": {
+      "id": 242,
+      "nameEn": "Sword Of Ruin",
+      "nameCn": "灾祸之剑",
+      "aliases": [
+        "Sword Of Ruin"
+      ],
+      "descriptionEn": "Lowers the Defense of all other Pokemon by 25%."
+    },
+    "243": {
+      "id": 243,
+      "nameEn": "Sharpness",
+      "nameCn": "锋锐",
+      "aliases": [
+        "Sharpness"
+      ],
+      "descriptionEn": "Boosts slashing moves by 50%."
+    },
+    "244": {
+      "id": 244,
+      "nameEn": "Vessel Of Ruin",
+      "nameCn": "灾祸之鼎",
+      "aliases": [
+        "Vessel Of Ruin"
+      ],
+      "descriptionEn": "Lowers the Sp.Atk of all other Pokemon by 25%."
+    },
+    "245": {
+      "id": 245,
+      "nameEn": "Steam Engine",
+      "nameCn": "蒸汽机",
+      "aliases": [
+        "Steam Engine"
+      ],
+      "descriptionEn": "Being hit by Fire/Water moves maxes Speed."
+    },
+    "246": {
+      "id": 246,
+      "nameEn": "Punk Rock",
+      "nameCn": "庞克摇滚",
+      "aliases": [
+        "Punk Rock"
+      ],
+      "descriptionEn": "Boosts sound moves by 30% & resists them by 50%."
+    },
+    "247": {
+      "id": 247,
+      "nameEn": "Sand Spit",
+      "nameCn": "吐沙",
+      "aliases": [
+        "Sand Spit"
+      ],
+      "descriptionEn": "Summons Sand for 5 turns when hit."
+    },
+    "248": {
+      "id": 248,
+      "nameEn": "Ice Scales",
+      "nameCn": "冰鳞粉",
+      "aliases": [
+        "Ice Scales"
+      ],
+      "descriptionEn": "Halves Special damage received."
+    },
+    "249": {
+      "id": 249,
+      "nameEn": "Ripen",
+      "nameCn": "熟成",
+      "aliases": [
+        "Ripen"
+      ],
+      "descriptionEn": "Doubles Berry effects."
+    },
+    "250": {
+      "id": 250,
+      "nameEn": "Ice Face",
+      "nameCn": "结冻头",
+      "aliases": [
+        "Ice Face"
+      ],
+      "descriptionEn": "Takes one free physical hit and changes form."
+    },
+    "251": {
+      "id": 251,
+      "nameEn": "Rocky Payload",
+      "nameCn": "搬岩",
+      "aliases": [
+        "Rocky Payload"
+      ],
+      "descriptionEn": "Boosts power of Rock moves by 50%."
+    },
+    "252": {
+      "id": 252,
+      "nameEn": "Blazing Soul",
+      "nameCn": "炽热之魂",
+      "aliases": [
+        "Blazing Soul"
+      ],
+      "descriptionEn": "Gives +1 priority to Fire moves at full HP."
+    },
+    "253": {
+      "id": 253,
+      "nameEn": "Screen Cleaner",
+      "nameCn": "除障",
+      "aliases": [
+        "Screen Cleaner"
+      ],
+      "descriptionEn": "Screens are removed on entry."
+    },
+    "254": {
+      "id": 254,
+      "nameEn": "Well-Baked Body",
+      "nameCn": "焦香之躯",
+      "aliases": [
+        "Well-Baked Body"
+      ],
+      "descriptionEn": "Immune to Fire moves and gets +2 Defense instead."
+    },
+    "255": {
+      "id": 255,
+      "nameEn": "Sage Power",
+      "nameCn": "圣贤之力",
+      "aliases": [
+        "Sage Power"
+      ],
+      "descriptionEn": "Ups SpAtk by 50% but only uses 1st picked move.'}},'items':{1:{'ID':1,'name':'Master Ball','description':'The best Ball with the ultimate performance. It will catch any wild Pokemon without fail."
+    }
+  },
+  "count": 255
+}

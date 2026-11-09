@@ -1,0 +1,424 @@
+{
+  "num": "0129",
+  "nameCn": "鲤鱼王",
+  "nameEn": "Magikarp",
+  "slug": "鲤鱼王",
+  "path": "/图鉴/鲤鱼王",
+  "formes": [
+    {
+      "key": "Magikarp",
+      "label": "鲤鱼王",
+      "kind": "base",
+      "num": "0129",
+      "sprite": "0129.png",
+      "nameCn": "鲤鱼王",
+      "nameEn": "Magikarp",
+      "types": [
+        "水"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "悠游自如",
+          "href": "https://wiki.52poke.com/wiki/%E6%82%A0%E6%B8%B8%E8%87%AA%E5%A6%82",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "H",
+          "nameCn": "胆怯",
+          "href": "https://wiki.52poke.com/wiki/%E8%83%86%E6%80%AF",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [
+          {
+            "text": "玉虹市·破旧吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "浅红市·破旧吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "红莲镇·破旧吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "20号道路·破旧吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "21a号道路·破旧吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "21b号道路·破旧吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "23号道路·破旧吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "23号道路·好吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "25号道路·破旧吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "华蓝洞窟 1f·破旧吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "双子岛 b2f·破旧吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "双子岛 b3f-b4f·破旧吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "中心区·破旧吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "东区·破旧吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "西区·破旧吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "北区·破旧吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "极西区·破旧吊杆",
+            "href": "/分布/地图捕捉"
+          }
+        ],
+        "static": [],
+        "npc": [
+          {
+            "text": "4号道路宝可梦中心·向屋内男子以 500$ 购买",
+            "href": "/分布/NPC获取"
+          }
+        ],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "鲤鱼王",
+          "alts": null,
+          "slug": "鲤鱼王"
+        },
+        {
+          "nameCn": "暴鲤龙",
+          "alts": null,
+          "slug": "暴鲤龙"
+        }
+      ],
+      "stats": {
+        "hp": 20,
+        "atk": 10,
+        "def": 55,
+        "spa": 15,
+        "spd": 20,
+        "spe": 80
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "跃起",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%B7%83%E8%B5%B7",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 40
+        },
+        {
+          "level": 15,
+          "nameCn": "撞击",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%92%9E%E5%87%BB",
+          "type": "一般",
+          "category": "物理",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35
+        },
+        {
+          "level": 30,
+          "nameCn": "抓狂",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%8A%93%E7%8B%82",
+          "type": "一般",
+          "category": "物理",
+          "power": null,
+          "accuracy": 100,
+          "pp": 15
+        }
+      ],
+      "tmMoves": [
+        {
+          "level": null,
+          "nameCn": "水炮",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E7%82%AE",
+          "tmNumber": "TM018",
+          "type": "水",
+          "category": "特殊",
+          "power": 110,
+          "accuracy": 80,
+          "pp": 5
+        }
+      ],
+      "eggMoves": [],
+      "tutorMoves": [
+        {
+          "level": null,
+          "nameCn": "庆祝",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%BA%86%E7%A5%9D",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 40
+        },
+        {
+          "level": null,
+          "nameCn": "弹跳",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%BC%B9%E8%B7%B3",
+          "type": "飞行",
+          "category": "物理",
+          "power": 85,
+          "accuracy": 85,
+          "pp": 5
+        }
+      ]
+    }
+  ],
+  "types": [
+    "水"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "悠游自如",
+      "href": "https://wiki.52poke.com/wiki/%E6%82%A0%E6%B8%B8%E8%87%AA%E5%A6%82",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "H",
+      "nameCn": "胆怯",
+      "href": "https://wiki.52poke.com/wiki/%E8%83%86%E6%80%AF",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [
+      {
+        "text": "玉虹市·破旧吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "浅红市·破旧吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "红莲镇·破旧吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "20号道路·破旧吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "21a号道路·破旧吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "21b号道路·破旧吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "23号道路·破旧吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "23号道路·好吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "25号道路·破旧吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "华蓝洞窟 1f·破旧吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "双子岛 b2f·破旧吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "双子岛 b3f-b4f·破旧吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "中心区·破旧吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "东区·破旧吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "西区·破旧吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "北区·破旧吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "极西区·破旧吊杆",
+        "href": "/分布/地图捕捉"
+      }
+    ],
+    "static": [],
+    "npc": [
+      {
+        "text": "4号道路宝可梦中心·向屋内男子以 500$ 购买",
+        "href": "/分布/NPC获取"
+      }
+    ],
+    "evolution": []
+  },
+  "evolution": [
+    {
+      "nameCn": "鲤鱼王",
+      "alts": null,
+      "slug": "鲤鱼王"
+    },
+    {
+      "nameCn": "暴鲤龙",
+      "alts": null,
+      "slug": "暴鲤龙"
+    }
+  ],
+  "stats": {
+    "hp": 20,
+    "atk": 10,
+    "def": 55,
+    "spa": 15,
+    "spd": 20,
+    "spe": 80
+  },
+  "levelMoves": [
+    {
+      "level": 1,
+      "nameCn": "跃起",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%B7%83%E8%B5%B7",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 40
+    },
+    {
+      "level": 15,
+      "nameCn": "撞击",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%92%9E%E5%87%BB",
+      "type": "一般",
+      "category": "物理",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35
+    },
+    {
+      "level": 30,
+      "nameCn": "抓狂",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%8A%93%E7%8B%82",
+      "type": "一般",
+      "category": "物理",
+      "power": null,
+      "accuracy": 100,
+      "pp": 15
+    }
+  ],
+  "tmMoves": [
+    {
+      "level": null,
+      "nameCn": "水炮",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E7%82%AE",
+      "tmNumber": "TM018",
+      "type": "水",
+      "category": "特殊",
+      "power": 110,
+      "accuracy": 80,
+      "pp": 5
+    }
+  ],
+  "eggMoves": [],
+  "tutorMoves": [
+    {
+      "level": null,
+      "nameCn": "庆祝",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%BA%86%E7%A5%9D",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 40
+    },
+    {
+      "level": null,
+      "nameCn": "弹跳",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%BC%B9%E8%B7%B3",
+      "type": "飞行",
+      "category": "物理",
+      "power": 85,
+      "accuracy": 85,
+      "pp": 5
+    }
+  ]
+}

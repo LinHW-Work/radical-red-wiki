@@ -1,0 +1,158 @@
+{
+  "num": "0132",
+  "nameCn": "百变怪",
+  "nameEn": "Ditto",
+  "slug": "百变怪",
+  "path": "/图鉴/百变怪",
+  "formes": [
+    {
+      "key": "Ditto",
+      "label": "百变怪",
+      "kind": "base",
+      "num": "0132",
+      "sprite": "0132.png",
+      "nameCn": "百变怪",
+      "nameEn": "Ditto",
+      "types": [
+        "一般"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "柔软",
+          "href": "https://wiki.52poke.com/wiki/%E6%9F%94%E8%BD%AF",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "H",
+          "nameCn": "变身者",
+          "href": "https://wiki.52poke.com/wiki/%E5%8F%98%E8%BA%AB%E8%80%85",
+          "original": false,
+          "restrictedNameCn": "柔软",
+          "restrictedHref": "https://wiki.52poke.com/wiki/%E6%9F%94%E8%BD%AF",
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [
+          {
+            "text": "15号道路·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "15号道路·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
+        "static": [],
+        "npc": [],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "百变怪",
+          "alts": null,
+          "slug": "百变怪"
+        }
+      ],
+      "stats": {
+        "hp": 48,
+        "atk": 48,
+        "def": 48,
+        "spa": 48,
+        "spd": 48,
+        "spe": 48
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "变身",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%8F%98%E8%BA%AB",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        }
+      ],
+      "tmMoves": [],
+      "eggMoves": [],
+      "tutorMoves": []
+    }
+  ],
+  "types": [
+    "一般"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "柔软",
+      "href": "https://wiki.52poke.com/wiki/%E6%9F%94%E8%BD%AF",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "H",
+      "nameCn": "变身者",
+      "href": "https://wiki.52poke.com/wiki/%E5%8F%98%E8%BA%AB%E8%80%85",
+      "original": false,
+      "restrictedNameCn": "柔软",
+      "restrictedHref": "https://wiki.52poke.com/wiki/%E6%9F%94%E8%BD%AF",
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [
+      {
+        "text": "15号道路·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "15号道路·晚上",
+        "href": "/分布/地图捕捉"
+      }
+    ],
+    "static": [],
+    "npc": [],
+    "evolution": []
+  },
+  "evolution": [
+    {
+      "nameCn": "百变怪",
+      "alts": null,
+      "slug": "百变怪"
+    }
+  ],
+  "stats": {
+    "hp": 48,
+    "atk": 48,
+    "def": 48,
+    "spa": 48,
+    "spd": 48,
+    "spe": 48
+  },
+  "levelMoves": [
+    {
+      "level": 1,
+      "nameCn": "变身",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%8F%98%E8%BA%AB",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    }
+  ],
+  "tmMoves": [],
+  "eggMoves": [],
+  "tutorMoves": []
+}

@@ -1,0 +1,210 @@
+{
+  "num": "0789",
+  "nameCn": "科斯莫古",
+  "nameEn": "Cosmog",
+  "slug": "科斯莫古",
+  "path": "/图鉴/科斯莫古",
+  "formes": [
+    {
+      "key": "Cosmog",
+      "label": "科斯莫古",
+      "kind": "base",
+      "num": "0789",
+      "sprite": "0789.png",
+      "nameCn": "科斯莫古",
+      "nameEn": "Cosmog",
+      "types": [
+        "超能力"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "纯朴",
+          "href": "https://wiki.52poke.com/wiki/%E7%BA%AF%E6%9C%B4",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [],
+        "static": [
+          {
+            "text": "第1岛宝可梦中心",
+            "href": "/分布/定点获取"
+          }
+        ],
+        "npc": [
+          {
+            "text": "金黄市·再战战胜 Dumbass Kid（需要Ｚ手环）",
+            "href": "/分布/NPC获取"
+          },
+          {
+            "text": "第1岛宝可梦中心·在对战模拟器以 50 BP 购买",
+            "href": "/分布/NPC获取"
+          }
+        ],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "科斯莫古",
+          "alts": null,
+          "slug": "科斯莫古"
+        },
+        {
+          "nameCn": "科斯莫姆",
+          "alts": null,
+          "slug": "科斯莫姆"
+        },
+        {
+          "nameCn": null,
+          "alts": [
+            {
+              "nameCn": "索尔迦雷欧",
+              "slug": "索尔迦雷欧"
+            },
+            {
+              "nameCn": "露奈雅拉",
+              "slug": "露奈雅拉"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "hp": 43,
+        "atk": 29,
+        "def": 31,
+        "spa": 29,
+        "spd": 31,
+        "spe": 37
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "跃起",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%B7%83%E8%B5%B7",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 40
+        },
+        {
+          "level": 23,
+          "nameCn": "瞬间移动",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%9E%AC%E9%97%B4%E7%A7%BB%E5%8A%A8",
+          "type": "超能力",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        }
+      ],
+      "tmMoves": [],
+      "eggMoves": [],
+      "tutorMoves": []
+    }
+  ],
+  "types": [
+    "超能力"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "纯朴",
+      "href": "https://wiki.52poke.com/wiki/%E7%BA%AF%E6%9C%B4",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [],
+    "static": [
+      {
+        "text": "第1岛宝可梦中心",
+        "href": "/分布/定点获取"
+      }
+    ],
+    "npc": [
+      {
+        "text": "金黄市·再战战胜 Dumbass Kid（需要Ｚ手环）",
+        "href": "/分布/NPC获取"
+      },
+      {
+        "text": "第1岛宝可梦中心·在对战模拟器以 50 BP 购买",
+        "href": "/分布/NPC获取"
+      }
+    ],
+    "evolution": []
+  },
+  "evolution": [
+    {
+      "nameCn": "科斯莫古",
+      "alts": null,
+      "slug": "科斯莫古"
+    },
+    {
+      "nameCn": "科斯莫姆",
+      "alts": null,
+      "slug": "科斯莫姆"
+    },
+    {
+      "nameCn": null,
+      "alts": [
+        {
+          "nameCn": "索尔迦雷欧",
+          "slug": "索尔迦雷欧"
+        },
+        {
+          "nameCn": "露奈雅拉",
+          "slug": "露奈雅拉"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "hp": 43,
+    "atk": 29,
+    "def": 31,
+    "spa": 29,
+    "spd": 31,
+    "spe": 37
+  },
+  "levelMoves": [
+    {
+      "level": 1,
+      "nameCn": "跃起",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%B7%83%E8%B5%B7",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 40
+    },
+    {
+      "level": 23,
+      "nameCn": "瞬间移动",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%9E%AC%E9%97%B4%E7%A7%BB%E5%8A%A8",
+      "type": "超能力",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    }
+  ],
+  "tmMoves": [],
+  "eggMoves": [],
+  "tutorMoves": []
+}

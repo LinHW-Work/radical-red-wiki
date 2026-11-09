@@ -1,0 +1,410 @@
+{
+  "num": "0415",
+  "nameCn": "三蜜蜂",
+  "nameEn": "Combee",
+  "slug": "三蜜蜂",
+  "path": "/图鉴/三蜜蜂",
+  "formes": [
+    {
+      "key": "Combee",
+      "label": "三蜜蜂",
+      "kind": "base",
+      "num": "0415",
+      "sprite": "0415.png",
+      "nameCn": "三蜜蜂",
+      "nameEn": "Combee",
+      "types": [
+        "虫",
+        "飞行"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "采蜜",
+          "href": "https://wiki.52poke.com/wiki/%E9%87%87%E8%9C%9C",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "H",
+          "nameCn": "活力",
+          "href": "https://wiki.52poke.com/wiki/%E6%B4%BB%E5%8A%9B",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [
+          {
+            "text": "森林扩展区·白天",
+            "href": "/分布/地图捕捉"
+          }
+        ],
+        "static": [],
+        "npc": [],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "三蜜蜂",
+          "alts": null,
+          "slug": "三蜜蜂"
+        },
+        {
+          "nameCn": "蜂女王",
+          "alts": null,
+          "slug": "蜂女王"
+        }
+      ],
+      "stats": {
+        "hp": 30,
+        "atk": 30,
+        "def": 42,
+        "spa": 30,
+        "spd": 42,
+        "spe": 70
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "甜甜香气",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%94%9C%E7%94%9C%E9%A6%99%E6%B0%94",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": 1,
+          "nameCn": "起风",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%B5%B7%E9%A3%8E",
+          "type": "飞行",
+          "category": "特殊",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35
+        },
+        {
+          "level": 13,
+          "nameCn": "虫咬",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+          "type": "虫",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": 29,
+          "nameCn": "虫鸣",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E9%B8%A3",
+          "type": "虫",
+          "category": "特殊",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10
+        }
+      ],
+      "tmMoves": [
+        {
+          "level": null,
+          "nameCn": "觉醒力量",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+          "tmNumber": "TM010",
+          "type": "一般",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "双翼",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%8F%8C%E7%BF%BC",
+          "tmNumber": "TM100",
+          "type": "飞行",
+          "category": "物理",
+          "power": 40,
+          "accuracy": 90,
+          "pp": 10
+        }
+      ],
+      "eggMoves": [],
+      "tutorMoves": [
+        {
+          "level": null,
+          "nameCn": "打鼾",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%89%93%E9%BC%BE",
+          "type": "一般",
+          "category": "特殊",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "虫咬",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+          "type": "虫",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "顺风",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%A1%BA%E9%A3%8E",
+          "type": "飞行",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "拼命",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "type": "一般",
+          "category": "物理",
+          "power": null,
+          "accuracy": 100,
+          "pp": 5
+        },
+        {
+          "level": null,
+          "nameCn": "虫鸣",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E9%B8%A3",
+          "type": "虫",
+          "category": "特殊",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10
+        }
+      ]
+    }
+  ],
+  "types": [
+    "虫",
+    "飞行"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "采蜜",
+      "href": "https://wiki.52poke.com/wiki/%E9%87%87%E8%9C%9C",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "H",
+      "nameCn": "活力",
+      "href": "https://wiki.52poke.com/wiki/%E6%B4%BB%E5%8A%9B",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [
+      {
+        "text": "森林扩展区·白天",
+        "href": "/分布/地图捕捉"
+      }
+    ],
+    "static": [],
+    "npc": [],
+    "evolution": []
+  },
+  "evolution": [
+    {
+      "nameCn": "三蜜蜂",
+      "alts": null,
+      "slug": "三蜜蜂"
+    },
+    {
+      "nameCn": "蜂女王",
+      "alts": null,
+      "slug": "蜂女王"
+    }
+  ],
+  "stats": {
+    "hp": 30,
+    "atk": 30,
+    "def": 42,
+    "spa": 30,
+    "spd": 42,
+    "spe": 70
+  },
+  "levelMoves": [
+    {
+      "level": 1,
+      "nameCn": "甜甜香气",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%94%9C%E7%94%9C%E9%A6%99%E6%B0%94",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": 1,
+      "nameCn": "起风",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%B5%B7%E9%A3%8E",
+      "type": "飞行",
+      "category": "特殊",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35
+    },
+    {
+      "level": 13,
+      "nameCn": "虫咬",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+      "type": "虫",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": 29,
+      "nameCn": "虫鸣",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E9%B8%A3",
+      "type": "虫",
+      "category": "特殊",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10
+    }
+  ],
+  "tmMoves": [
+    {
+      "level": null,
+      "nameCn": "觉醒力量",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+      "tmNumber": "TM010",
+      "type": "一般",
+      "category": "特殊",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "双翼",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%8F%8C%E7%BF%BC",
+      "tmNumber": "TM100",
+      "type": "飞行",
+      "category": "物理",
+      "power": 40,
+      "accuracy": 90,
+      "pp": 10
+    }
+  ],
+  "eggMoves": [],
+  "tutorMoves": [
+    {
+      "level": null,
+      "nameCn": "打鼾",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%89%93%E9%BC%BE",
+      "type": "一般",
+      "category": "特殊",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "虫咬",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+      "type": "虫",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "顺风",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%A1%BA%E9%A3%8E",
+      "type": "飞行",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "拼命",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "type": "一般",
+      "category": "物理",
+      "power": null,
+      "accuracy": 100,
+      "pp": 5
+    },
+    {
+      "level": null,
+      "nameCn": "虫鸣",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E9%B8%A3",
+      "type": "虫",
+      "category": "特殊",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10
+    }
+  ]
+}

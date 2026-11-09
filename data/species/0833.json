@@ -1,0 +1,936 @@
+{
+  "num": "0833",
+  "nameCn": "咬咬龟",
+  "nameEn": "Chewtle",
+  "slug": "咬咬龟",
+  "path": "/图鉴/咬咬龟",
+  "formes": [
+    {
+      "key": "Chewtle",
+      "label": "咬咬龟",
+      "kind": "base",
+      "num": "0833",
+      "sprite": "0833.png",
+      "nameCn": "咬咬龟",
+      "nameEn": "Chewtle",
+      "types": [
+        "水"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "强颚",
+          "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E9%A2%9A",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "1",
+          "nameCn": "硬壳盔甲",
+          "href": "https://wiki.52poke.com/wiki/%E7%A1%AC%E5%A3%B3%E7%9B%94%E7%94%B2",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "H",
+          "nameCn": "悠游自如",
+          "href": "https://wiki.52poke.com/wiki/%E6%82%A0%E6%B8%B8%E8%87%AA%E5%A6%82",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [
+          {
+            "text": "华蓝市·破旧吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "月见山 1f·白天",
+            "href": "/分布/地图捕捉"
+          }
+        ],
+        "static": [],
+        "npc": [],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "咬咬龟",
+          "alts": null,
+          "slug": "咬咬龟"
+        },
+        {
+          "nameCn": "暴噬龟",
+          "alts": null,
+          "slug": "暴噬龟"
+        }
+      ],
+      "stats": {
+        "hp": 50,
+        "atk": 64,
+        "def": 50,
+        "spa": 38,
+        "spd": 38,
+        "spe": 44
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "咬住",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%92%AC%E4%BD%8F",
+          "type": "恶",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 25
+        },
+        {
+          "level": 1,
+          "nameCn": "水流喷射",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E6%B5%81%E5%96%B7%E5%B0%84",
+          "type": "水",
+          "category": "物理",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": 7,
+          "nameCn": "落石",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%90%BD%E7%9F%B3",
+          "type": "岩石",
+          "category": "物理",
+          "power": 50,
+          "accuracy": 90,
+          "pp": 15
+        },
+        {
+          "level": 14,
+          "nameCn": "守住",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AE%88%E4%BD%8F",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": 21,
+          "nameCn": "头锤",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%A4%B4%E9%94%A4",
+          "type": "一般",
+          "category": "物理",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": 28,
+          "nameCn": "双倍奉还",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%8F%8C%E5%80%8D%E5%A5%89%E8%BF%98",
+          "type": "格斗",
+          "category": "物理",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": 35,
+          "nameCn": "紧咬不放",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%B4%A7%E5%92%AC%E4%B8%8D%E6%94%BE",
+          "type": "恶",
+          "category": "物理",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": 42,
+          "nameCn": "水流裂破",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E6%B5%81%E8%A3%82%E7%A0%B4",
+          "type": "水",
+          "category": "物理",
+          "power": 85,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": 49,
+          "nameCn": "泰山压顶",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%B3%B0%E5%B1%B1%E5%8E%8B%E9%A1%B6",
+          "type": "一般",
+          "category": "物理",
+          "power": 85,
+          "accuracy": 100,
+          "pp": 15
+        }
+      ],
+      "tmMoves": [
+        {
+          "level": null,
+          "nameCn": "快速折返",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%BF%AB%E9%80%9F%E6%8A%98%E8%BF%94",
+          "tmNumber": "TM003",
+          "type": "水",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "剧毒",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%89%A7%E6%AF%92",
+          "tmNumber": "TM006",
+          "type": "毒",
+          "category": "变化",
+          "power": null,
+          "accuracy": 90,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "觉醒力量",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+          "tmNumber": "TM010",
+          "type": "一般",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "守住",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AE%88%E4%BD%8F",
+          "tmNumber": "TM017",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "水炮",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E7%82%AE",
+          "tmNumber": "TM018",
+          "type": "水",
+          "category": "特殊",
+          "power": 110,
+          "accuracy": 80,
+          "pp": 5
+        },
+        {
+          "level": null,
+          "nameCn": "报恩",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%8A%A5%E6%81%A9",
+          "tmNumber": "TM027",
+          "type": "一般",
+          "category": "物理",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "水流裂破",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E6%B5%81%E8%A3%82%E7%A0%B4",
+          "tmNumber": "TM041",
+          "type": "水",
+          "category": "物理",
+          "power": 85,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "硬撑",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%A1%AC%E6%92%91",
+          "tmNumber": "TM042",
+          "type": "一般",
+          "category": "物理",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "睡觉",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%9D%A1%E8%A7%89",
+          "tmNumber": "TM044",
+          "type": "超能力",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        },
+        {
+          "level": null,
+          "nameCn": "梦话",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%A2%A6%E8%AF%9D",
+          "tmNumber": "TM082",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "鳞射",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%B3%9E%E5%B0%84",
+          "tmNumber": "TM094",
+          "type": "龙",
+          "category": "物理",
+          "power": 25,
+          "accuracy": 90,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "冲浪",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%B2%E6%B5%AA",
+          "tmNumber": "HM003",
+          "type": "水",
+          "category": "特殊",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 15
+        }
+      ],
+      "eggMoves": [
+        {
+          "level": null,
+          "nameCn": "龙尾",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E5%B0%BE",
+          "type": "龙",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 90,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "胃液",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%83%83%E6%B6%B2",
+          "type": "毒",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "火箭头锤",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%81%AB%E7%AE%AD%E5%A4%B4%E9%94%A4",
+          "type": "一般",
+          "category": "物理",
+          "power": 130,
+          "accuracy": 100,
+          "pp": 10
+        }
+      ],
+      "tutorMoves": [
+        {
+          "level": null,
+          "nameCn": "打鼾",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%89%93%E9%BC%BE",
+          "type": "一般",
+          "category": "特殊",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "胃液",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%83%83%E6%B6%B2",
+          "type": "毒",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "密语",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AF%86%E8%AF%AD",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "替身",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%9B%BF%E8%BA%AB",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "冰冻牙",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E5%86%BB%E7%89%99",
+          "type": "冰",
+          "category": "物理",
+          "power": 65,
+          "accuracy": 95,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "泰山压顶",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%B3%B0%E5%B1%B1%E5%8E%8B%E9%A1%B6",
+          "type": "一般",
+          "category": "物理",
+          "power": 85,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "求雨",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%B1%82%E9%9B%A8",
+          "type": "水",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        }
+      ]
+    }
+  ],
+  "types": [
+    "水"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "强颚",
+      "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E9%A2%9A",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "1",
+      "nameCn": "硬壳盔甲",
+      "href": "https://wiki.52poke.com/wiki/%E7%A1%AC%E5%A3%B3%E7%9B%94%E7%94%B2",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "H",
+      "nameCn": "悠游自如",
+      "href": "https://wiki.52poke.com/wiki/%E6%82%A0%E6%B8%B8%E8%87%AA%E5%A6%82",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [
+      {
+        "text": "华蓝市·破旧吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "月见山 1f·白天",
+        "href": "/分布/地图捕捉"
+      }
+    ],
+    "static": [],
+    "npc": [],
+    "evolution": []
+  },
+  "evolution": [
+    {
+      "nameCn": "咬咬龟",
+      "alts": null,
+      "slug": "咬咬龟"
+    },
+    {
+      "nameCn": "暴噬龟",
+      "alts": null,
+      "slug": "暴噬龟"
+    }
+  ],
+  "stats": {
+    "hp": 50,
+    "atk": 64,
+    "def": 50,
+    "spa": 38,
+    "spd": 38,
+    "spe": 44
+  },
+  "levelMoves": [
+    {
+      "level": 1,
+      "nameCn": "咬住",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%92%AC%E4%BD%8F",
+      "type": "恶",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 25
+    },
+    {
+      "level": 1,
+      "nameCn": "水流喷射",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E6%B5%81%E5%96%B7%E5%B0%84",
+      "type": "水",
+      "category": "物理",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": 7,
+      "nameCn": "落石",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%90%BD%E7%9F%B3",
+      "type": "岩石",
+      "category": "物理",
+      "power": 50,
+      "accuracy": 90,
+      "pp": 15
+    },
+    {
+      "level": 14,
+      "nameCn": "守住",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AE%88%E4%BD%8F",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": 21,
+      "nameCn": "头锤",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%A4%B4%E9%94%A4",
+      "type": "一般",
+      "category": "物理",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": 28,
+      "nameCn": "双倍奉还",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%8F%8C%E5%80%8D%E5%A5%89%E8%BF%98",
+      "type": "格斗",
+      "category": "物理",
+      "power": null,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": 35,
+      "nameCn": "紧咬不放",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%B4%A7%E5%92%AC%E4%B8%8D%E6%94%BE",
+      "type": "恶",
+      "category": "物理",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": 42,
+      "nameCn": "水流裂破",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E6%B5%81%E8%A3%82%E7%A0%B4",
+      "type": "水",
+      "category": "物理",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": 49,
+      "nameCn": "泰山压顶",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%B3%B0%E5%B1%B1%E5%8E%8B%E9%A1%B6",
+      "type": "一般",
+      "category": "物理",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 15
+    }
+  ],
+  "tmMoves": [
+    {
+      "level": null,
+      "nameCn": "快速折返",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%BF%AB%E9%80%9F%E6%8A%98%E8%BF%94",
+      "tmNumber": "TM003",
+      "type": "水",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "剧毒",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%89%A7%E6%AF%92",
+      "tmNumber": "TM006",
+      "type": "毒",
+      "category": "变化",
+      "power": null,
+      "accuracy": 90,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "觉醒力量",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+      "tmNumber": "TM010",
+      "type": "一般",
+      "category": "特殊",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "守住",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AE%88%E4%BD%8F",
+      "tmNumber": "TM017",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "水炮",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E7%82%AE",
+      "tmNumber": "TM018",
+      "type": "水",
+      "category": "特殊",
+      "power": 110,
+      "accuracy": 80,
+      "pp": 5
+    },
+    {
+      "level": null,
+      "nameCn": "报恩",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%8A%A5%E6%81%A9",
+      "tmNumber": "TM027",
+      "type": "一般",
+      "category": "物理",
+      "power": null,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "水流裂破",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E6%B5%81%E8%A3%82%E7%A0%B4",
+      "tmNumber": "TM041",
+      "type": "水",
+      "category": "物理",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "硬撑",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%A1%AC%E6%92%91",
+      "tmNumber": "TM042",
+      "type": "一般",
+      "category": "物理",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "睡觉",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%9D%A1%E8%A7%89",
+      "tmNumber": "TM044",
+      "type": "超能力",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 5
+    },
+    {
+      "level": null,
+      "nameCn": "梦话",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%A2%A6%E8%AF%9D",
+      "tmNumber": "TM082",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "鳞射",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%B3%9E%E5%B0%84",
+      "tmNumber": "TM094",
+      "type": "龙",
+      "category": "物理",
+      "power": 25,
+      "accuracy": 90,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "冲浪",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B2%E6%B5%AA",
+      "tmNumber": "HM003",
+      "type": "水",
+      "category": "特殊",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15
+    }
+  ],
+  "eggMoves": [
+    {
+      "level": null,
+      "nameCn": "龙尾",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E5%B0%BE",
+      "type": "龙",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 90,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "胃液",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%83%83%E6%B6%B2",
+      "type": "毒",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "火箭头锤",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%81%AB%E7%AE%AD%E5%A4%B4%E9%94%A4",
+      "type": "一般",
+      "category": "物理",
+      "power": 130,
+      "accuracy": 100,
+      "pp": 10
+    }
+  ],
+  "tutorMoves": [
+    {
+      "level": null,
+      "nameCn": "打鼾",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%89%93%E9%BC%BE",
+      "type": "一般",
+      "category": "特殊",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "胃液",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%83%83%E6%B6%B2",
+      "type": "毒",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "密语",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AF%86%E8%AF%AD",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "替身",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%9B%BF%E8%BA%AB",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "冰冻牙",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E5%86%BB%E7%89%99",
+      "type": "冰",
+      "category": "物理",
+      "power": 65,
+      "accuracy": 95,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "泰山压顶",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%B3%B0%E5%B1%B1%E5%8E%8B%E9%A1%B6",
+      "type": "一般",
+      "category": "物理",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "求雨",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%B1%82%E9%9B%A8",
+      "type": "水",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 5
+    }
+  ]
+}

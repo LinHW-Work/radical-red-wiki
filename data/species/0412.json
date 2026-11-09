@@ -1,0 +1,816 @@
+{
+  "num": "0412",
+  "nameCn": "结草儿",
+  "nameEn": "Burmy",
+  "slug": "结草儿",
+  "path": "/图鉴/结草儿",
+  "formes": [
+    {
+      "key": "Burmy",
+      "label": "草木蓑衣",
+      "kind": "base",
+      "num": "0412",
+      "sprite": "0412.png",
+      "nameCn": "结草儿",
+      "nameEn": "Burmy",
+      "types": [
+        "虫"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "蜕皮",
+          "href": "https://wiki.52poke.com/wiki/%E8%9C%95%E7%9A%AE",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "H",
+          "nameCn": "防尘",
+          "href": "https://wiki.52poke.com/wiki/%E9%98%B2%E5%B0%98",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [
+          {
+            "text": "森林扩展区·白天",
+            "href": "/分布/地图捕捉"
+          }
+        ],
+        "static": [],
+        "npc": [],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "结草儿",
+          "alts": null,
+          "slug": "结草儿",
+          "forme": "草木蓑衣"
+        },
+        {
+          "nameCn": null,
+          "alts": [
+            {
+              "nameCn": "结草贵妇",
+              "slug": "结草贵妇",
+              "forme": "草木蓑衣"
+            },
+            {
+              "nameCn": "绅士蛾",
+              "slug": "绅士蛾"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "hp": 40,
+        "atk": 29,
+        "def": 45,
+        "spa": 29,
+        "spd": 45,
+        "spe": 36
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "看穿",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%9C%8B%E7%A9%BF",
+          "type": "格斗",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        },
+        {
+          "level": 1,
+          "nameCn": "撞击",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%92%9E%E5%87%BB",
+          "type": "一般",
+          "category": "物理",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35
+        },
+        {
+          "level": 5,
+          "nameCn": "虫之抵抗",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E4%B9%8B%E6%8A%B5%E6%8A%97",
+          "type": "虫",
+          "category": "特殊",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": 15,
+          "nameCn": "虫咬",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+          "type": "虫",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": 20,
+          "nameCn": "觉醒力量",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+          "type": "一般",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 15
+        }
+      ],
+      "tmMoves": [
+        {
+          "level": null,
+          "nameCn": "觉醒力量",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+          "tmNumber": "TM010",
+          "type": "一般",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "电网",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%BD%91",
+          "tmNumber": "TM015",
+          "type": "电",
+          "category": "特殊",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "守住",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AE%88%E4%BD%8F",
+          "tmNumber": "TM017",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        }
+      ],
+      "eggMoves": [],
+      "tutorMoves": [
+        {
+          "level": null,
+          "nameCn": "电网",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%BD%91",
+          "type": "电",
+          "category": "特殊",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "虫咬",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+          "type": "虫",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        }
+      ]
+    },
+    {
+      "key": "Burmy-Sandy",
+      "label": "砂土蓑衣",
+      "kind": "cloak",
+      "num": "0412",
+      "sprite": "0412-sandy.png",
+      "nameCn": "结草儿-砂土蓑衣",
+      "nameEn": "Burmy-Sandy",
+      "types": [
+        "虫"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "蜕皮",
+          "href": "https://wiki.52poke.com/wiki/%E8%9C%95%E7%9A%AE",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "H",
+          "nameCn": "防尘",
+          "href": "https://wiki.52poke.com/wiki/%E9%98%B2%E5%B0%98",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [
+          {
+            "text": "常青森林·白天",
+            "href": "/分布/地图捕捉"
+          }
+        ],
+        "static": [],
+        "npc": [],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "结草儿-砂土蓑衣",
+          "alts": null,
+          "slug": "结草儿",
+          "forme": "砂土蓑衣"
+        },
+        {
+          "nameCn": null,
+          "alts": [
+            {
+              "nameCn": "结草贵妇-砂土蓑衣",
+              "slug": "结草贵妇",
+              "forme": "砂土蓑衣"
+            },
+            {
+              "nameCn": "绅士蛾",
+              "slug": "绅士蛾"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "hp": 40,
+        "atk": 29,
+        "def": 45,
+        "spa": 29,
+        "spd": 45,
+        "spe": 36
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "看穿",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%9C%8B%E7%A9%BF",
+          "type": "格斗",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        },
+        {
+          "level": 1,
+          "nameCn": "撞击",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%92%9E%E5%87%BB",
+          "type": "一般",
+          "category": "物理",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35
+        },
+        {
+          "level": 5,
+          "nameCn": "虫之抵抗",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E4%B9%8B%E6%8A%B5%E6%8A%97",
+          "type": "虫",
+          "category": "特殊",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": 15,
+          "nameCn": "虫咬",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+          "type": "虫",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": 20,
+          "nameCn": "觉醒力量",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+          "type": "一般",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 15
+        }
+      ],
+      "tmMoves": [
+        {
+          "level": null,
+          "nameCn": "觉醒力量",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+          "tmNumber": "TM010",
+          "type": "一般",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "电网",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%BD%91",
+          "tmNumber": "TM015",
+          "type": "电",
+          "category": "特殊",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "守住",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AE%88%E4%BD%8F",
+          "tmNumber": "TM017",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        }
+      ],
+      "eggMoves": [],
+      "tutorMoves": [
+        {
+          "level": null,
+          "nameCn": "电网",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%BD%91",
+          "type": "电",
+          "category": "特殊",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "虫咬",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+          "type": "虫",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        }
+      ]
+    },
+    {
+      "key": "Burmy-Trash",
+      "label": "垃圾蓑衣",
+      "kind": "cloak",
+      "num": "0412",
+      "sprite": "0412-trash.png",
+      "nameCn": "结草儿-垃圾蓑衣",
+      "nameEn": "Burmy-Trash",
+      "types": [
+        "虫"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "蜕皮",
+          "href": "https://wiki.52poke.com/wiki/%E8%9C%95%E7%9A%AE",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "H",
+          "nameCn": "防尘",
+          "href": "https://wiki.52poke.com/wiki/%E9%98%B2%E5%B0%98",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [
+          {
+            "text": "常青森林·晚上",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "森林扩展区·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
+        "static": [],
+        "npc": [],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "结草儿-垃圾蓑衣",
+          "alts": null,
+          "slug": "结草儿",
+          "forme": "垃圾蓑衣"
+        },
+        {
+          "nameCn": null,
+          "alts": [
+            {
+              "nameCn": "结草贵妇-垃圾蓑衣",
+              "slug": "结草贵妇",
+              "forme": "垃圾蓑衣"
+            },
+            {
+              "nameCn": "绅士蛾",
+              "slug": "绅士蛾"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "hp": 40,
+        "atk": 29,
+        "def": 45,
+        "spa": 29,
+        "spd": 45,
+        "spe": 36
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "看穿",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%9C%8B%E7%A9%BF",
+          "type": "格斗",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        },
+        {
+          "level": 1,
+          "nameCn": "撞击",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%92%9E%E5%87%BB",
+          "type": "一般",
+          "category": "物理",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35
+        },
+        {
+          "level": 5,
+          "nameCn": "虫之抵抗",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E4%B9%8B%E6%8A%B5%E6%8A%97",
+          "type": "虫",
+          "category": "特殊",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": 15,
+          "nameCn": "虫咬",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+          "type": "虫",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": 20,
+          "nameCn": "觉醒力量",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+          "type": "一般",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 15
+        }
+      ],
+      "tmMoves": [
+        {
+          "level": null,
+          "nameCn": "觉醒力量",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+          "tmNumber": "TM010",
+          "type": "一般",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "电网",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%BD%91",
+          "tmNumber": "TM015",
+          "type": "电",
+          "category": "特殊",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "守住",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AE%88%E4%BD%8F",
+          "tmNumber": "TM017",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        }
+      ],
+      "eggMoves": [],
+      "tutorMoves": [
+        {
+          "level": null,
+          "nameCn": "电网",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%BD%91",
+          "type": "电",
+          "category": "特殊",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "虫咬",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+          "type": "虫",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        }
+      ]
+    }
+  ],
+  "types": [
+    "虫"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "蜕皮",
+      "href": "https://wiki.52poke.com/wiki/%E8%9C%95%E7%9A%AE",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "H",
+      "nameCn": "防尘",
+      "href": "https://wiki.52poke.com/wiki/%E9%98%B2%E5%B0%98",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [
+      {
+        "text": "森林扩展区·白天",
+        "href": "/分布/地图捕捉"
+      }
+    ],
+    "static": [],
+    "npc": [],
+    "evolution": []
+  },
+  "evolution": [
+    {
+      "nameCn": "结草儿",
+      "alts": null,
+      "slug": "结草儿",
+      "forme": "草木蓑衣"
+    },
+    {
+      "nameCn": null,
+      "alts": [
+        {
+          "nameCn": "结草贵妇",
+          "slug": "结草贵妇",
+          "forme": "草木蓑衣"
+        },
+        {
+          "nameCn": "绅士蛾",
+          "slug": "绅士蛾"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "hp": 40,
+    "atk": 29,
+    "def": 45,
+    "spa": 29,
+    "spd": 45,
+    "spe": 36
+  },
+  "levelMoves": [
+    {
+      "level": 1,
+      "nameCn": "看穿",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%9C%8B%E7%A9%BF",
+      "type": "格斗",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 5
+    },
+    {
+      "level": 1,
+      "nameCn": "撞击",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%92%9E%E5%87%BB",
+      "type": "一般",
+      "category": "物理",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35
+    },
+    {
+      "level": 5,
+      "nameCn": "虫之抵抗",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E4%B9%8B%E6%8A%B5%E6%8A%97",
+      "type": "虫",
+      "category": "特殊",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": 15,
+      "nameCn": "虫咬",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+      "type": "虫",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": 20,
+      "nameCn": "觉醒力量",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+      "type": "一般",
+      "category": "特殊",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 15
+    }
+  ],
+  "tmMoves": [
+    {
+      "level": null,
+      "nameCn": "觉醒力量",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+      "tmNumber": "TM010",
+      "type": "一般",
+      "category": "特殊",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "电网",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%BD%91",
+      "tmNumber": "TM015",
+      "type": "电",
+      "category": "特殊",
+      "power": 55,
+      "accuracy": 95,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "守住",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AE%88%E4%BD%8F",
+      "tmNumber": "TM017",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    }
+  ],
+  "eggMoves": [],
+  "tutorMoves": [
+    {
+      "level": null,
+      "nameCn": "电网",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%BD%91",
+      "type": "电",
+      "category": "特殊",
+      "power": 55,
+      "accuracy": 95,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "虫咬",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+      "type": "虫",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20
+    }
+  ]
+}

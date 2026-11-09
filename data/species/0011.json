@@ -1,0 +1,304 @@
+{
+  "num": "0011",
+  "nameCn": "铁甲蛹",
+  "nameEn": "Metapod",
+  "slug": "铁甲蛹",
+  "path": "/图鉴/铁甲蛹",
+  "formes": [
+    {
+      "key": "Metapod",
+      "label": "铁甲蛹",
+      "kind": "base",
+      "num": "0011",
+      "sprite": "0011.png",
+      "nameCn": "铁甲蛹",
+      "nameEn": "Metapod",
+      "types": [
+        "虫"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "蜕皮",
+          "href": "https://wiki.52poke.com/wiki/%E8%9C%95%E7%9A%AE",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [],
+        "static": [],
+        "npc": [],
+        "evolution": [
+          {
+            "group": "evolution",
+            "text": "绿毛虫·Lv.7",
+            "href": null
+          }
+        ]
+      },
+      "evolution": [
+        {
+          "nameCn": "绿毛虫",
+          "alts": null,
+          "slug": "绿毛虫"
+        },
+        {
+          "nameCn": "铁甲蛹",
+          "alts": null,
+          "slug": "铁甲蛹"
+        },
+        {
+          "nameCn": "巴大蝶",
+          "alts": null,
+          "slug": "巴大蝶"
+        }
+      ],
+      "stats": {
+        "hp": 50,
+        "atk": 20,
+        "def": 55,
+        "spa": 25,
+        "spd": 25,
+        "spe": 30
+      },
+      "levelMoves": [
+        {
+          "level": 0,
+          "nameCn": "变硬",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%8F%98%E7%A1%AC",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 30
+        },
+        {
+          "level": 1,
+          "nameCn": "变硬",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%8F%98%E7%A1%AC",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 30
+        },
+        {
+          "level": 1,
+          "nameCn": "虫咬",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+          "type": "虫",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        }
+      ],
+      "tmMoves": [
+        {
+          "level": null,
+          "nameCn": "电网",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%BD%91",
+          "tmNumber": "TM015",
+          "type": "电",
+          "category": "特殊",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15
+        }
+      ],
+      "eggMoves": [],
+      "tutorMoves": [
+        {
+          "level": null,
+          "nameCn": "电网",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%BD%91",
+          "type": "电",
+          "category": "特殊",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "虫咬",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+          "type": "虫",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "铁壁",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%93%81%E5%A3%81",
+          "type": "钢",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 15
+        }
+      ]
+    }
+  ],
+  "types": [
+    "虫"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "蜕皮",
+      "href": "https://wiki.52poke.com/wiki/%E8%9C%95%E7%9A%AE",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [],
+    "static": [],
+    "npc": [],
+    "evolution": [
+      {
+        "group": "evolution",
+        "text": "绿毛虫·Lv.7",
+        "href": null
+      }
+    ]
+  },
+  "evolution": [
+    {
+      "nameCn": "绿毛虫",
+      "alts": null,
+      "slug": "绿毛虫"
+    },
+    {
+      "nameCn": "铁甲蛹",
+      "alts": null,
+      "slug": "铁甲蛹"
+    },
+    {
+      "nameCn": "巴大蝶",
+      "alts": null,
+      "slug": "巴大蝶"
+    }
+  ],
+  "stats": {
+    "hp": 50,
+    "atk": 20,
+    "def": 55,
+    "spa": 25,
+    "spd": 25,
+    "spe": 30
+  },
+  "levelMoves": [
+    {
+      "level": 0,
+      "nameCn": "变硬",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%8F%98%E7%A1%AC",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 30
+    },
+    {
+      "level": 1,
+      "nameCn": "变硬",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%8F%98%E7%A1%AC",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 30
+    },
+    {
+      "level": 1,
+      "nameCn": "虫咬",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+      "type": "虫",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20
+    }
+  ],
+  "tmMoves": [
+    {
+      "level": null,
+      "nameCn": "电网",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%BD%91",
+      "tmNumber": "TM015",
+      "type": "电",
+      "category": "特殊",
+      "power": 55,
+      "accuracy": 95,
+      "pp": 15
+    }
+  ],
+  "eggMoves": [],
+  "tutorMoves": [
+    {
+      "level": null,
+      "nameCn": "电网",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%BD%91",
+      "type": "电",
+      "category": "特殊",
+      "power": 55,
+      "accuracy": 95,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "虫咬",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+      "type": "虫",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "铁壁",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%93%81%E5%A3%81",
+      "type": "钢",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 15
+    }
+  ]
+}

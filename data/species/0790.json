@@ -1,0 +1,298 @@
+{
+  "num": "0790",
+  "nameCn": "科斯莫姆",
+  "nameEn": "Cosmoem",
+  "slug": "科斯莫姆",
+  "path": "/图鉴/科斯莫姆",
+  "formes": [
+    {
+      "key": "Cosmoem",
+      "label": "科斯莫姆",
+      "kind": "base",
+      "num": "0790",
+      "sprite": "0790.png",
+      "nameCn": "科斯莫姆",
+      "nameEn": "Cosmoem",
+      "types": [
+        "超能力"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "结实",
+          "href": "https://wiki.52poke.com/wiki/%E7%BB%93%E5%AE%9E",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [],
+        "static": [],
+        "npc": [],
+        "evolution": [
+          {
+            "group": "evolution",
+            "text": "科斯莫古·Lv.43",
+            "href": null
+          }
+        ]
+      },
+      "evolution": [
+        {
+          "nameCn": "科斯莫古",
+          "alts": null,
+          "slug": "科斯莫古"
+        },
+        {
+          "nameCn": "科斯莫姆",
+          "alts": null,
+          "slug": "科斯莫姆"
+        },
+        {
+          "nameCn": null,
+          "alts": [
+            {
+              "nameCn": "索尔迦雷欧",
+              "slug": "索尔迦雷欧"
+            },
+            {
+              "nameCn": "露奈雅拉",
+              "slug": "露奈雅拉"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "hp": 43,
+        "atk": 29,
+        "def": 131,
+        "spa": 29,
+        "spd": 131,
+        "spe": 37
+      },
+      "levelMoves": [
+        {
+          "level": 0,
+          "nameCn": "宇宙力量",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AE%87%E5%AE%99%E5%8A%9B%E9%87%8F",
+          "type": "超能力",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": 1,
+          "nameCn": "宇宙力量",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AE%87%E5%AE%99%E5%8A%9B%E9%87%8F",
+          "type": "超能力",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": 1,
+          "nameCn": "瞬间移动",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%9E%AC%E9%97%B4%E7%A7%BB%E5%8A%A8",
+          "type": "超能力",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        }
+      ],
+      "tmMoves": [
+        {
+          "level": null,
+          "nameCn": "瞬间移动",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%9E%AC%E9%97%B4%E7%A7%BB%E5%8A%A8",
+          "tmNumber": "TM034",
+          "type": "超能力",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "宇宙力量",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AE%87%E5%AE%99%E5%8A%9B%E9%87%8F",
+          "tmNumber": "TM095",
+          "type": "超能力",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        }
+      ],
+      "eggMoves": [],
+      "tutorMoves": [
+        {
+          "level": null,
+          "nameCn": "宇宙力量",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AE%87%E5%AE%99%E5%8A%9B%E9%87%8F",
+          "type": "超能力",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        }
+      ]
+    }
+  ],
+  "types": [
+    "超能力"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "结实",
+      "href": "https://wiki.52poke.com/wiki/%E7%BB%93%E5%AE%9E",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [],
+    "static": [],
+    "npc": [],
+    "evolution": [
+      {
+        "group": "evolution",
+        "text": "科斯莫古·Lv.43",
+        "href": null
+      }
+    ]
+  },
+  "evolution": [
+    {
+      "nameCn": "科斯莫古",
+      "alts": null,
+      "slug": "科斯莫古"
+    },
+    {
+      "nameCn": "科斯莫姆",
+      "alts": null,
+      "slug": "科斯莫姆"
+    },
+    {
+      "nameCn": null,
+      "alts": [
+        {
+          "nameCn": "索尔迦雷欧",
+          "slug": "索尔迦雷欧"
+        },
+        {
+          "nameCn": "露奈雅拉",
+          "slug": "露奈雅拉"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "hp": 43,
+    "atk": 29,
+    "def": 131,
+    "spa": 29,
+    "spd": 131,
+    "spe": 37
+  },
+  "levelMoves": [
+    {
+      "level": 0,
+      "nameCn": "宇宙力量",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AE%87%E5%AE%99%E5%8A%9B%E9%87%8F",
+      "type": "超能力",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": 1,
+      "nameCn": "宇宙力量",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AE%87%E5%AE%99%E5%8A%9B%E9%87%8F",
+      "type": "超能力",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": 1,
+      "nameCn": "瞬间移动",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%9E%AC%E9%97%B4%E7%A7%BB%E5%8A%A8",
+      "type": "超能力",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    }
+  ],
+  "tmMoves": [
+    {
+      "level": null,
+      "nameCn": "瞬间移动",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%9E%AC%E9%97%B4%E7%A7%BB%E5%8A%A8",
+      "tmNumber": "TM034",
+      "type": "超能力",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "宇宙力量",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AE%87%E5%AE%99%E5%8A%9B%E9%87%8F",
+      "tmNumber": "TM095",
+      "type": "超能力",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    }
+  ],
+  "eggMoves": [],
+  "tutorMoves": [
+    {
+      "level": null,
+      "nameCn": "宇宙力量",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AE%87%E5%AE%99%E5%8A%9B%E9%87%8F",
+      "type": "超能力",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    }
+  ]
+}

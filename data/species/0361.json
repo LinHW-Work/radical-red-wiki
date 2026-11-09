@@ -1,0 +1,1528 @@
+{
+  "num": "0361",
+  "nameCn": "雪童子",
+  "nameEn": "Snorunt",
+  "slug": "雪童子",
+  "path": "/图鉴/雪童子",
+  "formes": [
+    {
+      "key": "Snorunt",
+      "label": "雪童子",
+      "kind": "base",
+      "num": "0361",
+      "sprite": "0361.png",
+      "nameCn": "雪童子",
+      "nameEn": "Snorunt",
+      "types": [
+        "冰"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "精神力",
+          "href": "https://wiki.52poke.com/wiki/%E7%B2%BE%E7%A5%9E%E5%8A%9B",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "1",
+          "nameCn": "冰冻之躯",
+          "href": "/特性/修改#冰冻之躯",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "H",
+          "nameCn": "心情不定",
+          "href": "https://wiki.52poke.com/wiki/%E5%BF%83%E6%83%85%E4%B8%8D%E5%AE%9A",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [
+          {
+            "text": "岩山隧道 b1f·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "双子岛 1f·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "双子岛 1f·晚上",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "双子岛 b2f·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
+        "static": [],
+        "npc": [],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "雪童子",
+          "alts": null,
+          "slug": "雪童子"
+        },
+        {
+          "nameCn": null,
+          "alts": [
+            {
+              "nameCn": "冰鬼护",
+              "slug": "冰鬼护"
+            },
+            {
+              "nameCn": "雪妖女",
+              "slug": "雪妖女"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "hp": 50,
+        "atk": 50,
+        "def": 50,
+        "spa": 50,
+        "spd": 50,
+        "spe": 50
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "细雪",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%BB%86%E9%9B%AA",
+          "type": "冰",
+          "category": "特殊",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 25
+        },
+        {
+          "level": 1,
+          "nameCn": "瞪眼",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%9E%AA%E7%9C%BC",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 30
+        },
+        {
+          "level": 10,
+          "nameCn": "冰砾",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E7%A0%BE",
+          "type": "冰",
+          "category": "物理",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 30
+        },
+        {
+          "level": 14,
+          "nameCn": "冰冻之风",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E5%86%BB%E4%B9%8B%E9%A3%8E",
+          "type": "冰",
+          "category": "特殊",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15
+        },
+        {
+          "level": 19,
+          "nameCn": "咬住",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%92%AC%E4%BD%8F",
+          "type": "恶",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 25
+        },
+        {
+          "level": 23,
+          "nameCn": "冰冻牙",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E5%86%BB%E7%89%99",
+          "type": "冰",
+          "category": "物理",
+          "power": 65,
+          "accuracy": 95,
+          "pp": 15
+        },
+        {
+          "level": 28,
+          "nameCn": "头锤",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%A4%B4%E9%94%A4",
+          "type": "一般",
+          "category": "物理",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": 32,
+          "nameCn": "守住",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AE%88%E4%BD%8F",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": 37,
+          "nameCn": "冰息",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E6%81%AF",
+          "type": "冰",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 90,
+          "pp": 10
+        },
+        {
+          "level": 41,
+          "nameCn": "咬碎",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%92%AC%E7%A2%8E",
+          "type": "恶",
+          "category": "物理",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": 46,
+          "nameCn": "暴风雪",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%9A%B4%E9%A3%8E%E9%9B%AA",
+          "type": "冰",
+          "category": "特殊",
+          "power": 110,
+          "accuracy": 70,
+          "pp": 5
+        },
+        {
+          "level": 50,
+          "nameCn": "雪景",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%9B%AA%E6%99%AF",
+          "type": "冰",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        }
+      ],
+      "tmMoves": [
+        {
+          "level": null,
+          "nameCn": "剧毒",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%89%A7%E6%AF%92",
+          "tmNumber": "TM006",
+          "type": "毒",
+          "category": "变化",
+          "power": null,
+          "accuracy": 90,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "觉醒力量",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+          "tmNumber": "TM010",
+          "type": "一般",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "冰冻光束",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E5%86%BB%E5%85%89%E6%9D%9F",
+          "tmNumber": "TM013",
+          "type": "冰",
+          "category": "特殊",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "暴风雪",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%9A%B4%E9%A3%8E%E9%9B%AA",
+          "tmNumber": "TM014",
+          "type": "冰",
+          "category": "特殊",
+          "power": 110,
+          "accuracy": 70,
+          "pp": 5
+        },
+        {
+          "level": null,
+          "nameCn": "光墙",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%85%89%E5%A2%99",
+          "tmNumber": "TM016",
+          "type": "超能力",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 30
+        },
+        {
+          "level": null,
+          "nameCn": "守住",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AE%88%E4%BD%8F",
+          "tmNumber": "TM017",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "冰冻之风",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E5%86%BB%E4%B9%8B%E9%A3%8E",
+          "tmNumber": "TM021",
+          "type": "冰",
+          "category": "特殊",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "气象球",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%B0%94%E8%B1%A1%E7%90%83",
+          "tmNumber": "TM022",
+          "type": "一般",
+          "category": "特殊",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "报恩",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%8A%A5%E6%81%A9",
+          "tmNumber": "TM027",
+          "type": "一般",
+          "category": "物理",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "暗影球",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%9A%97%E5%BD%B1%E7%90%83",
+          "tmNumber": "TM030",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "硬撑",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%A1%AC%E6%92%91",
+          "tmNumber": "TM042",
+          "type": "一般",
+          "category": "物理",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "睡觉",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%9D%A1%E8%A7%89",
+          "tmNumber": "TM044",
+          "type": "超能力",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        },
+        {
+          "level": null,
+          "nameCn": "梦话",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%A2%A6%E8%AF%9D",
+          "tmNumber": "TM082",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "冰息",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E6%81%AF",
+          "tmNumber": "TM097",
+          "type": "冰",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 90,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "冰旋",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E6%97%8B",
+          "tmNumber": "TM120",
+          "type": "冰",
+          "category": "物理",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "闪光",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%97%AA%E5%85%89",
+          "tmNumber": "HM005",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20
+        }
+      ],
+      "eggMoves": [
+        {
+          "level": null,
+          "nameCn": "挡路",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%8C%A1%E8%B7%AF",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        },
+        {
+          "level": null,
+          "nameCn": "撒菱",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%92%92%E8%8F%B1",
+          "type": "地面",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "滚动",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%BB%9A%E5%8A%A8",
+          "type": "岩石",
+          "category": "物理",
+          "power": 30,
+          "accuracy": 90,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "定身法",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AE%9A%E8%BA%AB%E6%B3%95",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "忍耐",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%BF%8D%E8%80%90",
+          "type": "一般",
+          "category": "物理",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "气象球",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%B0%94%E8%B1%A1%E7%90%83",
+          "type": "一般",
+          "category": "特殊",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "雪崩",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%9B%AA%E5%B4%A9",
+          "type": "冰",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "祸不单行",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%A5%B8%E4%B8%8D%E5%8D%95%E8%A1%8C",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": 65,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "假哭",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%81%87%E5%93%AD",
+          "type": "恶",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "掉包",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%8E%89%E5%8C%85",
+          "type": "恶",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "冰柱坠击",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E6%9F%B1%E5%9D%A0%E5%87%BB",
+          "type": "冰",
+          "category": "物理",
+          "power": 85,
+          "accuracy": 90,
+          "pp": 10
+        }
+      ],
+      "tutorMoves": [
+        {
+          "level": null,
+          "nameCn": "打鼾",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%89%93%E9%BC%BE",
+          "type": "一般",
+          "category": "特殊",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "挡路",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%8C%A1%E8%B7%AF",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        },
+        {
+          "level": null,
+          "nameCn": "怨恨",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%80%A8%E6%81%A8",
+          "type": "幽灵",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "冰冻之风",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E5%86%BB%E4%B9%8B%E9%A3%8E",
+          "type": "冰",
+          "category": "特殊",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "雪景",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%9B%AA%E6%99%AF",
+          "type": "冰",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "密语",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AF%86%E8%AF%AD",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "假哭",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%81%87%E5%93%AD",
+          "type": "恶",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "撒菱",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%92%92%E8%8F%B1",
+          "type": "地面",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "替身",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%9B%BF%E8%BA%AB",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "冰冻牙",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E5%86%BB%E7%89%99",
+          "type": "冰",
+          "category": "物理",
+          "power": 65,
+          "accuracy": 95,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "泰山压顶",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%B3%B0%E5%B1%B1%E5%8E%8B%E9%A1%B6",
+          "type": "一般",
+          "category": "物理",
+          "power": 85,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "祸不单行",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%A5%B8%E4%B8%8D%E5%8D%95%E8%A1%8C",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": 65,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "咬碎",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%92%AC%E7%A2%8E",
+          "type": "恶",
+          "category": "物理",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "起草",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%B5%B7%E8%8D%89",
+          "type": "草",
+          "category": "物理",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "求雨",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%B1%82%E9%9B%A8",
+          "type": "水",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        }
+      ]
+    }
+  ],
+  "types": [
+    "冰"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "精神力",
+      "href": "https://wiki.52poke.com/wiki/%E7%B2%BE%E7%A5%9E%E5%8A%9B",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "1",
+      "nameCn": "冰冻之躯",
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E5%86%BB%E4%B9%8B%E8%BA%AF",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "H",
+      "nameCn": "心情不定",
+      "href": "https://wiki.52poke.com/wiki/%E5%BF%83%E6%83%85%E4%B8%8D%E5%AE%9A",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [
+      {
+        "text": "岩山隧道 b1f·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "双子岛 1f·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "双子岛 1f·晚上",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "双子岛 b2f·晚上",
+        "href": "/分布/地图捕捉"
+      }
+    ],
+    "static": [],
+    "npc": [],
+    "evolution": []
+  },
+  "evolution": [
+    {
+      "nameCn": "雪童子",
+      "alts": null,
+      "slug": "雪童子"
+    },
+    {
+      "nameCn": null,
+      "alts": [
+        {
+          "nameCn": "冰鬼护",
+          "slug": "冰鬼护"
+        },
+        {
+          "nameCn": "雪妖女",
+          "slug": "雪妖女"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "hp": 50,
+    "atk": 50,
+    "def": 50,
+    "spa": 50,
+    "spd": 50,
+    "spe": 50
+  },
+  "levelMoves": [
+    {
+      "level": 1,
+      "nameCn": "细雪",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%BB%86%E9%9B%AA",
+      "type": "冰",
+      "category": "特殊",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 25
+    },
+    {
+      "level": 1,
+      "nameCn": "瞪眼",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%9E%AA%E7%9C%BC",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 30
+    },
+    {
+      "level": 10,
+      "nameCn": "冰砾",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E7%A0%BE",
+      "type": "冰",
+      "category": "物理",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 30
+    },
+    {
+      "level": 14,
+      "nameCn": "冰冻之风",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E5%86%BB%E4%B9%8B%E9%A3%8E",
+      "type": "冰",
+      "category": "特殊",
+      "power": 55,
+      "accuracy": 95,
+      "pp": 15
+    },
+    {
+      "level": 19,
+      "nameCn": "咬住",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%92%AC%E4%BD%8F",
+      "type": "恶",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 25
+    },
+    {
+      "level": 23,
+      "nameCn": "冰冻牙",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E5%86%BB%E7%89%99",
+      "type": "冰",
+      "category": "物理",
+      "power": 65,
+      "accuracy": 95,
+      "pp": 15
+    },
+    {
+      "level": 28,
+      "nameCn": "头锤",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%A4%B4%E9%94%A4",
+      "type": "一般",
+      "category": "物理",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": 32,
+      "nameCn": "守住",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AE%88%E4%BD%8F",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": 37,
+      "nameCn": "冰息",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E6%81%AF",
+      "type": "冰",
+      "category": "特殊",
+      "power": 60,
+      "accuracy": 90,
+      "pp": 10
+    },
+    {
+      "level": 41,
+      "nameCn": "咬碎",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%92%AC%E7%A2%8E",
+      "type": "恶",
+      "category": "物理",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": 46,
+      "nameCn": "暴风雪",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%9A%B4%E9%A3%8E%E9%9B%AA",
+      "type": "冰",
+      "category": "特殊",
+      "power": 110,
+      "accuracy": 70,
+      "pp": 5
+    },
+    {
+      "level": 50,
+      "nameCn": "雪景",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%9B%AA%E6%99%AF",
+      "type": "冰",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    }
+  ],
+  "tmMoves": [
+    {
+      "level": null,
+      "nameCn": "剧毒",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%89%A7%E6%AF%92",
+      "tmNumber": "TM006",
+      "type": "毒",
+      "category": "变化",
+      "power": null,
+      "accuracy": 90,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "觉醒力量",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+      "tmNumber": "TM010",
+      "type": "一般",
+      "category": "特殊",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "冰冻光束",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E5%86%BB%E5%85%89%E6%9D%9F",
+      "tmNumber": "TM013",
+      "type": "冰",
+      "category": "特殊",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "暴风雪",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%9A%B4%E9%A3%8E%E9%9B%AA",
+      "tmNumber": "TM014",
+      "type": "冰",
+      "category": "特殊",
+      "power": 110,
+      "accuracy": 70,
+      "pp": 5
+    },
+    {
+      "level": null,
+      "nameCn": "光墙",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%85%89%E5%A2%99",
+      "tmNumber": "TM016",
+      "type": "超能力",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 30
+    },
+    {
+      "level": null,
+      "nameCn": "守住",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AE%88%E4%BD%8F",
+      "tmNumber": "TM017",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "冰冻之风",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E5%86%BB%E4%B9%8B%E9%A3%8E",
+      "tmNumber": "TM021",
+      "type": "冰",
+      "category": "特殊",
+      "power": 55,
+      "accuracy": 95,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "气象球",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%B0%94%E8%B1%A1%E7%90%83",
+      "tmNumber": "TM022",
+      "type": "一般",
+      "category": "特殊",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "报恩",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%8A%A5%E6%81%A9",
+      "tmNumber": "TM027",
+      "type": "一般",
+      "category": "物理",
+      "power": null,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "暗影球",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%9A%97%E5%BD%B1%E7%90%83",
+      "tmNumber": "TM030",
+      "type": "幽灵",
+      "category": "特殊",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "硬撑",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%A1%AC%E6%92%91",
+      "tmNumber": "TM042",
+      "type": "一般",
+      "category": "物理",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "睡觉",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%9D%A1%E8%A7%89",
+      "tmNumber": "TM044",
+      "type": "超能力",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 5
+    },
+    {
+      "level": null,
+      "nameCn": "梦话",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%A2%A6%E8%AF%9D",
+      "tmNumber": "TM082",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "冰息",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E6%81%AF",
+      "tmNumber": "TM097",
+      "type": "冰",
+      "category": "特殊",
+      "power": 60,
+      "accuracy": 90,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "冰旋",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E6%97%8B",
+      "tmNumber": "TM120",
+      "type": "冰",
+      "category": "物理",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "闪光",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%97%AA%E5%85%89",
+      "tmNumber": "HM005",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 20
+    }
+  ],
+  "eggMoves": [
+    {
+      "level": null,
+      "nameCn": "挡路",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%8C%A1%E8%B7%AF",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 5
+    },
+    {
+      "level": null,
+      "nameCn": "撒菱",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%92%92%E8%8F%B1",
+      "type": "地面",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "滚动",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%BB%9A%E5%8A%A8",
+      "type": "岩石",
+      "category": "物理",
+      "power": 30,
+      "accuracy": 90,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "定身法",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AE%9A%E8%BA%AB%E6%B3%95",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "忍耐",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%BF%8D%E8%80%90",
+      "type": "一般",
+      "category": "物理",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "气象球",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%B0%94%E8%B1%A1%E7%90%83",
+      "type": "一般",
+      "category": "特殊",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "雪崩",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%9B%AA%E5%B4%A9",
+      "type": "冰",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "祸不单行",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%A5%B8%E4%B8%8D%E5%8D%95%E8%A1%8C",
+      "type": "幽灵",
+      "category": "特殊",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "假哭",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%81%87%E5%93%AD",
+      "type": "恶",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "掉包",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%8E%89%E5%8C%85",
+      "type": "恶",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "冰柱坠击",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E6%9F%B1%E5%9D%A0%E5%87%BB",
+      "type": "冰",
+      "category": "物理",
+      "power": 85,
+      "accuracy": 90,
+      "pp": 10
+    }
+  ],
+  "tutorMoves": [
+    {
+      "level": null,
+      "nameCn": "打鼾",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%89%93%E9%BC%BE",
+      "type": "一般",
+      "category": "特殊",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "挡路",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%8C%A1%E8%B7%AF",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 5
+    },
+    {
+      "level": null,
+      "nameCn": "怨恨",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%80%A8%E6%81%A8",
+      "type": "幽灵",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "冰冻之风",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E5%86%BB%E4%B9%8B%E9%A3%8E",
+      "type": "冰",
+      "category": "特殊",
+      "power": 55,
+      "accuracy": 95,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "雪景",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%9B%AA%E6%99%AF",
+      "type": "冰",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "密语",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AF%86%E8%AF%AD",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "假哭",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%81%87%E5%93%AD",
+      "type": "恶",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "撒菱",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%92%92%E8%8F%B1",
+      "type": "地面",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "替身",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%9B%BF%E8%BA%AB",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "冰冻牙",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E5%86%BB%E7%89%99",
+      "type": "冰",
+      "category": "物理",
+      "power": 65,
+      "accuracy": 95,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "泰山压顶",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%B3%B0%E5%B1%B1%E5%8E%8B%E9%A1%B6",
+      "type": "一般",
+      "category": "物理",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "祸不单行",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%A5%B8%E4%B8%8D%E5%8D%95%E8%A1%8C",
+      "type": "幽灵",
+      "category": "特殊",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "咬碎",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%92%AC%E7%A2%8E",
+      "type": "恶",
+      "category": "物理",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "起草",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%B5%B7%E8%8D%89",
+      "type": "草",
+      "category": "物理",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "求雨",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%B1%82%E9%9B%A8",
+      "type": "水",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 5
+    }
+  ]
+}

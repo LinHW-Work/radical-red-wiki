@@ -1,0 +1,286 @@
+{
+  "num": "0664",
+  "nameCn": "粉蝶虫",
+  "nameEn": "Scatterbug",
+  "slug": "粉蝶虫",
+  "path": "/图鉴/粉蝶虫",
+  "formes": [
+    {
+      "key": "Scatterbug",
+      "label": "粉蝶虫",
+      "kind": "base",
+      "num": "0664",
+      "sprite": "0664.png",
+      "nameCn": "粉蝶虫",
+      "nameEn": "Scatterbug",
+      "types": [
+        "虫"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "鳞粉",
+          "href": "/特性/修改#鳞粉",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "1",
+          "nameCn": "复眼",
+          "href": "https://wiki.52poke.com/wiki/%E5%A4%8D%E7%9C%BC",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "H",
+          "nameCn": "友情防守",
+          "href": "https://wiki.52poke.com/wiki/%E5%8F%8B%E6%83%85%E9%98%B2%E5%AE%88",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [
+          {
+            "text": "常青森林·白天",
+            "href": "/分布/地图捕捉"
+          }
+        ],
+        "static": [],
+        "npc": [],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "粉蝶虫",
+          "alts": null,
+          "slug": "粉蝶虫"
+        },
+        {
+          "nameCn": "粉蝶蛹",
+          "alts": null,
+          "slug": "粉蝶蛹"
+        },
+        {
+          "nameCn": "彩粉蝶",
+          "alts": null,
+          "slug": "彩粉蝶"
+        }
+      ],
+      "stats": {
+        "hp": 38,
+        "atk": 35,
+        "def": 40,
+        "spa": 27,
+        "spd": 25,
+        "spe": 35
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "撞击",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%92%9E%E5%87%BB",
+          "type": "一般",
+          "category": "物理",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35
+        },
+        {
+          "level": 1,
+          "nameCn": "吐丝",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%90%90%E4%B8%9D",
+          "type": "虫",
+          "category": "变化",
+          "power": null,
+          "accuracy": 95,
+          "pp": 40
+        },
+        {
+          "level": 6,
+          "nameCn": "麻痹粉",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BA%BB%E7%97%B9%E7%B2%89",
+          "type": "草",
+          "category": "变化",
+          "power": null,
+          "accuracy": 75,
+          "pp": 30
+        },
+        {
+          "level": 15,
+          "nameCn": "虫咬",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+          "type": "虫",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        }
+      ],
+      "tmMoves": [],
+      "eggMoves": [],
+      "tutorMoves": [
+        {
+          "level": null,
+          "nameCn": "虫咬",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+          "type": "虫",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        }
+      ]
+    }
+  ],
+  "types": [
+    "虫"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "鳞粉",
+      "href": "https://wiki.52poke.com/wiki/%E9%B3%9E%E7%B2%89",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "1",
+      "nameCn": "复眼",
+      "href": "https://wiki.52poke.com/wiki/%E5%A4%8D%E7%9C%BC",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "H",
+      "nameCn": "友情防守",
+      "href": "https://wiki.52poke.com/wiki/%E5%8F%8B%E6%83%85%E9%98%B2%E5%AE%88",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [
+      {
+        "text": "常青森林·白天",
+        "href": "/分布/地图捕捉"
+      }
+    ],
+    "static": [],
+    "npc": [],
+    "evolution": []
+  },
+  "evolution": [
+    {
+      "nameCn": "粉蝶虫",
+      "alts": null,
+      "slug": "粉蝶虫"
+    },
+    {
+      "nameCn": "粉蝶蛹",
+      "alts": null,
+      "slug": "粉蝶蛹"
+    },
+    {
+      "nameCn": "彩粉蝶",
+      "alts": null,
+      "slug": "彩粉蝶"
+    }
+  ],
+  "stats": {
+    "hp": 38,
+    "atk": 35,
+    "def": 40,
+    "spa": 27,
+    "spd": 25,
+    "spe": 35
+  },
+  "levelMoves": [
+    {
+      "level": 1,
+      "nameCn": "撞击",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%92%9E%E5%87%BB",
+      "type": "一般",
+      "category": "物理",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35
+    },
+    {
+      "level": 1,
+      "nameCn": "吐丝",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%90%90%E4%B8%9D",
+      "type": "虫",
+      "category": "变化",
+      "power": null,
+      "accuracy": 95,
+      "pp": 40
+    },
+    {
+      "level": 6,
+      "nameCn": "麻痹粉",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BA%BB%E7%97%B9%E7%B2%89",
+      "type": "草",
+      "category": "变化",
+      "power": null,
+      "accuracy": 75,
+      "pp": 30
+    },
+    {
+      "level": 15,
+      "nameCn": "虫咬",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+      "type": "虫",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20
+    }
+  ],
+  "tmMoves": [],
+  "eggMoves": [],
+  "tutorMoves": [
+    {
+      "level": null,
+      "nameCn": "虫咬",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+      "type": "虫",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20
+    }
+  ]
+}

@@ -1,0 +1,880 @@
+{
+  "num": "0868",
+  "nameCn": "小仙奶",
+  "nameEn": "Milcery",
+  "slug": "小仙奶",
+  "path": "/图鉴/小仙奶",
+  "formes": [
+    {
+      "key": "Milcery",
+      "label": "小仙奶",
+      "kind": "base",
+      "num": "0868",
+      "sprite": "0868.png",
+      "nameCn": "小仙奶",
+      "nameEn": "Milcery",
+      "types": [
+        "妖精"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "甜幕",
+          "href": "https://wiki.52poke.com/wiki/%E7%94%9C%E5%B9%95",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "H",
+          "nameCn": "芳香幕",
+          "href": "https://wiki.52poke.com/wiki/%E8%8A%B3%E9%A6%99%E5%B9%95",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [],
+        "static": [
+          {
+            "text": "25号道路",
+            "href": "/分布/定点获取"
+          }
+        ],
+        "npc": [],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "小仙奶",
+          "alts": null,
+          "slug": "小仙奶"
+        },
+        {
+          "nameCn": "Alcremie",
+          "alts": null,
+          "slug": "Alcremie"
+        }
+      ],
+      "stats": {
+        "hp": 45,
+        "atk": 40,
+        "def": 40,
+        "spa": 50,
+        "spd": 61,
+        "spe": 34
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "芳香薄雾",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%8A%B3%E9%A6%99%E8%96%84%E9%9B%BE",
+          "type": "妖精",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": 1,
+          "nameCn": "渴望",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%B8%B4%E6%9C%9B",
+          "type": "一般",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 25
+        },
+        {
+          "level": 5,
+          "nameCn": "天使之吻",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%A4%A9%E4%BD%BF%E4%B9%8B%E5%90%BB",
+          "type": "妖精",
+          "category": "变化",
+          "power": null,
+          "accuracy": 75,
+          "pp": 10
+        },
+        {
+          "level": 10,
+          "nameCn": "甜甜香气",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%94%9C%E7%94%9C%E9%A6%99%E6%B0%94",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": 15,
+          "nameCn": "Drain Kiss",
+          "restricted": false,
+          "original": true,
+          "href": "/原创招式/Drain Kiss",
+          "type": null,
+          "category": null,
+          "power": null,
+          "accuracy": null,
+          "pp": null
+        },
+        {
+          "level": 20,
+          "nameCn": "芳香治疗",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%8A%B3%E9%A6%99%E6%B2%BB%E7%96%97",
+          "type": "草",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        },
+        {
+          "level": 25,
+          "nameCn": "迷人",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%BF%B7%E4%BA%BA",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": 30,
+          "nameCn": "溶化",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%BA%B6%E5%8C%96",
+          "type": "毒",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": 35,
+          "nameCn": "魔法闪耀",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%AD%94%E6%B3%95%E9%97%AA%E8%80%80",
+          "type": "妖精",
+          "category": "特殊",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": 40,
+          "nameCn": "自我再生",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E6%88%91%E5%86%8D%E7%94%9F",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        },
+        {
+          "level": 45,
+          "nameCn": "薄雾场地",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%96%84%E9%9B%BE%E5%9C%BA%E5%9C%B0",
+          "type": "妖精",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": 50,
+          "nameCn": "找伙伴",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%89%BE%E4%BC%99%E4%BC%B4",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 15
+        }
+      ],
+      "tmMoves": [
+        {
+          "level": null,
+          "nameCn": "剧毒",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%89%A7%E6%AF%92",
+          "tmNumber": "TM006",
+          "type": "毒",
+          "category": "变化",
+          "power": null,
+          "accuracy": 90,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "觉醒力量",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+          "tmNumber": "TM010",
+          "type": "一般",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "守住",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AE%88%E4%BD%8F",
+          "tmNumber": "TM017",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "报恩",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%8A%A5%E6%81%A9",
+          "tmNumber": "TM027",
+          "type": "一般",
+          "category": "物理",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "硬撑",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%A1%AC%E6%92%91",
+          "tmNumber": "TM042",
+          "type": "一般",
+          "category": "物理",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "睡觉",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%9D%A1%E8%A7%89",
+          "tmNumber": "TM044",
+          "type": "超能力",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        },
+        {
+          "level": null,
+          "nameCn": "吸取之吻",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
+          "tmNumber": "TM045",
+          "type": "妖精",
+          "category": "特殊",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "梦话",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%A2%A6%E8%AF%9D",
+          "tmNumber": "TM082",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "魔法闪耀",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%AD%94%E6%B3%95%E9%97%AA%E8%80%80",
+          "tmNumber": "TM102",
+          "type": "妖精",
+          "category": "特殊",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10
+        }
+      ],
+      "eggMoves": [
+        {
+          "level": null,
+          "nameCn": "圆瞳",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%9C%86%E7%9E%B3",
+          "type": "妖精",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 30
+        },
+        {
+          "level": null,
+          "nameCn": "珍藏",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%8F%8D%E8%97%8F",
+          "type": "一般",
+          "category": "物理",
+          "power": 140,
+          "accuracy": 100,
+          "pp": 5
+        }
+      ],
+      "tutorMoves": [
+        {
+          "level": null,
+          "nameCn": "打鼾",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%89%93%E9%BC%BE",
+          "type": "一般",
+          "category": "特殊",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "帮助",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%B8%AE%E5%8A%A9",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "珍藏",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%8F%8D%E8%97%8F",
+          "type": "一般",
+          "category": "物理",
+          "power": 140,
+          "accuracy": 100,
+          "pp": 5
+        },
+        {
+          "level": null,
+          "nameCn": "密语",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AF%86%E8%AF%AD",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "替身",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%9B%BF%E8%BA%AB",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "薄雾场地",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%96%84%E9%9B%BE%E5%9C%BA%E5%9C%B0",
+          "type": "妖精",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "力量储存",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+          "type": "超能力",
+          "category": "特殊",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 10
+        }
+      ]
+    }
+  ],
+  "types": [
+    "妖精"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "甜幕",
+      "href": "https://wiki.52poke.com/wiki/%E7%94%9C%E5%B9%95",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "H",
+      "nameCn": "芳香幕",
+      "href": "https://wiki.52poke.com/wiki/%E8%8A%B3%E9%A6%99%E5%B9%95",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [],
+    "static": [
+      {
+        "text": "25号道路",
+        "href": "/分布/定点获取"
+      }
+    ],
+    "npc": [],
+    "evolution": []
+  },
+  "evolution": [
+    {
+      "nameCn": "小仙奶",
+      "alts": null,
+      "slug": "小仙奶"
+    },
+    {
+      "nameCn": "Alcremie",
+      "alts": null,
+      "slug": "Alcremie"
+    }
+  ],
+  "stats": {
+    "hp": 45,
+    "atk": 40,
+    "def": 40,
+    "spa": 50,
+    "spd": 61,
+    "spe": 34
+  },
+  "levelMoves": [
+    {
+      "level": 1,
+      "nameCn": "芳香薄雾",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%8A%B3%E9%A6%99%E8%96%84%E9%9B%BE",
+      "type": "妖精",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": 1,
+      "nameCn": "渴望",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%B8%B4%E6%9C%9B",
+      "type": "一般",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 25
+    },
+    {
+      "level": 5,
+      "nameCn": "天使之吻",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%A4%A9%E4%BD%BF%E4%B9%8B%E5%90%BB",
+      "type": "妖精",
+      "category": "变化",
+      "power": null,
+      "accuracy": 75,
+      "pp": 10
+    },
+    {
+      "level": 10,
+      "nameCn": "甜甜香气",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%94%9C%E7%94%9C%E9%A6%99%E6%B0%94",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": 15,
+      "nameCn": "Drain Kiss",
+      "restricted": false,
+      "original": true,
+      "href": "/原创招式/Drain Kiss",
+      "type": null,
+      "category": null,
+      "power": null,
+      "accuracy": null,
+      "pp": null
+    },
+    {
+      "level": 20,
+      "nameCn": "芳香治疗",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%8A%B3%E9%A6%99%E6%B2%BB%E7%96%97",
+      "type": "草",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 5
+    },
+    {
+      "level": 25,
+      "nameCn": "迷人",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%BF%B7%E4%BA%BA",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": 30,
+      "nameCn": "溶化",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%BA%B6%E5%8C%96",
+      "type": "毒",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": 35,
+      "nameCn": "魔法闪耀",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%AD%94%E6%B3%95%E9%97%AA%E8%80%80",
+      "type": "妖精",
+      "category": "特殊",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": 40,
+      "nameCn": "自我再生",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E6%88%91%E5%86%8D%E7%94%9F",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 5
+    },
+    {
+      "level": 45,
+      "nameCn": "薄雾场地",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%96%84%E9%9B%BE%E5%9C%BA%E5%9C%B0",
+      "type": "妖精",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": 50,
+      "nameCn": "找伙伴",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%89%BE%E4%BC%99%E4%BC%B4",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 15
+    }
+  ],
+  "tmMoves": [
+    {
+      "level": null,
+      "nameCn": "剧毒",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%89%A7%E6%AF%92",
+      "tmNumber": "TM006",
+      "type": "毒",
+      "category": "变化",
+      "power": null,
+      "accuracy": 90,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "觉醒力量",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+      "tmNumber": "TM010",
+      "type": "一般",
+      "category": "特殊",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "守住",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AE%88%E4%BD%8F",
+      "tmNumber": "TM017",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "报恩",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%8A%A5%E6%81%A9",
+      "tmNumber": "TM027",
+      "type": "一般",
+      "category": "物理",
+      "power": null,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "硬撑",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%A1%AC%E6%92%91",
+      "tmNumber": "TM042",
+      "type": "一般",
+      "category": "物理",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "睡觉",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%9D%A1%E8%A7%89",
+      "tmNumber": "TM044",
+      "type": "超能力",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 5
+    },
+    {
+      "level": null,
+      "nameCn": "吸取之吻",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
+      "tmNumber": "TM045",
+      "type": "妖精",
+      "category": "特殊",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "梦话",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%A2%A6%E8%AF%9D",
+      "tmNumber": "TM082",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "魔法闪耀",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%AD%94%E6%B3%95%E9%97%AA%E8%80%80",
+      "tmNumber": "TM102",
+      "type": "妖精",
+      "category": "特殊",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10
+    }
+  ],
+  "eggMoves": [
+    {
+      "level": null,
+      "nameCn": "圆瞳",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%9C%86%E7%9E%B3",
+      "type": "妖精",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 30
+    },
+    {
+      "level": null,
+      "nameCn": "珍藏",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%8F%8D%E8%97%8F",
+      "type": "一般",
+      "category": "物理",
+      "power": 140,
+      "accuracy": 100,
+      "pp": 5
+    }
+  ],
+  "tutorMoves": [
+    {
+      "level": null,
+      "nameCn": "打鼾",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%89%93%E9%BC%BE",
+      "type": "一般",
+      "category": "特殊",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "帮助",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%B8%AE%E5%8A%A9",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "珍藏",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%8F%8D%E8%97%8F",
+      "type": "一般",
+      "category": "物理",
+      "power": 140,
+      "accuracy": 100,
+      "pp": 5
+    },
+    {
+      "level": null,
+      "nameCn": "密语",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AF%86%E8%AF%AD",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "替身",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%9B%BF%E8%BA%AB",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "薄雾场地",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%96%84%E9%9B%BE%E5%9C%BA%E5%9C%B0",
+      "type": "妖精",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "力量储存",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+      "type": "超能力",
+      "category": "特殊",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 10
+    }
+  ]
+}

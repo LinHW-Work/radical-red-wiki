@@ -1,0 +1,306 @@
+{
+  "num": "0013",
+  "nameCn": "独角虫",
+  "nameEn": "Weedle",
+  "slug": "独角虫",
+  "path": "/图鉴/独角虫",
+  "formes": [
+    {
+      "key": "Weedle",
+      "label": "独角虫",
+      "kind": "base",
+      "num": "0013",
+      "sprite": "0013.png",
+      "nameCn": "独角虫",
+      "nameEn": "Weedle",
+      "types": [
+        "虫",
+        "毒"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "鳞粉",
+          "href": "/特性/修改#鳞粉",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "H",
+          "nameCn": "逃跑",
+          "href": "https://wiki.52poke.com/wiki/%E9%80%83%E8%B7%91",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [
+          {
+            "text": "常青森林·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "森林扩展区·白天",
+            "href": "/分布/地图捕捉"
+          }
+        ],
+        "static": [],
+        "npc": [],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "独角虫",
+          "alts": null,
+          "slug": "独角虫"
+        },
+        {
+          "nameCn": "铁壳蛹",
+          "alts": null,
+          "slug": "铁壳蛹"
+        },
+        {
+          "nameCn": "大针蜂",
+          "alts": null,
+          "slug": "大针蜂"
+        }
+      ],
+      "stats": {
+        "hp": 40,
+        "atk": 35,
+        "def": 30,
+        "spa": 20,
+        "spd": 20,
+        "spe": 50
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "毒针",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%AF%92%E9%92%88",
+          "type": "毒",
+          "category": "物理",
+          "power": 15,
+          "accuracy": 100,
+          "pp": 35
+        },
+        {
+          "level": 1,
+          "nameCn": "吐丝",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%90%90%E4%B8%9D",
+          "type": "虫",
+          "category": "变化",
+          "power": null,
+          "accuracy": 95,
+          "pp": 40
+        },
+        {
+          "level": 7,
+          "nameCn": "虫咬",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+          "type": "虫",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        }
+      ],
+      "tmMoves": [
+        {
+          "level": null,
+          "nameCn": "电网",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%BD%91",
+          "tmNumber": "TM015",
+          "type": "电",
+          "category": "特殊",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15
+        }
+      ],
+      "eggMoves": [],
+      "tutorMoves": [
+        {
+          "level": null,
+          "nameCn": "电网",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%BD%91",
+          "type": "电",
+          "category": "特殊",
+          "power": 55,
+          "accuracy": 95,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "虫咬",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+          "type": "虫",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        }
+      ]
+    }
+  ],
+  "types": [
+    "虫",
+    "毒"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "鳞粉",
+      "href": "https://wiki.52poke.com/wiki/%E9%B3%9E%E7%B2%89",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "H",
+      "nameCn": "逃跑",
+      "href": "https://wiki.52poke.com/wiki/%E9%80%83%E8%B7%91",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [
+      {
+        "text": "常青森林·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "森林扩展区·白天",
+        "href": "/分布/地图捕捉"
+      }
+    ],
+    "static": [],
+    "npc": [],
+    "evolution": []
+  },
+  "evolution": [
+    {
+      "nameCn": "独角虫",
+      "alts": null,
+      "slug": "独角虫"
+    },
+    {
+      "nameCn": "铁壳蛹",
+      "alts": null,
+      "slug": "铁壳蛹"
+    },
+    {
+      "nameCn": "大针蜂",
+      "alts": null,
+      "slug": "大针蜂"
+    }
+  ],
+  "stats": {
+    "hp": 40,
+    "atk": 35,
+    "def": 30,
+    "spa": 20,
+    "spd": 20,
+    "spe": 50
+  },
+  "levelMoves": [
+    {
+      "level": 1,
+      "nameCn": "毒针",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%AF%92%E9%92%88",
+      "type": "毒",
+      "category": "物理",
+      "power": 15,
+      "accuracy": 100,
+      "pp": 35
+    },
+    {
+      "level": 1,
+      "nameCn": "吐丝",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%90%90%E4%B8%9D",
+      "type": "虫",
+      "category": "变化",
+      "power": null,
+      "accuracy": 95,
+      "pp": 40
+    },
+    {
+      "level": 7,
+      "nameCn": "虫咬",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+      "type": "虫",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20
+    }
+  ],
+  "tmMoves": [
+    {
+      "level": null,
+      "nameCn": "电网",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%BD%91",
+      "tmNumber": "TM015",
+      "type": "电",
+      "category": "特殊",
+      "power": 55,
+      "accuracy": 95,
+      "pp": 15
+    }
+  ],
+  "eggMoves": [],
+  "tutorMoves": [
+    {
+      "level": null,
+      "nameCn": "电网",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%BD%91",
+      "type": "电",
+      "category": "特殊",
+      "power": 55,
+      "accuracy": 95,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "虫咬",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+      "type": "虫",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20
+    }
+  ]
+}

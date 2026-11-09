@@ -1,0 +1,392 @@
+{
+  "num": "0235",
+  "nameCn": "图图犬",
+  "nameEn": "Smeargle",
+  "slug": "图图犬",
+  "path": "/图鉴/图图犬",
+  "formes": [
+    {
+      "key": "Smeargle",
+      "label": "图图犬",
+      "kind": "base",
+      "num": "0235",
+      "sprite": "0235.png",
+      "nameCn": "图图犬",
+      "nameEn": "Smeargle",
+      "types": [
+        "一般"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "我行我素",
+          "href": "https://wiki.52poke.com/wiki/%E6%88%91%E8%A1%8C%E6%88%91%E7%B4%A0",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "1",
+          "nameCn": "技术高手",
+          "href": "https://wiki.52poke.com/wiki/%E6%8A%80%E6%9C%AF%E9%AB%98%E6%89%8B",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "H",
+          "nameCn": "心情不定",
+          "href": "https://wiki.52poke.com/wiki/%E5%BF%83%E6%83%85%E4%B8%8D%E5%AE%9A",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [
+          {
+            "text": "西区·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "西区·夜晚",
+            "href": "/分布/地图捕捉"
+          }
+        ],
+        "static": [],
+        "npc": [],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "图图犬",
+          "alts": null,
+          "slug": "图图犬"
+        }
+      ],
+      "stats": {
+        "hp": 55,
+        "atk": 20,
+        "def": 35,
+        "spa": 20,
+        "spd": 45,
+        "spe": 75
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "写生",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%99%E7%94%9F",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 1
+        },
+        {
+          "level": 11,
+          "nameCn": "写生",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%99%E7%94%9F",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 1
+        },
+        {
+          "level": 21,
+          "nameCn": "写生",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%99%E7%94%9F",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 1
+        },
+        {
+          "level": 31,
+          "nameCn": "写生",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%99%E7%94%9F",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 1
+        },
+        {
+          "level": 41,
+          "nameCn": "写生",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%99%E7%94%9F",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 1
+        },
+        {
+          "level": 51,
+          "nameCn": "写生",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%99%E7%94%9F",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 1
+        },
+        {
+          "level": 61,
+          "nameCn": "写生",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%99%E7%94%9F",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 1
+        },
+        {
+          "level": 71,
+          "nameCn": "写生",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%99%E7%94%9F",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 1
+        },
+        {
+          "level": 81,
+          "nameCn": "写生",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%99%E7%94%9F",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 1
+        },
+        {
+          "level": 91,
+          "nameCn": "写生",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%99%E7%94%9F",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 1
+        }
+      ],
+      "tmMoves": [],
+      "eggMoves": [],
+      "tutorMoves": []
+    }
+  ],
+  "types": [
+    "一般"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "我行我素",
+      "href": "https://wiki.52poke.com/wiki/%E6%88%91%E8%A1%8C%E6%88%91%E7%B4%A0",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "1",
+      "nameCn": "技术高手",
+      "href": "https://wiki.52poke.com/wiki/%E6%8A%80%E6%9C%AF%E9%AB%98%E6%89%8B",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "H",
+      "nameCn": "心情不定",
+      "href": "https://wiki.52poke.com/wiki/%E5%BF%83%E6%83%85%E4%B8%8D%E5%AE%9A",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [
+      {
+        "text": "西区·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "西区·夜晚",
+        "href": "/分布/地图捕捉"
+      }
+    ],
+    "static": [],
+    "npc": [],
+    "evolution": []
+  },
+  "evolution": [
+    {
+      "nameCn": "图图犬",
+      "alts": null,
+      "slug": "图图犬"
+    }
+  ],
+  "stats": {
+    "hp": 55,
+    "atk": 20,
+    "def": 35,
+    "spa": 20,
+    "spd": 45,
+    "spe": 75
+  },
+  "levelMoves": [
+    {
+      "level": 1,
+      "nameCn": "写生",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%99%E7%94%9F",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 1
+    },
+    {
+      "level": 11,
+      "nameCn": "写生",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%99%E7%94%9F",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 1
+    },
+    {
+      "level": 21,
+      "nameCn": "写生",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%99%E7%94%9F",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 1
+    },
+    {
+      "level": 31,
+      "nameCn": "写生",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%99%E7%94%9F",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 1
+    },
+    {
+      "level": 41,
+      "nameCn": "写生",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%99%E7%94%9F",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 1
+    },
+    {
+      "level": 51,
+      "nameCn": "写生",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%99%E7%94%9F",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 1
+    },
+    {
+      "level": 61,
+      "nameCn": "写生",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%99%E7%94%9F",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 1
+    },
+    {
+      "level": 71,
+      "nameCn": "写生",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%99%E7%94%9F",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 1
+    },
+    {
+      "level": 81,
+      "nameCn": "写生",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%99%E7%94%9F",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 1
+    },
+    {
+      "level": 91,
+      "nameCn": "写生",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%99%E7%94%9F",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 1
+    }
+  ],
+  "tmMoves": [],
+  "eggMoves": [],
+  "tutorMoves": []
+}

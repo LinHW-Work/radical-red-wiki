@@ -1,0 +1,1028 @@
+{
+  "rows": [
+    {
+      "number": "TM001",
+      "nameCn": "近身战",
+      "nameEn": "Close Combat",
+      "href": "https://wiki.52poke.com/wiki/%E8%BF%91%E8%BA%AB%E6%88%98%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "华蓝洞窟2楼，该层东南部。",
+      "note": ""
+    },
+    {
+      "number": "TM002",
+      "nameCn": "龙爪",
+      "nameEn": "Dragon Claw",
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E7%88%AA%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "14号道路，飙车族上方的小片草丛中。",
+      "note": ""
+    },
+    {
+      "number": "TM003",
+      "nameCn": "快速折返",
+      "nameEn": "Flip Turn",
+      "href": "https://wiki.52poke.com/wiki/%E5%BF%AB%E9%80%9F%E6%8A%98%E8%BF%94%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "华蓝市道馆，战胜小霞后获得。",
+      "note": ""
+    },
+    {
+      "number": "TM004",
+      "nameCn": "种子炸弹",
+      "nameEn": "Seed Bomb",
+      "href": "https://wiki.52poke.com/wiki/%E7%A7%8D%E5%AD%90%E7%82%B8%E5%BC%B9%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "12号道路，垂钓者房屋下方的草丛区域。",
+      "note": ""
+    },
+    {
+      "number": "TM005",
+      "nameCn": "吼叫",
+      "nameEn": "Roar",
+      "href": "https://wiki.52poke.com/wiki/%E5%90%BC%E5%8F%AB%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "4号道路（月见山之后），两名空手道王右侧，多个悬崖之间。",
+      "note": ""
+    },
+    {
+      "number": "TM006",
+      "nameCn": "剧毒",
+      "nameEn": "Toxic",
+      "href": "https://wiki.52poke.com/wiki/%E5%89%A7%E6%AF%92%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，17500元。",
+      "note": ""
+    },
+    {
+      "number": "TM007",
+      "nameCn": "热风",
+      "nameEn": "Heat Wave",
+      "href": "https://wiki.52poke.com/wiki/%E7%83%AD%E9%A3%8E%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "红莲岛宝可梦屋3楼。",
+      "note": ""
+    },
+    {
+      "number": "TM008",
+      "nameCn": "意念头锤",
+      "nameEn": "Zen Headbutt",
+      "href": "https://wiki.52poke.com/wiki/%E6%84%8F%E5%BF%B5%E5%A4%B4%E9%94%A4%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "金黄市西尔佛公司7楼，中右侧房间。（需要钥匙卡）",
+      "note": ""
+    },
+    {
+      "number": "TM009",
+      "nameCn": "种子机关枪",
+      "nameEn": "Bullet Seed",
+      "href": "https://wiki.52poke.com/wiki/%E7%A7%8D%E5%AD%90%E6%9C%BA%E5%85%B3%E6%9E%AA%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "月见山1楼，入口西侧。",
+      "note": ""
+    },
+    {
+      "number": "TM010",
+      "nameCn": "觉醒力量",
+      "nameEn": "Hidden Power",
+      "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "金黄市西尔佛公司1楼，房间右上角植物后方。",
+      "note": ""
+    },
+    {
+      "number": "TM011",
+      "nameCn": "闪电强袭",
+      "nameEn": "Supercell Slam",
+      "href": "https://wiki.52poke.com/wiki/%E9%97%AA%E7%94%B5%E5%BC%BA%E8%A2%AD%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "石英高原，进入建筑前，战胜 作者后获得。",
+      "note": ""
+    },
+    {
+      "number": "TM012",
+      "nameCn": "挑衅",
+      "nameEn": "Taunt",
+      "href": "https://wiki.52poke.com/wiki/%E6%8C%91%E8%A1%85%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市火箭队基地地下2楼，传送迷宫内。",
+      "note": ""
+    },
+    {
+      "number": "TM013",
+      "nameCn": "冰冻光束",
+      "nameEn": "Ice Beam",
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E5%86%BB%E5%85%89%E6%9D%9F%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，30000元。",
+      "note": ""
+    },
+    {
+      "number": "TM014",
+      "nameCn": "暴风雪",
+      "nameEn": "Blizzard",
+      "href": "https://wiki.52poke.com/wiki/%E6%9A%B4%E9%A3%8E%E9%9B%AA%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "红莲岛宝可梦屋地下1楼。",
+      "note": ""
+    },
+    {
+      "number": "TM015",
+      "nameCn": "电网",
+      "nameEn": "Electroweb",
+      "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%BD%91%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "常青森林，沿可通行路线绕到森林尽头（无需碎岩）。",
+      "note": ""
+    },
+    {
+      "number": "TM016",
+      "nameCn": "光墙",
+      "nameEn": "Light Screen",
+      "href": "https://wiki.52poke.com/wiki/%E5%85%89%E5%A2%99%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，17500元。",
+      "note": ""
+    },
+    {
+      "number": "TM017",
+      "nameCn": "守住",
+      "nameEn": "Protect",
+      "href": "https://wiki.52poke.com/wiki/%E5%AE%88%E4%BD%8F%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，15000元。",
+      "note": "（限制模式）不可获得。"
+    },
+    {
+      "number": "TM018",
+      "nameCn": "水炮",
+      "nameEn": "Hydro Pump",
+      "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E7%82%AE%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "15号道路，团体战巢穴附近悬崖上方。",
+      "note": ""
+    },
+    {
+      "number": "TM019",
+      "nameCn": "终极吸取",
+      "nameEn": "Giga Drain",
+      "href": "https://wiki.52poke.com/wiki/%E7%BB%88%E6%9E%81%E5%90%B8%E5%8F%96%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市道馆，战胜莉佳后获得。",
+      "note": ""
+    },
+    {
+      "number": "TM020",
+      "nameCn": "巨声",
+      "nameEn": "Hyper Voice",
+      "href": "https://wiki.52poke.com/wiki/%E5%B7%A8%E5%A3%B0%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，15000元。",
+      "note": ""
+    },
+    {
+      "number": "TM021",
+      "nameCn": "冰冻之风",
+      "nameEn": "Icy Wind",
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E5%86%BB%E4%B9%8B%E9%A3%8E%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "华蓝市友好商店，5000元。",
+      "note": ""
+    },
+    {
+      "number": "TM022",
+      "nameCn": "气象球",
+      "nameEn": "Weather Ball",
+      "href": "https://wiki.52poke.com/wiki/%E6%B0%94%E8%B1%A1%E7%90%83%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "红莲岛宝可梦屋地下1楼。",
+      "note": ""
+    },
+    {
+      "number": "TM023",
+      "nameCn": "铁头",
+      "nameEn": "Iron Head",
+      "href": "https://wiki.52poke.com/wiki/%E9%93%81%E5%A4%B4%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "岩山隧道1楼，紫苑镇一侧。",
+      "note": ""
+    },
+    {
+      "number": "TM024",
+      "nameCn": "十万伏特",
+      "nameEn": "Thunderbolt",
+      "href": "https://wiki.52poke.com/wiki/%E5%8D%81%E4%B8%87%E4%BC%8F%E7%89%B9%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，30000元。",
+      "note": ""
+    },
+    {
+      "number": "TM025",
+      "nameCn": "打雷",
+      "nameEn": "Thunder",
+      "href": "https://wiki.52poke.com/wiki/%E6%89%93%E9%9B%B7%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "无人发电厂，东南角。",
+      "note": ""
+    },
+    {
+      "number": "TM026",
+      "nameCn": "地震",
+      "nameEn": "Earthquake",
+      "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E9%9C%87%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "金黄市，首次战胜 Dumbass Mudkip Kid（笨蛋水跃鱼小子）后获得。",
+      "note": ""
+    },
+    {
+      "number": "TM027",
+      "nameCn": "报恩",
+      "nameEn": "Return",
+      "href": "https://wiki.52poke.com/wiki/%E6%8A%A5%E6%81%A9%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "12号道路，北边检查站楼上的迷你裙处获得。",
+      "note": ""
+    },
+    {
+      "number": "TM028",
+      "nameCn": "挖洞",
+      "nameEn": "Dig",
+      "href": "https://wiki.52poke.com/wiki/%E6%8C%96%E6%B4%9E%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "华蓝市，从火箭队手下处获得。",
+      "note": ""
+    },
+    {
+      "number": "TM029",
+      "nameCn": "精神强念",
+      "nameEn": "Psychic",
+      "href": "https://wiki.52poke.com/wiki/%E7%B2%BE%E7%A5%9E%E5%BC%BA%E5%BF%B5%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "金黄市，东南角超能力者先生的家中。",
+      "note": ""
+    },
+    {
+      "number": "TM030",
+      "nameCn": "暗影球",
+      "nameEn": "Shadow Ball",
+      "href": "https://wiki.52poke.com/wiki/%E6%9A%97%E5%BD%B1%E7%90%83%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "紫苑镇，在富士老人家里战胜松叶后获得。",
+      "note": ""
+    },
+    {
+      "number": "TM031",
+      "nameCn": "劈瓦",
+      "nameEn": "Brick Break",
+      "href": "https://wiki.52poke.com/wiki/%E5%8A%88%E7%93%A6%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "圣特安努号1楼，从左数第二间房。",
+      "note": ""
+    },
+    {
+      "number": "TM032",
+      "nameCn": "波导弹",
+      "nameEn": "Aura Sphere",
+      "href": "https://wiki.52poke.com/wiki/%E6%B3%A2%E5%AF%BC%E5%BC%B9%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "狩猎地带·西区。",
+      "note": ""
+    },
+    {
+      "number": "TM033",
+      "nameCn": "反射壁",
+      "nameEn": "Reflect",
+      "href": "https://wiki.52poke.com/wiki/%E5%8F%8D%E5%B0%84%E5%A3%81%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，15000元。",
+      "note": ""
+    },
+    {
+      "number": "TM034",
+      "nameCn": "瞬间移动",
+      "nameEn": "Teleport",
+      "href": "https://wiki.52poke.com/wiki/%E7%9E%AC%E9%97%B4%E7%A7%BB%E5%8A%A8%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "3号道路，有迷你裙出没的大片草丛中。",
+      "note": ""
+    },
+    {
+      "number": "TM035",
+      "nameCn": "喷射火焰",
+      "nameEn": "Flamethrower",
+      "href": "https://wiki.52poke.com/wiki/%E5%96%B7%E5%B0%84%E7%81%AB%E7%84%B0%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，30000元。",
+      "note": ""
+    },
+    {
+      "number": "TM036",
+      "nameCn": "污泥炸弹",
+      "nameEn": "Sludge Bomb",
+      "href": "https://wiki.52poke.com/wiki/%E6%B1%A1%E6%B3%A5%E7%82%B8%E5%BC%B9%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "浅红市道馆，战胜阿桔后获得。",
+      "note": ""
+    },
+    {
+      "number": "TM037",
+      "nameCn": "十万马力",
+      "nameEn": "High Horsepower",
+      "href": "https://wiki.52poke.com/wiki/%E5%8D%81%E4%B8%87%E9%A9%AC%E5%8A%9B%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "冠军之路2楼，该层中南部、高台下方。",
+      "note": ""
+    },
+    {
+      "number": "TM038",
+      "nameCn": "大字爆炎",
+      "nameEn": "Fire Blast",
+      "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E5%AD%97%E7%88%86%E7%82%8E%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "红莲岛道馆，战胜夏伯后获得。",
+      "note": ""
+    },
+    {
+      "number": "TM039",
+      "nameCn": "岩石封锁",
+      "nameEn": "Rock Tomb",
+      "href": "https://wiki.52poke.com/wiki/%E5%B2%A9%E7%9F%B3%E5%B0%81%E9%94%81%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "深灰市道馆，战胜小刚后获得。",
+      "note": ""
+    },
+    {
+      "number": "TM040",
+      "nameCn": "踢倒",
+      "nameEn": "Low Kick",
+      "href": "https://wiki.52poke.com/wiki/%E8%B8%A2%E5%80%92%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "4号道路东侧，从左侧空手道王处获得。",
+      "note": ""
+    },
+    {
+      "number": "TM041",
+      "nameCn": "水流裂破",
+      "nameEn": "Liquidation",
+      "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E6%B5%81%E8%A3%82%E7%A0%B4%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "金黄市西尔佛公司4楼，桌子上。",
+      "note": ""
+    },
+    {
+      "number": "TM042",
+      "nameCn": "硬撑",
+      "nameEn": "Facade",
+      "href": "https://wiki.52poke.com/wiki/%E7%A1%AC%E6%92%91%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "10号道路，靠近紫苑镇出口的东侧。",
+      "note": ""
+    },
+    {
+      "number": "TM043",
+      "nameCn": "清除浓雾",
+      "nameEn": "Defog",
+      "href": "https://wiki.52poke.com/wiki/%E6%B8%85%E9%99%A4%E6%B5%93%E9%9B%BE%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "25号道路，草丛迷宫中。",
+      "note": ""
+    },
+    {
+      "number": "TM044",
+      "nameCn": "睡觉",
+      "nameEn": "Rest",
+      "href": "https://wiki.52poke.com/wiki/%E7%9D%A1%E8%A7%89%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "地鼠洞穴（11号道路入口）。",
+      "note": ""
+    },
+    {
+      "number": "TM045",
+      "nameCn": "吸取之吻",
+      "nameEn": "Draining Kiss",
+      "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "24号道路，高台上。",
+      "note": ""
+    },
+    {
+      "number": "TM046",
+      "nameCn": "小偷",
+      "nameEn": "Thief",
+      "href": "https://wiki.52poke.com/wiki/%E5%B0%8F%E5%81%B7%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "地鼠洞穴（深灰市下方入口）。",
+      "note": ""
+    },
+    {
+      "number": "TM047",
+      "nameCn": "钢翼",
+      "nameEn": "Steel Wing",
+      "href": "https://wiki.52poke.com/wiki/%E9%92%A2%E7%BF%BC%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "华蓝市友好商店，10000元。",
+      "note": ""
+    },
+    {
+      "number": "TM048",
+      "nameCn": "暴风",
+      "nameEn": "Hurricane",
+      "href": "https://wiki.52poke.com/wiki/%E6%9A%B4%E9%A3%8E%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "12号道路，检查站正下方小岛上。（需要秘传学习器冲浪）",
+      "note": ""
+    },
+    {
+      "number": "TM049",
+      "nameCn": "吸血",
+      "nameEn": "Leech Life",
+      "href": "https://wiki.52poke.com/wiki/%E6%B1%B2%E5%8F%96%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市火箭队基地地下4楼。",
+      "note": ""
+    },
+    {
+      "number": "TM050",
+      "nameCn": "过热",
+      "nameEn": "Overheat",
+      "href": "https://wiki.52poke.com/wiki/%E8%BF%87%E7%83%AD%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "冠军之路3楼西北，高台西侧狭窄小路旁的岩石附近。",
+      "note": ""
+    },
+    {
+      "number": "TM051",
+      "nameCn": "羽栖",
+      "nameEn": "Roost",
+      "href": "https://wiki.52poke.com/wiki/%E7%BE%BD%E6%A0%96%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "深灰市博物馆，战胜阿速后获得。",
+      "note": ""
+    },
+    {
+      "number": "TM052",
+      "nameCn": "真气弹",
+      "nameEn": "Focus Blast",
+      "href": "https://wiki.52poke.com/wiki/%E7%9C%9F%E6%B0%94%E5%BC%B9%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "20号道路，道路中央的小岛上。",
+      "note": ""
+    },
+    {
+      "number": "TM053",
+      "nameCn": "能量球",
+      "nameEn": "Energy Ball",
+      "href": "https://wiki.52poke.com/wiki/%E8%83%BD%E9%87%8F%E7%90%83%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，25000元。",
+      "note": ""
+    },
+    {
+      "number": "TM054",
+      "nameCn": "青草滑梯",
+      "nameEn": "Grassy Glide",
+      "href": "https://wiki.52poke.com/wiki/%E9%9D%92%E8%8D%89%E6%BB%91%E6%A2%AF%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "狩猎地带·中央区，入口北侧小岛上。",
+      "note": ""
+    },
+    {
+      "number": "TM055",
+      "nameCn": "广域战力",
+      "nameEn": "Expanding Force",
+      "href": "https://wiki.52poke.com/wiki/%E5%B9%BF%E5%9F%9F%E6%88%98%E5%8A%9B%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "狩猎地带·西区，南侧高台上。",
+      "note": ""
+    },
+    {
+      "number": "TM056",
+      "nameCn": "空气斩",
+      "nameEn": "Air Slash",
+      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，17500元。",
+      "note": ""
+    },
+    {
+      "number": "TM057",
+      "nameCn": "豁出去",
+      "nameEn": "Temper Flare",
+      "href": "https://wiki.52poke.com/wiki/%E8%B1%81%E5%87%BA%E5%8E%BB%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "2号道路东侧。（需要秘传学习器居合斩）",
+      "note": ""
+    },
+    {
+      "number": "TM058",
+      "nameCn": "电力上升",
+      "nameEn": "Rising Voltage",
+      "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E5%8A%9B%E4%B8%8A%E5%8D%87%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "狩猎地带·东区。",
+      "note": ""
+    },
+    {
+      "number": "TM059",
+      "nameCn": "龙之波动",
+      "nameEn": "Dragon Pulse",
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E6%B3%A2%E5%8A%A8%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "狩猎地带·北区。",
+      "note": ""
+    },
+    {
+      "number": "TM060",
+      "nameCn": "吸取拳",
+      "nameEn": "Drain Punch",
+      "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E6%8B%B3%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "金黄市打斗道场，战胜阿树后获得。",
+      "note": ""
+    },
+    {
+      "number": "TM061",
+      "nameCn": "鬼火",
+      "nameEn": "Will-O-Wisp",
+      "href": "https://wiki.52poke.com/wiki/%E7%A3%B7%E7%81%AB%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "紫苑镇宝可梦塔6楼。",
+      "note": ""
+    },
+    {
+      "number": "TM062",
+      "nameCn": "铁尾",
+      "nameEn": "Iron Tail",
+      "href": "https://wiki.52poke.com/wiki/%E9%93%81%E5%B0%BE%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "7号道路的草丛中。",
+      "note": ""
+    },
+    {
+      "number": "TM063",
+      "nameCn": "毒液冲击",
+      "nameEn": "Venoshock",
+      "href": "https://wiki.52poke.com/wiki/%E6%AF%92%E6%B6%B2%E5%86%B2%E5%87%BB%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "6号道路，西北角。",
+      "note": ""
+    },
+    {
+      "number": "TM064",
+      "nameCn": "大爆炸",
+      "nameEn": "Explosion",
+      "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E7%88%86%E7%82%B8%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，15000元。",
+      "note": ""
+    },
+    {
+      "number": "TM065",
+      "nameCn": "暗影爪",
+      "nameEn": "Shadow Claw",
+      "href": "https://wiki.52poke.com/wiki/%E6%9A%97%E5%BD%B1%E7%88%AA%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，25000元。",
+      "note": ""
+    },
+    {
+      "number": "TM066",
+      "nameCn": "铁蹄光线",
+      "nameEn": "Steel Beam",
+      "href": "https://wiki.52poke.com/wiki/%E9%93%81%E8%B9%84%E5%85%89%E7%BA%BF%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "（后日谈）2号岛，游戏城附近。",
+      "note": ""
+    },
+    {
+      "number": "TM067",
+      "nameCn": "灵骚",
+      "nameEn": "Poltergeist",
+      "href": "https://wiki.52poke.com/wiki/%E7%81%B5%E9%AA%9A%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "冠军之路1楼西北，推石谜题靠北的道具。",
+      "note": ""
+    },
+    {
+      "number": "TM068",
+      "nameCn": "二连劈",
+      "nameEn": "Dual Chop",
+      "href": "https://wiki.52poke.com/wiki/%E4%BA%8C%E8%BF%9E%E5%8A%88%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "西尔佛公司11楼，战胜火箭队干部后从小悠处获得。",
+      "note": ""
+    },
+    {
+      "number": "TM069",
+      "nameCn": "跺脚",
+      "nameEn": "Stomping Tantrum",
+      "href": "https://wiki.52poke.com/wiki/%E8%B7%BA%E8%84%9A%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "圣特安努号2楼，从右数第三间房。",
+      "note": ""
+    },
+    {
+      "number": "TM070",
+      "nameCn": "三旋击",
+      "nameEn": "Triple Axel",
+      "href": "https://wiki.52poke.com/wiki/%E4%B8%89%E6%97%8B%E5%87%BB%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "双子岛地下1楼，该层中央高台上。",
+      "note": ""
+    },
+    {
+      "number": "TM071",
+      "nameCn": "尖石攻击",
+      "nameEn": "Stone Edge",
+      "href": "https://wiki.52poke.com/wiki/%E5%B0%96%E7%9F%B3%E6%94%BB%E5%87%BB%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "深灰市道馆，再战战胜小刚后获得。",
+      "note": ""
+    },
+    {
+      "number": "TM072",
+      "nameCn": "龙之弹幕炮",
+      "nameEn": "Draco Barrage",
+      "href": "/原创招式/龙之弹幕炮",
+      "obtain": "（后日谈）常青市，再战战胜小椿后获得。",
+      "note": "改版招式，无官方译名"
+    },
+    {
+      "number": "TM073",
+      "nameCn": "电磁波",
+      "nameEn": "Thunder Wave",
+      "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%A3%81%E6%B3%A2%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "金黄市西尔佛公司2楼，纸箱附近的女士处获得。",
+      "note": ""
+    },
+    {
+      "number": "TM074",
+      "nameCn": "陀螺球",
+      "nameEn": "Gyro Ball",
+      "href": "https://wiki.52poke.com/wiki/%E9%99%80%E8%9E%BA%E7%90%83%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，20000元。",
+      "note": ""
+    },
+    {
+      "number": "TM075",
+      "nameCn": "拍落",
+      "nameEn": "Knock Off",
+      "href": "https://wiki.52poke.com/wiki/%E6%8B%8D%E8%90%BD%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，20000元。",
+      "note": ""
+    },
+    {
+      "number": "TM076",
+      "nameCn": "大地之力",
+      "nameEn": "Earth Power",
+      "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E5%9C%B0%E4%B9%8B%E5%8A%9B%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "狩猎地带·东区。",
+      "note": ""
+    },
+    {
+      "number": "TM077",
+      "nameCn": "雷电拳",
+      "nameEn": "Thunder Punch",
+      "href": "https://wiki.52poke.com/wiki/%E9%9B%B7%E7%94%B5%E6%8B%B3%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "24号道路，金珠桥右侧（需从25号道路进入）。",
+      "note": ""
+    },
+    {
+      "number": "TM078",
+      "nameCn": "下盘踢",
+      "nameEn": "Low Sweep",
+      "href": "https://wiki.52poke.com/wiki/%E4%B8%8B%E7%9B%98%E8%B8%A2%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "月见山地下2楼（从1楼第三座梯子进入）。",
+      "note": ""
+    },
+    {
+      "number": "TM079",
+      "nameCn": "恶之波动",
+      "nameEn": "Dark Pulse",
+      "href": "https://wiki.52poke.com/wiki/%E6%81%B6%E4%B9%8B%E6%B3%A2%E5%8A%A8%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，30000元。",
+      "note": ""
+    },
+    {
+      "number": "TM080",
+      "nameCn": "岩崩",
+      "nameEn": "Rock Slide",
+      "href": "https://wiki.52poke.com/wiki/%E5%B2%A9%E5%B4%A9%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "岩山隧道地下1楼，多岔路口房间里的短裤小子处获得。",
+      "note": ""
+    },
+    {
+      "number": "TM081",
+      "nameCn": "十字剪",
+      "nameEn": "X-Scissor",
+      "href": "https://wiki.52poke.com/wiki/%E5%8D%81%E5%AD%97%E5%89%AA%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "常青森林。（需要秘传学习器碎岩）",
+      "note": ""
+    },
+    {
+      "number": "TM082",
+      "nameCn": "梦话",
+      "nameEn": "Sleep Talk",
+      "href": "https://wiki.52poke.com/wiki/%E6%A2%A6%E8%AF%9D%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，15000元。",
+      "note": ""
+    },
+    {
+      "number": "TM083",
+      "nameCn": "热水",
+      "nameEn": "Scald",
+      "href": "https://wiki.52poke.com/wiki/%E7%83%AD%E6%B0%B4%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，25000元。",
+      "note": ""
+    },
+    {
+      "number": "TM084",
+      "nameCn": "毒击",
+      "nameEn": "Poison Jab",
+      "href": "https://wiki.52poke.com/wiki/%E6%AF%92%E5%87%BB%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，25000元。",
+      "note": ""
+    },
+    {
+      "number": "TM085",
+      "nameCn": "预知未来",
+      "nameEn": "Future Sight",
+      "href": "https://wiki.52poke.com/wiki/%E9%A2%84%E7%9F%A5%E6%9C%AA%E6%9D%A5%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "13号道路，一位野餐女孩前方。",
+      "note": ""
+    },
+    {
+      "number": "TM086",
+      "nameCn": "打草结",
+      "nameEn": "Grass Knot",
+      "href": "https://wiki.52poke.com/wiki/%E6%89%93%E8%8D%89%E7%BB%93%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市道馆，再战战胜莉佳后获得。",
+      "note": ""
+    },
+    {
+      "number": "TM087",
+      "nameCn": "燕返",
+      "nameEn": "Aerial Ace",
+      "href": "https://wiki.52poke.com/wiki/%E7%87%95%E8%BF%94%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "华蓝市友好商店，5000元。",
+      "note": ""
+    },
+    {
+      "number": "TM088",
+      "nameCn": "啄食",
+      "nameEn": "Pluck",
+      "href": "https://wiki.52poke.com/wiki/%E5%95%84%E9%A3%9F%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "华蓝市友好商店，5000元。",
+      "note": ""
+    },
+    {
+      "number": "TM089",
+      "nameCn": "急速折返",
+      "nameEn": "U-Turn",
+      "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "25号道路东端，战胜阿笔后获得。",
+      "note": ""
+    },
+    {
+      "number": "TM090",
+      "nameCn": "垃圾射击",
+      "nameEn": "Gunk Shot",
+      "href": "https://wiki.52poke.com/wiki/%E5%9E%83%E5%9C%BE%E5%B0%84%E5%87%BB%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "红莲岛宝可梦屋1楼，入口楼梯附近上锁门后。",
+      "note": ""
+    },
+    {
+      "number": "TM091",
+      "nameCn": "加农光炮",
+      "nameEn": "Flash Cannon",
+      "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E5%86%9C%E5%85%89%E7%82%AE%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，25000元。",
+      "note": ""
+    },
+    {
+      "number": "TM092",
+      "nameCn": "伏特替换",
+      "nameEn": "Volt Switch",
+      "href": "https://wiki.52poke.com/wiki/%E4%BC%8F%E7%89%B9%E6%9B%BF%E6%8D%A2%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "枯叶市道馆，战胜马志士后获得。",
+      "note": ""
+    },
+    {
+      "number": "TM093",
+      "nameCn": "龙尾",
+      "nameEn": "Dragon Tail",
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E5%B0%BE%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，15000元。",
+      "note": ""
+    },
+    {
+      "number": "TM094",
+      "nameCn": "鳞射",
+      "nameEn": "Scale Shot",
+      "href": "https://wiki.52poke.com/wiki/%E9%B3%9E%E5%B0%84%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "（后日谈）1号岛烟囱山，推动岩石后东北方向。",
+      "note": ""
+    },
+    {
+      "number": "TM095",
+      "nameCn": "宇宙力量",
+      "nameEn": "Cosmic Power",
+      "href": "https://wiki.52poke.com/wiki/%E5%AE%87%E5%AE%99%E5%8A%9B%E9%87%8F%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "（后日谈）3号岛果实森林，在森林尽头冲浪可达处。",
+      "note": ""
+    },
+    {
+      "number": "TM096",
+      "nameCn": "重踏",
+      "nameEn": "Bulldoze",
+      "href": "https://wiki.52poke.com/wiki/%E9%87%8D%E8%B8%8F%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "5号道路，中间围栏区域。",
+      "note": ""
+    },
+    {
+      "number": "TM097",
+      "nameCn": "冰息",
+      "nameEn": "Frost Breath",
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E6%81%AF%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "（后日谈）双子岛，穿山鼠竞速区域。",
+      "note": ""
+    },
+    {
+      "number": "TM098",
+      "nameCn": "火焰拳",
+      "nameEn": "Fire Punch",
+      "href": "https://wiki.52poke.com/wiki/%E7%81%AB%E7%84%B0%E6%8B%B3%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "11号道路，右下狭窄小路，检查站下方老人附近。",
+      "note": ""
+    },
+    {
+      "number": "TM099",
+      "nameCn": "疯狂伏特",
+      "nameEn": "Wild Charge",
+      "href": "https://wiki.52poke.com/wiki/%E7%96%AF%E7%8B%82%E4%BC%8F%E7%89%B9%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "10号道路，无人发电厂入口右侧。",
+      "note": ""
+    },
+    {
+      "number": "TM100",
+      "nameCn": "双翼",
+      "nameEn": "Dual Wingbeat",
+      "href": "https://wiki.52poke.com/wiki/%E5%8F%8C%E7%BF%BC%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "16号道路西北部。",
+      "note": ""
+    },
+    {
+      "number": "TM101",
+      "nameCn": "冰冻拳",
+      "nameEn": "Ice Punch",
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E5%86%BB%E6%8B%B3%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "9号道路左下角，登山男附近。",
+      "note": ""
+    },
+    {
+      "number": "TM102",
+      "nameCn": "魔法闪耀",
+      "nameEn": "Dazzling Gleam",
+      "href": "https://wiki.52poke.com/wiki/%E9%AD%94%E6%B3%95%E9%97%AA%E8%80%80%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，30000元。",
+      "note": ""
+    },
+    {
+      "number": "TM103",
+      "nameCn": "污泥波",
+      "nameEn": "Sludge Wave",
+      "href": "https://wiki.52poke.com/wiki/%E6%B1%A1%E6%B3%A5%E6%B3%A2%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "（后日谈）岩山隧道靠近无人发电厂的入口。",
+      "note": ""
+    },
+    {
+      "number": "TM104",
+      "nameCn": "精神冲击",
+      "nameEn": "Psyshock",
+      "href": "https://wiki.52poke.com/wiki/%E7%B2%BE%E7%A5%9E%E5%86%B2%E5%87%BB%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "7号／8号道路地下通道，西侧楼梯附近。",
+      "note": "（限制模式）金黄市道馆，战胜娜姿后获得。"
+    },
+    {
+      "number": "TM105",
+      "nameCn": "精神噪音",
+      "nameEn": "Psychic Noise",
+      "href": "https://wiki.52poke.com/wiki/%E7%B2%BE%E7%A5%9E%E5%99%AA%E9%9F%B3%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市火箭队基地地下3楼。",
+      "note": ""
+    },
+    {
+      "number": "TM106",
+      "nameCn": "杂技",
+      "nameEn": "Acrobatics",
+      "href": "https://wiki.52poke.com/wiki/%E6%9D%82%E6%8A%80%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "8号道路，地下通道附近，老人下方两个悬崖之间。",
+      "note": ""
+    },
+    {
+      "number": "TM107",
+      "nameCn": "大地波动",
+      "nameEn": "Terrain Pulse",
+      "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E5%9C%B0%E6%B3%A2%E5%8A%A8%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "无法获取。",
+      "note": ""
+    },
+    {
+      "number": "TM108",
+      "nameCn": "大声咆哮",
+      "nameEn": "Snarl",
+      "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E5%A3%B0%E5%92%86%E5%93%AE%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "华蓝市友好商店，5000元。",
+      "note": ""
+    },
+    {
+      "number": "TM109",
+      "nameCn": "蛮力",
+      "nameEn": "Superpower",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%8A%9B%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "无人发电厂，中央房间 Dumbass Jojo Fan（笨蛋JOJO粉）旁边。",
+      "note": ""
+    },
+    {
+      "number": "TM110",
+      "nameCn": "热沙大地",
+      "nameEn": "Scorching Sands",
+      "href": "https://wiki.52poke.com/wiki/%E7%83%AD%E6%B2%99%E5%A4%A7%E5%9C%B0%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市游戏城，12500元。",
+      "note": ""
+    },
+    {
+      "number": "TM111",
+      "nameCn": "真空波",
+      "nameEn": "Vacuum Wave",
+      "href": "https://wiki.52poke.com/wiki/%E7%9C%9F%E7%A9%BA%E6%B3%A2%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "华蓝市友好商店，5000元。",
+      "note": ""
+    },
+    {
+      "number": "TM112",
+      "nameCn": "薄雾炸裂",
+      "nameEn": "Misty Explosion",
+      "href": "https://wiki.52poke.com/wiki/%E8%96%84%E9%9B%BE%E7%82%B8%E8%A3%82%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "（后日谈）1号岛烟囱山，从登山男处获得。",
+      "note": ""
+    },
+    {
+      "number": "TM113",
+      "nameCn": "嬉闹",
+      "nameEn": "Play Rough",
+      "href": "https://wiki.52poke.com/wiki/%E5%AC%89%E9%97%B9%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹百货商店3楼，从店员处购买，15000元。",
+      "note": ""
+    },
+    {
+      "number": "TM114",
+      "nameCn": "高温重压",
+      "nameEn": "Heat Crash",
+      "href": "https://wiki.52poke.com/wiki/%E9%AB%98%E6%B8%A9%E9%87%8D%E5%8E%8B%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "17号道路，检查站南侧、草丛正上方。",
+      "note": ""
+    },
+    {
+      "number": "TM115",
+      "nameCn": "扑击",
+      "nameEn": "Body Press",
+      "href": "https://wiki.52poke.com/wiki/%E6%89%91%E5%87%BB%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "金黄市西尔佛公司5楼，西侧南房间。（需要钥匙卡）",
+      "note": ""
+    },
+    {
+      "number": "TM116",
+      "nameCn": "戏法空间",
+      "nameEn": "Trick Room",
+      "href": "https://wiki.52poke.com/wiki/%E6%88%8F%E6%B3%95%E7%A9%BA%E9%97%B4%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "金黄市道馆，战胜娜姿后获得。",
+      "note": "（限制模式）不可获得。"
+    },
+    {
+      "number": "TM117",
+      "nameCn": "勇鸟猛攻",
+      "nameEn": "Brave Bird",
+      "href": "https://wiki.52poke.com/wiki/%E5%8B%87%E9%B8%9F%E7%8C%9B%E6%94%BB%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "玉虹市旅馆，获得超级环并战胜那里的两位选美选手后获得。",
+      "note": ""
+    },
+    {
+      "number": "TM118",
+      "nameCn": "铁滚轮",
+      "nameEn": "Steel Roller",
+      "href": "https://wiki.52poke.com/wiki/%E9%93%81%E6%BB%9A%E8%BD%AE%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "无法获取。",
+      "note": ""
+    },
+    {
+      "number": "TM119",
+      "nameCn": "流星群",
+      "nameEn": "Draco Meteor",
+      "href": "https://wiki.52poke.com/wiki/%E6%B5%81%E6%98%9F%E7%BE%A4%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "常青市道馆，战胜小椿后获得。",
+      "note": ""
+    },
+    {
+      "number": "TM120",
+      "nameCn": "冰旋",
+      "nameEn": "Ice Spinner",
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E6%97%8B%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "常青市，小池塘对岸（需要秘传学习器冲浪）。",
+      "note": ""
+    },
+    {
+      "number": "HM001",
+      "nameCn": "居合斩",
+      "nameEn": "Cut",
+      "href": "https://wiki.52poke.com/wiki/%E5%B1%85%E5%90%88%E5%8A%88%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "圣特安努号，在船长房间从船长处获得。",
+      "note": ""
+    },
+    {
+      "number": "HM002",
+      "nameCn": "飞翔",
+      "nameEn": "Fly",
+      "href": "https://wiki.52poke.com/wiki/%E9%A3%9E%E7%BF%94%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "16号道路，左上角房屋内的女孩处获得。",
+      "note": ""
+    },
+    {
+      "number": "HM003",
+      "nameCn": "冲浪",
+      "nameEn": "Surf",
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B2%E6%B5%AA%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "狩猎地带3区，北边休息小屋内的男子处获得。",
+      "note": ""
+    },
+    {
+      "number": "HM004",
+      "nameCn": "怪力",
+      "nameEn": "Strength",
+      "href": "https://wiki.52poke.com/wiki/%E6%80%AA%E5%8A%9B%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "浅红市，把金假牙交给东南房屋的园长后获得。",
+      "note": ""
+    },
+    {
+      "number": "HM005",
+      "nameCn": "闪光",
+      "nameEn": "Flash",
+      "href": "https://wiki.52poke.com/wiki/%E9%97%AA%E5%85%89%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "2号道路，东侧检查站大木博士的研究员处获得。",
+      "note": ""
+    },
+    {
+      "number": "HM006",
+      "nameCn": "碎岩",
+      "nameEn": "Rock Smash",
+      "href": "https://wiki.52poke.com/wiki/%E7%A2%8E%E5%B2%A9%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "浅红市，在狩猎地带入口前战胜小悠后获得。",
+      "note": ""
+    },
+    {
+      "number": "HM007",
+      "nameCn": "攀瀑",
+      "nameEn": "Waterfall",
+      "href": "https://wiki.52poke.com/wiki/%E6%94%80%E7%80%91%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "（后日谈）1号岛温泉里，从一位老爷爷处获得。",
+      "note": ""
+    },
+    {
+      "number": "HM008",
+      "nameCn": "攀岩",
+      "nameEn": "Rock Climb",
+      "href": "https://wiki.52poke.com/wiki/%E6%94%80%E5%B2%A9%EF%BC%88%E6%8B%9B%E5%BC%8F%EF%BC%89",
+      "obtain": "无法获取。",
+      "note": ""
+    }
+  ]
+}

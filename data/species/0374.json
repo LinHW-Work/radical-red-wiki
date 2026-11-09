@@ -1,0 +1,302 @@
+{
+  "num": "0374",
+  "nameCn": "铁哑铃",
+  "nameEn": "Beldum",
+  "slug": "铁哑铃",
+  "path": "/图鉴/铁哑铃",
+  "formes": [
+    {
+      "key": "Beldum",
+      "label": "铁哑铃",
+      "kind": "base",
+      "num": "0374",
+      "sprite": "0374.png",
+      "nameCn": "铁哑铃",
+      "nameEn": "Beldum",
+      "types": [
+        "钢",
+        "超能力"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "透明特性",
+          "href": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "H",
+          "nameCn": "轻金属",
+          "href": "https://wiki.52poke.com/wiki/%E8%BD%BB%E9%87%91%E5%B1%9E",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [],
+        "static": [],
+        "npc": [
+          {
+            "text": "玉虹市游戏中心·购买",
+            "href": "/分布/NPC获取"
+          }
+        ],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "铁哑铃",
+          "alts": null,
+          "slug": "铁哑铃"
+        },
+        {
+          "nameCn": "金属怪",
+          "alts": null,
+          "slug": "金属怪"
+        },
+        {
+          "nameCn": "巨金怪",
+          "alts": null,
+          "slug": "巨金怪"
+        }
+      ],
+      "stats": {
+        "hp": 40,
+        "atk": 55,
+        "def": 80,
+        "spa": 35,
+        "spd": 60,
+        "spe": 30
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "猛撞",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%8C%9B%E6%92%9E",
+          "type": "一般",
+          "category": "物理",
+          "power": 90,
+          "accuracy": 85,
+          "pp": 20
+        }
+      ],
+      "tmMoves": [
+        {
+          "level": null,
+          "nameCn": "意念头锤",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%84%8F%E5%BF%B5%E5%A4%B4%E9%94%A4",
+          "tmNumber": "TM008",
+          "type": "超能力",
+          "category": "物理",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "铁头",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%93%81%E5%A4%B4",
+          "tmNumber": "TM023",
+          "type": "钢",
+          "category": "物理",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "铁蹄光线",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%93%81%E8%B9%84%E5%85%89%E7%BA%BF",
+          "tmNumber": "TM066",
+          "type": "钢",
+          "category": "特殊",
+          "power": 140,
+          "accuracy": 95,
+          "pp": 5
+        }
+      ],
+      "eggMoves": [],
+      "tutorMoves": [
+        {
+          "level": null,
+          "nameCn": "铁壁",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%93%81%E5%A3%81",
+          "type": "钢",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "铁头",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%93%81%E5%A4%B4",
+          "type": "钢",
+          "category": "物理",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15
+        }
+      ]
+    }
+  ],
+  "types": [
+    "钢",
+    "超能力"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "透明特性",
+      "href": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "H",
+      "nameCn": "轻金属",
+      "href": "https://wiki.52poke.com/wiki/%E8%BD%BB%E9%87%91%E5%B1%9E",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [],
+    "static": [],
+    "npc": [
+      {
+        "text": "玉虹市游戏中心·购买",
+        "href": "/分布/NPC获取"
+      }
+    ],
+    "evolution": []
+  },
+  "evolution": [
+    {
+      "nameCn": "铁哑铃",
+      "alts": null,
+      "slug": "铁哑铃"
+    },
+    {
+      "nameCn": "金属怪",
+      "alts": null,
+      "slug": "金属怪"
+    },
+    {
+      "nameCn": "巨金怪",
+      "alts": null,
+      "slug": "巨金怪"
+    }
+  ],
+  "stats": {
+    "hp": 40,
+    "atk": 55,
+    "def": 80,
+    "spa": 35,
+    "spd": 60,
+    "spe": 30
+  },
+  "levelMoves": [
+    {
+      "level": 1,
+      "nameCn": "猛撞",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%8C%9B%E6%92%9E",
+      "type": "一般",
+      "category": "物理",
+      "power": 90,
+      "accuracy": 85,
+      "pp": 20
+    }
+  ],
+  "tmMoves": [
+    {
+      "level": null,
+      "nameCn": "意念头锤",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%84%8F%E5%BF%B5%E5%A4%B4%E9%94%A4",
+      "tmNumber": "TM008",
+      "type": "超能力",
+      "category": "物理",
+      "power": 80,
+      "accuracy": 90,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "铁头",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%93%81%E5%A4%B4",
+      "tmNumber": "TM023",
+      "type": "钢",
+      "category": "物理",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "铁蹄光线",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%93%81%E8%B9%84%E5%85%89%E7%BA%BF",
+      "tmNumber": "TM066",
+      "type": "钢",
+      "category": "特殊",
+      "power": 140,
+      "accuracy": 95,
+      "pp": 5
+    }
+  ],
+  "eggMoves": [],
+  "tutorMoves": [
+    {
+      "level": null,
+      "nameCn": "铁壁",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%93%81%E5%A3%81",
+      "type": "钢",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "铁头",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%93%81%E5%A4%B4",
+      "type": "钢",
+      "category": "物理",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15
+    }
+  ]
+}

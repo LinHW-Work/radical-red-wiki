@@ -1,0 +1,1090 @@
+{
+  "num": "0843",
+  "nameCn": "沙包蛇",
+  "nameEn": "Silicobra",
+  "slug": "沙包蛇",
+  "path": "/图鉴/沙包蛇",
+  "formes": [
+    {
+      "key": "Silicobra",
+      "label": "沙包蛇",
+      "kind": "base",
+      "num": "0843",
+      "sprite": "0843.png",
+      "nameCn": "沙包蛇",
+      "nameEn": "Silicobra",
+      "types": [
+        "地面"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "吐沙",
+          "href": "https://wiki.52poke.com/wiki/%E5%90%90%E6%B2%99",
+          "original": false,
+          "restrictedNameCn": "沙之力",
+          "restrictedHref": "https://wiki.52poke.com/wiki/%E6%B2%99%E4%B9%8B%E5%8A%9B",
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "1",
+          "nameCn": "蜕皮",
+          "href": "https://wiki.52poke.com/wiki/%E8%9C%95%E7%9A%AE",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "H",
+          "nameCn": "沙隐",
+          "href": "https://wiki.52poke.com/wiki/%E6%B2%99%E9%9A%90",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [
+          {
+            "text": "地鼠洞穴·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "地鼠洞穴 b1f·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "地鼠洞穴 b1f·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
+        "static": [],
+        "npc": [],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "沙包蛇",
+          "alts": null,
+          "slug": "沙包蛇"
+        },
+        {
+          "nameCn": "沙螺蟒",
+          "alts": null,
+          "slug": "沙螺蟒"
+        }
+      ],
+      "stats": {
+        "hp": 52,
+        "atk": 57,
+        "def": 75,
+        "spa": 35,
+        "spd": 50,
+        "spe": 46
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "紧束",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%B4%A7%E6%9D%9F",
+          "type": "一般",
+          "category": "物理",
+          "power": 15,
+          "accuracy": 90,
+          "pp": 20
+        },
+        {
+          "level": 1,
+          "nameCn": "蛇瞪",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%87%E7%9E%AA",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 30
+        },
+        {
+          "level": 10,
+          "nameCn": "狂舞挥打",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%8B%82%E8%88%9E%E6%8C%A5%E6%89%93",
+          "type": "恶",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": 12,
+          "nameCn": "岩石封锁",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%B2%A9%E7%9F%B3%E5%B0%81%E9%94%81",
+          "type": "岩石",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 95,
+          "pp": 15
+        },
+        {
+          "level": 15,
+          "nameCn": "重踏",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%87%8D%E8%B8%8F",
+          "type": "地面",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": 20,
+          "nameCn": "头锤",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%A4%B4%E9%94%A4",
+          "type": "一般",
+          "category": "物理",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": 23,
+          "nameCn": "岩崩",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%B2%A9%E5%B4%A9",
+          "type": "岩石",
+          "category": "物理",
+          "power": 75,
+          "accuracy": 90,
+          "pp": 10
+        },
+        {
+          "level": 30,
+          "nameCn": "挖洞",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%8C%96%E6%B4%9E",
+          "type": "地面",
+          "category": "物理",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": 35,
+          "nameCn": "沙暴",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%B2%99%E6%9A%B4",
+          "type": "岩石",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": 40,
+          "nameCn": "摔打",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%91%94%E6%89%93",
+          "type": "一般",
+          "category": "物理",
+          "power": 80,
+          "accuracy": 75,
+          "pp": 20
+        },
+        {
+          "level": 45,
+          "nameCn": "盘蜷",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%9B%98%E8%9C%B7",
+          "type": "毒",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": 50,
+          "nameCn": "流沙深渊",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%B5%81%E6%B2%99%E6%B7%B1%E6%B8%8A",
+          "type": "地面",
+          "category": "物理",
+          "power": 35,
+          "accuracy": 85,
+          "pp": 15
+        },
+        {
+          "level": 53,
+          "nameCn": "地震",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E9%9C%87",
+          "type": "地面",
+          "category": "物理",
+          "power": 100,
+          "accuracy": 100,
+          "pp": 10
+        }
+      ],
+      "tmMoves": [
+        {
+          "level": null,
+          "nameCn": "剧毒",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%89%A7%E6%AF%92",
+          "tmNumber": "TM006",
+          "type": "毒",
+          "category": "变化",
+          "power": null,
+          "accuracy": 90,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "觉醒力量",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+          "tmNumber": "TM010",
+          "type": "一般",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "守住",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AE%88%E4%BD%8F",
+          "tmNumber": "TM017",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "地震",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E9%9C%87",
+          "tmNumber": "TM026",
+          "type": "地面",
+          "category": "物理",
+          "power": 100,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "报恩",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%8A%A5%E6%81%A9",
+          "tmNumber": "TM027",
+          "type": "一般",
+          "category": "物理",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "挖洞",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%8C%96%E6%B4%9E",
+          "tmNumber": "TM028",
+          "type": "地面",
+          "category": "物理",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "硬撑",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%A1%AC%E6%92%91",
+          "tmNumber": "TM042",
+          "type": "一般",
+          "category": "物理",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "睡觉",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%9D%A1%E8%A7%89",
+          "tmNumber": "TM044",
+          "type": "超能力",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        },
+        {
+          "level": null,
+          "nameCn": "大地之力",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E5%9C%B0%E4%B9%8B%E5%8A%9B",
+          "tmNumber": "TM076",
+          "type": "地面",
+          "category": "特殊",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "梦话",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%A2%A6%E8%AF%9D",
+          "tmNumber": "TM082",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "鳞射",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%B3%9E%E5%B0%84",
+          "tmNumber": "TM094",
+          "type": "龙",
+          "category": "物理",
+          "power": 25,
+          "accuracy": 90,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "重踏",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%87%8D%E8%B8%8F",
+          "tmNumber": "TM096",
+          "type": "地面",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "热沙大地",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%83%AD%E6%B2%99%E5%A4%A7%E5%9C%B0",
+          "tmNumber": "TM110",
+          "type": "地面",
+          "category": "特殊",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 10
+        }
+      ],
+      "eggMoves": [
+        {
+          "level": null,
+          "nameCn": "打嗝",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%89%93%E5%97%9D",
+          "type": "毒",
+          "category": "特殊",
+          "power": 120,
+          "accuracy": 90,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "龙之俯冲",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E4%BF%AF%E5%86%B2",
+          "type": "龙",
+          "category": "物理",
+          "power": 100,
+          "accuracy": 75,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "掷泥",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%8E%B7%E6%B3%A5",
+          "type": "地面",
+          "category": "特殊",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "毒尾",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%AF%92%E5%B0%BE",
+          "type": "毒",
+          "category": "物理",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 25
+        }
+      ],
+      "tutorMoves": [
+        {
+          "level": null,
+          "nameCn": "打鼾",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%89%93%E9%BC%BE",
+          "type": "一般",
+          "category": "特殊",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "钻冲赛道",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+          "type": "地面",
+          "category": "物理",
+          "power": 80,
+          "accuracy": 95,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "密语",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AF%86%E8%AF%AD",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "刺耳声",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%88%BA%E8%80%B3%E5%A3%B0",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": 85,
+          "pp": 40
+        },
+        {
+          "level": null,
+          "nameCn": "替身",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%9B%BF%E8%BA%AB",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "流沙深渊",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%B5%81%E6%B2%99%E6%B7%B1%E6%B8%8A",
+          "type": "地面",
+          "category": "物理",
+          "power": 35,
+          "accuracy": 85,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "沙暴",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%B2%99%E6%9A%B4",
+          "type": "岩石",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        }
+      ]
+    }
+  ],
+  "types": [
+    "地面"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "吐沙",
+      "href": "https://wiki.52poke.com/wiki/%E5%90%90%E6%B2%99",
+      "original": false,
+      "restrictedNameCn": "沙之力",
+      "restrictedHref": "https://wiki.52poke.com/wiki/%E6%B2%99%E4%B9%8B%E5%8A%9B",
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "1",
+      "nameCn": "蜕皮",
+      "href": "https://wiki.52poke.com/wiki/%E8%9C%95%E7%9A%AE",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "H",
+      "nameCn": "沙隐",
+      "href": "https://wiki.52poke.com/wiki/%E6%B2%99%E9%9A%90",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [
+      {
+        "text": "地鼠洞穴·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "地鼠洞穴 b1f·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "地鼠洞穴 b1f·晚上",
+        "href": "/分布/地图捕捉"
+      }
+    ],
+    "static": [],
+    "npc": [],
+    "evolution": []
+  },
+  "evolution": [
+    {
+      "nameCn": "沙包蛇",
+      "alts": null,
+      "slug": "沙包蛇"
+    },
+    {
+      "nameCn": "沙螺蟒",
+      "alts": null,
+      "slug": "沙螺蟒"
+    }
+  ],
+  "stats": {
+    "hp": 52,
+    "atk": 57,
+    "def": 75,
+    "spa": 35,
+    "spd": 50,
+    "spe": 46
+  },
+  "levelMoves": [
+    {
+      "level": 1,
+      "nameCn": "紧束",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%B4%A7%E6%9D%9F",
+      "type": "一般",
+      "category": "物理",
+      "power": 15,
+      "accuracy": 90,
+      "pp": 20
+    },
+    {
+      "level": 1,
+      "nameCn": "蛇瞪",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%87%E7%9E%AA",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 30
+    },
+    {
+      "level": 10,
+      "nameCn": "狂舞挥打",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%8B%82%E8%88%9E%E6%8C%A5%E6%89%93",
+      "type": "恶",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": 12,
+      "nameCn": "岩石封锁",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%B2%A9%E7%9F%B3%E5%B0%81%E9%94%81",
+      "type": "岩石",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 95,
+      "pp": 15
+    },
+    {
+      "level": 15,
+      "nameCn": "重踏",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%87%8D%E8%B8%8F",
+      "type": "地面",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": 20,
+      "nameCn": "头锤",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%A4%B4%E9%94%A4",
+      "type": "一般",
+      "category": "物理",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": 23,
+      "nameCn": "岩崩",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%B2%A9%E5%B4%A9",
+      "type": "岩石",
+      "category": "物理",
+      "power": 75,
+      "accuracy": 90,
+      "pp": 10
+    },
+    {
+      "level": 30,
+      "nameCn": "挖洞",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%8C%96%E6%B4%9E",
+      "type": "地面",
+      "category": "物理",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": 35,
+      "nameCn": "沙暴",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%B2%99%E6%9A%B4",
+      "type": "岩石",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": 40,
+      "nameCn": "摔打",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%91%94%E6%89%93",
+      "type": "一般",
+      "category": "物理",
+      "power": 80,
+      "accuracy": 75,
+      "pp": 20
+    },
+    {
+      "level": 45,
+      "nameCn": "盘蜷",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%9B%98%E8%9C%B7",
+      "type": "毒",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": 50,
+      "nameCn": "流沙深渊",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%B5%81%E6%B2%99%E6%B7%B1%E6%B8%8A",
+      "type": "地面",
+      "category": "物理",
+      "power": 35,
+      "accuracy": 85,
+      "pp": 15
+    },
+    {
+      "level": 53,
+      "nameCn": "地震",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E9%9C%87",
+      "type": "地面",
+      "category": "物理",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 10
+    }
+  ],
+  "tmMoves": [
+    {
+      "level": null,
+      "nameCn": "剧毒",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%89%A7%E6%AF%92",
+      "tmNumber": "TM006",
+      "type": "毒",
+      "category": "变化",
+      "power": null,
+      "accuracy": 90,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "觉醒力量",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+      "tmNumber": "TM010",
+      "type": "一般",
+      "category": "特殊",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "守住",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AE%88%E4%BD%8F",
+      "tmNumber": "TM017",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "地震",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E9%9C%87",
+      "tmNumber": "TM026",
+      "type": "地面",
+      "category": "物理",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "报恩",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%8A%A5%E6%81%A9",
+      "tmNumber": "TM027",
+      "type": "一般",
+      "category": "物理",
+      "power": null,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "挖洞",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%8C%96%E6%B4%9E",
+      "tmNumber": "TM028",
+      "type": "地面",
+      "category": "物理",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "硬撑",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%A1%AC%E6%92%91",
+      "tmNumber": "TM042",
+      "type": "一般",
+      "category": "物理",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "睡觉",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%9D%A1%E8%A7%89",
+      "tmNumber": "TM044",
+      "type": "超能力",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 5
+    },
+    {
+      "level": null,
+      "nameCn": "大地之力",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E5%9C%B0%E4%B9%8B%E5%8A%9B",
+      "tmNumber": "TM076",
+      "type": "地面",
+      "category": "特殊",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "梦话",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%A2%A6%E8%AF%9D",
+      "tmNumber": "TM082",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "鳞射",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%B3%9E%E5%B0%84",
+      "tmNumber": "TM094",
+      "type": "龙",
+      "category": "物理",
+      "power": 25,
+      "accuracy": 90,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "重踏",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%87%8D%E8%B8%8F",
+      "tmNumber": "TM096",
+      "type": "地面",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "热沙大地",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%83%AD%E6%B2%99%E5%A4%A7%E5%9C%B0",
+      "tmNumber": "TM110",
+      "type": "地面",
+      "category": "特殊",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 10
+    }
+  ],
+  "eggMoves": [
+    {
+      "level": null,
+      "nameCn": "打嗝",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%89%93%E5%97%9D",
+      "type": "毒",
+      "category": "特殊",
+      "power": 120,
+      "accuracy": 90,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "龙之俯冲",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E4%BF%AF%E5%86%B2",
+      "type": "龙",
+      "category": "物理",
+      "power": 100,
+      "accuracy": 75,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "掷泥",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%8E%B7%E6%B3%A5",
+      "type": "地面",
+      "category": "特殊",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "毒尾",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%AF%92%E5%B0%BE",
+      "type": "毒",
+      "category": "物理",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 25
+    }
+  ],
+  "tutorMoves": [
+    {
+      "level": null,
+      "nameCn": "打鼾",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%89%93%E9%BC%BE",
+      "type": "一般",
+      "category": "特殊",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "钻冲赛道",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+      "type": "地面",
+      "category": "物理",
+      "power": 80,
+      "accuracy": 95,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "密语",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AF%86%E8%AF%AD",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "刺耳声",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%88%BA%E8%80%B3%E5%A3%B0",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": 85,
+      "pp": 40
+    },
+    {
+      "level": null,
+      "nameCn": "替身",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%9B%BF%E8%BA%AB",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "流沙深渊",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%B5%81%E6%B2%99%E6%B7%B1%E6%B8%8A",
+      "type": "地面",
+      "category": "物理",
+      "power": 35,
+      "accuracy": 85,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "沙暴",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%B2%99%E6%9A%B4",
+      "type": "岩石",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    }
+  ]
+}

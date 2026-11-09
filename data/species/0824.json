@@ -1,0 +1,418 @@
+{
+  "num": "0824",
+  "nameCn": "索侦虫",
+  "nameEn": "Blipbug",
+  "slug": "索侦虫",
+  "path": "/图鉴/索侦虫",
+  "formes": [
+    {
+      "key": "Blipbug",
+      "label": "索侦虫",
+      "kind": "base",
+      "num": "0824",
+      "sprite": "0824.png",
+      "nameCn": "索侦虫",
+      "nameEn": "Blipbug",
+      "types": [
+        "虫"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "虫之预感",
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E4%B9%8B%E9%A2%84%E6%84%9F",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "1",
+          "nameCn": "复眼",
+          "href": "https://wiki.52poke.com/wiki/%E5%A4%8D%E7%9C%BC",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "H",
+          "nameCn": "心灵感应",
+          "href": "https://wiki.52poke.com/wiki/%E5%BF%83%E7%81%B5%E6%84%9F%E5%BA%94",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [
+          {
+            "text": "森林扩展区·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
+        "static": [],
+        "npc": [],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "索侦虫",
+          "alts": null,
+          "slug": "索侦虫"
+        },
+        {
+          "nameCn": "天罩虫",
+          "alts": null,
+          "slug": "天罩虫"
+        },
+        {
+          "nameCn": "以欧路普",
+          "alts": null,
+          "slug": "以欧路普"
+        }
+      ],
+      "stats": {
+        "hp": 25,
+        "atk": 20,
+        "def": 20,
+        "spa": 25,
+        "spd": 45,
+        "spe": 45
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "虫之抵抗",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E4%B9%8B%E6%8A%B5%E6%8A%97",
+          "type": "虫",
+          "category": "特殊",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 20
+        }
+      ],
+      "tmMoves": [
+        {
+          "level": null,
+          "nameCn": "剧毒",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%89%A7%E6%AF%92",
+          "tmNumber": "TM006",
+          "type": "毒",
+          "category": "变化",
+          "power": null,
+          "accuracy": 90,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "觉醒力量",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+          "tmNumber": "TM010",
+          "type": "一般",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "报恩",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%8A%A5%E6%81%A9",
+          "tmNumber": "TM027",
+          "type": "一般",
+          "category": "物理",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "硬撑",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%A1%AC%E6%92%91",
+          "tmNumber": "TM042",
+          "type": "一般",
+          "category": "物理",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 20
+        }
+      ],
+      "eggMoves": [
+        {
+          "level": null,
+          "nameCn": "纠缠不休",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%BA%A0%E7%BC%A0%E4%B8%8D%E4%BC%91",
+          "type": "虫",
+          "category": "特殊",
+          "power": 20,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "自我再生",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E6%88%91%E5%86%8D%E7%94%9F",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        },
+        {
+          "level": null,
+          "nameCn": "黏黏网",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BB%8F%E9%BB%8F%E7%BD%91",
+          "type": "虫",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "超音波",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%B6%85%E9%9F%B3%E6%B3%A2",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": 55,
+          "pp": 20
+        }
+      ],
+      "tutorMoves": [
+        {
+          "level": null,
+          "nameCn": "密语",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AF%86%E8%AF%AD",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        }
+      ]
+    }
+  ],
+  "types": [
+    "虫"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "虫之预感",
+      "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E4%B9%8B%E9%A2%84%E6%84%9F",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "1",
+      "nameCn": "复眼",
+      "href": "https://wiki.52poke.com/wiki/%E5%A4%8D%E7%9C%BC",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "H",
+      "nameCn": "心灵感应",
+      "href": "https://wiki.52poke.com/wiki/%E5%BF%83%E7%81%B5%E6%84%9F%E5%BA%94",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [
+      {
+        "text": "森林扩展区·晚上",
+        "href": "/分布/地图捕捉"
+      }
+    ],
+    "static": [],
+    "npc": [],
+    "evolution": []
+  },
+  "evolution": [
+    {
+      "nameCn": "索侦虫",
+      "alts": null,
+      "slug": "索侦虫"
+    },
+    {
+      "nameCn": "天罩虫",
+      "alts": null,
+      "slug": "天罩虫"
+    },
+    {
+      "nameCn": "以欧路普",
+      "alts": null,
+      "slug": "以欧路普"
+    }
+  ],
+  "stats": {
+    "hp": 25,
+    "atk": 20,
+    "def": 20,
+    "spa": 25,
+    "spd": 45,
+    "spe": 45
+  },
+  "levelMoves": [
+    {
+      "level": 1,
+      "nameCn": "虫之抵抗",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E4%B9%8B%E6%8A%B5%E6%8A%97",
+      "type": "虫",
+      "category": "特殊",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 20
+    }
+  ],
+  "tmMoves": [
+    {
+      "level": null,
+      "nameCn": "剧毒",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%89%A7%E6%AF%92",
+      "tmNumber": "TM006",
+      "type": "毒",
+      "category": "变化",
+      "power": null,
+      "accuracy": 90,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "觉醒力量",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+      "tmNumber": "TM010",
+      "type": "一般",
+      "category": "特殊",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "报恩",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%8A%A5%E6%81%A9",
+      "tmNumber": "TM027",
+      "type": "一般",
+      "category": "物理",
+      "power": null,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "硬撑",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%A1%AC%E6%92%91",
+      "tmNumber": "TM042",
+      "type": "一般",
+      "category": "物理",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20
+    }
+  ],
+  "eggMoves": [
+    {
+      "level": null,
+      "nameCn": "纠缠不休",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%BA%A0%E7%BC%A0%E4%B8%8D%E4%BC%91",
+      "type": "虫",
+      "category": "特殊",
+      "power": 20,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "自我再生",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E6%88%91%E5%86%8D%E7%94%9F",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 5
+    },
+    {
+      "level": null,
+      "nameCn": "黏黏网",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BB%8F%E9%BB%8F%E7%BD%91",
+      "type": "虫",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "超音波",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%B6%85%E9%9F%B3%E6%B3%A2",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": 55,
+      "pp": 20
+    }
+  ],
+  "tutorMoves": [
+    {
+      "level": null,
+      "nameCn": "密语",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AF%86%E8%AF%AD",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    }
+  ]
+}

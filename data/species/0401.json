@@ -1,0 +1,374 @@
+{
+  "num": "0401",
+  "nameCn": "圆法师",
+  "nameEn": "Kricketot",
+  "slug": "圆法师",
+  "path": "/图鉴/圆法师",
+  "formes": [
+    {
+      "key": "Kricketot",
+      "label": "圆法师",
+      "kind": "base",
+      "num": "0401",
+      "sprite": "0401.png",
+      "nameCn": "圆法师",
+      "nameEn": "Kricketot",
+      "types": [
+        "虫"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "蜕皮",
+          "href": "https://wiki.52poke.com/wiki/%E8%9C%95%E7%9A%AE",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "H",
+          "nameCn": "逃跑",
+          "href": "https://wiki.52poke.com/wiki/%E9%80%83%E8%B7%91",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [
+          {
+            "text": "常青森林·晚上",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "森林扩展区·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "森林扩展区·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
+        "static": [],
+        "npc": [],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "圆法师",
+          "alts": null,
+          "slug": "圆法师"
+        },
+        {
+          "nameCn": "音箱蟀",
+          "alts": null,
+          "slug": "音箱蟀"
+        }
+      ],
+      "stats": {
+        "hp": 37,
+        "atk": 25,
+        "def": 41,
+        "spa": 25,
+        "spd": 41,
+        "spe": 25
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "撞击",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%92%9E%E5%87%BB",
+          "type": "一般",
+          "category": "物理",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35
+        },
+        {
+          "level": 1,
+          "nameCn": "叫声",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%8F%AB%E5%A3%B0",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 40
+        },
+        {
+          "level": 1,
+          "nameCn": "忍耐",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%BF%8D%E8%80%90",
+          "type": "一般",
+          "category": "物理",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": 6,
+          "nameCn": "虫之抵抗",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E4%B9%8B%E6%8A%B5%E6%8A%97",
+          "type": "虫",
+          "category": "特殊",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": 16,
+          "nameCn": "虫咬",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+          "type": "虫",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        }
+      ],
+      "tmMoves": [
+        {
+          "level": null,
+          "nameCn": "种子机关枪",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%A7%8D%E5%AD%90%E6%9C%BA%E5%85%B3%E6%9E%AA",
+          "tmNumber": "TM009",
+          "type": "草",
+          "category": "物理",
+          "power": 25,
+          "accuracy": 100,
+          "pp": 30
+        }
+      ],
+      "eggMoves": [],
+      "tutorMoves": [
+        {
+          "level": null,
+          "nameCn": "吵闹",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%90%B5%E9%97%B9",
+          "type": "一般",
+          "category": "特殊",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "虫咬",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+          "type": "虫",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "拼命",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "type": "一般",
+          "category": "物理",
+          "power": null,
+          "accuracy": 100,
+          "pp": 5
+        }
+      ]
+    }
+  ],
+  "types": [
+    "虫"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "蜕皮",
+      "href": "https://wiki.52poke.com/wiki/%E8%9C%95%E7%9A%AE",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "H",
+      "nameCn": "逃跑",
+      "href": "https://wiki.52poke.com/wiki/%E9%80%83%E8%B7%91",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [
+      {
+        "text": "常青森林·晚上",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "森林扩展区·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "森林扩展区·晚上",
+        "href": "/分布/地图捕捉"
+      }
+    ],
+    "static": [],
+    "npc": [],
+    "evolution": []
+  },
+  "evolution": [
+    {
+      "nameCn": "圆法师",
+      "alts": null,
+      "slug": "圆法师"
+    },
+    {
+      "nameCn": "音箱蟀",
+      "alts": null,
+      "slug": "音箱蟀"
+    }
+  ],
+  "stats": {
+    "hp": 37,
+    "atk": 25,
+    "def": 41,
+    "spa": 25,
+    "spd": 41,
+    "spe": 25
+  },
+  "levelMoves": [
+    {
+      "level": 1,
+      "nameCn": "撞击",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%92%9E%E5%87%BB",
+      "type": "一般",
+      "category": "物理",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35
+    },
+    {
+      "level": 1,
+      "nameCn": "叫声",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%8F%AB%E5%A3%B0",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 40
+    },
+    {
+      "level": 1,
+      "nameCn": "忍耐",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%BF%8D%E8%80%90",
+      "type": "一般",
+      "category": "物理",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": 6,
+      "nameCn": "虫之抵抗",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E4%B9%8B%E6%8A%B5%E6%8A%97",
+      "type": "虫",
+      "category": "特殊",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": 16,
+      "nameCn": "虫咬",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+      "type": "虫",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20
+    }
+  ],
+  "tmMoves": [
+    {
+      "level": null,
+      "nameCn": "种子机关枪",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%A7%8D%E5%AD%90%E6%9C%BA%E5%85%B3%E6%9E%AA",
+      "tmNumber": "TM009",
+      "type": "草",
+      "category": "物理",
+      "power": 25,
+      "accuracy": 100,
+      "pp": 30
+    }
+  ],
+  "eggMoves": [],
+  "tutorMoves": [
+    {
+      "level": null,
+      "nameCn": "吵闹",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%90%B5%E9%97%B9",
+      "type": "一般",
+      "category": "特殊",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "虫咬",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%99%AB%E5%92%AC",
+      "type": "虫",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "拼命",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "type": "一般",
+      "category": "物理",
+      "power": null,
+      "accuracy": 100,
+      "pp": 5
+    }
+  ]
+}

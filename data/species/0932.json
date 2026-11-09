@@ -1,0 +1,1356 @@
+{
+  "num": "0932",
+  "nameCn": "盐石宝",
+  "nameEn": "Nacli",
+  "slug": "盐石宝",
+  "path": "/图鉴/盐石宝",
+  "formes": [
+    {
+      "key": "Nacli",
+      "label": "盐石宝",
+      "kind": "base",
+      "num": "0932",
+      "sprite": "0932.png",
+      "nameCn": "盐石宝",
+      "nameEn": "Nacli",
+      "types": [
+        "岩石"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "洁净之盐",
+          "href": "https://wiki.52poke.com/wiki/%E6%B4%81%E5%87%80%E4%B9%8B%E7%9B%90",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "1",
+          "nameCn": "结实",
+          "href": "https://wiki.52poke.com/wiki/%E7%BB%93%E5%AE%9E",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "H",
+          "nameCn": "透明特性",
+          "href": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [
+          {
+            "text": "地鼠洞穴·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "地鼠洞穴·晚上",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "月见山 b1f·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "月见山 b1f·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
+        "static": [],
+        "npc": [],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "盐石宝",
+          "alts": null,
+          "slug": "盐石宝"
+        },
+        {
+          "nameCn": "盐石垒",
+          "alts": null,
+          "slug": "盐石垒"
+        },
+        {
+          "nameCn": "盐石巨灵",
+          "alts": null,
+          "slug": "盐石巨灵"
+        }
+      ],
+      "stats": {
+        "hp": 55,
+        "atk": 55,
+        "def": 75,
+        "spa": 35,
+        "spd": 35,
+        "spe": 25
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "撞击",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%92%9E%E5%87%BB",
+          "type": "一般",
+          "category": "物理",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35
+        },
+        {
+          "level": 1,
+          "nameCn": "变硬",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%8F%98%E7%A1%AC",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 30
+        },
+        {
+          "level": 5,
+          "nameCn": "落石",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%90%BD%E7%9F%B3",
+          "type": "岩石",
+          "category": "物理",
+          "power": 50,
+          "accuracy": 90,
+          "pp": 15
+        },
+        {
+          "level": 10,
+          "nameCn": "击落",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%87%BB%E8%90%BD",
+          "type": "岩石",
+          "category": "物理",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": 13,
+          "nameCn": "岩石打磨",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%B2%A9%E7%9F%B3%E6%89%93%E7%A3%A8",
+          "type": "岩石",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": 16,
+          "nameCn": "头锤",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%A4%B4%E9%94%A4",
+          "type": "一般",
+          "category": "物理",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": 20,
+          "nameCn": "铁壁",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%93%81%E5%A3%81",
+          "type": "钢",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 15
+        },
+        {
+          "level": 25,
+          "nameCn": "自我再生",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E6%88%91%E5%86%8D%E7%94%9F",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        },
+        {
+          "level": 30,
+          "nameCn": "岩崩",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%B2%A9%E5%B4%A9",
+          "type": "岩石",
+          "category": "物理",
+          "power": 75,
+          "accuracy": 90,
+          "pp": 10
+        },
+        {
+          "level": 33,
+          "nameCn": "隐形岩",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%9A%90%E5%BD%A2%E5%B2%A9",
+          "type": "岩石",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": 35,
+          "nameCn": "重磅冲撞",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%87%8D%E7%A3%85%E5%86%B2%E6%92%9E",
+          "type": "钢",
+          "category": "物理",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": 40,
+          "nameCn": "地震",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E9%9C%87",
+          "type": "地面",
+          "category": "物理",
+          "power": 100,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": 45,
+          "nameCn": "尖石攻击",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%B0%96%E7%9F%B3%E6%94%BB%E5%87%BB",
+          "type": "岩石",
+          "category": "物理",
+          "power": 100,
+          "accuracy": 80,
+          "pp": 5
+        }
+      ],
+      "tmMoves": [
+        {
+          "level": null,
+          "nameCn": "剧毒",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%89%A7%E6%AF%92",
+          "tmNumber": "TM006",
+          "type": "毒",
+          "category": "变化",
+          "power": null,
+          "accuracy": 90,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "意念头锤",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%84%8F%E5%BF%B5%E5%A4%B4%E9%94%A4",
+          "tmNumber": "TM008",
+          "type": "超能力",
+          "category": "物理",
+          "power": 80,
+          "accuracy": 90,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "觉醒力量",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+          "tmNumber": "TM010",
+          "type": "一般",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "守住",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AE%88%E4%BD%8F",
+          "tmNumber": "TM017",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "铁头",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%93%81%E5%A4%B4",
+          "tmNumber": "TM023",
+          "type": "钢",
+          "category": "物理",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "地震",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E9%9C%87",
+          "tmNumber": "TM026",
+          "type": "地面",
+          "category": "物理",
+          "power": 100,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "报恩",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%8A%A5%E6%81%A9",
+          "tmNumber": "TM027",
+          "type": "一般",
+          "category": "物理",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "挖洞",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%8C%96%E6%B4%9E",
+          "tmNumber": "TM028",
+          "type": "地面",
+          "category": "物理",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "硬撑",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%A1%AC%E6%92%91",
+          "tmNumber": "TM042",
+          "type": "一般",
+          "category": "物理",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "睡觉",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%9D%A1%E8%A7%89",
+          "tmNumber": "TM044",
+          "type": "超能力",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        },
+        {
+          "level": null,
+          "nameCn": "跺脚",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%B7%BA%E8%84%9A",
+          "tmNumber": "TM069",
+          "type": "地面",
+          "category": "物理",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "尖石攻击",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%B0%96%E7%9F%B3%E6%94%BB%E5%87%BB",
+          "tmNumber": "TM071",
+          "type": "岩石",
+          "category": "物理",
+          "power": 100,
+          "accuracy": 80,
+          "pp": 5
+        },
+        {
+          "level": null,
+          "nameCn": "大地之力",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E5%9C%B0%E4%B9%8B%E5%8A%9B",
+          "tmNumber": "TM076",
+          "type": "地面",
+          "category": "特殊",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "岩崩",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%B2%A9%E5%B4%A9",
+          "tmNumber": "TM080",
+          "type": "岩石",
+          "category": "物理",
+          "power": 75,
+          "accuracy": 90,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "梦话",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%A2%A6%E8%AF%9D",
+          "tmNumber": "TM082",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "加农光炮",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E5%86%9C%E5%85%89%E7%82%AE",
+          "tmNumber": "TM091",
+          "type": "钢",
+          "category": "特殊",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "重踏",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%87%8D%E8%B8%8F",
+          "tmNumber": "TM096",
+          "type": "地面",
+          "category": "物理",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        }
+      ],
+      "eggMoves": [
+        {
+          "level": null,
+          "nameCn": "原始之力",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%8E%9F%E5%A7%8B%E4%B9%8B%E5%8A%9B",
+          "type": "岩石",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5
+        },
+        {
+          "level": null,
+          "nameCn": "诅咒",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%AF%85%E5%92%92",
+          "type": "幽灵",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "力量宝石",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%AE%9D%E7%9F%B3",
+          "type": "岩石",
+          "category": "特殊",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 20
+        }
+      ],
+      "tutorMoves": [
+        {
+          "level": null,
+          "nameCn": "帮助",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%B8%AE%E5%8A%A9",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "铁壁",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%93%81%E5%A3%81",
+          "type": "钢",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "铁头",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%93%81%E5%A4%B4",
+          "type": "钢",
+          "category": "物理",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "岩石打磨",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%B2%A9%E7%9F%B3%E6%89%93%E7%A3%A8",
+          "type": "岩石",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "隐形岩",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%9A%90%E5%BD%A2%E5%B2%A9",
+          "type": "岩石",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "击落",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%87%BB%E8%90%BD",
+          "type": "岩石",
+          "category": "物理",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "密语",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AF%86%E8%AF%AD",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "替身",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%9B%BF%E8%BA%AB",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "泰山压顶",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%B3%B0%E5%B1%B1%E5%8E%8B%E9%A1%B6",
+          "type": "一般",
+          "category": "物理",
+          "power": 85,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "重磅冲撞",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%87%8D%E7%A3%85%E5%86%B2%E6%92%9E",
+          "type": "钢",
+          "category": "物理",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "大晴天",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E6%99%B4%E5%A4%A9",
+          "type": "火",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        },
+        {
+          "level": null,
+          "nameCn": "沙暴",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%B2%99%E6%9A%B4",
+          "type": "岩石",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "力量宝石",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%AE%9D%E7%9F%B3",
+          "type": "岩石",
+          "category": "特殊",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "求雨",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%B1%82%E9%9B%A8",
+          "type": "水",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        }
+      ]
+    }
+  ],
+  "types": [
+    "岩石"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "洁净之盐",
+      "href": "https://wiki.52poke.com/wiki/%E6%B4%81%E5%87%80%E4%B9%8B%E7%9B%90",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "1",
+      "nameCn": "结实",
+      "href": "https://wiki.52poke.com/wiki/%E7%BB%93%E5%AE%9E",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "H",
+      "nameCn": "透明特性",
+      "href": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [
+      {
+        "text": "地鼠洞穴·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "地鼠洞穴·晚上",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "月见山 b1f·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "月见山 b1f·晚上",
+        "href": "/分布/地图捕捉"
+      }
+    ],
+    "static": [],
+    "npc": [],
+    "evolution": []
+  },
+  "evolution": [
+    {
+      "nameCn": "盐石宝",
+      "alts": null,
+      "slug": "盐石宝"
+    },
+    {
+      "nameCn": "盐石垒",
+      "alts": null,
+      "slug": "盐石垒"
+    },
+    {
+      "nameCn": "盐石巨灵",
+      "alts": null,
+      "slug": "盐石巨灵"
+    }
+  ],
+  "stats": {
+    "hp": 55,
+    "atk": 55,
+    "def": 75,
+    "spa": 35,
+    "spd": 35,
+    "spe": 25
+  },
+  "levelMoves": [
+    {
+      "level": 1,
+      "nameCn": "撞击",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%92%9E%E5%87%BB",
+      "type": "一般",
+      "category": "物理",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35
+    },
+    {
+      "level": 1,
+      "nameCn": "变硬",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%8F%98%E7%A1%AC",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 30
+    },
+    {
+      "level": 5,
+      "nameCn": "落石",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%90%BD%E7%9F%B3",
+      "type": "岩石",
+      "category": "物理",
+      "power": 50,
+      "accuracy": 90,
+      "pp": 15
+    },
+    {
+      "level": 10,
+      "nameCn": "击落",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%87%BB%E8%90%BD",
+      "type": "岩石",
+      "category": "物理",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": 13,
+      "nameCn": "岩石打磨",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%B2%A9%E7%9F%B3%E6%89%93%E7%A3%A8",
+      "type": "岩石",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": 16,
+      "nameCn": "头锤",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%A4%B4%E9%94%A4",
+      "type": "一般",
+      "category": "物理",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": 20,
+      "nameCn": "铁壁",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%93%81%E5%A3%81",
+      "type": "钢",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 15
+    },
+    {
+      "level": 25,
+      "nameCn": "自我再生",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E6%88%91%E5%86%8D%E7%94%9F",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 5
+    },
+    {
+      "level": 30,
+      "nameCn": "岩崩",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%B2%A9%E5%B4%A9",
+      "type": "岩石",
+      "category": "物理",
+      "power": 75,
+      "accuracy": 90,
+      "pp": 10
+    },
+    {
+      "level": 33,
+      "nameCn": "隐形岩",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%9A%90%E5%BD%A2%E5%B2%A9",
+      "type": "岩石",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": 35,
+      "nameCn": "重磅冲撞",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%87%8D%E7%A3%85%E5%86%B2%E6%92%9E",
+      "type": "钢",
+      "category": "物理",
+      "power": null,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": 40,
+      "nameCn": "地震",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E9%9C%87",
+      "type": "地面",
+      "category": "物理",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": 45,
+      "nameCn": "尖石攻击",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%B0%96%E7%9F%B3%E6%94%BB%E5%87%BB",
+      "type": "岩石",
+      "category": "物理",
+      "power": 100,
+      "accuracy": 80,
+      "pp": 5
+    }
+  ],
+  "tmMoves": [
+    {
+      "level": null,
+      "nameCn": "剧毒",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%89%A7%E6%AF%92",
+      "tmNumber": "TM006",
+      "type": "毒",
+      "category": "变化",
+      "power": null,
+      "accuracy": 90,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "意念头锤",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%84%8F%E5%BF%B5%E5%A4%B4%E9%94%A4",
+      "tmNumber": "TM008",
+      "type": "超能力",
+      "category": "物理",
+      "power": 80,
+      "accuracy": 90,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "觉醒力量",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+      "tmNumber": "TM010",
+      "type": "一般",
+      "category": "特殊",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "守住",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AE%88%E4%BD%8F",
+      "tmNumber": "TM017",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "铁头",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%93%81%E5%A4%B4",
+      "tmNumber": "TM023",
+      "type": "钢",
+      "category": "物理",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "地震",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E9%9C%87",
+      "tmNumber": "TM026",
+      "type": "地面",
+      "category": "物理",
+      "power": 100,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "报恩",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%8A%A5%E6%81%A9",
+      "tmNumber": "TM027",
+      "type": "一般",
+      "category": "物理",
+      "power": null,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "挖洞",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%8C%96%E6%B4%9E",
+      "tmNumber": "TM028",
+      "type": "地面",
+      "category": "物理",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "硬撑",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%A1%AC%E6%92%91",
+      "tmNumber": "TM042",
+      "type": "一般",
+      "category": "物理",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "睡觉",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%9D%A1%E8%A7%89",
+      "tmNumber": "TM044",
+      "type": "超能力",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 5
+    },
+    {
+      "level": null,
+      "nameCn": "跺脚",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%B7%BA%E8%84%9A",
+      "tmNumber": "TM069",
+      "type": "地面",
+      "category": "物理",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "尖石攻击",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%B0%96%E7%9F%B3%E6%94%BB%E5%87%BB",
+      "tmNumber": "TM071",
+      "type": "岩石",
+      "category": "物理",
+      "power": 100,
+      "accuracy": 80,
+      "pp": 5
+    },
+    {
+      "level": null,
+      "nameCn": "大地之力",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E5%9C%B0%E4%B9%8B%E5%8A%9B",
+      "tmNumber": "TM076",
+      "type": "地面",
+      "category": "特殊",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "岩崩",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%B2%A9%E5%B4%A9",
+      "tmNumber": "TM080",
+      "type": "岩石",
+      "category": "物理",
+      "power": 75,
+      "accuracy": 90,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "梦话",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%A2%A6%E8%AF%9D",
+      "tmNumber": "TM082",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "加农光炮",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E5%86%9C%E5%85%89%E7%82%AE",
+      "tmNumber": "TM091",
+      "type": "钢",
+      "category": "特殊",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "重踏",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%87%8D%E8%B8%8F",
+      "tmNumber": "TM096",
+      "type": "地面",
+      "category": "物理",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20
+    }
+  ],
+  "eggMoves": [
+    {
+      "level": null,
+      "nameCn": "原始之力",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%8E%9F%E5%A7%8B%E4%B9%8B%E5%8A%9B",
+      "type": "岩石",
+      "category": "特殊",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 5
+    },
+    {
+      "level": null,
+      "nameCn": "诅咒",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%AF%85%E5%92%92",
+      "type": "幽灵",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "力量宝石",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%AE%9D%E7%9F%B3",
+      "type": "岩石",
+      "category": "特殊",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 20
+    }
+  ],
+  "tutorMoves": [
+    {
+      "level": null,
+      "nameCn": "帮助",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%B8%AE%E5%8A%A9",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "铁壁",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%93%81%E5%A3%81",
+      "type": "钢",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "铁头",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%93%81%E5%A4%B4",
+      "type": "钢",
+      "category": "物理",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "岩石打磨",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%B2%A9%E7%9F%B3%E6%89%93%E7%A3%A8",
+      "type": "岩石",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "隐形岩",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%9A%90%E5%BD%A2%E5%B2%A9",
+      "type": "岩石",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "击落",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%87%BB%E8%90%BD",
+      "type": "岩石",
+      "category": "物理",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "密语",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AF%86%E8%AF%AD",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "替身",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%9B%BF%E8%BA%AB",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "泰山压顶",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%B3%B0%E5%B1%B1%E5%8E%8B%E9%A1%B6",
+      "type": "一般",
+      "category": "物理",
+      "power": 85,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "重磅冲撞",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%87%8D%E7%A3%85%E5%86%B2%E6%92%9E",
+      "type": "钢",
+      "category": "物理",
+      "power": null,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "大晴天",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E6%99%B4%E5%A4%A9",
+      "type": "火",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 5
+    },
+    {
+      "level": null,
+      "nameCn": "沙暴",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%B2%99%E6%9A%B4",
+      "type": "岩石",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "力量宝石",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%AE%9D%E7%9F%B3",
+      "type": "岩石",
+      "category": "特殊",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "求雨",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%B1%82%E9%9B%A8",
+      "type": "水",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 5
+    }
+  ]
+}

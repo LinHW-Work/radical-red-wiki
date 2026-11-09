@@ -1,0 +1,566 @@
+{
+  "num": "0840",
+  "nameCn": "啃果虫",
+  "nameEn": "Applin",
+  "slug": "啃果虫",
+  "path": "/图鉴/啃果虫",
+  "formes": [
+    {
+      "key": "Applin",
+      "label": "啃果虫",
+      "kind": "base",
+      "num": "0840",
+      "sprite": "0840.png",
+      "nameCn": "啃果虫",
+      "nameEn": "Applin",
+      "types": [
+        "草",
+        "龙"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "熟成",
+          "href": "https://wiki.52poke.com/wiki/%E7%86%9F%E6%88%90",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "1",
+          "nameCn": "贪吃鬼",
+          "href": "https://wiki.52poke.com/wiki/%E8%B4%AA%E5%90%83%E9%AC%BC",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "H",
+          "nameCn": "防弹",
+          "href": "/特性/修改#防弹",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [
+          {
+            "text": "7号道路·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "7号道路·晚上",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "22号道路·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
+        "static": [
+          {
+            "text": "24号道路",
+            "href": "/分布/定点获取"
+          },
+          {
+            "text": "6号道路",
+            "href": "/分布/定点获取"
+          }
+        ],
+        "npc": [],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "啃果虫",
+          "alts": null,
+          "slug": "啃果虫"
+        },
+        {
+          "nameCn": null,
+          "alts": [
+            {
+              "nameCn": "苹裹龙",
+              "slug": "苹裹龙"
+            },
+            {
+              "nameCn": "丰蜜龙",
+              "slug": "丰蜜龙"
+            },
+            {
+              "nameCn": "裹蜜虫",
+              "slug": "裹蜜虫"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "hp": 40,
+        "atk": 40,
+        "def": 80,
+        "spa": 40,
+        "spd": 40,
+        "spe": 20
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "惊吓",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%83%8A%E5%90%93",
+          "type": "幽灵",
+          "category": "物理",
+          "power": 30,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": 1,
+          "nameCn": "缩入壳中",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%BC%A9%E5%85%A5%E5%A3%B3%E4%B8%AD",
+          "type": "水",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 40
+        },
+        {
+          "level": 1,
+          "nameCn": "超级吸取",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%B6%85%E7%BA%A7%E5%90%B8%E5%8F%96",
+          "type": "草",
+          "category": "特殊",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": 1,
+          "nameCn": "龙息",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E6%81%AF",
+          "type": "龙",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 20
+        }
+      ],
+      "tmMoves": [
+        {
+          "level": null,
+          "nameCn": "剧毒",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%89%A7%E6%AF%92",
+          "tmNumber": "TM006",
+          "type": "毒",
+          "category": "变化",
+          "power": null,
+          "accuracy": 90,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "觉醒力量",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+          "tmNumber": "TM010",
+          "type": "一般",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "报恩",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%8A%A5%E6%81%A9",
+          "tmNumber": "TM027",
+          "type": "一般",
+          "category": "物理",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "硬撑",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%A1%AC%E6%92%91",
+          "tmNumber": "TM042",
+          "type": "一般",
+          "category": "物理",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "青草滑梯",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%9D%92%E8%8D%89%E6%BB%91%E6%A2%AF",
+          "tmNumber": "TM054",
+          "type": "草",
+          "category": "物理",
+          "power": 55,
+          "accuracy": 100,
+          "pp": 20
+        }
+      ],
+      "eggMoves": [
+        {
+          "level": null,
+          "nameCn": "变圆",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%8F%98%E5%9C%86",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 40
+        },
+        {
+          "level": null,
+          "nameCn": "回收利用",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%9B%9E%E6%94%B6%E5%88%A9%E7%94%A8",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "滚动",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%BB%9A%E5%8A%A8",
+          "type": "岩石",
+          "category": "物理",
+          "power": 30,
+          "accuracy": 90,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "突袭",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%AA%81%E8%A2%AD",
+          "type": "恶",
+          "category": "物理",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 5
+        }
+      ],
+      "tutorMoves": [
+        {
+          "level": null,
+          "nameCn": "密语",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AF%86%E8%AF%AD",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        }
+      ]
+    }
+  ],
+  "types": [
+    "草",
+    "龙"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "熟成",
+      "href": "https://wiki.52poke.com/wiki/%E7%86%9F%E6%88%90",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "1",
+      "nameCn": "贪吃鬼",
+      "href": "https://wiki.52poke.com/wiki/%E8%B4%AA%E5%90%83%E9%AC%BC",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "H",
+      "nameCn": "防弹",
+      "href": "https://wiki.52poke.com/wiki/%E9%98%B2%E5%BC%B9",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [
+      {
+        "text": "7号道路·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "7号道路·晚上",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "22号道路·晚上",
+        "href": "/分布/地图捕捉"
+      }
+    ],
+    "static": [
+      {
+        "text": "24号道路",
+        "href": "/分布/定点获取"
+      },
+      {
+        "text": "6号道路",
+        "href": "/分布/定点获取"
+      }
+    ],
+    "npc": [],
+    "evolution": []
+  },
+  "evolution": [
+    {
+      "nameCn": "啃果虫",
+      "alts": null,
+      "slug": "啃果虫"
+    },
+    {
+      "nameCn": null,
+      "alts": [
+        {
+          "nameCn": "苹裹龙",
+          "slug": "苹裹龙"
+        },
+        {
+          "nameCn": "丰蜜龙",
+          "slug": "丰蜜龙"
+        },
+        {
+          "nameCn": "裹蜜虫",
+          "slug": "裹蜜虫"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "hp": 40,
+    "atk": 40,
+    "def": 80,
+    "spa": 40,
+    "spd": 40,
+    "spe": 20
+  },
+  "levelMoves": [
+    {
+      "level": 1,
+      "nameCn": "惊吓",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%83%8A%E5%90%93",
+      "type": "幽灵",
+      "category": "物理",
+      "power": 30,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": 1,
+      "nameCn": "缩入壳中",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%BC%A9%E5%85%A5%E5%A3%B3%E4%B8%AD",
+      "type": "水",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 40
+    },
+    {
+      "level": 1,
+      "nameCn": "超级吸取",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%B6%85%E7%BA%A7%E5%90%B8%E5%8F%96",
+      "type": "草",
+      "category": "特殊",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": 1,
+      "nameCn": "龙息",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E6%81%AF",
+      "type": "龙",
+      "category": "特殊",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 20
+    }
+  ],
+  "tmMoves": [
+    {
+      "level": null,
+      "nameCn": "剧毒",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%89%A7%E6%AF%92",
+      "tmNumber": "TM006",
+      "type": "毒",
+      "category": "变化",
+      "power": null,
+      "accuracy": 90,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "觉醒力量",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+      "tmNumber": "TM010",
+      "type": "一般",
+      "category": "特殊",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "报恩",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%8A%A5%E6%81%A9",
+      "tmNumber": "TM027",
+      "type": "一般",
+      "category": "物理",
+      "power": null,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "硬撑",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%A1%AC%E6%92%91",
+      "tmNumber": "TM042",
+      "type": "一般",
+      "category": "物理",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "青草滑梯",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%9D%92%E8%8D%89%E6%BB%91%E6%A2%AF",
+      "tmNumber": "TM054",
+      "type": "草",
+      "category": "物理",
+      "power": 55,
+      "accuracy": 100,
+      "pp": 20
+    }
+  ],
+  "eggMoves": [
+    {
+      "level": null,
+      "nameCn": "变圆",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%8F%98%E5%9C%86",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 40
+    },
+    {
+      "level": null,
+      "nameCn": "回收利用",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%9B%9E%E6%94%B6%E5%88%A9%E7%94%A8",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "滚动",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%BB%9A%E5%8A%A8",
+      "type": "岩石",
+      "category": "物理",
+      "power": 30,
+      "accuracy": 90,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "突袭",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%AA%81%E8%A2%AD",
+      "type": "恶",
+      "category": "物理",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 5
+    }
+  ],
+  "tutorMoves": [
+    {
+      "level": null,
+      "nameCn": "密语",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AF%86%E8%AF%AD",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    }
+  ]
+}

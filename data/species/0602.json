@@ -1,0 +1,354 @@
+{
+  "num": "0602",
+  "nameCn": "麻麻小鱼",
+  "nameEn": "Tynamo",
+  "slug": "麻麻小鱼",
+  "path": "/图鉴/麻麻小鱼",
+  "formes": [
+    {
+      "key": "Tynamo",
+      "label": "麻麻小鱼",
+      "kind": "base",
+      "num": "0602",
+      "sprite": "0602.png",
+      "nameCn": "麻麻小鱼",
+      "nameEn": "Tynamo",
+      "types": [
+        "电"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "飘浮",
+          "href": "https://wiki.52poke.com/wiki/%E9%A3%98%E6%B5%AE",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [
+          {
+            "text": "10号道路·破旧吊杆",
+            "href": "/分布/地图捕捉"
+          }
+        ],
+        "static": [],
+        "npc": [],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "麻麻小鱼",
+          "alts": null,
+          "slug": "麻麻小鱼"
+        },
+        {
+          "nameCn": "麻麻鳗",
+          "alts": null,
+          "slug": "麻麻鳗"
+        },
+        {
+          "nameCn": "麻麻鳗鱼王",
+          "alts": null,
+          "slug": "麻麻鳗鱼王"
+        }
+      ],
+      "stats": {
+        "hp": 35,
+        "atk": 55,
+        "def": 40,
+        "spa": 45,
+        "spd": 40,
+        "spe": 60
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "撞击",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%92%9E%E5%87%BB",
+          "type": "一般",
+          "category": "物理",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 35
+        },
+        {
+          "level": 1,
+          "nameCn": "电磁波",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%A3%81%E6%B3%A2",
+          "type": "电",
+          "category": "变化",
+          "power": null,
+          "accuracy": 90,
+          "pp": 20
+        },
+        {
+          "level": 1,
+          "nameCn": "电光",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E5%85%89",
+          "type": "电",
+          "category": "物理",
+          "power": 65,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": 1,
+          "nameCn": "充电光束",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%85%85%E7%94%B5%E5%85%89%E6%9D%9F",
+          "type": "电",
+          "category": "特殊",
+          "power": 50,
+          "accuracy": 90,
+          "pp": 10
+        }
+      ],
+      "tmMoves": [
+        {
+          "level": null,
+          "nameCn": "终极吸取",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%BB%88%E6%9E%81%E5%90%B8%E5%8F%96",
+          "tmNumber": "TM019",
+          "type": "草",
+          "category": "特殊",
+          "power": 75,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "电力上升",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E5%8A%9B%E4%B8%8A%E5%8D%87",
+          "tmNumber": "TM058",
+          "type": "电",
+          "category": "特殊",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "电磁波",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%A3%81%E6%B3%A2",
+          "tmNumber": "TM073",
+          "type": "电",
+          "category": "变化",
+          "power": null,
+          "accuracy": 90,
+          "pp": 20
+        }
+      ],
+      "eggMoves": [],
+      "tutorMoves": [
+        {
+          "level": null,
+          "nameCn": "充电光束",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%85%85%E7%94%B5%E5%85%89%E6%9D%9F",
+          "type": "电",
+          "category": "特殊",
+          "power": 50,
+          "accuracy": 90,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "电磁飘浮",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%A3%81%E9%A3%98%E6%B5%AE",
+          "type": "电",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        }
+      ]
+    }
+  ],
+  "types": [
+    "电"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "飘浮",
+      "href": "https://wiki.52poke.com/wiki/%E9%A3%98%E6%B5%AE",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [
+      {
+        "text": "10号道路·破旧吊杆",
+        "href": "/分布/地图捕捉"
+      }
+    ],
+    "static": [],
+    "npc": [],
+    "evolution": []
+  },
+  "evolution": [
+    {
+      "nameCn": "麻麻小鱼",
+      "alts": null,
+      "slug": "麻麻小鱼"
+    },
+    {
+      "nameCn": "麻麻鳗",
+      "alts": null,
+      "slug": "麻麻鳗"
+    },
+    {
+      "nameCn": "麻麻鳗鱼王",
+      "alts": null,
+      "slug": "麻麻鳗鱼王"
+    }
+  ],
+  "stats": {
+    "hp": 35,
+    "atk": 55,
+    "def": 40,
+    "spa": 45,
+    "spd": 40,
+    "spe": 60
+  },
+  "levelMoves": [
+    {
+      "level": 1,
+      "nameCn": "撞击",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%92%9E%E5%87%BB",
+      "type": "一般",
+      "category": "物理",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35
+    },
+    {
+      "level": 1,
+      "nameCn": "电磁波",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%A3%81%E6%B3%A2",
+      "type": "电",
+      "category": "变化",
+      "power": null,
+      "accuracy": 90,
+      "pp": 20
+    },
+    {
+      "level": 1,
+      "nameCn": "电光",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E5%85%89",
+      "type": "电",
+      "category": "物理",
+      "power": 65,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": 1,
+      "nameCn": "充电光束",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%85%85%E7%94%B5%E5%85%89%E6%9D%9F",
+      "type": "电",
+      "category": "特殊",
+      "power": 50,
+      "accuracy": 90,
+      "pp": 10
+    }
+  ],
+  "tmMoves": [
+    {
+      "level": null,
+      "nameCn": "终极吸取",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%BB%88%E6%9E%81%E5%90%B8%E5%8F%96",
+      "tmNumber": "TM019",
+      "type": "草",
+      "category": "特殊",
+      "power": 75,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "电力上升",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E5%8A%9B%E4%B8%8A%E5%8D%87",
+      "tmNumber": "TM058",
+      "type": "电",
+      "category": "特殊",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "电磁波",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%A3%81%E6%B3%A2",
+      "tmNumber": "TM073",
+      "type": "电",
+      "category": "变化",
+      "power": null,
+      "accuracy": 90,
+      "pp": 20
+    }
+  ],
+  "eggMoves": [],
+  "tutorMoves": [
+    {
+      "level": null,
+      "nameCn": "充电光束",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%85%85%E7%94%B5%E5%85%89%E6%9D%9F",
+      "type": "电",
+      "category": "特殊",
+      "power": 50,
+      "accuracy": 90,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "电磁飘浮",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E7%A3%81%E9%A3%98%E6%B5%AE",
+      "type": "电",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    }
+  ]
+}

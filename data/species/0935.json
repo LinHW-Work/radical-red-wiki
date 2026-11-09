@@ -1,0 +1,968 @@
+{
+  "num": "0935",
+  "nameCn": "炭小侍",
+  "nameEn": "Charcadet",
+  "slug": "炭小侍",
+  "path": "/图鉴/炭小侍",
+  "formes": [
+    {
+      "key": "Charcadet",
+      "label": "炭小侍",
+      "kind": "base",
+      "num": "0935",
+      "sprite": "0935.png",
+      "nameCn": "炭小侍",
+      "nameEn": "Charcadet",
+      "types": [
+        "火"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "引火",
+          "href": "https://wiki.52poke.com/wiki/%E5%BC%95%E7%81%AB",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "H",
+          "nameCn": "火焰之躯",
+          "href": "/特性/修改#火焰之躯",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [
+          {
+            "text": "24号道路·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "24号道路·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
+        "static": [
+          {
+            "text": "24号道路",
+            "href": "/分布/定点获取"
+          }
+        ],
+        "npc": [],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "炭小侍",
+          "alts": null,
+          "slug": "炭小侍"
+        },
+        {
+          "nameCn": null,
+          "alts": [
+            {
+              "nameCn": "红莲铠骑",
+              "slug": "红莲铠骑"
+            },
+            {
+              "nameCn": "苍炎刃鬼",
+              "slug": "苍炎刃鬼"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "hp": 40,
+        "atk": 50,
+        "def": 40,
+        "spa": 50,
+        "spd": 40,
+        "spe": 35
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "火花",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%81%AB%E8%8A%B1",
+          "type": "火",
+          "category": "特殊",
+          "power": 40,
+          "accuracy": 100,
+          "pp": 25
+        },
+        {
+          "level": 1,
+          "nameCn": "惊吓",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%83%8A%E5%90%93",
+          "type": "幽灵",
+          "category": "物理",
+          "power": 30,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": 1,
+          "nameCn": "瞪眼",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%9E%AA%E7%9C%BC",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 30
+        },
+        {
+          "level": 8,
+          "nameCn": "清除之烟",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%B8%85%E9%99%A4%E4%B9%8B%E7%83%9F",
+          "type": "毒",
+          "category": "特殊",
+          "power": 50,
+          "accuracy": null,
+          "pp": 15
+        },
+        {
+          "level": 12,
+          "nameCn": "火焰旋涡",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%81%AB%E7%84%B0%E6%97%8B%E6%B6%A1",
+          "type": "火",
+          "category": "特殊",
+          "power": 35,
+          "accuracy": 85,
+          "pp": 15
+        },
+        {
+          "level": 16,
+          "nameCn": "鬼火",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+          "type": "火",
+          "category": "变化",
+          "power": null,
+          "accuracy": 85,
+          "pp": 15
+        },
+        {
+          "level": 20,
+          "nameCn": "黑夜魔影",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BB%91%E5%A4%9C%E9%AD%94%E5%BD%B1",
+          "type": "幽灵",
+          "category": "特殊",
+          "power": null,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": 24,
+          "nameCn": "蓄能焰袭",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%93%84%E8%83%BD%E7%84%B0%E8%A2%AD",
+          "type": "火",
+          "category": "物理",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": 28,
+          "nameCn": "烧尽",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+          "type": "火",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": 32,
+          "nameCn": "喷烟",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%96%B7%E7%83%9F",
+          "type": "火",
+          "category": "特殊",
+          "power": 80,
+          "accuracy": 100,
+          "pp": 15
+        }
+      ],
+      "tmMoves": [
+        {
+          "level": null,
+          "nameCn": "剧毒",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%89%A7%E6%AF%92",
+          "tmNumber": "TM006",
+          "type": "毒",
+          "category": "变化",
+          "power": null,
+          "accuracy": 90,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "热风",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%83%AD%E9%A3%8E",
+          "tmNumber": "TM007",
+          "type": "火",
+          "category": "特殊",
+          "power": 95,
+          "accuracy": 90,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "觉醒力量",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+          "tmNumber": "TM010",
+          "type": "一般",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "守住",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AE%88%E4%BD%8F",
+          "tmNumber": "TM017",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "报恩",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%8A%A5%E6%81%A9",
+          "tmNumber": "TM027",
+          "type": "一般",
+          "category": "物理",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "喷射火焰",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%96%B7%E5%B0%84%E7%81%AB%E7%84%B0",
+          "tmNumber": "TM035",
+          "type": "火",
+          "category": "特殊",
+          "power": 90,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "大字爆炎",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E5%AD%97%E7%88%86%E7%82%8E",
+          "tmNumber": "TM038",
+          "type": "火",
+          "category": "特殊",
+          "power": 110,
+          "accuracy": 85,
+          "pp": 5
+        },
+        {
+          "level": null,
+          "nameCn": "硬撑",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%A1%AC%E6%92%91",
+          "tmNumber": "TM042",
+          "type": "一般",
+          "category": "物理",
+          "power": 70,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "睡觉",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%9D%A1%E8%A7%89",
+          "tmNumber": "TM044",
+          "type": "超能力",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        },
+        {
+          "level": null,
+          "nameCn": "过热",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%BF%87%E7%83%AD",
+          "tmNumber": "TM050",
+          "type": "火",
+          "category": "特殊",
+          "power": 130,
+          "accuracy": 90,
+          "pp": 5
+        },
+        {
+          "level": null,
+          "nameCn": "鬼火",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+          "tmNumber": "TM061",
+          "type": "火",
+          "category": "变化",
+          "power": null,
+          "accuracy": 85,
+          "pp": 15
+        },
+        {
+          "level": null,
+          "nameCn": "梦话",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%A2%A6%E8%AF%9D",
+          "tmNumber": "TM082",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        }
+      ],
+      "eggMoves": [
+        {
+          "level": null,
+          "nameCn": "定身法",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AE%9A%E8%BA%AB%E6%B3%95",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "怨恨",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%80%A8%E6%81%A8",
+          "type": "幽灵",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "同命",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%90%8C%E5%91%BD",
+          "type": "幽灵",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        }
+      ],
+      "tutorMoves": [
+        {
+          "level": null,
+          "nameCn": "蓄能焰袭",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%93%84%E8%83%BD%E7%84%B0%E8%A2%AD",
+          "type": "火",
+          "category": "物理",
+          "power": 50,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "帮助",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%B8%AE%E5%8A%A9",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "怨恨",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%80%A8%E6%81%A8",
+          "type": "幽灵",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "密语",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%AF%86%E8%AF%AD",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 20
+        },
+        {
+          "level": null,
+          "nameCn": "替身",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%9B%BF%E8%BA%AB",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 10
+        },
+        {
+          "level": null,
+          "nameCn": "大晴天",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E6%99%B4%E5%A4%A9",
+          "type": "火",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        },
+        {
+          "level": null,
+          "nameCn": "闪焰冲锋",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%97%AA%E7%84%B0%E5%86%B2%E9%94%8B",
+          "type": "火",
+          "category": "物理",
+          "power": 120,
+          "accuracy": 100,
+          "pp": 15
+        }
+      ]
+    }
+  ],
+  "types": [
+    "火"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "引火",
+      "href": "https://wiki.52poke.com/wiki/%E5%BC%95%E7%81%AB",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "H",
+      "nameCn": "火焰之躯",
+      "href": "https://wiki.52poke.com/wiki/%E7%81%AB%E7%84%B0%E4%B9%8B%E8%BA%AF",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [
+      {
+        "text": "24号道路·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "24号道路·晚上",
+        "href": "/分布/地图捕捉"
+      }
+    ],
+    "static": [
+      {
+        "text": "24号道路",
+        "href": "/分布/定点获取"
+      }
+    ],
+    "npc": [],
+    "evolution": []
+  },
+  "evolution": [
+    {
+      "nameCn": "炭小侍",
+      "alts": null,
+      "slug": "炭小侍"
+    },
+    {
+      "nameCn": null,
+      "alts": [
+        {
+          "nameCn": "红莲铠骑",
+          "slug": "红莲铠骑"
+        },
+        {
+          "nameCn": "苍炎刃鬼",
+          "slug": "苍炎刃鬼"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "hp": 40,
+    "atk": 50,
+    "def": 40,
+    "spa": 50,
+    "spd": 40,
+    "spe": 35
+  },
+  "levelMoves": [
+    {
+      "level": 1,
+      "nameCn": "火花",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%81%AB%E8%8A%B1",
+      "type": "火",
+      "category": "特殊",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 25
+    },
+    {
+      "level": 1,
+      "nameCn": "惊吓",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%83%8A%E5%90%93",
+      "type": "幽灵",
+      "category": "物理",
+      "power": 30,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": 1,
+      "nameCn": "瞪眼",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%9E%AA%E7%9C%BC",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 30
+    },
+    {
+      "level": 8,
+      "nameCn": "清除之烟",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%B8%85%E9%99%A4%E4%B9%8B%E7%83%9F",
+      "type": "毒",
+      "category": "特殊",
+      "power": 50,
+      "accuracy": null,
+      "pp": 15
+    },
+    {
+      "level": 12,
+      "nameCn": "火焰旋涡",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%81%AB%E7%84%B0%E6%97%8B%E6%B6%A1",
+      "type": "火",
+      "category": "特殊",
+      "power": 35,
+      "accuracy": 85,
+      "pp": 15
+    },
+    {
+      "level": 16,
+      "nameCn": "鬼火",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+      "type": "火",
+      "category": "变化",
+      "power": null,
+      "accuracy": 85,
+      "pp": 15
+    },
+    {
+      "level": 20,
+      "nameCn": "黑夜魔影",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BB%91%E5%A4%9C%E9%AD%94%E5%BD%B1",
+      "type": "幽灵",
+      "category": "特殊",
+      "power": null,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": 24,
+      "nameCn": "蓄能焰袭",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%93%84%E8%83%BD%E7%84%B0%E8%A2%AD",
+      "type": "火",
+      "category": "物理",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": 28,
+      "nameCn": "烧尽",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+      "type": "火",
+      "category": "特殊",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": 32,
+      "nameCn": "喷烟",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%96%B7%E7%83%9F",
+      "type": "火",
+      "category": "特殊",
+      "power": 80,
+      "accuracy": 100,
+      "pp": 15
+    }
+  ],
+  "tmMoves": [
+    {
+      "level": null,
+      "nameCn": "剧毒",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%89%A7%E6%AF%92",
+      "tmNumber": "TM006",
+      "type": "毒",
+      "category": "变化",
+      "power": null,
+      "accuracy": 90,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "热风",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%83%AD%E9%A3%8E",
+      "tmNumber": "TM007",
+      "type": "火",
+      "category": "特殊",
+      "power": 95,
+      "accuracy": 90,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "觉醒力量",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+      "tmNumber": "TM010",
+      "type": "一般",
+      "category": "特殊",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "守住",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AE%88%E4%BD%8F",
+      "tmNumber": "TM017",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "报恩",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%8A%A5%E6%81%A9",
+      "tmNumber": "TM027",
+      "type": "一般",
+      "category": "物理",
+      "power": null,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "喷射火焰",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%96%B7%E5%B0%84%E7%81%AB%E7%84%B0",
+      "tmNumber": "TM035",
+      "type": "火",
+      "category": "特殊",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "大字爆炎",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E5%AD%97%E7%88%86%E7%82%8E",
+      "tmNumber": "TM038",
+      "type": "火",
+      "category": "特殊",
+      "power": 110,
+      "accuracy": 85,
+      "pp": 5
+    },
+    {
+      "level": null,
+      "nameCn": "硬撑",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%A1%AC%E6%92%91",
+      "tmNumber": "TM042",
+      "type": "一般",
+      "category": "物理",
+      "power": 70,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "睡觉",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%9D%A1%E8%A7%89",
+      "tmNumber": "TM044",
+      "type": "超能力",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 5
+    },
+    {
+      "level": null,
+      "nameCn": "过热",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%BF%87%E7%83%AD",
+      "tmNumber": "TM050",
+      "type": "火",
+      "category": "特殊",
+      "power": 130,
+      "accuracy": 90,
+      "pp": 5
+    },
+    {
+      "level": null,
+      "nameCn": "鬼火",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+      "tmNumber": "TM061",
+      "type": "火",
+      "category": "变化",
+      "power": null,
+      "accuracy": 85,
+      "pp": 15
+    },
+    {
+      "level": null,
+      "nameCn": "梦话",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%A2%A6%E8%AF%9D",
+      "tmNumber": "TM082",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    }
+  ],
+  "eggMoves": [
+    {
+      "level": null,
+      "nameCn": "定身法",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AE%9A%E8%BA%AB%E6%B3%95",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "怨恨",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%80%A8%E6%81%A8",
+      "type": "幽灵",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "同命",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%90%8C%E5%91%BD",
+      "type": "幽灵",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 5
+    }
+  ],
+  "tutorMoves": [
+    {
+      "level": null,
+      "nameCn": "蓄能焰袭",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%93%84%E8%83%BD%E7%84%B0%E8%A2%AD",
+      "type": "火",
+      "category": "物理",
+      "power": 50,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "帮助",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%B8%AE%E5%8A%A9",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "怨恨",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%80%A8%E6%81%A8",
+      "type": "幽灵",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "密语",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%AF%86%E8%AF%AD",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 20
+    },
+    {
+      "level": null,
+      "nameCn": "替身",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%9B%BF%E8%BA%AB",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 10
+    },
+    {
+      "level": null,
+      "nameCn": "大晴天",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E6%99%B4%E5%A4%A9",
+      "type": "火",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 5
+    },
+    {
+      "level": null,
+      "nameCn": "闪焰冲锋",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%97%AA%E7%84%B0%E5%86%B2%E9%94%8B",
+      "type": "火",
+      "category": "物理",
+      "power": 120,
+      "accuracy": 100,
+      "pp": 15
+    }
+  ]
+}

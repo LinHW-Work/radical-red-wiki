@@ -1,0 +1,256 @@
+{
+  "num": "0201",
+  "nameCn": "未知图腾",
+  "nameEn": "Unown",
+  "slug": "未知图腾",
+  "path": "/图鉴/未知图腾",
+  "formes": [
+    {
+      "key": "Unown",
+      "label": "未知图腾",
+      "kind": "base",
+      "num": "0201",
+      "sprite": "0201.png",
+      "nameCn": "未知图腾",
+      "nameEn": "Unown",
+      "types": [
+        "超能力"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "飘浮",
+          "href": "https://wiki.52poke.com/wiki/%E9%A3%98%E6%B5%AE",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [
+          {
+            "text": "宝可梦屋 4f·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "宝可梦屋 4f·晚上",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "轰鸣月的房间·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "轰鸣月的房间·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
+        "static": [],
+        "npc": [],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "未知图腾",
+          "alts": null,
+          "slug": "未知图腾"
+        }
+      ],
+      "stats": {
+        "hp": 48,
+        "atk": 72,
+        "def": 48,
+        "spa": 72,
+        "spd": 48,
+        "spe": 48
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "觉醒力量",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+          "type": "一般",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 15
+        },
+        {
+          "level": 22,
+          "nameCn": "神秘之力",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%A5%9E%E7%A7%98%E4%B9%8B%E5%8A%9B",
+          "type": "超能力",
+          "category": "特殊",
+          "power": 70,
+          "accuracy": 90,
+          "pp": 10
+        },
+        {
+          "level": 34,
+          "nameCn": "Forbidden Spell",
+          "restricted": false,
+          "original": true,
+          "href": "/原创招式/Forbidden Spell",
+          "type": null,
+          "category": null,
+          "power": null,
+          "accuracy": null,
+          "pp": null
+        },
+        {
+          "level": 47,
+          "nameCn": "原始之力",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%8E%9F%E5%A7%8B%E4%B9%8B%E5%8A%9B",
+          "type": "岩石",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 5
+        }
+      ],
+      "tmMoves": [
+        {
+          "level": null,
+          "nameCn": "觉醒力量",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+          "tmNumber": "TM010",
+          "type": "一般",
+          "category": "特殊",
+          "power": 60,
+          "accuracy": 100,
+          "pp": 15
+        }
+      ],
+      "eggMoves": [],
+      "tutorMoves": []
+    }
+  ],
+  "types": [
+    "超能力"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "飘浮",
+      "href": "https://wiki.52poke.com/wiki/%E9%A3%98%E6%B5%AE",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [
+      {
+        "text": "宝可梦屋 4f·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "宝可梦屋 4f·晚上",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "轰鸣月的房间·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "轰鸣月的房间·晚上",
+        "href": "/分布/地图捕捉"
+      }
+    ],
+    "static": [],
+    "npc": [],
+    "evolution": []
+  },
+  "evolution": [
+    {
+      "nameCn": "未知图腾",
+      "alts": null,
+      "slug": "未知图腾"
+    }
+  ],
+  "stats": {
+    "hp": 48,
+    "atk": 72,
+    "def": 48,
+    "spa": 72,
+    "spd": 48,
+    "spe": 48
+  },
+  "levelMoves": [
+    {
+      "level": 1,
+      "nameCn": "觉醒力量",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+      "type": "一般",
+      "category": "特殊",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 15
+    },
+    {
+      "level": 22,
+      "nameCn": "神秘之力",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%A5%9E%E7%A7%98%E4%B9%8B%E5%8A%9B",
+      "type": "超能力",
+      "category": "特殊",
+      "power": 70,
+      "accuracy": 90,
+      "pp": 10
+    },
+    {
+      "level": 34,
+      "nameCn": "Forbidden Spell",
+      "restricted": false,
+      "original": true,
+      "href": "/原创招式/Forbidden Spell",
+      "type": null,
+      "category": null,
+      "power": null,
+      "accuracy": null,
+      "pp": null
+    },
+    {
+      "level": 47,
+      "nameCn": "原始之力",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%8E%9F%E5%A7%8B%E4%B9%8B%E5%8A%9B",
+      "type": "岩石",
+      "category": "特殊",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 5
+    }
+  ],
+  "tmMoves": [
+    {
+      "level": null,
+      "nameCn": "觉醒力量",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%A7%89%E9%86%92%E5%8A%9B%E9%87%8F",
+      "tmNumber": "TM010",
+      "type": "一般",
+      "category": "特殊",
+      "power": 60,
+      "accuracy": 100,
+      "pp": 15
+    }
+  ],
+  "eggMoves": [],
+  "tutorMoves": []
+}

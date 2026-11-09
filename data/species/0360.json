@@ -1,0 +1,320 @@
+{
+  "num": "0360",
+  "nameCn": "小果然",
+  "nameEn": "Wynaut",
+  "slug": "小果然",
+  "path": "/图鉴/小果然",
+  "formes": [
+    {
+      "key": "Wynaut",
+      "label": "小果然",
+      "kind": "base",
+      "num": "0360",
+      "sprite": "0360.png",
+      "nameCn": "小果然",
+      "nameEn": "Wynaut",
+      "types": [
+        "超能力"
+      ],
+      "abilities": [
+        {
+          "slot": "0",
+          "nameCn": "踩影",
+          "href": "https://wiki.52poke.com/wiki/%E8%B8%A9%E5%BD%B1",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        },
+        {
+          "slot": "H",
+          "nameCn": "心灵感应",
+          "href": "https://wiki.52poke.com/wiki/%E5%BF%83%E7%81%B5%E6%84%9F%E5%BA%94",
+          "original": false,
+          "restrictedNameCn": null,
+          "restrictedHref": null,
+          "restrictedOriginal": false
+        }
+      ],
+      "obtains": {
+        "map": [],
+        "static": [],
+        "npc": [],
+        "evolution": []
+      },
+      "evolution": [
+        {
+          "nameCn": "小果然",
+          "alts": null,
+          "slug": "小果然"
+        },
+        {
+          "nameCn": "果然翁",
+          "alts": null,
+          "slug": "果然翁"
+        }
+      ],
+      "stats": {
+        "hp": 95,
+        "atk": 23,
+        "def": 48,
+        "spa": 23,
+        "spd": 48,
+        "spe": 23
+      },
+      "levelMoves": [
+        {
+          "level": 1,
+          "nameCn": "跃起",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E8%B7%83%E8%B5%B7",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 40
+        },
+        {
+          "level": 1,
+          "nameCn": "撒娇",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%92%92%E5%A8%87",
+          "type": "妖精",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": 1,
+          "nameCn": "再来一次",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 5
+        },
+        {
+          "level": 15,
+          "nameCn": "双倍奉还",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%8F%8C%E5%80%8D%E5%A5%89%E8%BF%98",
+          "type": "格斗",
+          "category": "物理",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": 15,
+          "nameCn": "镜面反射",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%95%9C%E9%9D%A2%E5%8F%8D%E5%B0%84",
+          "type": "超能力",
+          "category": "特殊",
+          "power": null,
+          "accuracy": 100,
+          "pp": 20
+        },
+        {
+          "level": 15,
+          "nameCn": "神秘守护",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E7%A5%9E%E7%A7%98%E5%AE%88%E6%8A%A4",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 25
+        },
+        {
+          "level": 15,
+          "nameCn": "同命",
+          "restricted": true,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%90%8C%E5%91%BD",
+          "type": "幽灵",
+          "category": "变化",
+          "power": null,
+          "accuracy": null,
+          "pp": 5
+        }
+      ],
+      "tmMoves": [],
+      "eggMoves": [],
+      "tutorMoves": [
+        {
+          "level": null,
+          "nameCn": "再来一次",
+          "restricted": false,
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1",
+          "type": "一般",
+          "category": "变化",
+          "power": null,
+          "accuracy": 100,
+          "pp": 5
+        }
+      ]
+    }
+  ],
+  "types": [
+    "超能力"
+  ],
+  "abilities": [
+    {
+      "slot": "0",
+      "nameCn": "踩影",
+      "href": "https://wiki.52poke.com/wiki/%E8%B8%A9%E5%BD%B1",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    },
+    {
+      "slot": "H",
+      "nameCn": "心灵感应",
+      "href": "https://wiki.52poke.com/wiki/%E5%BF%83%E7%81%B5%E6%84%9F%E5%BA%94",
+      "original": false,
+      "restrictedNameCn": null,
+      "restrictedHref": null,
+      "restrictedOriginal": false
+    }
+  ],
+  "obtains": {
+    "map": [],
+    "static": [],
+    "npc": [],
+    "evolution": []
+  },
+  "evolution": [
+    {
+      "nameCn": "小果然",
+      "alts": null,
+      "slug": "小果然"
+    },
+    {
+      "nameCn": "果然翁",
+      "alts": null,
+      "slug": "果然翁"
+    }
+  ],
+  "stats": {
+    "hp": 95,
+    "atk": 23,
+    "def": 48,
+    "spa": 23,
+    "spd": 48,
+    "spe": 23
+  },
+  "levelMoves": [
+    {
+      "level": 1,
+      "nameCn": "跃起",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E8%B7%83%E8%B5%B7",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 40
+    },
+    {
+      "level": 1,
+      "nameCn": "撒娇",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%92%92%E5%A8%87",
+      "type": "妖精",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": 1,
+      "nameCn": "再来一次",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 5
+    },
+    {
+      "level": 15,
+      "nameCn": "双倍奉还",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%8F%8C%E5%80%8D%E5%A5%89%E8%BF%98",
+      "type": "格斗",
+      "category": "物理",
+      "power": null,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": 15,
+      "nameCn": "镜面反射",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%95%9C%E9%9D%A2%E5%8F%8D%E5%B0%84",
+      "type": "超能力",
+      "category": "特殊",
+      "power": null,
+      "accuracy": 100,
+      "pp": 20
+    },
+    {
+      "level": 15,
+      "nameCn": "神秘守护",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E7%A5%9E%E7%A7%98%E5%AE%88%E6%8A%A4",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 25
+    },
+    {
+      "level": 15,
+      "nameCn": "同命",
+      "restricted": true,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%90%8C%E5%91%BD",
+      "type": "幽灵",
+      "category": "变化",
+      "power": null,
+      "accuracy": null,
+      "pp": 5
+    }
+  ],
+  "tmMoves": [],
+  "eggMoves": [],
+  "tutorMoves": [
+    {
+      "level": null,
+      "nameCn": "再来一次",
+      "restricted": false,
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%86%8D%E6%9D%A5%E4%B8%80%E6%AC%A1",
+      "type": "一般",
+      "category": "变化",
+      "power": null,
+      "accuracy": 100,
+      "pp": 5
+    }
+  ]
+}
