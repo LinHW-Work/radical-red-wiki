@@ -60,16 +60,17 @@
       "evolution": [
         {
           "nameCn": "皮丘",
-          "alts": null,
-          "slug": "皮丘"
+          "slug": "皮丘",
+          "alts": null
         },
         {
           "nameCn": "皮卡丘",
-          "alts": null,
-          "slug": "皮卡丘"
+          "slug": "皮卡丘",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "雷丘",
@@ -883,10 +884,10 @@
         },
         {
           "level": null,
-          "nameCn": "Disarm Cry",
+          "nameCn": "魅惑之声",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Disarm Cry",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%AD%85%E6%83%91%E4%B9%8B%E5%A3%B0",
           "type": null,
           "category": null,
           "power": null,
@@ -1017,10 +1018,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1249,8 +1250,8 @@
       "evolution": [
         {
           "nameCn": "Pikachu-Alola",
-          "alts": null,
           "slug": "皮卡丘",
+          "alts": null,
           "forme": "阿罗拉"
         }
       ],
@@ -1983,10 +1984,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -2187,16 +2188,17 @@
   "evolution": [
     {
       "nameCn": "皮丘",
-      "alts": null,
-      "slug": "皮丘"
+      "slug": "皮丘",
+      "alts": null
     },
     {
       "nameCn": "皮卡丘",
-      "alts": null,
-      "slug": "皮卡丘"
+      "slug": "皮卡丘",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "雷丘",
@@ -3010,10 +3012,10 @@
     },
     {
       "level": null,
-      "nameCn": "Disarm Cry",
+      "nameCn": "魅惑之声",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Disarm Cry",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%AD%85%E6%83%91%E4%B9%8B%E5%A3%B0",
       "type": null,
       "category": null,
       "power": null,
@@ -3144,10 +3146,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

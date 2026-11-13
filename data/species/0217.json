@@ -60,18 +60,18 @@
       "evolution": [
         {
           "nameCn": "熊宝宝",
-          "alts": null,
-          "slug": "熊宝宝"
+          "slug": "熊宝宝",
+          "alts": null
         },
         {
           "nameCn": "圈圈熊",
-          "alts": null,
-          "slug": "圈圈熊"
+          "slug": "圈圈熊",
+          "alts": null
         },
         {
           "nameCn": "月月熊",
-          "alts": null,
-          "slug": "月月熊"
+          "slug": "月月熊",
+          "alts": null
         }
       ],
       "stats": {
@@ -1027,27 +1027,15 @@
         },
         {
           "level": null,
-          "nameCn": "地狱突刺",
+          "nameCn": "深渊突刺",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+          "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
           "type": "恶",
           "category": "物理",
           "power": 80,
           "accuracy": 100,
           "pp": 15
-        },
-        {
-          "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
         },
         {
           "level": null,
@@ -1311,14 +1299,14 @@
       "evolution": [
         {
           "nameCn": "熊宝宝-七之岛",
-          "alts": null,
           "slug": "熊宝宝",
+          "alts": null,
           "forme": "七之岛"
         },
         {
           "nameCn": "圈圈熊-七之岛",
-          "alts": null,
           "slug": "圈圈熊",
+          "alts": null,
           "forme": "七之岛"
         }
       ],
@@ -1501,10 +1489,10 @@
         },
         {
           "level": 41,
-          "nameCn": "鬼火",
+          "nameCn": "磷火",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+          "href": "https://wiki.52poke.com/wiki/%E7%A3%B7%E7%81%AB",
           "type": "火",
           "category": "变化",
           "power": null,
@@ -2412,7 +2400,7 @@
     {
       "slot": "1",
       "nameCn": "飞毛腿",
-      "href": "https://wiki.52poke.com/wiki/%E9%A3%9E%E6%AF%9B%E8%85%BF",
+      "href": "/特性/修改#飞毛腿",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -2443,18 +2431,18 @@
   "evolution": [
     {
       "nameCn": "熊宝宝",
-      "alts": null,
-      "slug": "熊宝宝"
+      "slug": "熊宝宝",
+      "alts": null
     },
     {
       "nameCn": "圈圈熊",
-      "alts": null,
-      "slug": "圈圈熊"
+      "slug": "圈圈熊",
+      "alts": null
     },
     {
       "nameCn": "月月熊",
-      "alts": null,
-      "slug": "月月熊"
+      "slug": "月月熊",
+      "alts": null
     }
   ],
   "stats": {
@@ -3410,27 +3398,15 @@
     },
     {
       "level": null,
-      "nameCn": "地狱突刺",
+      "nameCn": "深渊突刺",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+      "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
       "type": "恶",
       "category": "物理",
       "power": 80,
       "accuracy": 100,
       "pp": 15
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

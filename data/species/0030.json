@@ -60,18 +60,18 @@
       "evolution": [
         {
           "nameCn": "尼多兰",
-          "alts": null,
-          "slug": "尼多兰"
+          "slug": "尼多兰",
+          "alts": null
         },
         {
           "nameCn": "尼多娜",
-          "alts": null,
-          "slug": "尼多娜"
+          "slug": "尼多娜",
+          "alts": null
         },
         {
           "nameCn": "尼多后",
-          "alts": null,
-          "slug": "尼多后"
+          "slug": "尼多后",
+          "alts": null
         }
       ],
       "stats": {
@@ -900,7 +900,7 @@
     {
       "slot": "1",
       "nameCn": "斗争心",
-      "href": "https://wiki.52poke.com/wiki/%E6%96%97%E4%BA%89%E5%BF%83",
+      "href": "/特性/修改#斗争心",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -931,18 +931,18 @@
   "evolution": [
     {
       "nameCn": "尼多兰",
-      "alts": null,
-      "slug": "尼多兰"
+      "slug": "尼多兰",
+      "alts": null
     },
     {
       "nameCn": "尼多娜",
-      "alts": null,
-      "slug": "尼多娜"
+      "slug": "尼多娜",
+      "alts": null
     },
     {
       "nameCn": "尼多后",
-      "alts": null,
-      "slug": "尼多后"
+      "slug": "尼多后",
+      "alts": null
     }
   ],
   "stats": {

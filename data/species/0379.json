@@ -19,8 +19,8 @@
       "abilities": [
         {
           "slot": "0",
-          "nameCn": "透明特性",
-          "href": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+          "nameCn": "恒净之躯",
+          "href": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
           "original": false,
           "restrictedNameCn": null,
           "restrictedHref": null,
@@ -41,7 +41,7 @@
         "static": [
           {
             "text": "月见山",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -50,8 +50,8 @@
       "evolution": [
         {
           "nameCn": "雷吉斯奇鲁",
-          "alts": null,
-          "slug": "雷吉斯奇鲁"
+          "slug": "雷吉斯奇鲁",
+          "alts": null
         }
       ],
       "stats": {
@@ -269,10 +269,10 @@
         },
         {
           "level": 66,
-          "nameCn": "双臂平连",
+          "nameCn": "钢拳双击",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8F%8C%E8%87%82%E5%B9%B3%E8%BF%9E",
+          "href": "https://wiki.52poke.com/wiki/%E9%92%A2%E6%8B%B3%E5%8F%8C%E5%87%BB",
           "type": "钢",
           "category": "物理",
           "power": 60,
@@ -1022,8 +1022,8 @@
   "abilities": [
     {
       "slot": "0",
-      "nameCn": "透明特性",
-      "href": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+      "nameCn": "恒净之躯",
+      "href": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1044,7 +1044,7 @@
     "static": [
       {
         "text": "月见山",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -1053,8 +1053,8 @@
   "evolution": [
     {
       "nameCn": "雷吉斯奇鲁",
-      "alts": null,
-      "slug": "雷吉斯奇鲁"
+      "slug": "雷吉斯奇鲁",
+      "alts": null
     }
   ],
   "stats": {
@@ -1272,10 +1272,10 @@
     },
     {
       "level": 66,
-      "nameCn": "双臂平连",
+      "nameCn": "钢拳双击",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8F%8C%E8%87%82%E5%B9%B3%E8%BF%9E",
+      "href": "https://wiki.52poke.com/wiki/%E9%92%A2%E6%8B%B3%E5%8F%8C%E5%87%BB",
       "type": "钢",
       "category": "物理",
       "power": 60,

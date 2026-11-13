@@ -42,7 +42,7 @@
         "static": [
           {
             "text": "第1岛灯火山",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -51,8 +51,8 @@
       "evolution": [
         {
           "nameCn": "席多蓝恩",
-          "alts": null,
-          "slug": "席多蓝恩"
+          "slug": "席多蓝恩",
+          "alts": null
         }
       ],
       "stats": {
@@ -928,7 +928,7 @@
     {
       "slot": "H",
       "nameCn": "火焰之躯",
-      "href": "https://wiki.52poke.com/wiki/%E7%81%AB%E7%84%B0%E4%B9%8B%E8%BA%AF",
+      "href": "/特性/修改#火焰之躯",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -940,7 +940,7 @@
     "static": [
       {
         "text": "第1岛灯火山",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -949,8 +949,8 @@
   "evolution": [
     {
       "nameCn": "席多蓝恩",
-      "alts": null,
-      "slug": "席多蓝恩"
+      "slug": "席多蓝恩",
+      "alts": null
     }
   ],
   "stats": {

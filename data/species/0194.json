@@ -53,7 +53,7 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "21a号道路·白天",
+            "text": "21号道路（靠近真新镇）·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -64,13 +64,13 @@
       "evolution": [
         {
           "nameCn": "乌波",
-          "alts": null,
-          "slug": "乌波"
+          "slug": "乌波",
+          "alts": null
         },
         {
           "nameCn": "沼王",
-          "alts": null,
-          "slug": "沼王"
+          "slug": "沼王",
+          "alts": null
         }
       ],
       "stats": {
@@ -999,7 +999,7 @@
       "obtains": {
         "map": [
           {
-            "text": "21a号道路·晚上",
+            "text": "21号道路（靠近真新镇）·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -1010,14 +1010,14 @@
       "evolution": [
         {
           "nameCn": "乌波-帕底亚",
-          "alts": null,
           "slug": "乌波",
+          "alts": null,
           "forme": "帕底亚"
         },
         {
           "nameCn": "土王",
-          "alts": null,
-          "slug": "土王"
+          "slug": "土王",
+          "alts": null
         }
       ],
       "stats": {
@@ -1711,18 +1711,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "密语",
           "restricted": false,
           "original": false,
@@ -1872,7 +1860,7 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "21a号道路·白天",
+        "text": "21号道路（靠近真新镇）·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1883,13 +1871,13 @@
   "evolution": [
     {
       "nameCn": "乌波",
-      "alts": null,
-      "slug": "乌波"
+      "slug": "乌波",
+      "alts": null
     },
     {
       "nameCn": "沼王",
-      "alts": null,
-      "slug": "沼王"
+      "slug": "沼王",
+      "alts": null
     }
   ],
   "stats": {

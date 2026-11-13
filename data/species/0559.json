@@ -60,7 +60,7 @@
         "static": [
           {
             "text": "11号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -69,13 +69,13 @@
       "evolution": [
         {
           "nameCn": "滑滑小子",
-          "alts": null,
-          "slug": "滑滑小子"
+          "slug": "滑滑小子",
+          "alts": null
         },
         {
           "nameCn": "头巾混混",
-          "alts": null,
-          "slug": "头巾混混"
+          "slug": "头巾混混",
+          "alts": null
         }
       ],
       "stats": {
@@ -1249,7 +1249,7 @@
     "static": [
       {
         "text": "11号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -1258,13 +1258,13 @@
   "evolution": [
     {
       "nameCn": "滑滑小子",
-      "alts": null,
-      "slug": "滑滑小子"
+      "slug": "滑滑小子",
+      "alts": null
     },
     {
       "nameCn": "头巾混混",
-      "alts": null,
-      "slug": "头巾混混"
+      "slug": "头巾混混",
+      "alts": null
     }
   ],
   "stats": {

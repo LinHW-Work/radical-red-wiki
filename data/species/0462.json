@@ -61,18 +61,18 @@
       "evolution": [
         {
           "nameCn": "小磁怪",
-          "alts": null,
-          "slug": "小磁怪"
+          "slug": "小磁怪",
+          "alts": null
         },
         {
           "nameCn": "三合一磁怪",
-          "alts": null,
-          "slug": "三合一磁怪"
+          "slug": "三合一磁怪",
+          "alts": null
         },
         {
           "nameCn": "自爆磁怪",
-          "alts": null,
-          "slug": "自爆磁怪"
+          "slug": "自爆磁怪",
+          "alts": null
         }
       ],
       "stats": {
@@ -1018,18 +1018,18 @@
   "evolution": [
     {
       "nameCn": "小磁怪",
-      "alts": null,
-      "slug": "小磁怪"
+      "slug": "小磁怪",
+      "alts": null
     },
     {
       "nameCn": "三合一磁怪",
-      "alts": null,
-      "slug": "三合一磁怪"
+      "slug": "三合一磁怪",
+      "alts": null
     },
     {
       "nameCn": "自爆磁怪",
-      "alts": null,
-      "slug": "自爆磁怪"
+      "slug": "自爆磁怪",
+      "alts": null
     }
   ],
   "stats": {

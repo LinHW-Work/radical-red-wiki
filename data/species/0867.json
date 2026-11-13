@@ -21,7 +21,7 @@
         {
           "slot": "0",
           "nameCn": "游魂",
-          "href": "https://wiki.52poke.com/wiki/%E6%B8%B8%E9%AD%82",
+          "href": "/特性/原创#游魂",
           "original": false,
           "restrictedNameCn": null,
           "restrictedHref": null,
@@ -31,19 +31,7 @@
       "obtains": {
         "map": [
           {
-            "text": "宝可梦塔 3&5f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "宝可梦塔 4f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "宝可梦塔 6f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "宝可梦塔 7f·晚上",
+            "text": "宝可梦塔·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -60,14 +48,14 @@
       "evolution": [
         {
           "nameCn": "哭哭面具-伽勒尔",
-          "alts": null,
           "slug": "哭哭面具",
+          "alts": null,
           "forme": "伽勒尔"
         },
         {
           "nameCn": "迭失板",
-          "alts": null,
-          "slug": "迭失板"
+          "slug": "迭失板",
+          "alts": null
         }
       ],
       "stats": {
@@ -177,10 +165,10 @@
         },
         {
           "level": 14,
-          "nameCn": "鬼火",
+          "nameCn": "磷火",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+          "href": "https://wiki.52poke.com/wiki/%E7%A3%B7%E7%81%AB",
           "type": "火",
           "category": "变化",
           "power": null,
@@ -201,10 +189,10 @@
         },
         {
           "level": 20,
-          "nameCn": "Crafty Guard",
+          "nameCn": "戏法防守",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Crafty Guard",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%88%8F%E6%B3%95%E9%98%B2%E5%AE%88",
           "type": null,
           "category": null,
           "power": null,
@@ -1036,7 +1024,7 @@
     {
       "slot": "0",
       "nameCn": "游魂",
-      "href": "https://wiki.52poke.com/wiki/%E6%B8%B8%E9%AD%82",
+      "href": "/特性/原创#游魂",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1046,19 +1034,7 @@
   "obtains": {
     "map": [
       {
-        "text": "宝可梦塔 3&5f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "宝可梦塔 4f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "宝可梦塔 6f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "宝可梦塔 7f·晚上",
+        "text": "宝可梦塔·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1075,14 +1051,14 @@
   "evolution": [
     {
       "nameCn": "哭哭面具-伽勒尔",
-      "alts": null,
       "slug": "哭哭面具",
+      "alts": null,
       "forme": "伽勒尔"
     },
     {
       "nameCn": "迭失板",
-      "alts": null,
-      "slug": "迭失板"
+      "slug": "迭失板",
+      "alts": null
     }
   ],
   "stats": {
@@ -1192,10 +1168,10 @@
     },
     {
       "level": 14,
-      "nameCn": "鬼火",
+      "nameCn": "磷火",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+      "href": "https://wiki.52poke.com/wiki/%E7%A3%B7%E7%81%AB",
       "type": "火",
       "category": "变化",
       "power": null,
@@ -1216,10 +1192,10 @@
     },
     {
       "level": 20,
-      "nameCn": "Crafty Guard",
+      "nameCn": "戏法防守",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Crafty Guard",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%88%8F%E6%B3%95%E9%98%B2%E5%AE%88",
       "type": null,
       "category": null,
       "power": null,

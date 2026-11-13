@@ -51,13 +51,13 @@
       "evolution": [
         {
           "nameCn": "狗仔包",
-          "alts": null,
-          "slug": "狗仔包"
+          "slug": "狗仔包",
+          "alts": null
         },
         {
           "nameCn": "麻花犬",
-          "alts": null,
-          "slug": "麻花犬"
+          "slug": "麻花犬",
+          "alts": null
         }
       ],
       "stats": {
@@ -791,13 +791,13 @@
   "evolution": [
     {
       "nameCn": "狗仔包",
-      "alts": null,
-      "slug": "狗仔包"
+      "slug": "狗仔包",
+      "alts": null
     },
     {
       "nameCn": "麻花犬",
-      "alts": null,
-      "slug": "麻花犬"
+      "slug": "麻花犬",
+      "alts": null
     }
   ],
   "stats": {

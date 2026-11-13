@@ -52,13 +52,13 @@
       "evolution": [
         {
           "nameCn": "晶光芽",
-          "alts": null,
-          "slug": "晶光芽"
+          "slug": "晶光芽",
+          "alts": null
         },
         {
           "nameCn": "晶光花",
-          "alts": null,
-          "slug": "晶光花"
+          "slug": "晶光花",
+          "alts": null
         }
       ],
       "stats": {
@@ -228,10 +228,10 @@
         },
         {
           "level": 29,
-          "nameCn": "自爆",
+          "nameCn": "玉石俱碎",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E7%88%86",
+          "href": "https://wiki.52poke.com/wiki/%E7%8E%89%E7%9F%B3%E4%BF%B1%E7%A2%8E",
           "type": "一般",
           "category": "物理",
           "power": 200,
@@ -639,18 +639,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "击落",
           "restricted": false,
           "original": false,
@@ -807,13 +795,13 @@
       "href": "https://wiki.52poke.com/wiki/%E6%AF%92%E6%BB%A1%E5%9C%B0",
       "original": false,
       "restrictedNameCn": "腐蚀",
-      "restrictedHref": "https://wiki.52poke.com/wiki/%E8%85%90%E8%9A%80",
+      "restrictedHref": "/特性/修改#腐蚀",
       "restrictedOriginal": false
     },
     {
       "slot": "H",
       "nameCn": "腐蚀",
-      "href": "https://wiki.52poke.com/wiki/%E8%85%90%E8%9A%80",
+      "href": "/特性/修改#腐蚀",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -835,13 +823,13 @@
   "evolution": [
     {
       "nameCn": "晶光芽",
-      "alts": null,
-      "slug": "晶光芽"
+      "slug": "晶光芽",
+      "alts": null
     },
     {
       "nameCn": "晶光花",
-      "alts": null,
-      "slug": "晶光花"
+      "slug": "晶光花",
+      "alts": null
     }
   ],
   "stats": {
@@ -1011,10 +999,10 @@
     },
     {
       "level": 29,
-      "nameCn": "自爆",
+      "nameCn": "玉石俱碎",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E7%88%86",
+      "href": "https://wiki.52poke.com/wiki/%E7%8E%89%E7%9F%B3%E4%BF%B1%E7%A2%8E",
       "type": "一般",
       "category": "物理",
       "power": 200,
@@ -1419,18 +1407,6 @@
       "power": null,
       "accuracy": null,
       "pp": 20
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

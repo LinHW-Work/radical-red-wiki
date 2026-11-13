@@ -52,11 +52,12 @@
       "evolution": [
         {
           "nameCn": "土居忍士",
-          "alts": null,
-          "slug": "土居忍士"
+          "slug": "土居忍士",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "铁面忍者",
@@ -308,10 +309,10 @@
         },
         {
           "level": 54,
-          "nameCn": "Sonic Slash",
+          "nameCn": "音波斩",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Sonic Slash",
+          "href": "/原创招式#音波斩",
           "type": null,
           "category": null,
           "power": null,
@@ -793,10 +794,10 @@
         },
         {
           "level": null,
-          "nameCn": "钻冲赛道",
+          "nameCn": "直冲钻",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+          "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
           "type": "地面",
           "category": "物理",
           "power": 80,
@@ -977,11 +978,12 @@
   "evolution": [
     {
       "nameCn": "土居忍士",
-      "alts": null,
-      "slug": "土居忍士"
+      "slug": "土居忍士",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "铁面忍者",
@@ -1233,10 +1235,10 @@
     },
     {
       "level": 54,
-      "nameCn": "Sonic Slash",
+      "nameCn": "音波斩",
       "restricted": false,
       "original": true,
-      "href": "/原创招式/Sonic Slash",
+      "href": "/原创招式#音波斩",
       "type": null,
       "category": null,
       "power": null,
@@ -1718,10 +1720,10 @@
     },
     {
       "level": null,
-      "nameCn": "钻冲赛道",
+      "nameCn": "直冲钻",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+      "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
       "type": "地面",
       "category": "物理",
       "power": 80,

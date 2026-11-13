@@ -45,18 +45,18 @@
       "evolution": [
         {
           "nameCn": "夜巡灵",
-          "alts": null,
-          "slug": "夜巡灵"
+          "slug": "夜巡灵",
+          "alts": null
         },
         {
           "nameCn": "彷徨夜灵",
-          "alts": null,
-          "slug": "彷徨夜灵"
+          "slug": "彷徨夜灵",
+          "alts": null
         },
         {
           "nameCn": "黑夜魔灵",
-          "alts": null,
-          "slug": "黑夜魔灵"
+          "slug": "黑夜魔灵",
+          "alts": null
         }
       ],
       "stats": {
@@ -154,10 +154,10 @@
         },
         {
           "level": 25,
-          "nameCn": "鬼火",
+          "nameCn": "磷火",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+          "href": "https://wiki.52poke.com/wiki/%E7%A3%B7%E7%81%AB",
           "type": "火",
           "category": "变化",
           "power": null,
@@ -882,7 +882,7 @@
     {
       "slot": "H",
       "nameCn": "察觉",
-      "href": "https://wiki.52poke.com/wiki/%E5%AF%9F%E8%A7%89",
+      "href": "/特性/修改#察觉",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -898,18 +898,18 @@
   "evolution": [
     {
       "nameCn": "夜巡灵",
-      "alts": null,
-      "slug": "夜巡灵"
+      "slug": "夜巡灵",
+      "alts": null
     },
     {
       "nameCn": "彷徨夜灵",
-      "alts": null,
-      "slug": "彷徨夜灵"
+      "slug": "彷徨夜灵",
+      "alts": null
     },
     {
       "nameCn": "黑夜魔灵",
-      "alts": null,
-      "slug": "黑夜魔灵"
+      "slug": "黑夜魔灵",
+      "alts": null
     }
   ],
   "stats": {
@@ -1007,10 +1007,10 @@
     },
     {
       "level": 25,
-      "nameCn": "鬼火",
+      "nameCn": "磷火",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+      "href": "https://wiki.52poke.com/wiki/%E7%A3%B7%E7%81%AB",
       "type": "火",
       "category": "变化",
       "power": null,

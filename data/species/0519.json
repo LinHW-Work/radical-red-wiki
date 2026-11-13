@@ -64,18 +64,18 @@
       "evolution": [
         {
           "nameCn": "豆豆鸽",
-          "alts": null,
-          "slug": "豆豆鸽"
+          "slug": "豆豆鸽",
+          "alts": null
         },
         {
           "nameCn": "咕咕鸽",
-          "alts": null,
-          "slug": "咕咕鸽"
+          "slug": "咕咕鸽",
+          "alts": null
         },
         {
           "nameCn": "高傲雉鸡",
-          "alts": null,
-          "slug": "高傲雉鸡"
+          "slug": "高傲雉鸡",
+          "alts": null
         }
       ],
       "stats": {
@@ -776,7 +776,7 @@
     {
       "slot": "H",
       "nameCn": "斗争心",
-      "href": "https://wiki.52poke.com/wiki/%E6%96%97%E4%BA%89%E5%BF%83",
+      "href": "/特性/修改#斗争心",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -801,18 +801,18 @@
   "evolution": [
     {
       "nameCn": "豆豆鸽",
-      "alts": null,
-      "slug": "豆豆鸽"
+      "slug": "豆豆鸽",
+      "alts": null
     },
     {
       "nameCn": "咕咕鸽",
-      "alts": null,
-      "slug": "咕咕鸽"
+      "slug": "咕咕鸽",
+      "alts": null
     },
     {
       "nameCn": "高傲雉鸡",
-      "alts": null,
-      "slug": "高傲雉鸡"
+      "slug": "高傲雉鸡",
+      "alts": null
     }
   ],
   "stats": {

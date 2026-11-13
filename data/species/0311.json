@@ -50,8 +50,8 @@
       "evolution": [
         {
           "nameCn": "正电拍拍",
-          "alts": null,
-          "slug": "正电拍拍"
+          "slug": "正电拍拍",
+          "alts": null
         }
       ],
       "stats": {
@@ -984,8 +984,8 @@
   "evolution": [
     {
       "nameCn": "正电拍拍",
-      "alts": null,
-      "slug": "正电拍拍"
+      "slug": "正电拍拍",
+      "alts": null
     }
   ],
   "stats": {

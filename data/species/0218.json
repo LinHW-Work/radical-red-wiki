@@ -48,11 +48,11 @@
       "obtains": {
         "map": [
           {
-            "text": "月见山 b1f·白天",
+            "text": "月见山·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "月见山 b1f·晚上",
+            "text": "月见山·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -63,13 +63,13 @@
       "evolution": [
         {
           "nameCn": "熔岩虫",
-          "alts": null,
-          "slug": "熔岩虫"
+          "slug": "熔岩虫",
+          "alts": null
         },
         {
           "nameCn": "熔岩蜗牛",
-          "alts": null,
-          "slug": "熔岩蜗牛"
+          "slug": "熔岩蜗牛",
+          "alts": null
         }
       ],
       "stats": {
@@ -143,10 +143,10 @@
         },
         {
           "level": 15,
-          "nameCn": "烧尽",
+          "nameCn": "烧净",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
           "type": "火",
           "category": "特殊",
           "power": 60,
@@ -155,10 +155,10 @@
         },
         {
           "level": 18,
-          "nameCn": "鬼火",
+          "nameCn": "磷火",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+          "href": "https://wiki.52poke.com/wiki/%E7%A3%B7%E7%81%AB",
           "type": "火",
           "category": "变化",
           "power": null,
@@ -849,7 +849,7 @@
     {
       "slot": "0",
       "nameCn": "熔岩铠甲",
-      "href": "https://wiki.52poke.com/wiki/%E7%86%94%E5%B2%A9%E9%93%A0%E7%94%B2",
+      "href": "/特性/修改#熔岩铠甲",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -858,7 +858,7 @@
     {
       "slot": "1",
       "nameCn": "火焰之躯",
-      "href": "https://wiki.52poke.com/wiki/%E7%81%AB%E7%84%B0%E4%B9%8B%E8%BA%AF",
+      "href": "/特性/修改#火焰之躯",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -877,11 +877,11 @@
   "obtains": {
     "map": [
       {
-        "text": "月见山 b1f·白天",
+        "text": "月见山·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "月见山 b1f·晚上",
+        "text": "月见山·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -892,13 +892,13 @@
   "evolution": [
     {
       "nameCn": "熔岩虫",
-      "alts": null,
-      "slug": "熔岩虫"
+      "slug": "熔岩虫",
+      "alts": null
     },
     {
       "nameCn": "熔岩蜗牛",
-      "alts": null,
-      "slug": "熔岩蜗牛"
+      "slug": "熔岩蜗牛",
+      "alts": null
     }
   ],
   "stats": {
@@ -972,10 +972,10 @@
     },
     {
       "level": 15,
-      "nameCn": "烧尽",
+      "nameCn": "烧净",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
       "type": "火",
       "category": "特殊",
       "power": 60,
@@ -984,10 +984,10 @@
     },
     {
       "level": 18,
-      "nameCn": "鬼火",
+      "nameCn": "磷火",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+      "href": "https://wiki.52poke.com/wiki/%E7%A3%B7%E7%81%AB",
       "type": "火",
       "category": "变化",
       "power": null,

@@ -49,11 +49,11 @@
       "obtains": {
         "map": [
           {
-            "text": "真新镇·厉害吊杆",
+            "text": "10号道路·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "10号道路·厉害吊杆",
+            "text": "Dynamic·厉害吊杆",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -70,13 +70,13 @@
       "evolution": [
         {
           "nameCn": "泥泥鳅",
-          "alts": null,
-          "slug": "泥泥鳅"
+          "slug": "泥泥鳅",
+          "alts": null
         },
         {
           "nameCn": "鲶鱼王",
-          "alts": null,
-          "slug": "鲶鱼王"
+          "slug": "鲶鱼王",
+          "alts": null
         }
       ],
       "stats": {
@@ -1085,11 +1085,11 @@
   "obtains": {
     "map": [
       {
-        "text": "真新镇·厉害吊杆",
+        "text": "10号道路·厉害吊杆",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "10号道路·厉害吊杆",
+        "text": "Dynamic·厉害吊杆",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1106,13 +1106,13 @@
   "evolution": [
     {
       "nameCn": "泥泥鳅",
-      "alts": null,
-      "slug": "泥泥鳅"
+      "slug": "泥泥鳅",
+      "alts": null
     },
     {
       "nameCn": "鲶鱼王",
-      "alts": null,
-      "slug": "鲶鱼王"
+      "slug": "鲶鱼王",
+      "alts": null
     }
   ],
   "stats": {

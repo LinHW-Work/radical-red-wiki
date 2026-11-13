@@ -49,11 +49,11 @@
       "obtains": {
         "map": [
           {
-            "text": "地鼠洞穴·白天",
+            "text": "月见山·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "月见山 1f·白天",
+            "text": "Diglett's Cave·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -64,18 +64,18 @@
       "evolution": [
         {
           "nameCn": "小拳石",
-          "alts": null,
-          "slug": "小拳石"
+          "slug": "小拳石",
+          "alts": null
         },
         {
           "nameCn": "隆隆石",
-          "alts": null,
-          "slug": "隆隆石"
+          "slug": "隆隆石",
+          "alts": null
         },
         {
           "nameCn": "隆隆岩",
-          "alts": null,
-          "slug": "隆隆岩"
+          "slug": "隆隆岩",
+          "alts": null
         }
       ],
       "stats": {
@@ -209,10 +209,10 @@
         },
         {
           "level": 24,
-          "nameCn": "自爆",
+          "nameCn": "玉石俱碎",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E7%88%86",
+          "href": "https://wiki.52poke.com/wiki/%E7%8E%89%E7%9F%B3%E4%BF%B1%E7%A2%8E",
           "type": "一般",
           "category": "物理",
           "power": 200,
@@ -981,11 +981,11 @@
       "obtains": {
         "map": [
           {
-            "text": "地鼠洞穴·晚上",
+            "text": "月见山·晚上",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "月见山 1f·晚上",
+            "text": "Diglett's Cave·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -996,20 +996,20 @@
       "evolution": [
         {
           "nameCn": "小拳石-阿罗拉",
-          "alts": null,
           "slug": "小拳石",
+          "alts": null,
           "forme": "阿罗拉"
         },
         {
           "nameCn": "隆隆石-阿罗拉",
-          "alts": null,
           "slug": "隆隆石",
+          "alts": null,
           "forme": "阿罗拉"
         },
         {
           "nameCn": "隆隆岩-阿罗拉",
-          "alts": null,
           "slug": "隆隆岩",
+          "alts": null,
           "forme": "阿罗拉"
         }
       ],
@@ -1144,10 +1144,10 @@
         },
         {
           "level": 24,
-          "nameCn": "自爆",
+          "nameCn": "玉石俱碎",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E7%88%86",
+          "href": "https://wiki.52poke.com/wiki/%E7%8E%89%E7%9F%B3%E4%BF%B1%E7%A2%8E",
           "type": "一般",
           "category": "物理",
           "power": 200,
@@ -2009,11 +2009,11 @@
   "obtains": {
     "map": [
       {
-        "text": "地鼠洞穴·白天",
+        "text": "月见山·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "月见山 1f·白天",
+        "text": "Diglett's Cave·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -2024,18 +2024,18 @@
   "evolution": [
     {
       "nameCn": "小拳石",
-      "alts": null,
-      "slug": "小拳石"
+      "slug": "小拳石",
+      "alts": null
     },
     {
       "nameCn": "隆隆石",
-      "alts": null,
-      "slug": "隆隆石"
+      "slug": "隆隆石",
+      "alts": null
     },
     {
       "nameCn": "隆隆岩",
-      "alts": null,
-      "slug": "隆隆岩"
+      "slug": "隆隆岩",
+      "alts": null
     }
   ],
   "stats": {
@@ -2169,10 +2169,10 @@
     },
     {
       "level": 24,
-      "nameCn": "自爆",
+      "nameCn": "玉石俱碎",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E7%88%86",
+      "href": "https://wiki.52poke.com/wiki/%E7%8E%89%E7%9F%B3%E4%BF%B1%E7%A2%8E",
       "type": "一般",
       "category": "物理",
       "power": 200,

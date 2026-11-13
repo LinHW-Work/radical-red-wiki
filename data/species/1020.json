@@ -33,7 +33,7 @@
         "static": [
           {
             "text": "红莲宝可梦屋隐秘区",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -42,8 +42,8 @@
       "evolution": [
         {
           "nameCn": "破空焰",
-          "alts": null,
-          "slug": "破空焰"
+          "slug": "破空焰",
+          "alts": null
         }
       ],
       "stats": {
@@ -57,10 +57,10 @@
       "levelMoves": [
         {
           "level": 1,
-          "nameCn": "烧尽",
+          "nameCn": "烧净",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
           "type": "火",
           "category": "特殊",
           "power": 60,
@@ -600,8 +600,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -1008,7 +1008,7 @@
     "static": [
       {
         "text": "红莲宝可梦屋隐秘区",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -1017,8 +1017,8 @@
   "evolution": [
     {
       "nameCn": "破空焰",
-      "alts": null,
-      "slug": "破空焰"
+      "slug": "破空焰",
+      "alts": null
     }
   ],
   "stats": {
@@ -1032,10 +1032,10 @@
   "levelMoves": [
     {
       "level": 1,
-      "nameCn": "烧尽",
+      "nameCn": "烧净",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
       "type": "火",
       "category": "特殊",
       "power": 60,
@@ -1575,8 +1575,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,

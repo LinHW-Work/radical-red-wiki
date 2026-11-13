@@ -59,8 +59,8 @@
         ],
         "static": [
           {
-            "text": "无人发电厂",
-            "href": "/分布/定点获取"
+            "text": "发电厂",
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -69,8 +69,8 @@
       "evolution": [
         {
           "nameCn": "雷鸟龙",
-          "alts": null,
-          "slug": "雷鸟龙"
+          "slug": "雷鸟龙",
+          "alts": null
         }
       ],
       "stats": {
@@ -517,8 +517,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -900,8 +900,8 @@
     ],
     "static": [
       {
-        "text": "无人发电厂",
-        "href": "/分布/定点获取"
+        "text": "发电厂",
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -910,8 +910,8 @@
   "evolution": [
     {
       "nameCn": "雷鸟龙",
-      "alts": null,
-      "slug": "雷鸟龙"
+      "slug": "雷鸟龙",
+      "alts": null
     }
   ],
   "stats": {
@@ -1358,8 +1358,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,

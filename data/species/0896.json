@@ -31,12 +31,12 @@
         "map": [],
         "static": [
           {
-            "text": "双子岛 1f",
-            "href": "/分布/定点获取"
+            "text": "双子岛",
+            "href": "/分布/极巨巢穴"
           },
           {
-            "text": "双子岛",
-            "href": "/分布/定点获取"
+            "text": "双子岛 1f",
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -45,8 +45,8 @@
       "evolution": [
         {
           "nameCn": "雪暴马",
-          "alts": null,
-          "slug": "雪暴马"
+          "slug": "雪暴马",
+          "alts": null
         }
       ],
       "stats": {
@@ -596,12 +596,12 @@
     "map": [],
     "static": [
       {
-        "text": "双子岛 1f",
-        "href": "/分布/定点获取"
+        "text": "双子岛",
+        "href": "/分布/极巨巢穴"
       },
       {
-        "text": "双子岛",
-        "href": "/分布/定点获取"
+        "text": "双子岛 1f",
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -610,8 +610,8 @@
   "evolution": [
     {
       "nameCn": "雪暴马",
-      "alts": null,
-      "slug": "雪暴马"
+      "slug": "雪暴马",
+      "alts": null
     }
   ],
   "stats": {

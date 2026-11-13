@@ -50,18 +50,18 @@
       "evolution": [
         {
           "nameCn": "暖暖猪",
-          "alts": null,
-          "slug": "暖暖猪"
+          "slug": "暖暖猪",
+          "alts": null
         },
         {
           "nameCn": "炒炒猪",
-          "alts": null,
-          "slug": "炒炒猪"
+          "slug": "炒炒猪",
+          "alts": null
         },
         {
           "nameCn": "炎武王",
-          "alts": null,
-          "slug": "炎武王"
+          "slug": "炎武王",
+          "alts": null
         }
       ],
       "stats": {
@@ -682,10 +682,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -816,10 +816,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -986,18 +986,18 @@
   "evolution": [
     {
       "nameCn": "暖暖猪",
-      "alts": null,
-      "slug": "暖暖猪"
+      "slug": "暖暖猪",
+      "alts": null
     },
     {
       "nameCn": "炒炒猪",
-      "alts": null,
-      "slug": "炒炒猪"
+      "slug": "炒炒猪",
+      "alts": null
     },
     {
       "nameCn": "炎武王",
-      "alts": null,
-      "slug": "炎武王"
+      "slug": "炎武王",
+      "alts": null
     }
   ],
   "stats": {
@@ -1618,10 +1618,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -1752,10 +1752,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

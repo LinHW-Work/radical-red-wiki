@@ -38,7 +38,12 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "点之穴·冲浪",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": [
@@ -52,13 +57,13 @@
       "evolution": [
         {
           "nameCn": "溜溜糖球",
-          "alts": null,
-          "slug": "溜溜糖球"
+          "slug": "溜溜糖球",
+          "alts": null
         },
         {
           "nameCn": "雨翅蛾",
-          "alts": null,
-          "slug": "雨翅蛾"
+          "slug": "雨翅蛾",
+          "alts": null
         }
       ],
       "stats": {
@@ -204,10 +209,10 @@
         },
         {
           "level": 22,
-          "nameCn": "空气斩",
+          "nameCn": "空气之刃",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
           "type": "飞行",
           "category": "特殊",
           "power": 75,
@@ -996,7 +1001,12 @@
     }
   ],
   "obtains": {
-    "map": [],
+    "map": [
+      {
+        "text": "点之穴·冲浪",
+        "href": "/分布/地图捕捉"
+      }
+    ],
     "static": [],
     "npc": [],
     "evolution": [
@@ -1010,13 +1020,13 @@
   "evolution": [
     {
       "nameCn": "溜溜糖球",
-      "alts": null,
-      "slug": "溜溜糖球"
+      "slug": "溜溜糖球",
+      "alts": null
     },
     {
       "nameCn": "雨翅蛾",
-      "alts": null,
-      "slug": "雨翅蛾"
+      "slug": "雨翅蛾",
+      "alts": null
     }
   ],
   "stats": {
@@ -1162,10 +1172,10 @@
     },
     {
       "level": 22,
-      "nameCn": "空气斩",
+      "nameCn": "空气之刃",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
       "type": "飞行",
       "category": "特殊",
       "power": 75,

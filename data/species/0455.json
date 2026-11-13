@@ -30,11 +30,11 @@
       "obtains": {
         "map": [
           {
-            "text": "极西区·白天",
+            "text": "狩猎地带·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "极西区·夜晚",
+            "text": "狩猎地带·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -50,8 +50,8 @@
       "evolution": [
         {
           "nameCn": "尖牙笼",
-          "alts": null,
-          "slug": "尖牙笼"
+          "slug": "尖牙笼",
+          "alts": null
         }
       ],
       "stats": {
@@ -691,10 +691,10 @@
         },
         {
           "level": null,
-          "nameCn": "地狱突刺",
+          "nameCn": "深渊突刺",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+          "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
           "type": "恶",
           "category": "物理",
           "power": 80,
@@ -811,7 +811,16 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "点之穴·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "点之穴·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": []
@@ -819,8 +828,8 @@
       "evolution": [
         {
           "nameCn": "尖牙笼-七之岛",
-          "alts": null,
           "slug": "尖牙笼",
+          "alts": null,
           "forme": "七之岛"
         }
       ],
@@ -1612,18 +1621,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "剑舞",
           "restricted": true,
           "original": false,
@@ -1714,11 +1711,11 @@
   "obtains": {
     "map": [
       {
-        "text": "极西区·白天",
+        "text": "狩猎地带·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "极西区·夜晚",
+        "text": "狩猎地带·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1734,8 +1731,8 @@
   "evolution": [
     {
       "nameCn": "尖牙笼",
-      "alts": null,
-      "slug": "尖牙笼"
+      "slug": "尖牙笼",
+      "alts": null
     }
   ],
   "stats": {
@@ -2375,10 +2372,10 @@
     },
     {
       "level": null,
-      "nameCn": "地狱突刺",
+      "nameCn": "深渊突刺",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+      "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
       "type": "恶",
       "category": "物理",
       "power": 80,

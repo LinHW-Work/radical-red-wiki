@@ -32,7 +32,7 @@
         "static": [
           {
             "text": "第1岛宝可梦中心",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [
@@ -50,16 +50,17 @@
       "evolution": [
         {
           "nameCn": "科斯莫古",
-          "alts": null,
-          "slug": "科斯莫古"
+          "slug": "科斯莫古",
+          "alts": null
         },
         {
           "nameCn": "科斯莫姆",
-          "alts": null,
-          "slug": "科斯莫姆"
+          "slug": "科斯莫姆",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "索尔迦雷欧",
@@ -130,7 +131,7 @@
     "static": [
       {
         "text": "第1岛宝可梦中心",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [
@@ -148,16 +149,17 @@
   "evolution": [
     {
       "nameCn": "科斯莫古",
-      "alts": null,
-      "slug": "科斯莫古"
+      "slug": "科斯莫古",
+      "alts": null
     },
     {
       "nameCn": "科斯莫姆",
-      "alts": null,
-      "slug": "科斯莫姆"
+      "slug": "科斯莫姆",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "索尔迦雷欧",

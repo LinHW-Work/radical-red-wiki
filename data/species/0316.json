@@ -59,13 +59,13 @@
       "evolution": [
         {
           "nameCn": "溶食兽",
-          "alts": null,
-          "slug": "溶食兽"
+          "slug": "溶食兽",
+          "alts": null
         },
         {
           "nameCn": "吞食兽",
-          "alts": null,
-          "slug": "吞食兽"
+          "slug": "吞食兽",
+          "alts": null
         }
       ],
       "stats": {
@@ -719,18 +719,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "密语",
           "restricted": false,
           "original": false,
@@ -886,13 +874,13 @@
   "evolution": [
     {
       "nameCn": "溶食兽",
-      "alts": null,
-      "slug": "溶食兽"
+      "slug": "溶食兽",
+      "alts": null
     },
     {
       "nameCn": "吞食兽",
-      "alts": null,
-      "slug": "吞食兽"
+      "slug": "吞食兽",
+      "alts": null
     }
   ],
   "stats": {
@@ -1543,18 +1531,6 @@
       "power": null,
       "accuracy": 100,
       "pp": 10
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

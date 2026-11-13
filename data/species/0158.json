@@ -50,18 +50,18 @@
       "evolution": [
         {
           "nameCn": "小锯鳄",
-          "alts": null,
-          "slug": "小锯鳄"
+          "slug": "小锯鳄",
+          "alts": null
         },
         {
           "nameCn": "蓝鳄",
-          "alts": null,
-          "slug": "蓝鳄"
+          "slug": "蓝鳄",
+          "alts": null
         },
         {
           "nameCn": "大力鳄",
-          "alts": null,
-          "slug": "大力鳄"
+          "slug": "大力鳄",
+          "alts": null
         }
       ],
       "stats": {
@@ -1142,18 +1142,18 @@
   "evolution": [
     {
       "nameCn": "小锯鳄",
-      "alts": null,
-      "slug": "小锯鳄"
+      "slug": "小锯鳄",
+      "alts": null
     },
     {
       "nameCn": "蓝鳄",
-      "alts": null,
-      "slug": "蓝鳄"
+      "slug": "蓝鳄",
+      "alts": null
     },
     {
       "nameCn": "大力鳄",
-      "alts": null,
-      "slug": "大力鳄"
+      "slug": "大力鳄",
+      "alts": null
     }
   ],
   "stats": {

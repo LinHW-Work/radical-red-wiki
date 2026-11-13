@@ -56,7 +56,7 @@
         "static": [
           {
             "text": "24号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -65,13 +65,13 @@
       "evolution": [
         {
           "nameCn": "滋汁鼹",
-          "alts": null,
-          "slug": "滋汁鼹"
+          "slug": "滋汁鼹",
+          "alts": null
         },
         {
           "nameCn": "涂标客",
-          "alts": null,
-          "slug": "涂标客"
+          "slug": "涂标客",
+          "alts": null
         }
       ],
       "stats": {
@@ -193,10 +193,10 @@
         },
         {
           "level": 25,
-          "nameCn": "U转攻击",
+          "nameCn": "急速折返",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+          "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
           "type": "虫",
           "category": "物理",
           "power": 70,
@@ -600,18 +600,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "剑舞",
           "restricted": true,
           "original": false,
@@ -776,7 +764,7 @@
     "static": [
       {
         "text": "24号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -785,13 +773,13 @@
   "evolution": [
     {
       "nameCn": "滋汁鼹",
-      "alts": null,
-      "slug": "滋汁鼹"
+      "slug": "滋汁鼹",
+      "alts": null
     },
     {
       "nameCn": "涂标客",
-      "alts": null,
-      "slug": "涂标客"
+      "slug": "涂标客",
+      "alts": null
     }
   ],
   "stats": {
@@ -913,10 +901,10 @@
     },
     {
       "level": 25,
-      "nameCn": "U转攻击",
+      "nameCn": "急速折返",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+      "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
       "type": "虫",
       "category": "物理",
       "power": 70,
@@ -1317,18 +1305,6 @@
       "power": null,
       "accuracy": 90,
       "pp": 10
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

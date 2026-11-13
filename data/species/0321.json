@@ -69,13 +69,13 @@
       "evolution": [
         {
           "nameCn": "吼吼鲸",
-          "alts": null,
-          "slug": "吼吼鲸"
+          "slug": "吼吼鲸",
+          "alts": null
         },
         {
           "nameCn": "吼鲸王",
-          "alts": null,
-          "slug": "吼鲸王"
+          "slug": "吼鲸王",
+          "alts": null
         }
       ],
       "stats": {
@@ -1105,13 +1105,13 @@
   "evolution": [
     {
       "nameCn": "吼吼鲸",
-      "alts": null,
-      "slug": "吼吼鲸"
+      "slug": "吼吼鲸",
+      "alts": null
     },
     {
       "nameCn": "吼鲸王",
-      "alts": null,
-      "slug": "吼鲸王"
+      "slug": "吼鲸王",
+      "alts": null
     }
   ],
   "stats": {

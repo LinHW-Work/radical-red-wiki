@@ -39,15 +39,15 @@
       "obtains": {
         "map": [
           {
-            "text": "真新镇·厉害吊杆",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "常青市·破旧吊杆",
+            "text": "真新镇·破旧吊杆",
             "href": "/分布/地图捕捉"
           },
           {
             "text": "19号道路·破旧吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "Dynamic·厉害吊杆",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -58,11 +58,12 @@
       "evolution": [
         {
           "nameCn": "珍珠贝",
-          "alts": null,
-          "slug": "珍珠贝"
+          "slug": "珍珠贝",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "猎斑鱼",
@@ -600,15 +601,15 @@
   "obtains": {
     "map": [
       {
-        "text": "真新镇·厉害吊杆",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "常青市·破旧吊杆",
+        "text": "真新镇·破旧吊杆",
         "href": "/分布/地图捕捉"
       },
       {
         "text": "19号道路·破旧吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "Dynamic·厉害吊杆",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -619,11 +620,12 @@
   "evolution": [
     {
       "nameCn": "珍珠贝",
-      "alts": null,
-      "slug": "珍珠贝"
+      "slug": "珍珠贝",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "猎斑鱼",

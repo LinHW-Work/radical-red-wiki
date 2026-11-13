@@ -42,11 +42,12 @@
       "evolution": [
         {
           "nameCn": "刺尾虫",
-          "alts": null,
-          "slug": "刺尾虫"
+          "slug": "刺尾虫",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "甲壳茧",
@@ -190,11 +191,12 @@
   "evolution": [
     {
       "nameCn": "刺尾虫",
-      "alts": null,
-      "slug": "刺尾虫"
+      "slug": "刺尾虫",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "甲壳茧",

@@ -31,12 +31,12 @@
         "map": [],
         "static": [
           {
-            "text": "宝可梦屋 1f",
-            "href": "/分布/定点获取"
+            "text": "宝可梦屋",
+            "href": "/分布/极巨巢穴"
           },
           {
-            "text": "宝可梦屋",
-            "href": "/分布/定点获取"
+            "text": "宝可梦屋 1f",
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -45,8 +45,8 @@
       "evolution": [
         {
           "nameCn": "灵幽马",
-          "alts": null,
-          "slug": "灵幽马"
+          "slug": "灵幽马",
+          "alts": null
         }
       ],
       "stats": {
@@ -557,12 +557,12 @@
     "map": [],
     "static": [
       {
-        "text": "宝可梦屋 1f",
-        "href": "/分布/定点获取"
+        "text": "宝可梦屋",
+        "href": "/分布/极巨巢穴"
       },
       {
-        "text": "宝可梦屋",
-        "href": "/分布/定点获取"
+        "text": "宝可梦屋 1f",
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -571,8 +571,8 @@
   "evolution": [
     {
       "nameCn": "灵幽马",
-      "alts": null,
-      "slug": "灵幽马"
+      "slug": "灵幽马",
+      "alts": null
     }
   ],
   "stats": {

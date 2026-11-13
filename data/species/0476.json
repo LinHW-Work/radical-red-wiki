@@ -47,7 +47,12 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "岩山隧道·碎岩",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": [
@@ -61,13 +66,13 @@
       "evolution": [
         {
           "nameCn": "朝北鼻",
-          "alts": null,
-          "slug": "朝北鼻"
+          "slug": "朝北鼻",
+          "alts": null
         },
         {
           "nameCn": "大朝北鼻",
-          "alts": null,
-          "slug": "大朝北鼻"
+          "slug": "大朝北鼻",
+          "alts": null
         }
       ],
       "stats": {
@@ -1185,7 +1190,12 @@
     }
   ],
   "obtains": {
-    "map": [],
+    "map": [
+      {
+        "text": "岩山隧道·碎岩",
+        "href": "/分布/地图捕捉"
+      }
+    ],
     "static": [],
     "npc": [],
     "evolution": [
@@ -1199,13 +1209,13 @@
   "evolution": [
     {
       "nameCn": "朝北鼻",
-      "alts": null,
-      "slug": "朝北鼻"
+      "slug": "朝北鼻",
+      "alts": null
     },
     {
       "nameCn": "大朝北鼻",
-      "alts": null,
-      "slug": "大朝北鼻"
+      "slug": "大朝北鼻",
+      "alts": null
     }
   ],
   "stats": {

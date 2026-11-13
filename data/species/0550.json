@@ -52,15 +52,11 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "中心区·厉害吊杆",
+            "text": "狩猎地带·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "西区·厉害吊杆",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "极西区·厉害吊杆",
+            "text": "珍宝海滩·厉害吊杆",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -71,11 +67,12 @@
       "evolution": [
         {
           "nameCn": "野蛮鲈鱼",
-          "alts": null,
-          "slug": "野蛮鲈鱼"
+          "slug": "野蛮鲈鱼",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "幽尾玄鱼",
@@ -280,10 +277,10 @@
         },
         {
           "level": 42,
-          "nameCn": "Aqua Fang",
+          "nameCn": "水流牙",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Aqua Fang",
+          "href": "/原创招式#水流牙",
           "type": null,
           "category": null,
           "power": null,
@@ -712,10 +709,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -774,10 +771,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -991,12 +988,13 @@
       "evolution": [
         {
           "nameCn": "Basculin-White-Striped",
-          "alts": null,
           "slug": "野蛮鲈鱼",
+          "alts": null,
           "forme": "白条纹"
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "幽尾玄鱼",
@@ -1201,10 +1199,10 @@
         },
         {
           "level": 42,
-          "nameCn": "Aqua Fang",
+          "nameCn": "水流牙",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Aqua Fang",
+          "href": "/原创招式#水流牙",
           "type": null,
           "category": null,
           "power": null,
@@ -1633,10 +1631,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1695,10 +1693,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1904,7 +1902,24 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "10号道路·厉害吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "19号道路·冲浪",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "20号道路·厉害吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "22号道路·厉害吊杆",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": []
@@ -1912,12 +1927,13 @@
       "evolution": [
         {
           "nameCn": "Basculin-White-Striped",
-          "alts": null,
           "slug": "野蛮鲈鱼",
+          "alts": null,
           "forme": "白条纹"
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "幽尾玄鱼",
@@ -2122,10 +2138,10 @@
         },
         {
           "level": 42,
-          "nameCn": "Aqua Fang",
+          "nameCn": "水流牙",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Aqua Fang",
+          "href": "/原创招式#水流牙",
           "type": null,
           "category": null,
           "power": null,
@@ -2554,10 +2570,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -2616,10 +2632,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -2792,7 +2808,7 @@
     {
       "slot": "0",
       "nameCn": "舍身",
-      "href": "https://wiki.52poke.com/wiki/%E8%88%8D%E8%BA%AB",
+      "href": "/特性/修改#舍身",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -2824,15 +2840,11 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "中心区·厉害吊杆",
+        "text": "狩猎地带·厉害吊杆",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "西区·厉害吊杆",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "极西区·厉害吊杆",
+        "text": "珍宝海滩·厉害吊杆",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -2843,11 +2855,12 @@
   "evolution": [
     {
       "nameCn": "野蛮鲈鱼",
-      "alts": null,
-      "slug": "野蛮鲈鱼"
+      "slug": "野蛮鲈鱼",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "幽尾玄鱼",
@@ -3052,10 +3065,10 @@
     },
     {
       "level": 42,
-      "nameCn": "Aqua Fang",
+      "nameCn": "水流牙",
       "restricted": false,
       "original": true,
-      "href": "/原创招式/Aqua Fang",
+      "href": "/原创招式#水流牙",
       "type": null,
       "category": null,
       "power": null,
@@ -3484,10 +3497,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -3546,10 +3559,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

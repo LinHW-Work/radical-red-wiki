@@ -667,9 +667,10 @@
     "74": {
       "id": 74,
       "nameEn": "Neutralize Gas",
-      "nameCn": "Neutralize Gas",
+      "nameCn": "化学变化气体",
       "aliases": [
-        "Neutralize Gas"
+        "Neutralize Gas",
+        "Neutralizing Gas"
       ],
       "descriptionEn": "All Abilities are nullified."
     },
@@ -1492,7 +1493,7 @@
     "164": {
       "id": 164,
       "nameEn": "Wandering Soul",
-      "nameCn": "Wandering Soul",
+      "nameCn": "游魂",
       "aliases": [
         "Wandering Soul"
       ],
@@ -1853,9 +1854,10 @@
     "204": {
       "id": 204,
       "nameEn": "Electromrphosis",
-      "nameCn": "Electromrphosis",
+      "nameCn": "电力转换",
       "aliases": [
-        "Electromrphosis"
+        "Electromrphosis",
+        "Electromorphosis"
       ],
       "descriptionEn": "Gains Charge when hit by an attack."
     },
@@ -2171,7 +2173,7 @@
     "239": {
       "id": 239,
       "nameEn": "Valiant Shield",
-      "nameCn": "Valiant Shield",
+      "nameCn": "不屈之盾",
       "aliases": [
         "Valiant Shield"
       ],

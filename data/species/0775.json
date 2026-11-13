@@ -34,7 +34,7 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "宝可梦屋 3f·晚上",
+            "text": "宝可梦屋·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -45,8 +45,8 @@
       "evolution": [
         {
           "nameCn": "树枕尾熊",
-          "alts": null,
-          "slug": "树枕尾熊"
+          "slug": "树枕尾熊",
+          "alts": null
         }
       ],
       "stats": {
@@ -631,10 +631,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -797,7 +797,7 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "宝可梦屋 3f·晚上",
+        "text": "宝可梦屋·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -808,8 +808,8 @@
   "evolution": [
     {
       "nameCn": "树枕尾熊",
-      "alts": null,
-      "slug": "树枕尾熊"
+      "slug": "树枕尾熊",
+      "alts": null
     }
   ],
   "stats": {
@@ -1394,10 +1394,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

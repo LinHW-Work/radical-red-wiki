@@ -63,13 +63,13 @@
       "evolution": [
         {
           "nameCn": "长尾怪手",
-          "alts": null,
-          "slug": "长尾怪手"
+          "slug": "长尾怪手",
+          "alts": null
         },
         {
           "nameCn": "双尾怪手",
-          "alts": null,
-          "slug": "双尾怪手"
+          "slug": "双尾怪手",
+          "alts": null
         }
       ],
       "stats": {
@@ -997,18 +997,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "珍藏",
           "restricted": false,
           "original": false,
@@ -1218,7 +1206,7 @@
     {
       "slot": "1",
       "nameCn": "捡拾",
-      "href": "https://wiki.52poke.com/wiki/%E6%8D%A1%E6%8B%BE",
+      "href": "/特性/修改#捡拾",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1252,13 +1240,13 @@
   "evolution": [
     {
       "nameCn": "长尾怪手",
-      "alts": null,
-      "slug": "长尾怪手"
+      "slug": "长尾怪手",
+      "alts": null
     },
     {
       "nameCn": "双尾怪手",
-      "alts": null,
-      "slug": "双尾怪手"
+      "slug": "双尾怪手",
+      "alts": null
     }
   ],
   "stats": {
@@ -2183,18 +2171,6 @@
       "power": 95,
       "accuracy": 100,
       "pp": 15
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

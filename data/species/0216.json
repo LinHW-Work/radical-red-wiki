@@ -48,11 +48,11 @@
       "obtains": {
         "map": [
           {
-            "text": "月见山 b1f·白天",
+            "text": "月见山·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "月见山 b1f·晚上",
+            "text": "月见山·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -63,18 +63,18 @@
       "evolution": [
         {
           "nameCn": "熊宝宝",
-          "alts": null,
-          "slug": "熊宝宝"
+          "slug": "熊宝宝",
+          "alts": null
         },
         {
           "nameCn": "圈圈熊",
-          "alts": null,
-          "slug": "圈圈熊"
+          "slug": "圈圈熊",
+          "alts": null
         },
         {
           "nameCn": "月月熊",
-          "alts": null,
-          "slug": "月月熊"
+          "slug": "月月熊",
+          "alts": null
         }
       ],
       "stats": {
@@ -929,18 +929,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "巨声",
           "restricted": false,
           "original": false,
@@ -1162,7 +1150,16 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "宝可梦塔·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "宝可梦塔·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": []
@@ -1170,14 +1167,14 @@
       "evolution": [
         {
           "nameCn": "熊宝宝-七之岛",
-          "alts": null,
           "slug": "熊宝宝",
+          "alts": null,
           "forme": "七之岛"
         },
         {
           "nameCn": "圈圈熊-七之岛",
-          "alts": null,
           "slug": "圈圈熊",
+          "alts": null,
           "forme": "七之岛"
         }
       ],
@@ -1336,10 +1333,10 @@
         },
         {
           "level": 40,
-          "nameCn": "鬼火",
+          "nameCn": "磷火",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+          "href": "https://wiki.52poke.com/wiki/%E7%A3%B7%E7%81%AB",
           "type": "火",
           "category": "变化",
           "power": null,
@@ -2200,7 +2197,7 @@
     {
       "slot": "0",
       "nameCn": "捡拾",
-      "href": "https://wiki.52poke.com/wiki/%E6%8D%A1%E6%8B%BE",
+      "href": "/特性/修改#捡拾",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -2209,7 +2206,7 @@
     {
       "slot": "1",
       "nameCn": "飞毛腿",
-      "href": "https://wiki.52poke.com/wiki/%E9%A3%9E%E6%AF%9B%E8%85%BF",
+      "href": "/特性/修改#飞毛腿",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -2228,11 +2225,11 @@
   "obtains": {
     "map": [
       {
-        "text": "月见山 b1f·白天",
+        "text": "月见山·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "月见山 b1f·晚上",
+        "text": "月见山·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -2243,18 +2240,18 @@
   "evolution": [
     {
       "nameCn": "熊宝宝",
-      "alts": null,
-      "slug": "熊宝宝"
+      "slug": "熊宝宝",
+      "alts": null
     },
     {
       "nameCn": "圈圈熊",
-      "alts": null,
-      "slug": "圈圈熊"
+      "slug": "圈圈熊",
+      "alts": null
     },
     {
       "nameCn": "月月熊",
-      "alts": null,
-      "slug": "月月熊"
+      "slug": "月月熊",
+      "alts": null
     }
   ],
   "stats": {
@@ -3106,18 +3103,6 @@
       "power": null,
       "accuracy": null,
       "pp": 20
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

@@ -41,7 +41,7 @@
         "static": [
           {
             "text": "2号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -50,8 +50,8 @@
       "evolution": [
         {
           "nameCn": "水君",
-          "alts": null,
-          "slug": "水君"
+          "slug": "水君",
+          "alts": null
         }
       ],
       "stats": {
@@ -871,7 +871,7 @@
     "static": [
       {
         "text": "2号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -880,8 +880,8 @@
   "evolution": [
     {
       "nameCn": "水君",
-      "alts": null,
-      "slug": "水君"
+      "slug": "水君",
+      "alts": null
     }
   ],
   "stats": {

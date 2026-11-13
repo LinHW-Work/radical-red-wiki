@@ -19,8 +19,8 @@
       "abilities": [
         {
           "slot": "0",
-          "nameCn": "强颚",
-          "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E9%A2%9A",
+          "nameCn": "强壮之颚",
+          "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E5%A3%AE%E4%B9%8B%E9%A2%9A",
           "original": false,
           "restrictedNameCn": null,
           "restrictedHref": null,
@@ -31,8 +31,8 @@
           "nameCn": "好胜",
           "href": "https://wiki.52poke.com/wiki/%E5%A5%BD%E8%83%9C",
           "original": false,
-          "restrictedNameCn": "透明特性",
-          "restrictedHref": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+          "restrictedNameCn": "恒净之躯",
+          "restrictedHref": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
           "restrictedOriginal": false
         }
       ],
@@ -51,13 +51,13 @@
       "evolution": [
         {
           "nameCn": "来电汪",
-          "alts": null,
-          "slug": "来电汪"
+          "slug": "来电汪",
+          "alts": null
         },
         {
           "nameCn": "逐电犬",
-          "alts": null,
-          "slug": "逐电犬"
+          "slug": "逐电犬",
+          "alts": null
         }
       ],
       "stats": {
@@ -787,8 +787,8 @@
   "abilities": [
     {
       "slot": "0",
-      "nameCn": "强颚",
-      "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E9%A2%9A",
+      "nameCn": "强壮之颚",
+      "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E5%A3%AE%E4%B9%8B%E9%A2%9A",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -799,8 +799,8 @@
       "nameCn": "好胜",
       "href": "https://wiki.52poke.com/wiki/%E5%A5%BD%E8%83%9C",
       "original": false,
-      "restrictedNameCn": "透明特性",
-      "restrictedHref": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+      "restrictedNameCn": "恒净之躯",
+      "restrictedHref": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
       "restrictedOriginal": false
     }
   ],
@@ -819,13 +819,13 @@
   "evolution": [
     {
       "nameCn": "来电汪",
-      "alts": null,
-      "slug": "来电汪"
+      "slug": "来电汪",
+      "alts": null
     },
     {
       "nameCn": "逐电犬",
-      "alts": null,
-      "slug": "逐电犬"
+      "slug": "逐电犬",
+      "alts": null
     }
   ],
   "stats": {

@@ -48,7 +48,7 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "地鼠洞穴 b1f·晚上",
+            "text": "Diglett's Cave·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -59,13 +59,13 @@
       "evolution": [
         {
           "nameCn": "沙丘娃",
-          "alts": null,
-          "slug": "沙丘娃"
+          "slug": "沙丘娃",
+          "alts": null
         },
         {
           "nameCn": "噬沙堡爷",
-          "alts": null,
-          "slug": "噬沙堡爷"
+          "slug": "噬沙堡爷",
+          "alts": null
         }
       ],
       "stats": {
@@ -127,10 +127,10 @@
         },
         {
           "level": 10,
-          "nameCn": "鬼火",
+          "nameCn": "磷火",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+          "href": "https://wiki.52poke.com/wiki/%E7%A3%B7%E7%81%AB",
           "type": "火",
           "category": "变化",
           "power": null,
@@ -835,7 +835,7 @@
     {
       "slot": "0",
       "nameCn": "遇水凝固",
-      "href": "https://wiki.52poke.com/wiki/%E9%81%87%E6%B0%B4%E5%87%9D%E5%9B%BA",
+      "href": "/特性/修改#遇水凝固",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -862,7 +862,7 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "地鼠洞穴 b1f·晚上",
+        "text": "Diglett's Cave·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -873,13 +873,13 @@
   "evolution": [
     {
       "nameCn": "沙丘娃",
-      "alts": null,
-      "slug": "沙丘娃"
+      "slug": "沙丘娃",
+      "alts": null
     },
     {
       "nameCn": "噬沙堡爷",
-      "alts": null,
-      "slug": "噬沙堡爷"
+      "slug": "噬沙堡爷",
+      "alts": null
     }
   ],
   "stats": {
@@ -941,10 +941,10 @@
     },
     {
       "level": 10,
-      "nameCn": "鬼火",
+      "nameCn": "磷火",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+      "href": "https://wiki.52poke.com/wiki/%E7%A3%B7%E7%81%AB",
       "type": "火",
       "category": "变化",
       "power": null,

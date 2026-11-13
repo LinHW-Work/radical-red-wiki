@@ -48,39 +48,15 @@
       "obtains": {
         "map": [
           {
-            "text": "岩山隧道 b1f·晚上",
+            "text": "岩山隧道·晚上",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "宝可梦塔 3&5f·白天",
+            "text": "宝可梦塔·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "宝可梦塔 3&5f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "宝可梦塔 4f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "宝可梦塔 4f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "宝可梦塔 6f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "宝可梦塔 6f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "宝可梦塔 7f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "宝可梦塔 7f·晚上",
+            "text": "宝可梦塔·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -91,11 +67,12 @@
       "evolution": [
         {
           "nameCn": "卡拉卡拉",
-          "alts": null,
-          "slug": "卡拉卡拉"
+          "slug": "卡拉卡拉",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "嘎啦嘎啦",
@@ -264,10 +241,10 @@
         },
         {
           "level": 41,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -925,10 +902,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1117,39 +1094,15 @@
   "obtains": {
     "map": [
       {
-        "text": "岩山隧道 b1f·晚上",
+        "text": "岩山隧道·晚上",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "宝可梦塔 3&5f·白天",
+        "text": "宝可梦塔·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "宝可梦塔 3&5f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "宝可梦塔 4f·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "宝可梦塔 4f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "宝可梦塔 6f·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "宝可梦塔 6f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "宝可梦塔 7f·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "宝可梦塔 7f·晚上",
+        "text": "宝可梦塔·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1160,11 +1113,12 @@
   "evolution": [
     {
       "nameCn": "卡拉卡拉",
-      "alts": null,
-      "slug": "卡拉卡拉"
+      "slug": "卡拉卡拉",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "嘎啦嘎啦",
@@ -1333,10 +1287,10 @@
     },
     {
       "level": 41,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -1994,10 +1948,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

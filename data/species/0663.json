@@ -57,18 +57,18 @@
       "evolution": [
         {
           "nameCn": "小箭雀",
-          "alts": null,
-          "slug": "小箭雀"
+          "slug": "小箭雀",
+          "alts": null
         },
         {
           "nameCn": "火箭雀",
-          "alts": null,
-          "slug": "火箭雀"
+          "slug": "火箭雀",
+          "alts": null
         },
         {
           "nameCn": "烈箭鹰",
-          "alts": null,
-          "slug": "烈箭鹰"
+          "slug": "烈箭鹰",
+          "alts": null
         }
       ],
       "stats": {
@@ -903,7 +903,7 @@
     {
       "slot": "0",
       "nameCn": "火焰之躯",
-      "href": "https://wiki.52poke.com/wiki/%E7%81%AB%E7%84%B0%E4%B9%8B%E8%BA%AF",
+      "href": "/特性/修改#火焰之躯",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -939,18 +939,18 @@
   "evolution": [
     {
       "nameCn": "小箭雀",
-      "alts": null,
-      "slug": "小箭雀"
+      "slug": "小箭雀",
+      "alts": null
     },
     {
       "nameCn": "火箭雀",
-      "alts": null,
-      "slug": "火箭雀"
+      "slug": "火箭雀",
+      "alts": null
     },
     {
       "nameCn": "烈箭鹰",
-      "alts": null,
-      "slug": "烈箭鹰"
+      "slug": "烈箭鹰",
+      "alts": null
     }
   ],
   "stats": {

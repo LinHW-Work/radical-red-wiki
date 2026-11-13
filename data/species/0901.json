@@ -47,7 +47,16 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "岩山隧道·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "岩山隧道·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": [
@@ -61,18 +70,18 @@
       "evolution": [
         {
           "nameCn": "熊宝宝",
-          "alts": null,
-          "slug": "熊宝宝"
+          "slug": "熊宝宝",
+          "alts": null
         },
         {
           "nameCn": "圈圈熊",
-          "alts": null,
-          "slug": "圈圈熊"
+          "slug": "圈圈熊",
+          "alts": null
         },
         {
           "nameCn": "月月熊",
-          "alts": null,
-          "slug": "月月熊"
+          "slug": "月月熊",
+          "alts": null
         }
       ],
       "stats": {
@@ -1042,18 +1051,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "巨声",
           "restricted": false,
           "original": false,
@@ -1222,7 +1219,16 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "宝可梦塔·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "宝可梦塔·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": []
@@ -1230,8 +1236,8 @@
       "evolution": [
         {
           "nameCn": "Ursaluna-Bloodmoon",
-          "alts": null,
           "slug": "月月熊",
+          "alts": null,
           "forme": "血月"
         }
       ],
@@ -1945,18 +1951,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "剑舞",
           "restricted": true,
           "original": false,
@@ -2071,7 +2065,7 @@
     {
       "slot": "1",
       "nameCn": "防弹",
-      "href": "https://wiki.52poke.com/wiki/%E9%98%B2%E5%BC%B9",
+      "href": "/特性/修改#防弹",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -2088,7 +2082,16 @@
     }
   ],
   "obtains": {
-    "map": [],
+    "map": [
+      {
+        "text": "岩山隧道·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "岩山隧道·晚上",
+        "href": "/分布/地图捕捉"
+      }
+    ],
     "static": [],
     "npc": [],
     "evolution": [
@@ -2102,18 +2105,18 @@
   "evolution": [
     {
       "nameCn": "熊宝宝",
-      "alts": null,
-      "slug": "熊宝宝"
+      "slug": "熊宝宝",
+      "alts": null
     },
     {
       "nameCn": "圈圈熊",
-      "alts": null,
-      "slug": "圈圈熊"
+      "slug": "圈圈熊",
+      "alts": null
     },
     {
       "nameCn": "月月熊",
-      "alts": null,
-      "slug": "月月熊"
+      "slug": "月月熊",
+      "alts": null
     }
   ],
   "stats": {
@@ -3080,18 +3083,6 @@
       "power": null,
       "accuracy": null,
       "pp": 20
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

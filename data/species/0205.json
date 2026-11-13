@@ -57,13 +57,13 @@
       "evolution": [
         {
           "nameCn": "榛果球",
-          "alts": null,
-          "slug": "榛果球"
+          "slug": "榛果球",
+          "alts": null
         },
         {
           "nameCn": "佛烈托斯",
-          "alts": null,
-          "slug": "佛烈托斯"
+          "slug": "佛烈托斯",
+          "alts": null
         }
       ],
       "stats": {
@@ -197,10 +197,10 @@
         },
         {
           "level": 1,
-          "nameCn": "自爆",
+          "nameCn": "玉石俱碎",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E7%88%86",
+          "href": "https://wiki.52poke.com/wiki/%E7%8E%89%E7%9F%B3%E4%BF%B1%E7%A2%8E",
           "type": "一般",
           "category": "物理",
           "power": 200,
@@ -221,10 +221,10 @@
         },
         {
           "level": 6,
-          "nameCn": "自爆",
+          "nameCn": "玉石俱碎",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E7%88%86",
+          "href": "https://wiki.52poke.com/wiki/%E7%8E%89%E7%9F%B3%E4%BF%B1%E7%A2%8E",
           "type": "一般",
           "category": "物理",
           "power": 200,
@@ -996,10 +996,10 @@
         },
         {
           "level": null,
-          "nameCn": "钻冲赛道",
+          "nameCn": "直冲钻",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+          "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
           "type": "地面",
           "category": "物理",
           "power": 80,
@@ -1245,13 +1245,13 @@
   "evolution": [
     {
       "nameCn": "榛果球",
-      "alts": null,
-      "slug": "榛果球"
+      "slug": "榛果球",
+      "alts": null
     },
     {
       "nameCn": "佛烈托斯",
-      "alts": null,
-      "slug": "佛烈托斯"
+      "slug": "佛烈托斯",
+      "alts": null
     }
   ],
   "stats": {
@@ -1385,10 +1385,10 @@
     },
     {
       "level": 1,
-      "nameCn": "自爆",
+      "nameCn": "玉石俱碎",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E7%88%86",
+      "href": "https://wiki.52poke.com/wiki/%E7%8E%89%E7%9F%B3%E4%BF%B1%E7%A2%8E",
       "type": "一般",
       "category": "物理",
       "power": 200,
@@ -1409,10 +1409,10 @@
     },
     {
       "level": 6,
-      "nameCn": "自爆",
+      "nameCn": "玉石俱碎",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E7%88%86",
+      "href": "https://wiki.52poke.com/wiki/%E7%8E%89%E7%9F%B3%E4%BF%B1%E7%A2%8E",
       "type": "一般",
       "category": "物理",
       "power": 200,
@@ -2184,10 +2184,10 @@
     },
     {
       "level": null,
-      "nameCn": "钻冲赛道",
+      "nameCn": "直冲钻",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+      "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
       "type": "地面",
       "category": "物理",
       "power": 80,

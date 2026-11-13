@@ -48,7 +48,7 @@
       "obtains": {
         "map": [
           {
-            "text": "月见山 1f·白天",
+            "text": "月见山·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -59,13 +59,13 @@
       "evolution": [
         {
           "nameCn": "幕下力士",
-          "alts": null,
-          "slug": "幕下力士"
+          "slug": "幕下力士",
+          "alts": null
         },
         {
           "nameCn": "铁掌力士",
-          "alts": null,
-          "slug": "铁掌力士"
+          "slug": "铁掌力士",
+          "alts": null
         }
       ],
       "stats": {
@@ -1074,7 +1074,7 @@
   "obtains": {
     "map": [
       {
-        "text": "月见山 1f·白天",
+        "text": "月见山·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1085,13 +1085,13 @@
   "evolution": [
     {
       "nameCn": "幕下力士",
-      "alts": null,
-      "slug": "幕下力士"
+      "slug": "幕下力士",
+      "alts": null
     },
     {
       "nameCn": "铁掌力士",
-      "alts": null,
-      "slug": "铁掌力士"
+      "slug": "铁掌力士",
+      "alts": null
     }
   ],
   "stats": {

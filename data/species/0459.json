@@ -40,11 +40,11 @@
       "obtains": {
         "map": [
           {
-            "text": "常青市·白天",
+            "text": "真新镇·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 b2f·白天",
+            "text": "双子岛·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -55,13 +55,13 @@
       "evolution": [
         {
           "nameCn": "雪笠怪",
-          "alts": null,
-          "slug": "雪笠怪"
+          "slug": "雪笠怪",
+          "alts": null
         },
         {
           "nameCn": "暴雪王",
-          "alts": null,
-          "slug": "暴雪王"
+          "slug": "暴雪王",
+          "alts": null
         }
       ],
       "stats": {
@@ -853,11 +853,11 @@
   "obtains": {
     "map": [
       {
-        "text": "常青市·白天",
+        "text": "真新镇·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "双子岛 b2f·白天",
+        "text": "双子岛·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -868,13 +868,13 @@
   "evolution": [
     {
       "nameCn": "雪笠怪",
-      "alts": null,
-      "slug": "雪笠怪"
+      "slug": "雪笠怪",
+      "alts": null
     },
     {
       "nameCn": "暴雪王",
-      "alts": null,
-      "slug": "暴雪王"
+      "slug": "暴雪王",
+      "alts": null
     }
   ],
   "stats": {

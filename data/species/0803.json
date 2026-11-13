@@ -19,8 +19,8 @@
       "abilities": [
         {
           "slot": "0",
-          "nameCn": "兽提升",
-          "href": "https://wiki.52poke.com/wiki/%E5%85%BD%E6%8F%90%E5%8D%87",
+          "nameCn": "异兽提升",
+          "href": "https://wiki.52poke.com/wiki/%E5%BC%82%E5%85%BD%E6%8F%90%E5%8D%87",
           "original": false,
           "restrictedNameCn": "紧张感",
           "restrictedHref": "https://wiki.52poke.com/wiki/%E7%B4%A7%E5%BC%A0%E6%84%9F",
@@ -31,12 +31,12 @@
         "map": [],
         "static": [
           {
-            "text": "华蓝洞窟 2f",
-            "href": "/分布/定点获取"
+            "text": "华蓝洞窟",
+            "href": "/分布/极巨巢穴"
           },
           {
-            "text": "华蓝洞窟",
-            "href": "/分布/定点获取"
+            "text": "华蓝洞窟 2f",
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -45,13 +45,13 @@
       "evolution": [
         {
           "nameCn": "毒贝比",
-          "alts": null,
-          "slug": "毒贝比"
+          "slug": "毒贝比",
+          "alts": null
         },
         {
           "nameCn": "四颚针龙",
-          "alts": null,
-          "slug": "四颚针龙"
+          "slug": "四颚针龙",
+          "alts": null
         }
       ],
       "stats": {
@@ -343,8 +343,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -519,18 +519,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "密语",
           "restricted": false,
           "original": false,
@@ -610,8 +598,8 @@
   "abilities": [
     {
       "slot": "0",
-      "nameCn": "兽提升",
-      "href": "https://wiki.52poke.com/wiki/%E5%85%BD%E6%8F%90%E5%8D%87",
+      "nameCn": "异兽提升",
+      "href": "https://wiki.52poke.com/wiki/%E5%BC%82%E5%85%BD%E6%8F%90%E5%8D%87",
       "original": false,
       "restrictedNameCn": "紧张感",
       "restrictedHref": "https://wiki.52poke.com/wiki/%E7%B4%A7%E5%BC%A0%E6%84%9F",
@@ -622,12 +610,12 @@
     "map": [],
     "static": [
       {
-        "text": "华蓝洞窟 2f",
-        "href": "/分布/定点获取"
+        "text": "华蓝洞窟",
+        "href": "/分布/极巨巢穴"
       },
       {
-        "text": "华蓝洞窟",
-        "href": "/分布/定点获取"
+        "text": "华蓝洞窟 2f",
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -636,13 +624,13 @@
   "evolution": [
     {
       "nameCn": "毒贝比",
-      "alts": null,
-      "slug": "毒贝比"
+      "slug": "毒贝比",
+      "alts": null
     },
     {
       "nameCn": "四颚针龙",
-      "alts": null,
-      "slug": "四颚针龙"
+      "slug": "四颚针龙",
+      "alts": null
     }
   ],
   "stats": {
@@ -934,8 +922,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,
@@ -1107,18 +1095,6 @@
       "power": null,
       "accuracy": 100,
       "pp": 10
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

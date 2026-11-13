@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "一对鼠",
-          "alts": null,
-          "slug": "一对鼠"
+          "slug": "一对鼠",
+          "alts": null
         },
         {
           "nameCn": "一家鼠",
-          "alts": null,
-          "slug": "一家鼠"
+          "slug": "一家鼠",
+          "alts": null
         }
       ],
       "stats": {
@@ -841,13 +841,13 @@
   "evolution": [
     {
       "nameCn": "一对鼠",
-      "alts": null,
-      "slug": "一对鼠"
+      "slug": "一对鼠",
+      "alts": null
     },
     {
       "nameCn": "一家鼠",
-      "alts": null,
-      "slug": "一家鼠"
+      "slug": "一家鼠",
+      "alts": null
     }
   ],
   "stats": {

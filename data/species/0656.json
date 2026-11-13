@@ -50,18 +50,18 @@
       "evolution": [
         {
           "nameCn": "呱呱泡蛙",
-          "alts": null,
-          "slug": "呱呱泡蛙"
+          "slug": "呱呱泡蛙",
+          "alts": null
         },
         {
           "nameCn": "呱头蛙",
-          "alts": null,
-          "slug": "呱头蛙"
+          "slug": "呱头蛙",
+          "alts": null
         },
         {
           "nameCn": "甲贺忍蛙",
-          "alts": null,
-          "slug": "甲贺忍蛙"
+          "slug": "甲贺忍蛙",
+          "alts": null
         }
       ],
       "stats": {
@@ -902,18 +902,18 @@
   "evolution": [
     {
       "nameCn": "呱呱泡蛙",
-      "alts": null,
-      "slug": "呱呱泡蛙"
+      "slug": "呱呱泡蛙",
+      "alts": null
     },
     {
       "nameCn": "呱头蛙",
-      "alts": null,
-      "slug": "呱头蛙"
+      "slug": "呱头蛙",
+      "alts": null
     },
     {
       "nameCn": "甲贺忍蛙",
-      "alts": null,
-      "slug": "甲贺忍蛙"
+      "slug": "甲贺忍蛙",
+      "alts": null
     }
   ],
   "stats": {

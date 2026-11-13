@@ -32,12 +32,12 @@
         "map": [],
         "static": [
           {
-            "text": "双子岛 1f",
-            "href": "/分布/定点获取"
+            "text": "双子岛",
+            "href": "/分布/极巨巢穴"
           },
           {
-            "text": "双子岛",
-            "href": "/分布/定点获取"
+            "text": "双子岛 1f",
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -46,8 +46,8 @@
       "evolution": [
         {
           "nameCn": "酋雷姆",
-          "alts": null,
-          "slug": "酋雷姆"
+          "slug": "酋雷姆",
+          "alts": null
         }
       ],
       "stats": {
@@ -205,10 +205,10 @@
         },
         {
           "level": 71,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -595,8 +595,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -852,10 +852,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1076,8 +1076,8 @@
       "evolution": [
         {
           "nameCn": "Kyurem-Black",
-          "alts": null,
           "slug": "酋雷姆",
+          "alts": null,
           "forme": "暗黑"
         }
       ],
@@ -1236,10 +1236,10 @@
         },
         {
           "level": 71,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1626,8 +1626,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -1883,10 +1883,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -2107,8 +2107,8 @@
       "evolution": [
         {
           "nameCn": "Kyurem-White",
-          "alts": null,
           "slug": "酋雷姆",
+          "alts": null,
           "forme": "焰白"
         }
       ],
@@ -2267,10 +2267,10 @@
         },
         {
           "level": 71,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -2657,8 +2657,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -2914,10 +2914,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -3126,12 +3126,12 @@
     "map": [],
     "static": [
       {
-        "text": "双子岛 1f",
-        "href": "/分布/定点获取"
+        "text": "双子岛",
+        "href": "/分布/极巨巢穴"
       },
       {
-        "text": "双子岛",
-        "href": "/分布/定点获取"
+        "text": "双子岛 1f",
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -3140,8 +3140,8 @@
   "evolution": [
     {
       "nameCn": "酋雷姆",
-      "alts": null,
-      "slug": "酋雷姆"
+      "slug": "酋雷姆",
+      "alts": null
     }
   ],
   "stats": {
@@ -3299,10 +3299,10 @@
     },
     {
       "level": 71,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -3689,8 +3689,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,
@@ -3946,10 +3946,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

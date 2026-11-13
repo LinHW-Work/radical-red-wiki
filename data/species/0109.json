@@ -50,7 +50,7 @@
         "static": [
           {
             "text": "2号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -59,11 +59,12 @@
       "evolution": [
         {
           "nameCn": "瓦斯弹",
-          "alts": null,
-          "slug": "瓦斯弹"
+          "slug": "瓦斯弹",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "双弹瓦斯",
@@ -160,10 +161,10 @@
         },
         {
           "level": 23,
-          "nameCn": "自爆",
+          "nameCn": "玉石俱碎",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E7%88%86",
+          "href": "https://wiki.52poke.com/wiki/%E7%8E%89%E7%9F%B3%E4%BF%B1%E7%A2%8E",
           "type": "一般",
           "category": "物理",
           "power": 200,
@@ -874,7 +875,7 @@
     "static": [
       {
         "text": "2号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -883,11 +884,12 @@
   "evolution": [
     {
       "nameCn": "瓦斯弹",
-      "alts": null,
-      "slug": "瓦斯弹"
+      "slug": "瓦斯弹",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "双弹瓦斯",
@@ -984,10 +986,10 @@
     },
     {
       "level": 23,
-      "nameCn": "自爆",
+      "nameCn": "玉石俱碎",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E7%88%86",
+      "href": "https://wiki.52poke.com/wiki/%E7%8E%89%E7%9F%B3%E4%BF%B1%E7%A2%8E",
       "type": "一般",
       "category": "物理",
       "power": 200,

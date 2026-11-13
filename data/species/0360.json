@@ -45,13 +45,13 @@
       "evolution": [
         {
           "nameCn": "小果然",
-          "alts": null,
-          "slug": "小果然"
+          "slug": "小果然",
+          "alts": null
         },
         {
           "nameCn": "果然翁",
-          "alts": null,
-          "slug": "果然翁"
+          "slug": "果然翁",
+          "alts": null
         }
       ],
       "stats": {
@@ -198,13 +198,13 @@
   "evolution": [
     {
       "nameCn": "小果然",
-      "alts": null,
-      "slug": "小果然"
+      "slug": "小果然",
+      "alts": null
     },
     {
       "nameCn": "果然翁",
-      "alts": null,
-      "slug": "果然翁"
+      "slug": "果然翁",
+      "alts": null
     }
   ],
   "stats": {

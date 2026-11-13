@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "南瓜精",
-          "alts": null,
-          "slug": "南瓜精"
+          "slug": "南瓜精",
+          "alts": null
         },
         {
           "nameCn": "南瓜怪人",
-          "alts": null,
-          "slug": "南瓜怪人"
+          "slug": "南瓜怪人",
+          "alts": null
         }
       ],
       "stats": {
@@ -904,7 +904,7 @@
     {
       "slot": "0",
       "nameCn": "捡拾",
-      "href": "https://wiki.52poke.com/wiki/%E6%8D%A1%E6%8B%BE",
+      "href": "/特性/修改#捡拾",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -913,7 +913,7 @@
     {
       "slot": "1",
       "nameCn": "察觉",
-      "href": "https://wiki.52poke.com/wiki/%E5%AF%9F%E8%A7%89",
+      "href": "/特性/修改#察觉",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -943,13 +943,13 @@
   "evolution": [
     {
       "nameCn": "南瓜精",
-      "alts": null,
-      "slug": "南瓜精"
+      "slug": "南瓜精",
+      "alts": null
     },
     {
       "nameCn": "南瓜怪人",
-      "alts": null,
-      "slug": "南瓜怪人"
+      "slug": "南瓜怪人",
+      "alts": null
     }
   ],
   "stats": {

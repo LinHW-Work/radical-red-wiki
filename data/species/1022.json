@@ -33,7 +33,7 @@
         "static": [
           {
             "text": "岩山隧道",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -42,8 +42,8 @@
       "evolution": [
         {
           "nameCn": "铁磐岩",
-          "alts": null,
-          "slug": "铁磐岩"
+          "slug": "铁磐岩",
+          "alts": null
         }
       ],
       "stats": {
@@ -189,10 +189,10 @@
         },
         {
           "level": 56,
-          "nameCn": "强刃而解",
+          "nameCn": "强刃攻击",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E5%88%83%E8%80%8C%E8%A7%A3",
+          "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E5%88%83%E6%94%BB%E5%87%BB",
           "type": "岩石",
           "category": "物理",
           "power": 95,
@@ -955,7 +955,7 @@
     "static": [
       {
         "text": "岩山隧道",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -964,8 +964,8 @@
   "evolution": [
     {
       "nameCn": "铁磐岩",
-      "alts": null,
-      "slug": "铁磐岩"
+      "slug": "铁磐岩",
+      "alts": null
     }
   ],
   "stats": {
@@ -1111,10 +1111,10 @@
     },
     {
       "level": 56,
-      "nameCn": "强刃而解",
+      "nameCn": "强刃攻击",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E5%88%83%E8%80%8C%E8%A7%A3",
+      "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E5%88%83%E6%94%BB%E5%87%BB",
       "type": "岩石",
       "category": "物理",
       "power": 95,

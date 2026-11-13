@@ -48,11 +48,11 @@
       "obtains": {
         "map": [
           {
-            "text": "无人发电厂·白天",
+            "text": "发电厂·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "无人发电厂·晚上",
+            "text": "发电厂·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -69,13 +69,13 @@
       "evolution": [
         {
           "nameCn": "霹雳电球",
-          "alts": null,
-          "slug": "霹雳电球"
+          "slug": "霹雳电球",
+          "alts": null
         },
         {
           "nameCn": "顽皮雷弹",
-          "alts": null,
-          "slug": "顽皮雷弹"
+          "slug": "顽皮雷弹",
+          "alts": null
         }
       ],
       "stats": {
@@ -245,10 +245,10 @@
         },
         {
           "level": 26,
-          "nameCn": "自爆",
+          "nameCn": "玉石俱碎",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E7%88%86",
+          "href": "https://wiki.52poke.com/wiki/%E7%8E%89%E7%9F%B3%E4%BF%B1%E7%A2%8E",
           "type": "一般",
           "category": "物理",
           "power": 200,
@@ -908,11 +908,20 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "险峻岬角·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "险峻岬角·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [
           {
             "text": "9号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -927,14 +936,14 @@
       "evolution": [
         {
           "nameCn": "霹雳电球-洗翠",
-          "alts": null,
           "slug": "霹雳电球",
+          "alts": null,
           "forme": "洗翠"
         },
         {
           "nameCn": "顽皮雷弹-洗翠",
-          "alts": null,
           "slug": "顽皮雷弹",
+          "alts": null,
           "forme": "洗翠"
         }
       ],
@@ -1093,10 +1102,10 @@
         },
         {
           "level": 24,
-          "nameCn": "自爆",
+          "nameCn": "玉石俱碎",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E7%88%86",
+          "href": "https://wiki.52poke.com/wiki/%E7%8E%89%E7%9F%B3%E4%BF%B1%E7%A2%8E",
           "type": "一般",
           "category": "物理",
           "power": 200,
@@ -1777,11 +1786,11 @@
   "obtains": {
     "map": [
       {
-        "text": "无人发电厂·白天",
+        "text": "发电厂·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "无人发电厂·晚上",
+        "text": "发电厂·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1798,13 +1807,13 @@
   "evolution": [
     {
       "nameCn": "霹雳电球",
-      "alts": null,
-      "slug": "霹雳电球"
+      "slug": "霹雳电球",
+      "alts": null
     },
     {
       "nameCn": "顽皮雷弹",
-      "alts": null,
-      "slug": "顽皮雷弹"
+      "slug": "顽皮雷弹",
+      "alts": null
     }
   ],
   "stats": {
@@ -1974,10 +1983,10 @@
     },
     {
       "level": 26,
-      "nameCn": "自爆",
+      "nameCn": "玉石俱碎",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E7%88%86",
+      "href": "https://wiki.52poke.com/wiki/%E7%8E%89%E7%9F%B3%E4%BF%B1%E7%A2%8E",
       "type": "一般",
       "category": "物理",
       "power": 200,

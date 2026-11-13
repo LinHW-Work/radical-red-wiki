@@ -63,13 +63,13 @@
       "evolution": [
         {
           "nameCn": "盖盖虫",
-          "alts": null,
-          "slug": "盖盖虫"
+          "slug": "盖盖虫",
+          "alts": null
         },
         {
           "nameCn": "骑士蜗牛",
-          "alts": null,
-          "slug": "骑士蜗牛"
+          "slug": "骑士蜗牛",
+          "alts": null
         }
       ],
       "stats": {
@@ -557,10 +557,10 @@
         },
         {
           "level": null,
-          "nameCn": "钻冲赛道",
+          "nameCn": "直冲钻",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+          "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
           "type": "地面",
           "category": "物理",
           "power": 80,
@@ -631,10 +631,10 @@
         },
         {
           "level": null,
-          "nameCn": "钻冲赛道",
+          "nameCn": "直冲钻",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+          "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
           "type": "地面",
           "category": "物理",
           "power": 80,
@@ -802,13 +802,13 @@
   "evolution": [
     {
       "nameCn": "盖盖虫",
-      "alts": null,
-      "slug": "盖盖虫"
+      "slug": "盖盖虫",
+      "alts": null
     },
     {
       "nameCn": "骑士蜗牛",
-      "alts": null,
-      "slug": "骑士蜗牛"
+      "slug": "骑士蜗牛",
+      "alts": null
     }
   ],
   "stats": {
@@ -1296,10 +1296,10 @@
     },
     {
       "level": null,
-      "nameCn": "钻冲赛道",
+      "nameCn": "直冲钻",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+      "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
       "type": "地面",
       "category": "物理",
       "power": 80,
@@ -1370,10 +1370,10 @@
     },
     {
       "level": null,
-      "nameCn": "钻冲赛道",
+      "nameCn": "直冲钻",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+      "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
       "type": "地面",
       "category": "物理",
       "power": 80,

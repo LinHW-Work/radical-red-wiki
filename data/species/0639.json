@@ -33,7 +33,7 @@
         "static": [
           {
             "text": "岩山隧道 b1f",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -42,8 +42,8 @@
       "evolution": [
         {
           "nameCn": "代拉基翁",
-          "alts": null,
-          "slug": "代拉基翁"
+          "slug": "代拉基翁",
+          "alts": null
         }
       ],
       "stats": {
@@ -919,7 +919,7 @@
     "static": [
       {
         "text": "岩山隧道 b1f",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -928,8 +928,8 @@
   "evolution": [
     {
       "nameCn": "代拉基翁",
-      "alts": null,
-      "slug": "代拉基翁"
+      "slug": "代拉基翁",
+      "alts": null
     }
   ],
   "stats": {

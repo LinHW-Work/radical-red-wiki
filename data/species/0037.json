@@ -50,13 +50,13 @@
       "evolution": [
         {
           "nameCn": "六尾",
-          "alts": null,
-          "slug": "六尾"
+          "slug": "六尾",
+          "alts": null
         },
         {
           "nameCn": "九尾",
-          "alts": null,
-          "slug": "九尾"
+          "slug": "九尾",
+          "alts": null
         }
       ],
       "stats": {
@@ -70,10 +70,10 @@
       "levelMoves": [
         {
           "level": 1,
-          "nameCn": "烧尽",
+          "nameCn": "烧净",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
           "type": "火",
           "category": "特殊",
           "power": 60,
@@ -178,10 +178,10 @@
         },
         {
           "level": 20,
-          "nameCn": "鬼火",
+          "nameCn": "磷火",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+          "href": "https://wiki.52poke.com/wiki/%E7%A3%B7%E7%81%AB",
           "type": "火",
           "category": "变化",
           "power": null,
@@ -1053,14 +1053,14 @@
       "evolution": [
         {
           "nameCn": "六尾-阿罗拉",
-          "alts": null,
           "slug": "六尾",
+          "alts": null,
           "forme": "阿罗拉"
         },
         {
           "nameCn": "九尾-阿罗拉",
-          "alts": null,
           "slug": "九尾",
+          "alts": null,
           "forme": "阿罗拉"
         }
       ],
@@ -2015,13 +2015,13 @@
   "evolution": [
     {
       "nameCn": "六尾",
-      "alts": null,
-      "slug": "六尾"
+      "slug": "六尾",
+      "alts": null
     },
     {
       "nameCn": "九尾",
-      "alts": null,
-      "slug": "九尾"
+      "slug": "九尾",
+      "alts": null
     }
   ],
   "stats": {
@@ -2035,10 +2035,10 @@
   "levelMoves": [
     {
       "level": 1,
-      "nameCn": "烧尽",
+      "nameCn": "烧净",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
       "type": "火",
       "category": "特殊",
       "power": 60,
@@ -2143,10 +2143,10 @@
     },
     {
       "level": 20,
-      "nameCn": "鬼火",
+      "nameCn": "磷火",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+      "href": "https://wiki.52poke.com/wiki/%E7%A3%B7%E7%81%AB",
       "type": "火",
       "category": "变化",
       "power": null,

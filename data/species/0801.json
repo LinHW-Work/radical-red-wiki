@@ -33,7 +33,7 @@
         "static": [
           {
             "text": "岩山隧道隐秘室",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -42,8 +42,8 @@
       "evolution": [
         {
           "nameCn": "玛机雅娜",
-          "alts": null,
-          "slug": "玛机雅娜"
+          "slug": "玛机雅娜",
+          "alts": null
         }
       ],
       "stats": {
@@ -57,10 +57,10 @@
       "levelMoves": [
         {
           "level": 1,
-          "nameCn": "Crafty Guard",
+          "nameCn": "戏法防守",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Crafty Guard",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%88%8F%E6%B3%95%E9%98%B2%E5%AE%88",
           "type": null,
           "category": null,
           "power": null,
@@ -921,10 +921,10 @@
         },
         {
           "level": null,
-          "nameCn": "力量储存",
+          "nameCn": "辅助力量",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+          "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
           "type": "超能力",
           "category": "特殊",
           "power": 20,
@@ -966,7 +966,7 @@
     "static": [
       {
         "text": "岩山隧道隐秘室",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -975,8 +975,8 @@
   "evolution": [
     {
       "nameCn": "玛机雅娜",
-      "alts": null,
-      "slug": "玛机雅娜"
+      "slug": "玛机雅娜",
+      "alts": null
     }
   ],
   "stats": {
@@ -990,10 +990,10 @@
   "levelMoves": [
     {
       "level": 1,
-      "nameCn": "Crafty Guard",
+      "nameCn": "戏法防守",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Crafty Guard",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%88%8F%E6%B3%95%E9%98%B2%E5%AE%88",
       "type": null,
       "category": null,
       "power": null,
@@ -1854,10 +1854,10 @@
     },
     {
       "level": null,
-      "nameCn": "力量储存",
+      "nameCn": "辅助力量",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+      "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
       "type": "超能力",
       "category": "特殊",
       "power": 20,

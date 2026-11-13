@@ -39,7 +39,15 @@
       "obtains": {
         "map": [
           {
-            "text": "双子岛 b3f-b4f·厉害吊杆",
+            "text": "双子岛·厉害吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "险峻岬角·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "险峻岬角·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -61,13 +69,13 @@
       "evolution": [
         {
           "nameCn": "拳拳蛸",
-          "alts": null,
-          "slug": "拳拳蛸"
+          "slug": "拳拳蛸",
+          "alts": null
         },
         {
           "nameCn": "八爪武师",
-          "alts": null,
-          "slug": "八爪武师"
+          "slug": "八爪武师",
+          "alts": null
         }
       ],
       "stats": {
@@ -285,10 +293,10 @@
         },
         {
           "level": 75,
-          "nameCn": "喷射拳头",
+          "nameCn": "喷射拳",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%96%B7%E5%B0%84%E6%8B%B3%E5%A4%B4",
+          "href": "https://wiki.52poke.com/wiki/%E5%96%B7%E5%B0%84%E6%8B%B3",
           "type": "水",
           "category": "物理",
           "power": 60,
@@ -881,7 +889,15 @@
   "obtains": {
     "map": [
       {
-        "text": "双子岛 b3f-b4f·厉害吊杆",
+        "text": "双子岛·厉害吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "险峻岬角·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "险峻岬角·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -903,13 +919,13 @@
   "evolution": [
     {
       "nameCn": "拳拳蛸",
-      "alts": null,
-      "slug": "拳拳蛸"
+      "slug": "拳拳蛸",
+      "alts": null
     },
     {
       "nameCn": "八爪武师",
-      "alts": null,
-      "slug": "八爪武师"
+      "slug": "八爪武师",
+      "alts": null
     }
   ],
   "stats": {
@@ -1127,10 +1143,10 @@
     },
     {
       "level": 75,
-      "nameCn": "喷射拳头",
+      "nameCn": "喷射拳",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%96%B7%E5%B0%84%E6%8B%B3%E5%A4%B4",
+      "href": "https://wiki.52poke.com/wiki/%E5%96%B7%E5%B0%84%E6%8B%B3",
       "type": "水",
       "category": "物理",
       "power": 60,

@@ -60,7 +60,7 @@
         "static": [
           {
             "text": "月见山",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -69,18 +69,18 @@
       "evolution": [
         {
           "nameCn": "小磁怪",
-          "alts": null,
-          "slug": "小磁怪"
+          "slug": "小磁怪",
+          "alts": null
         },
         {
           "nameCn": "三合一磁怪",
-          "alts": null,
-          "slug": "三合一磁怪"
+          "slug": "三合一磁怪",
+          "alts": null
         },
         {
           "nameCn": "自爆磁怪",
-          "alts": null,
-          "slug": "自爆磁怪"
+          "slug": "自爆磁怪",
+          "alts": null
         }
       ],
       "stats": {
@@ -816,7 +816,7 @@
     "static": [
       {
         "text": "月见山",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -825,18 +825,18 @@
   "evolution": [
     {
       "nameCn": "小磁怪",
-      "alts": null,
-      "slug": "小磁怪"
+      "slug": "小磁怪",
+      "alts": null
     },
     {
       "nameCn": "三合一磁怪",
-      "alts": null,
-      "slug": "三合一磁怪"
+      "slug": "三合一磁怪",
+      "alts": null
     },
     {
       "nameCn": "自爆磁怪",
-      "alts": null,
-      "slug": "自爆磁怪"
+      "slug": "自爆磁怪",
+      "alts": null
     }
   ],
   "stats": {

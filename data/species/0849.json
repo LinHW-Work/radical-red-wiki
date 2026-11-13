@@ -49,11 +49,11 @@
       "obtains": {
         "map": [
           {
-            "text": "冠军之路 3f·白天",
+            "text": "冠军之路·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "冠军之路 3f·晚上",
+            "text": "冠军之路·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -62,19 +62,20 @@
         "evolution": [
           {
             "group": "evolution",
-            "text": "毒电婴·Critical Hit",
+            "text": "电音婴·Critical Hit",
             "href": null
           }
         ]
       },
       "evolution": [
         {
-          "nameCn": "毒电婴",
-          "alts": null,
-          "slug": "毒电婴"
+          "nameCn": "电音婴",
+          "slug": "电音婴",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "颤弦蝾螈",
@@ -375,10 +376,10 @@
         },
         {
           "level": 44,
-          "nameCn": "过载",
+          "nameCn": "破音",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E8%BF%87%E8%BD%BD",
+          "href": "https://wiki.52poke.com/wiki/%E7%A0%B4%E9%9F%B3",
           "type": "电",
           "category": "特殊",
           "power": 80,
@@ -740,10 +741,10 @@
       "eggMoves": [
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -814,27 +815,15 @@
         },
         {
           "level": null,
-          "nameCn": "地狱突刺",
+          "nameCn": "深渊突刺",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+          "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
           "type": "恶",
           "category": "物理",
           "power": 80,
           "accuracy": 100,
           "pp": 15
-        },
-        {
-          "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
         },
         {
           "level": null,
@@ -934,10 +923,10 @@
         },
         {
           "level": null,
-          "nameCn": "力量储存",
+          "nameCn": "辅助力量",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+          "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
           "type": "超能力",
           "category": "特殊",
           "power": 20,
@@ -1018,19 +1007,20 @@
         "evolution": [
           {
             "group": "evolution",
-            "text": "毒电婴·Nature High",
+            "text": "电音婴·Nature High",
             "href": null
           }
         ]
       },
       "evolution": [
         {
-          "nameCn": "毒电婴",
-          "alts": null,
-          "slug": "毒电婴"
+          "nameCn": "电音婴",
+          "slug": "电音婴",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "颤弦蝾螈",
@@ -1331,10 +1321,10 @@
         },
         {
           "level": 44,
-          "nameCn": "过载",
+          "nameCn": "破音",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E8%BF%87%E8%BD%BD",
+          "href": "https://wiki.52poke.com/wiki/%E7%A0%B4%E9%9F%B3",
           "type": "电",
           "category": "特殊",
           "power": 80,
@@ -1696,10 +1686,10 @@
       "eggMoves": [
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1770,27 +1760,15 @@
         },
         {
           "level": null,
-          "nameCn": "地狱突刺",
+          "nameCn": "深渊突刺",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+          "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
           "type": "恶",
           "category": "物理",
           "power": 80,
           "accuracy": 100,
           "pp": 15
-        },
-        {
-          "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
         },
         {
           "level": null,
@@ -1902,10 +1880,10 @@
         },
         {
           "level": null,
-          "nameCn": "力量储存",
+          "nameCn": "辅助力量",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+          "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
           "type": "超能力",
           "category": "特殊",
           "power": 20,
@@ -1975,11 +1953,11 @@
   "obtains": {
     "map": [
       {
-        "text": "冠军之路 3f·白天",
+        "text": "冠军之路·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "冠军之路 3f·晚上",
+        "text": "冠军之路·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1988,19 +1966,20 @@
     "evolution": [
       {
         "group": "evolution",
-        "text": "毒电婴·Critical Hit",
+        "text": "电音婴·Critical Hit",
         "href": null
       }
     ]
   },
   "evolution": [
     {
-      "nameCn": "毒电婴",
-      "alts": null,
-      "slug": "毒电婴"
+      "nameCn": "电音婴",
+      "slug": "电音婴",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "颤弦蝾螈",
@@ -2301,10 +2280,10 @@
     },
     {
       "level": 44,
-      "nameCn": "过载",
+      "nameCn": "破音",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E8%BF%87%E8%BD%BD",
+      "href": "https://wiki.52poke.com/wiki/%E7%A0%B4%E9%9F%B3",
       "type": "电",
       "category": "特殊",
       "power": 80,
@@ -2666,10 +2645,10 @@
   "eggMoves": [
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -2740,27 +2719,15 @@
     },
     {
       "level": null,
-      "nameCn": "地狱突刺",
+      "nameCn": "深渊突刺",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+      "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
       "type": "恶",
       "category": "物理",
       "power": 80,
       "accuracy": 100,
       "pp": 15
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,
@@ -2860,10 +2827,10 @@
     },
     {
       "level": null,
-      "nameCn": "力量储存",
+      "nameCn": "辅助力量",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+      "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
       "type": "超能力",
       "category": "特殊",
       "power": 20,

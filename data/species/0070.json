@@ -52,18 +52,18 @@
       "evolution": [
         {
           "nameCn": "喇叭芽",
-          "alts": null,
-          "slug": "喇叭芽"
+          "slug": "喇叭芽",
+          "alts": null
         },
         {
           "nameCn": "口呆花",
-          "alts": null,
-          "slug": "口呆花"
+          "slug": "口呆花",
+          "alts": null
         },
         {
           "nameCn": "大食花",
-          "alts": null,
-          "slug": "大食花"
+          "slug": "大食花",
+          "alts": null
         }
       ],
       "stats": {
@@ -886,18 +886,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "强力鞭打",
           "restricted": false,
           "original": false,
@@ -962,18 +950,18 @@
   "evolution": [
     {
       "nameCn": "喇叭芽",
-      "alts": null,
-      "slug": "喇叭芽"
+      "slug": "喇叭芽",
+      "alts": null
     },
     {
       "nameCn": "口呆花",
-      "alts": null,
-      "slug": "口呆花"
+      "slug": "口呆花",
+      "alts": null
     },
     {
       "nameCn": "大食花",
-      "alts": null,
-      "slug": "大食花"
+      "slug": "大食花",
+      "alts": null
     }
   ],
   "stats": {
@@ -1793,18 +1781,6 @@
       "power": 120,
       "accuracy": 100,
       "pp": 10
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

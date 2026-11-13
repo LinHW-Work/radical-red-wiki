@@ -56,7 +56,7 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "无人发电厂·白天",
+            "text": "发电厂·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -73,13 +73,13 @@
       "evolution": [
         {
           "nameCn": "斑斑马",
-          "alts": null,
-          "slug": "斑斑马"
+          "slug": "斑斑马",
+          "alts": null
         },
         {
           "nameCn": "雷电斑马",
-          "alts": null,
-          "slug": "雷电斑马"
+          "slug": "雷电斑马",
+          "alts": null
         }
       ],
       "stats": {
@@ -955,14 +955,14 @@
       "evolution": [
         {
           "nameCn": "斑斑马-七之岛",
-          "alts": null,
           "slug": "斑斑马",
+          "alts": null,
           "forme": "七之岛"
         },
         {
           "nameCn": "斑马主-七之岛",
-          "alts": null,
           "slug": "雷电斑马",
+          "alts": null,
           "forme": "七之岛"
         }
       ],
@@ -1706,7 +1706,7 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "无人发电厂·白天",
+        "text": "发电厂·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1723,13 +1723,13 @@
   "evolution": [
     {
       "nameCn": "斑斑马",
-      "alts": null,
-      "slug": "斑斑马"
+      "slug": "斑斑马",
+      "alts": null
     },
     {
       "nameCn": "雷电斑马",
-      "alts": null,
-      "slug": "雷电斑马"
+      "slug": "雷电斑马",
+      "alts": null
     }
   ],
   "stats": {

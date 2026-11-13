@@ -32,7 +32,7 @@
         "static": [
           {
             "text": "月见山",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -41,8 +41,8 @@
       "evolution": [
         {
           "nameCn": "雷吉奇卡斯",
-          "alts": null,
-          "slug": "雷吉奇卡斯"
+          "slug": "雷吉奇卡斯",
+          "alts": null
         }
       ],
       "stats": {
@@ -913,10 +913,10 @@
         },
         {
           "level": null,
-          "nameCn": "DD金勾臂",
+          "nameCn": "ＤＤ金勾臂",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/DD%E9%87%91%E5%8B%BE%E8%87%82",
+          "href": "https://wiki.52poke.com/wiki/%EF%BC%A4%EF%BC%A4%E9%87%91%E5%8B%BE%E8%87%82",
           "type": "恶",
           "category": "物理",
           "power": 85,
@@ -969,7 +969,7 @@
     "static": [
       {
         "text": "月见山",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -978,8 +978,8 @@
   "evolution": [
     {
       "nameCn": "雷吉奇卡斯",
-      "alts": null,
-      "slug": "雷吉奇卡斯"
+      "slug": "雷吉奇卡斯",
+      "alts": null
     }
   ],
   "stats": {
@@ -1850,10 +1850,10 @@
     },
     {
       "level": null,
-      "nameCn": "DD金勾臂",
+      "nameCn": "ＤＤ金勾臂",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/DD%E9%87%91%E5%8B%BE%E8%87%82",
+      "href": "https://wiki.52poke.com/wiki/%EF%BC%A4%EF%BC%A4%E9%87%91%E5%8B%BE%E8%87%82",
       "type": "恶",
       "category": "物理",
       "power": 85,

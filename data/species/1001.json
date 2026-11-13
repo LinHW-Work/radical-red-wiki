@@ -33,7 +33,7 @@
         "static": [
           {
             "text": "关都游荡",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -42,8 +42,8 @@
       "evolution": [
         {
           "nameCn": "古简蜗",
-          "alts": null,
-          "slug": "古简蜗"
+          "slug": "古简蜗",
+          "alts": null
         }
       ],
       "stats": {
@@ -550,10 +550,10 @@
       "tutorMoves": [
         {
           "level": null,
-          "nameCn": "Dark Hole",
+          "nameCn": "暗黑洞",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Dark Hole",
+          "href": "/原创招式#暗黑洞",
           "type": null,
           "category": null,
           "power": null,
@@ -763,7 +763,7 @@
     "static": [
       {
         "text": "关都游荡",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -772,8 +772,8 @@
   "evolution": [
     {
       "nameCn": "古简蜗",
-      "alts": null,
-      "slug": "古简蜗"
+      "slug": "古简蜗",
+      "alts": null
     }
   ],
   "stats": {
@@ -1280,10 +1280,10 @@
   "tutorMoves": [
     {
       "level": null,
-      "nameCn": "Dark Hole",
+      "nameCn": "暗黑洞",
       "restricted": false,
       "original": true,
-      "href": "/原创招式/Dark Hole",
+      "href": "/原创招式#暗黑洞",
       "type": null,
       "category": null,
       "power": null,

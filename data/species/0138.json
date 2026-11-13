@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "菊石兽",
-          "alts": null,
-          "slug": "菊石兽"
+          "slug": "菊石兽",
+          "alts": null
         },
         {
           "nameCn": "多刺菊石兽",
-          "alts": null,
-          "slug": "多刺菊石兽"
+          "slug": "多刺菊石兽",
+          "alts": null
         }
       ],
       "stats": {
@@ -948,13 +948,13 @@
   "evolution": [
     {
       "nameCn": "菊石兽",
-      "alts": null,
-      "slug": "菊石兽"
+      "slug": "菊石兽",
+      "alts": null
     },
     {
       "nameCn": "多刺菊石兽",
-      "alts": null,
-      "slug": "多刺菊石兽"
+      "slug": "多刺菊石兽",
+      "alts": null
     }
   ],
   "stats": {

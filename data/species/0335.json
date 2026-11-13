@@ -50,8 +50,8 @@
       "evolution": [
         {
           "nameCn": "猫鼬斩",
-          "alts": null,
-          "slug": "猫鼬斩"
+          "slug": "猫鼬斩",
+          "alts": null
         }
       ],
       "stats": {
@@ -1010,10 +1010,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1034,10 +1034,10 @@
         },
         {
           "level": null,
-          "nameCn": "地狱突刺",
+          "nameCn": "深渊突刺",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+          "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
           "type": "恶",
           "category": "物理",
           "power": 80,
@@ -1183,7 +1183,7 @@
     {
       "slot": "H",
       "nameCn": "中毒激升",
-      "href": "https://wiki.52poke.com/wiki/%E4%B8%AD%E6%AF%92%E6%BF%80%E5%8D%87",
+      "href": "/特性/修改#中毒激升",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1204,8 +1204,8 @@
   "evolution": [
     {
       "nameCn": "猫鼬斩",
-      "alts": null,
-      "slug": "猫鼬斩"
+      "slug": "猫鼬斩",
+      "alts": null
     }
   ],
   "stats": {
@@ -2164,10 +2164,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -2188,10 +2188,10 @@
     },
     {
       "level": null,
-      "nameCn": "地狱突刺",
+      "nameCn": "深渊突刺",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+      "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
       "type": "恶",
       "category": "物理",
       "power": 80,

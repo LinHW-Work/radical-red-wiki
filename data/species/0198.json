@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "黑暗鸦",
-          "alts": null,
-          "slug": "黑暗鸦"
+          "slug": "黑暗鸦",
+          "alts": null
         },
         {
           "nameCn": "乌鸦头头",
-          "alts": null,
-          "slug": "乌鸦头头"
+          "slug": "乌鸦头头",
+          "alts": null
         }
       ],
       "stats": {
@@ -1087,13 +1087,13 @@
   "evolution": [
     {
       "nameCn": "黑暗鸦",
-      "alts": null,
-      "slug": "黑暗鸦"
+      "slug": "黑暗鸦",
+      "alts": null
     },
     {
       "nameCn": "乌鸦头头",
-      "alts": null,
-      "slug": "乌鸦头头"
+      "slug": "乌鸦头头",
+      "alts": null
     }
   ],
   "stats": {

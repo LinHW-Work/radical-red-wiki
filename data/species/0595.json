@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "电电虫",
-          "alts": null,
-          "slug": "电电虫"
+          "slug": "电电虫",
+          "alts": null
         },
         {
           "nameCn": "电蜘蛛",
-          "alts": null,
-          "slug": "电蜘蛛"
+          "slug": "电蜘蛛",
+          "alts": null
         }
       ],
       "stats": {
@@ -925,13 +925,13 @@
   "evolution": [
     {
       "nameCn": "电电虫",
-      "alts": null,
-      "slug": "电电虫"
+      "slug": "电电虫",
+      "alts": null
     },
     {
       "nameCn": "电蜘蛛",
-      "alts": null,
-      "slug": "电蜘蛛"
+      "slug": "电蜘蛛",
+      "alts": null
     }
   ],
   "stats": {

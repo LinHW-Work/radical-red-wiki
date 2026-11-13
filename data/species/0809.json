@@ -42,13 +42,13 @@
       "evolution": [
         {
           "nameCn": "美录坦",
-          "alts": null,
-          "slug": "美录坦"
+          "slug": "美录坦",
+          "alts": null
         },
         {
           "nameCn": "美录梅塔",
-          "alts": null,
-          "slug": "美录梅塔"
+          "slug": "美录梅塔",
+          "alts": null
         }
       ],
       "stats": {
@@ -218,10 +218,10 @@
         },
         {
           "level": 76,
-          "nameCn": "双臂平连",
+          "nameCn": "钢拳双击",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8F%8C%E8%87%82%E5%B9%B3%E8%BF%9E",
+          "href": "https://wiki.52poke.com/wiki/%E9%92%A2%E6%8B%B3%E5%8F%8C%E5%87%BB",
           "type": "钢",
           "category": "物理",
           "power": 60,
@@ -769,10 +769,10 @@
         },
         {
           "level": null,
-          "nameCn": "DD金勾臂",
+          "nameCn": "ＤＤ金勾臂",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/DD%E9%87%91%E5%8B%BE%E8%87%82",
+          "href": "https://wiki.52poke.com/wiki/%EF%BC%A4%EF%BC%A4%E9%87%91%E5%8B%BE%E8%87%82",
           "type": "恶",
           "category": "物理",
           "power": 85,
@@ -801,7 +801,7 @@
     {
       "slot": "0",
       "nameCn": "铁拳",
-      "href": "https://wiki.52poke.com/wiki/%E9%93%81%E6%8B%B3",
+      "href": "/特性/修改#铁拳",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -823,13 +823,13 @@
   "evolution": [
     {
       "nameCn": "美录坦",
-      "alts": null,
-      "slug": "美录坦"
+      "slug": "美录坦",
+      "alts": null
     },
     {
       "nameCn": "美录梅塔",
-      "alts": null,
-      "slug": "美录梅塔"
+      "slug": "美录梅塔",
+      "alts": null
     }
   ],
   "stats": {
@@ -999,10 +999,10 @@
     },
     {
       "level": 76,
-      "nameCn": "双臂平连",
+      "nameCn": "钢拳双击",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8F%8C%E8%87%82%E5%B9%B3%E8%BF%9E",
+      "href": "https://wiki.52poke.com/wiki/%E9%92%A2%E6%8B%B3%E5%8F%8C%E5%87%BB",
       "type": "钢",
       "category": "物理",
       "power": 60,
@@ -1550,10 +1550,10 @@
     },
     {
       "level": null,
-      "nameCn": "DD金勾臂",
+      "nameCn": "ＤＤ金勾臂",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/DD%E9%87%91%E5%8B%BE%E8%87%82",
+      "href": "https://wiki.52poke.com/wiki/%EF%BC%A4%EF%BC%A4%E9%87%91%E5%8B%BE%E8%87%82",
       "type": "恶",
       "category": "物理",
       "power": 85,

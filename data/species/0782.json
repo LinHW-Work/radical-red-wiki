@@ -59,18 +59,18 @@
       "evolution": [
         {
           "nameCn": "心鳞宝",
-          "alts": null,
-          "slug": "心鳞宝"
+          "slug": "心鳞宝",
+          "alts": null
         },
         {
           "nameCn": "鳞甲龙",
-          "alts": null,
-          "slug": "鳞甲龙"
+          "slug": "鳞甲龙",
+          "alts": null
         },
         {
           "nameCn": "杖尾鳞甲龙",
-          "alts": null,
-          "slug": "杖尾鳞甲龙"
+          "slug": "杖尾鳞甲龙",
+          "alts": null
         }
       ],
       "stats": {
@@ -515,8 +515,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -895,7 +895,7 @@
     {
       "slot": "0",
       "nameCn": "防弹",
-      "href": "https://wiki.52poke.com/wiki/%E9%98%B2%E5%BC%B9",
+      "href": "/特性/修改#防弹",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -934,18 +934,18 @@
   "evolution": [
     {
       "nameCn": "心鳞宝",
-      "alts": null,
-      "slug": "心鳞宝"
+      "slug": "心鳞宝",
+      "alts": null
     },
     {
       "nameCn": "鳞甲龙",
-      "alts": null,
-      "slug": "鳞甲龙"
+      "slug": "鳞甲龙",
+      "alts": null
     },
     {
       "nameCn": "杖尾鳞甲龙",
-      "alts": null,
-      "slug": "杖尾鳞甲龙"
+      "slug": "杖尾鳞甲龙",
+      "alts": null
     }
   ],
   "stats": {
@@ -1390,8 +1390,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,

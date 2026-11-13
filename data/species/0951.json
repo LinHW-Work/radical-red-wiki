@@ -48,14 +48,14 @@
       "obtains": {
         "map": [
           {
-            "text": "21a号道路·白天",
+            "text": "21号道路（靠近真新镇）·白天",
             "href": "/分布/地图捕捉"
           }
         ],
         "static": [
           {
             "text": "3号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -64,13 +64,13 @@
       "evolution": [
         {
           "nameCn": "热辣娃",
-          "alts": null,
-          "slug": "热辣娃"
+          "slug": "热辣娃",
+          "alts": null
         },
         {
           "nameCn": "狠辣椒",
-          "alts": null,
-          "slug": "狠辣椒"
+          "slug": "狠辣椒",
+          "alts": null
         }
       ],
       "stats": {
@@ -587,18 +587,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "咬碎",
           "restricted": false,
           "original": false,
@@ -695,14 +683,14 @@
   "obtains": {
     "map": [
       {
-        "text": "21a号道路·白天",
+        "text": "21号道路（靠近真新镇）·白天",
         "href": "/分布/地图捕捉"
       }
     ],
     "static": [
       {
         "text": "3号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -711,13 +699,13 @@
   "evolution": [
     {
       "nameCn": "热辣娃",
-      "alts": null,
-      "slug": "热辣娃"
+      "slug": "热辣娃",
+      "alts": null
     },
     {
       "nameCn": "狠辣椒",
-      "alts": null,
-      "slug": "狠辣椒"
+      "slug": "狠辣椒",
+      "alts": null
     }
   ],
   "stats": {
@@ -1231,18 +1219,6 @@
       "power": 120,
       "accuracy": 100,
       "pp": 10
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

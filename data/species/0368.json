@@ -43,7 +43,11 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "东区·厉害吊杆",
+            "text": "狩猎地带·厉害吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "火照小路·厉害吊杆",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -65,11 +69,12 @@
       "evolution": [
         {
           "nameCn": "珍珠贝",
-          "alts": null,
-          "slug": "珍珠贝"
+          "slug": "珍珠贝",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "猎斑鱼",
@@ -93,10 +98,10 @@
       "levelMoves": [
         {
           "level": 0,
-          "nameCn": "Drain Kiss",
+          "nameCn": "吸取之吻",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Drain Kiss",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
           "type": null,
           "category": null,
           "power": null,
@@ -105,10 +110,10 @@
         },
         {
           "level": 1,
-          "nameCn": "Drain Kiss",
+          "nameCn": "吸取之吻",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Drain Kiss",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
           "type": null,
           "category": null,
           "power": null,
@@ -906,7 +911,11 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "东区·厉害吊杆",
+        "text": "狩猎地带·厉害吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "火照小路·厉害吊杆",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -928,11 +937,12 @@
   "evolution": [
     {
       "nameCn": "珍珠贝",
-      "alts": null,
-      "slug": "珍珠贝"
+      "slug": "珍珠贝",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "猎斑鱼",
@@ -956,10 +966,10 @@
   "levelMoves": [
     {
       "level": 0,
-      "nameCn": "Drain Kiss",
+      "nameCn": "吸取之吻",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Drain Kiss",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
       "type": null,
       "category": null,
       "power": null,
@@ -968,10 +978,10 @@
     },
     {
       "level": 1,
-      "nameCn": "Drain Kiss",
+      "nameCn": "吸取之吻",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Drain Kiss",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
       "type": null,
       "category": null,
       "power": null,

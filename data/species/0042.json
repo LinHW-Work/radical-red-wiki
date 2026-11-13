@@ -48,51 +48,19 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "华蓝洞窟 1f·白天",
+            "text": "华蓝洞窟·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "华蓝洞窟 1f·晚上",
+            "text": "华蓝洞窟·晚上",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 1f·白天",
+            "text": "双子岛·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 1f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b1f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b1f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b2f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b2f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b3f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b3f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b4f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b4f·晚上",
+            "text": "双子岛·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -109,18 +77,18 @@
       "evolution": [
         {
           "nameCn": "超音蝠",
-          "alts": null,
-          "slug": "超音蝠"
+          "slug": "超音蝠",
+          "alts": null
         },
         {
           "nameCn": "大嘴蝠",
-          "alts": null,
-          "slug": "大嘴蝠"
+          "slug": "大嘴蝠",
+          "alts": null
         },
         {
           "nameCn": "叉字蝠",
-          "alts": null,
-          "slug": "叉字蝠"
+          "slug": "叉字蝠",
+          "alts": null
         }
       ],
       "stats": {
@@ -338,10 +306,10 @@
         },
         {
           "level": 48,
-          "nameCn": "空气斩",
+          "nameCn": "空气之刃",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
           "type": "飞行",
           "category": "特殊",
           "power": 75,
@@ -1091,51 +1059,19 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "华蓝洞窟 1f·白天",
+        "text": "华蓝洞窟·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "华蓝洞窟 1f·晚上",
+        "text": "华蓝洞窟·晚上",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "双子岛 1f·白天",
+        "text": "双子岛·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "双子岛 1f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "双子岛 b1f·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "双子岛 b1f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "双子岛 b2f·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "双子岛 b2f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "双子岛 b3f·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "双子岛 b3f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "双子岛 b4f·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "双子岛 b4f·晚上",
+        "text": "双子岛·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1152,18 +1088,18 @@
   "evolution": [
     {
       "nameCn": "超音蝠",
-      "alts": null,
-      "slug": "超音蝠"
+      "slug": "超音蝠",
+      "alts": null
     },
     {
       "nameCn": "大嘴蝠",
-      "alts": null,
-      "slug": "大嘴蝠"
+      "slug": "大嘴蝠",
+      "alts": null
     },
     {
       "nameCn": "叉字蝠",
-      "alts": null,
-      "slug": "叉字蝠"
+      "slug": "叉字蝠",
+      "alts": null
     }
   ],
   "stats": {
@@ -1381,10 +1317,10 @@
     },
     {
       "level": 48,
-      "nameCn": "空气斩",
+      "nameCn": "空气之刃",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
       "type": "飞行",
       "category": "特殊",
       "power": 75,

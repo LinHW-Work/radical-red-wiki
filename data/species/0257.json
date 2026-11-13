@@ -40,11 +40,11 @@
       "obtains": {
         "map": [
           {
-            "text": "轰鸣月的房间·白天",
+            "text": "宝可梦屋·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "轰鸣月的房间·晚上",
+            "text": "宝可梦屋·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -61,18 +61,18 @@
       "evolution": [
         {
           "nameCn": "火稚鸡",
-          "alts": null,
-          "slug": "火稚鸡"
+          "slug": "火稚鸡",
+          "alts": null
         },
         {
           "nameCn": "力壮鸡",
-          "alts": null,
-          "slug": "力壮鸡"
+          "slug": "力壮鸡",
+          "alts": null
         },
         {
           "nameCn": "火焰鸡",
-          "alts": null,
-          "slug": "火焰鸡"
+          "slug": "火焰鸡",
+          "alts": null
         }
       ],
       "stats": {
@@ -206,10 +206,10 @@
         },
         {
           "level": 10,
-          "nameCn": "烧尽",
+          "nameCn": "烧净",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
           "type": "火",
           "category": "特殊",
           "power": 60,
@@ -1463,19 +1463,19 @@
           "nameCn": "加速",
           "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E9%80%9F",
           "original": false,
-          "restrictedNameCn": "striker",
-          "restrictedHref": "/原创特性/striker",
-          "restrictedOriginal": true
+          "restrictedNameCn": "前锋",
+          "restrictedHref": "/特性/原创#前锋",
+          "restrictedOriginal": false
         }
       ],
       "obtains": {
         "map": [
           {
-            "text": "轰鸣月的房间·白天",
+            "text": "宝可梦屋·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "轰鸣月的房间·晚上",
+            "text": "宝可梦屋·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -1492,18 +1492,18 @@
       "evolution": [
         {
           "nameCn": "火稚鸡",
-          "alts": null,
-          "slug": "火稚鸡"
+          "slug": "火稚鸡",
+          "alts": null
         },
         {
           "nameCn": "力壮鸡",
-          "alts": null,
-          "slug": "力壮鸡"
+          "slug": "力壮鸡",
+          "alts": null
         },
         {
           "nameCn": "火焰鸡",
-          "alts": null,
-          "slug": "火焰鸡"
+          "slug": "火焰鸡",
+          "alts": null
         }
       ],
       "stats": {
@@ -1637,10 +1637,10 @@
         },
         {
           "level": 10,
-          "nameCn": "烧尽",
+          "nameCn": "烧净",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
           "type": "火",
           "category": "特殊",
           "power": 60,
@@ -1788,11 +1788,11 @@
   "obtains": {
     "map": [
       {
-        "text": "轰鸣月的房间·白天",
+        "text": "宝可梦屋·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "轰鸣月的房间·晚上",
+        "text": "宝可梦屋·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1809,18 +1809,18 @@
   "evolution": [
     {
       "nameCn": "火稚鸡",
-      "alts": null,
-      "slug": "火稚鸡"
+      "slug": "火稚鸡",
+      "alts": null
     },
     {
       "nameCn": "力壮鸡",
-      "alts": null,
-      "slug": "力壮鸡"
+      "slug": "力壮鸡",
+      "alts": null
     },
     {
       "nameCn": "火焰鸡",
-      "alts": null,
-      "slug": "火焰鸡"
+      "slug": "火焰鸡",
+      "alts": null
     }
   ],
   "stats": {
@@ -1954,10 +1954,10 @@
     },
     {
       "level": 10,
-      "nameCn": "烧尽",
+      "nameCn": "烧净",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
       "type": "火",
       "category": "特殊",
       "power": 60,

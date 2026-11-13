@@ -46,7 +46,12 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "珍宝海滩·白天",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": [
@@ -60,11 +65,12 @@
       "evolution": [
         {
           "nameCn": "百合根娃娃",
-          "alts": null,
-          "slug": "百合根娃娃"
+          "slug": "百合根娃娃",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "裙儿小姐",
@@ -783,18 +789,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "叶刃",
           "restricted": false,
           "original": false,
@@ -909,7 +903,16 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "珍宝海滩·晚上",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "险峻岬角·白天",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": [
@@ -923,11 +926,12 @@
       "evolution": [
         {
           "nameCn": "百合根娃娃",
-          "alts": null,
-          "slug": "百合根娃娃"
+          "slug": "百合根娃娃",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "裙儿小姐",
@@ -1757,18 +1761,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "叶刃",
           "restricted": false,
           "original": false,
@@ -1851,7 +1843,12 @@
     }
   ],
   "obtains": {
-    "map": [],
+    "map": [
+      {
+        "text": "珍宝海滩·白天",
+        "href": "/分布/地图捕捉"
+      }
+    ],
     "static": [],
     "npc": [],
     "evolution": [
@@ -1865,11 +1862,12 @@
   "evolution": [
     {
       "nameCn": "百合根娃娃",
-      "alts": null,
-      "slug": "百合根娃娃"
+      "slug": "百合根娃娃",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "裙儿小姐",
@@ -2585,18 +2583,6 @@
       "power": 120,
       "accuracy": 100,
       "pp": 10
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

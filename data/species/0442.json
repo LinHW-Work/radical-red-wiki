@@ -40,35 +40,11 @@
       "obtains": {
         "map": [
           {
-            "text": "宝可梦塔 3&5f·白天",
+            "text": "宝可梦塔·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "宝可梦塔 3&5f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "宝可梦塔 4f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "宝可梦塔 4f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "宝可梦塔 6f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "宝可梦塔 6f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "宝可梦塔 7f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "宝可梦塔 7f·晚上",
+            "text": "宝可梦塔·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -79,8 +55,8 @@
       "evolution": [
         {
           "nameCn": "花岩怪",
-          "alts": null,
-          "slug": "花岩怪"
+          "slug": "花岩怪",
+          "alts": null
         }
       ],
       "stats": {
@@ -658,10 +634,10 @@
         },
         {
           "level": null,
-          "nameCn": "Dark Hole",
+          "nameCn": "暗黑洞",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Dark Hole",
+          "href": "/原创招式#暗黑洞",
           "type": null,
           "category": null,
           "power": null,
@@ -890,35 +866,11 @@
   "obtains": {
     "map": [
       {
-        "text": "宝可梦塔 3&5f·白天",
+        "text": "宝可梦塔·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "宝可梦塔 3&5f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "宝可梦塔 4f·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "宝可梦塔 4f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "宝可梦塔 6f·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "宝可梦塔 6f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "宝可梦塔 7f·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "宝可梦塔 7f·晚上",
+        "text": "宝可梦塔·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -929,8 +881,8 @@
   "evolution": [
     {
       "nameCn": "花岩怪",
-      "alts": null,
-      "slug": "花岩怪"
+      "slug": "花岩怪",
+      "alts": null
     }
   ],
   "stats": {
@@ -1508,10 +1460,10 @@
     },
     {
       "level": null,
-      "nameCn": "Dark Hole",
+      "nameCn": "暗黑洞",
       "restricted": false,
       "original": true,
-      "href": "/原创招式/Dark Hole",
+      "href": "/原创招式#暗黑洞",
       "type": null,
       "category": null,
       "power": null,

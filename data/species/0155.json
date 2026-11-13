@@ -50,16 +50,17 @@
       "evolution": [
         {
           "nameCn": "火球鼠",
-          "alts": null,
-          "slug": "火球鼠"
+          "slug": "火球鼠",
+          "alts": null
         },
         {
           "nameCn": "火岩鼠",
-          "alts": null,
-          "slug": "火岩鼠"
+          "slug": "火岩鼠",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "火暴兽-洗翠",
@@ -855,16 +856,17 @@
   "evolution": [
     {
       "nameCn": "火球鼠",
-      "alts": null,
-      "slug": "火球鼠"
+      "slug": "火球鼠",
+      "alts": null
     },
     {
       "nameCn": "火岩鼠",
-      "alts": null,
-      "slug": "火岩鼠"
+      "slug": "火岩鼠",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "火暴兽-洗翠",

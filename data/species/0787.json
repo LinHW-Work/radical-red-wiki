@@ -23,9 +23,9 @@
           "nameCn": "青草制造者",
           "href": "https://wiki.52poke.com/wiki/%E9%9D%92%E8%8D%89%E5%88%B6%E9%80%A0%E8%80%85",
           "original": false,
-          "restrictedNameCn": "selfsufficient",
-          "restrictedHref": "/原创特性/selfsufficient",
-          "restrictedOriginal": true
+          "restrictedNameCn": "自给自足",
+          "restrictedHref": "/特性/原创#自给自足",
+          "restrictedOriginal": false
         },
         {
           "slot": "H",
@@ -41,12 +41,12 @@
         "map": [],
         "static": [
           {
-            "text": "常青森林扩展区",
-            "href": "/分布/定点获取"
+            "text": "常青森林",
+            "href": "/分布/极巨巢穴"
           },
           {
-            "text": "常青森林",
-            "href": "/分布/定点获取"
+            "text": "常青森林扩展区",
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -55,8 +55,8 @@
       "evolution": [
         {
           "nameCn": "卡璞・哞哞",
-          "alts": null,
-          "slug": "卡璞・哞哞"
+          "slug": "卡璞・哞哞",
+          "alts": null
         }
       ],
       "stats": {
@@ -913,10 +913,10 @@
         },
         {
           "level": null,
-          "nameCn": "力量储存",
+          "nameCn": "辅助力量",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+          "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
           "type": "超能力",
           "category": "特殊",
           "power": 20,
@@ -949,10 +949,10 @@
         },
         {
           "level": null,
-          "nameCn": "DD金勾臂",
+          "nameCn": "ＤＤ金勾臂",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/DD%E9%87%91%E5%8B%BE%E8%87%82",
+          "href": "https://wiki.52poke.com/wiki/%EF%BC%A4%EF%BC%A4%E9%87%91%E5%8B%BE%E8%87%82",
           "type": "恶",
           "category": "物理",
           "power": 85,
@@ -996,9 +996,9 @@
       "nameCn": "青草制造者",
       "href": "https://wiki.52poke.com/wiki/%E9%9D%92%E8%8D%89%E5%88%B6%E9%80%A0%E8%80%85",
       "original": false,
-      "restrictedNameCn": "selfsufficient",
-      "restrictedHref": "/原创特性/selfsufficient",
-      "restrictedOriginal": true
+      "restrictedNameCn": "自给自足",
+      "restrictedHref": "/特性/原创#自给自足",
+      "restrictedOriginal": false
     },
     {
       "slot": "H",
@@ -1014,12 +1014,12 @@
     "map": [],
     "static": [
       {
-        "text": "常青森林扩展区",
-        "href": "/分布/定点获取"
+        "text": "常青森林",
+        "href": "/分布/极巨巢穴"
       },
       {
-        "text": "常青森林",
-        "href": "/分布/定点获取"
+        "text": "常青森林扩展区",
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -1028,8 +1028,8 @@
   "evolution": [
     {
       "nameCn": "卡璞・哞哞",
-      "alts": null,
-      "slug": "卡璞・哞哞"
+      "slug": "卡璞・哞哞",
+      "alts": null
     }
   ],
   "stats": {
@@ -1886,10 +1886,10 @@
     },
     {
       "level": null,
-      "nameCn": "力量储存",
+      "nameCn": "辅助力量",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+      "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
       "type": "超能力",
       "category": "特殊",
       "power": 20,
@@ -1922,10 +1922,10 @@
     },
     {
       "level": null,
-      "nameCn": "DD金勾臂",
+      "nameCn": "ＤＤ金勾臂",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/DD%E9%87%91%E5%8B%BE%E8%87%82",
+      "href": "https://wiki.52poke.com/wiki/%EF%BC%A4%EF%BC%A4%E9%87%91%E5%8B%BE%E8%87%82",
       "type": "恶",
       "category": "物理",
       "power": 85,

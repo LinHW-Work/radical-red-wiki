@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "功夫鼬",
-          "alts": null,
-          "slug": "功夫鼬"
+          "slug": "功夫鼬",
+          "alts": null
         },
         {
           "nameCn": "师父鼬",
-          "alts": null,
-          "slug": "师父鼬"
+          "slug": "师父鼬",
+          "alts": null
         }
       ],
       "stats": {
@@ -248,10 +248,10 @@
         },
         {
           "level": 41,
-          "nameCn": "U转攻击",
+          "nameCn": "急速折返",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+          "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
           "type": "虫",
           "category": "物理",
           "power": 70,
@@ -1140,7 +1140,7 @@
     {
       "slot": "H",
       "nameCn": "舍身",
-      "href": "https://wiki.52poke.com/wiki/%E8%88%8D%E8%BA%AB",
+      "href": "/特性/修改#舍身",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1162,13 +1162,13 @@
   "evolution": [
     {
       "nameCn": "功夫鼬",
-      "alts": null,
-      "slug": "功夫鼬"
+      "slug": "功夫鼬",
+      "alts": null
     },
     {
       "nameCn": "师父鼬",
-      "alts": null,
-      "slug": "师父鼬"
+      "slug": "师父鼬",
+      "alts": null
     }
   ],
   "stats": {
@@ -1350,10 +1350,10 @@
     },
     {
       "level": 41,
-      "nameCn": "U转攻击",
+      "nameCn": "急速折返",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+      "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
       "type": "虫",
       "category": "物理",
       "power": 70,

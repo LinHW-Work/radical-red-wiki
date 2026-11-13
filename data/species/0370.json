@@ -43,15 +43,11 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "常青市·厉害吊杆",
+            "text": "深灰市·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "华蓝市·厉害吊杆",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "枯叶市·厉害吊杆",
+            "text": "紫苑镇·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
@@ -67,14 +63,30 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "圣特安努号·厉害吊杆",
+            "text": "点之穴·厉害吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "Dynamic·厉害吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "圣安妮号·厉害吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "火照小路·厉害吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "险峻岬角·厉害吊杆",
             "href": "/分布/地图捕捉"
           }
         ],
         "static": [
           {
             "text": "12号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -83,8 +95,8 @@
       "evolution": [
         {
           "nameCn": "爱心鱼",
-          "alts": null,
-          "slug": "爱心鱼"
+          "slug": "爱心鱼",
+          "alts": null
         }
       ],
       "stats": {
@@ -146,10 +158,10 @@
         },
         {
           "level": 9,
-          "nameCn": "Drain Kiss",
+          "nameCn": "吸取之吻",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Drain Kiss",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
           "type": null,
           "category": null,
           "power": null,
@@ -826,15 +838,11 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "常青市·厉害吊杆",
+        "text": "深灰市·厉害吊杆",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "华蓝市·厉害吊杆",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "枯叶市·厉害吊杆",
+        "text": "紫苑镇·厉害吊杆",
         "href": "/分布/地图捕捉"
       },
       {
@@ -850,14 +858,30 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "圣特安努号·厉害吊杆",
+        "text": "点之穴·厉害吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "Dynamic·厉害吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "圣安妮号·厉害吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "火照小路·厉害吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "险峻岬角·厉害吊杆",
         "href": "/分布/地图捕捉"
       }
     ],
     "static": [
       {
         "text": "12号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -866,8 +890,8 @@
   "evolution": [
     {
       "nameCn": "爱心鱼",
-      "alts": null,
-      "slug": "爱心鱼"
+      "slug": "爱心鱼",
+      "alts": null
     }
   ],
   "stats": {
@@ -929,10 +953,10 @@
     },
     {
       "level": 9,
-      "nameCn": "Drain Kiss",
+      "nameCn": "吸取之吻",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Drain Kiss",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
       "type": null,
       "category": null,
       "power": null,

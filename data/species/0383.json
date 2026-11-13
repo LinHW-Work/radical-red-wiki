@@ -32,7 +32,7 @@
         "static": [
           {
             "text": "神秘礼物：af7trmwb",
-            "href": "/分布/定点获取"
+            "href": "/分布/神秘礼物"
           }
         ],
         "npc": [],
@@ -41,8 +41,8 @@
       "evolution": [
         {
           "nameCn": "固拉多",
-          "alts": null,
-          "slug": "固拉多"
+          "slug": "固拉多",
+          "alts": null
         }
       ],
       "stats": {
@@ -1080,7 +1080,7 @@
         "static": [
           {
             "text": "神秘礼物：af7trmwb",
-            "href": "/分布/定点获取"
+            "href": "/分布/神秘礼物"
           }
         ],
         "npc": [],
@@ -1089,8 +1089,8 @@
       "evolution": [
         {
           "nameCn": "固拉多",
-          "alts": null,
-          "slug": "固拉多"
+          "slug": "固拉多",
+          "alts": null
         }
       ],
       "stats": {
@@ -1283,7 +1283,7 @@
     "static": [
       {
         "text": "神秘礼物：af7trmwb",
-        "href": "/分布/定点获取"
+        "href": "/分布/神秘礼物"
       }
     ],
     "npc": [],
@@ -1292,8 +1292,8 @@
   "evolution": [
     {
       "nameCn": "固拉多",
-      "alts": null,
-      "slug": "固拉多"
+      "slug": "固拉多",
+      "alts": null
     }
   ],
   "stats": {

@@ -41,13 +41,13 @@
       "evolution": [
         {
           "nameCn": "樱花宝",
-          "alts": null,
-          "slug": "樱花宝"
+          "slug": "樱花宝",
+          "alts": null
         },
         {
           "nameCn": "樱花儿",
-          "alts": null,
-          "slug": "樱花儿"
+          "slug": "樱花儿",
+          "alts": null
         }
       ],
       "stats": {
@@ -634,10 +634,10 @@
         },
         {
           "level": null,
-          "nameCn": "Flower Guard",
+          "nameCn": "鲜花防守",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Flower Guard",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%B2%9C%E8%8A%B1%E9%98%B2%E5%AE%88",
           "type": null,
           "category": null,
           "power": null,
@@ -809,13 +809,13 @@
   "evolution": [
     {
       "nameCn": "樱花宝",
-      "alts": null,
-      "slug": "樱花宝"
+      "slug": "樱花宝",
+      "alts": null
     },
     {
       "nameCn": "樱花儿",
-      "alts": null,
-      "slug": "樱花儿"
+      "slug": "樱花儿",
+      "alts": null
     }
   ],
   "stats": {
@@ -1402,10 +1402,10 @@
     },
     {
       "level": null,
-      "nameCn": "Flower Guard",
+      "nameCn": "鲜花防守",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Flower Guard",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%B2%9C%E8%8A%B1%E9%98%B2%E5%AE%88",
       "type": null,
       "category": null,
       "power": null,

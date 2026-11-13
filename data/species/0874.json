@@ -30,18 +30,18 @@
       "obtains": {
         "map": [
           {
-            "text": "岩山隧道 1f·白天",
+            "text": "岩山隧道·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "岩山隧道 1f·晚上",
+            "text": "岩山隧道·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
         "static": [
           {
-            "text": "地鼠洞穴",
-            "href": "/分布/定点获取"
+            "text": "Diglett's Cave",
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -50,8 +50,8 @@
       "evolution": [
         {
           "nameCn": "巨石丁",
-          "alts": null,
-          "slug": "巨石丁"
+          "slug": "巨石丁",
+          "alts": null
         }
       ],
       "stats": {
@@ -706,18 +706,18 @@
   "obtains": {
     "map": [
       {
-        "text": "岩山隧道 1f·白天",
+        "text": "岩山隧道·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "岩山隧道 1f·晚上",
+        "text": "岩山隧道·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
     "static": [
       {
-        "text": "地鼠洞穴",
-        "href": "/分布/定点获取"
+        "text": "Diglett's Cave",
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -726,8 +726,8 @@
   "evolution": [
     {
       "nameCn": "巨石丁",
-      "alts": null,
-      "slug": "巨石丁"
+      "slug": "巨石丁",
+      "alts": null
     }
   ],
   "stats": {

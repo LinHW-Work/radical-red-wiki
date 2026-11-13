@@ -59,8 +59,8 @@
       "evolution": [
         {
           "nameCn": "电萤虫",
-          "alts": null,
-          "slug": "电萤虫"
+          "slug": "电萤虫",
+          "alts": null
         }
       ],
       "stats": {
@@ -968,7 +968,7 @@
     {
       "slot": "0",
       "nameCn": "发光",
-      "href": "https://wiki.52poke.com/wiki/%E5%8F%91%E5%85%89",
+      "href": "/特性/修改#发光",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1007,8 +1007,8 @@
   "evolution": [
     {
       "nameCn": "电萤虫",
-      "alts": null,
-      "slug": "电萤虫"
+      "slug": "电萤虫",
+      "alts": null
     }
   ],
   "stats": {

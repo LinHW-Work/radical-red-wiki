@@ -20,8 +20,8 @@
       "abilities": [
         {
           "slot": "0",
-          "nameCn": "精神场地",
-          "href": "https://wiki.52poke.com/wiki/%E7%B2%BE%E7%A5%9E%E5%9C%BA%E5%9C%B0",
+          "nameCn": "精神制造者",
+          "href": "https://wiki.52poke.com/wiki/%E7%B2%BE%E7%A5%9E%E5%88%B6%E9%80%A0%E8%80%85",
           "original": false,
           "restrictedNameCn": "鲜艳之躯",
           "restrictedHref": "https://wiki.52poke.com/wiki/%E9%B2%9C%E8%89%B3%E4%B9%8B%E8%BA%AF",
@@ -41,12 +41,12 @@
         "map": [],
         "static": [
           {
-            "text": "宝可梦屋 1f",
-            "href": "/分布/定点获取"
+            "text": "宝可梦屋",
+            "href": "/分布/极巨巢穴"
           },
           {
-            "text": "宝可梦屋",
-            "href": "/分布/定点获取"
+            "text": "宝可梦屋 1f",
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -55,8 +55,8 @@
       "evolution": [
         {
           "nameCn": "卡璞・蝶蝶",
-          "alts": null,
-          "slug": "卡璞・蝶蝶"
+          "slug": "卡璞・蝶蝶",
+          "alts": null
         }
       ],
       "stats": {
@@ -118,10 +118,10 @@
         },
         {
           "level": 1,
-          "nameCn": "Drain Kiss",
+          "nameCn": "吸取之吻",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Drain Kiss",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
           "type": null,
           "category": null,
           "power": null,
@@ -747,10 +747,10 @@
         },
         {
           "level": null,
-          "nameCn": "力量储存",
+          "nameCn": "辅助力量",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+          "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
           "type": "超能力",
           "category": "特殊",
           "power": 20,
@@ -791,8 +791,8 @@
   "abilities": [
     {
       "slot": "0",
-      "nameCn": "精神场地",
-      "href": "https://wiki.52poke.com/wiki/%E7%B2%BE%E7%A5%9E%E5%9C%BA%E5%9C%B0",
+      "nameCn": "精神制造者",
+      "href": "https://wiki.52poke.com/wiki/%E7%B2%BE%E7%A5%9E%E5%88%B6%E9%80%A0%E8%80%85",
       "original": false,
       "restrictedNameCn": "鲜艳之躯",
       "restrictedHref": "https://wiki.52poke.com/wiki/%E9%B2%9C%E8%89%B3%E4%B9%8B%E8%BA%AF",
@@ -812,12 +812,12 @@
     "map": [],
     "static": [
       {
-        "text": "宝可梦屋 1f",
-        "href": "/分布/定点获取"
+        "text": "宝可梦屋",
+        "href": "/分布/极巨巢穴"
       },
       {
-        "text": "宝可梦屋",
-        "href": "/分布/定点获取"
+        "text": "宝可梦屋 1f",
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -826,8 +826,8 @@
   "evolution": [
     {
       "nameCn": "卡璞・蝶蝶",
-      "alts": null,
-      "slug": "卡璞・蝶蝶"
+      "slug": "卡璞・蝶蝶",
+      "alts": null
     }
   ],
   "stats": {
@@ -889,10 +889,10 @@
     },
     {
       "level": 1,
-      "nameCn": "Drain Kiss",
+      "nameCn": "吸取之吻",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Drain Kiss",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
       "type": null,
       "category": null,
       "power": null,
@@ -1518,10 +1518,10 @@
     },
     {
       "level": null,
-      "nameCn": "力量储存",
+      "nameCn": "辅助力量",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+      "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
       "type": "超能力",
       "category": "特殊",
       "power": 20,

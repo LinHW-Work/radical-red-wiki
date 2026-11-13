@@ -53,11 +53,7 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 b2f·好吊杆",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b3f-b4f·好吊杆",
+            "text": "双子岛·好吊杆",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -68,18 +64,18 @@
       "evolution": [
         {
           "nameCn": "海豹球",
-          "alts": null,
-          "slug": "海豹球"
+          "slug": "海豹球",
+          "alts": null
         },
         {
           "nameCn": "海魔狮",
-          "alts": null,
-          "slug": "海魔狮"
+          "slug": "海魔狮",
+          "alts": null
         },
         {
           "nameCn": "帝牙海狮",
-          "alts": null,
-          "slug": "帝牙海狮"
+          "slug": "帝牙海狮",
+          "alts": null
         }
       ],
       "stats": {
@@ -884,7 +880,7 @@
     {
       "slot": "1",
       "nameCn": "冰冻之躯",
-      "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E5%86%BB%E4%B9%8B%E8%BA%AF",
+      "href": "/特性/修改#冰冻之躯",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -907,11 +903,7 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "双子岛 b2f·好吊杆",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "双子岛 b3f-b4f·好吊杆",
+        "text": "双子岛·好吊杆",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -922,18 +914,18 @@
   "evolution": [
     {
       "nameCn": "海豹球",
-      "alts": null,
-      "slug": "海豹球"
+      "slug": "海豹球",
+      "alts": null
     },
     {
       "nameCn": "海魔狮",
-      "alts": null,
-      "slug": "海魔狮"
+      "slug": "海魔狮",
+      "alts": null
     },
     {
       "nameCn": "帝牙海狮",
-      "alts": null,
-      "slug": "帝牙海狮"
+      "slug": "帝牙海狮",
+      "alts": null
     }
   ],
   "stats": {

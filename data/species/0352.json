@@ -39,11 +39,11 @@
       "obtains": {
         "map": [
           {
-            "text": "中心区·白天",
+            "text": "狩猎地带·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "中心区·夜晚",
+            "text": "狩猎地带·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -54,8 +54,8 @@
       "evolution": [
         {
           "nameCn": "变隐龙",
-          "alts": null,
-          "slug": "变隐龙"
+          "slug": "变隐龙",
+          "alts": null
         }
       ],
       "stats": {
@@ -1279,11 +1279,11 @@
   "obtains": {
     "map": [
       {
-        "text": "中心区·白天",
+        "text": "狩猎地带·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "中心区·夜晚",
+        "text": "狩猎地带·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1294,8 +1294,8 @@
   "evolution": [
     {
       "nameCn": "变隐龙",
-      "alts": null,
-      "slug": "变隐龙"
+      "slug": "变隐龙",
+      "alts": null
     }
   ],
   "stats": {

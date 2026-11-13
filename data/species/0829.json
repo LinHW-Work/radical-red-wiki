@@ -59,13 +59,13 @@
       "evolution": [
         {
           "nameCn": "幼棉棉",
-          "alts": null,
-          "slug": "幼棉棉"
+          "slug": "幼棉棉",
+          "alts": null
         },
         {
           "nameCn": "白蓬蓬",
-          "alts": null,
-          "slug": "白蓬蓬"
+          "slug": "白蓬蓬",
+          "alts": null
         }
       ],
       "stats": {
@@ -650,13 +650,13 @@
   "evolution": [
     {
       "nameCn": "幼棉棉",
-      "alts": null,
-      "slug": "幼棉棉"
+      "slug": "幼棉棉",
+      "alts": null
     },
     {
       "nameCn": "白蓬蓬",
-      "alts": null,
-      "slug": "白蓬蓬"
+      "slug": "白蓬蓬",
+      "alts": null
     }
   ],
   "stats": {

@@ -31,11 +31,11 @@
       "obtains": {
         "map": [
           {
-            "text": "红莲镇·厉害吊杆",
+            "text": "浅红市·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "东区·厉害吊杆",
+            "text": "狩猎地带·厉害吊杆",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -46,8 +46,8 @@
       "evolution": [
         {
           "nameCn": "破破舵轮",
-          "alts": null,
-          "slug": "破破舵轮"
+          "slug": "破破舵轮",
+          "alts": null
         }
       ],
       "stats": {
@@ -876,18 +876,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "浊流",
           "restricted": false,
           "original": false,
@@ -990,7 +978,12 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "连理之桥·厉害吊杆",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": []
@@ -998,8 +991,8 @@
       "evolution": [
         {
           "nameCn": "破破舵轮-七之岛",
-          "alts": null,
           "slug": "破破舵轮",
+          "alts": null,
           "forme": "七之岛"
         }
       ],
@@ -1731,18 +1724,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "浊流",
           "restricted": false,
           "original": false,
@@ -1810,11 +1791,11 @@
   "obtains": {
     "map": [
       {
-        "text": "红莲镇·厉害吊杆",
+        "text": "浅红市·厉害吊杆",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "东区·厉害吊杆",
+        "text": "狩猎地带·厉害吊杆",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1825,8 +1806,8 @@
   "evolution": [
     {
       "nameCn": "破破舵轮",
-      "alts": null,
-      "slug": "破破舵轮"
+      "slug": "破破舵轮",
+      "alts": null
     }
   ],
   "stats": {
@@ -2652,18 +2633,6 @@
       "power": 120,
       "accuracy": 100,
       "pp": 10
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

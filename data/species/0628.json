@@ -41,8 +41,8 @@
           "nameCn": "不服输",
           "href": "https://wiki.52poke.com/wiki/%E4%B8%8D%E6%9C%8D%E8%BE%93",
           "original": false,
-          "restrictedNameCn": "透明特性",
-          "restrictedHref": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+          "restrictedNameCn": "恒净之躯",
+          "restrictedHref": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
           "restrictedOriginal": false
         }
       ],
@@ -61,11 +61,12 @@
       "evolution": [
         {
           "nameCn": "毛头小鹰",
-          "alts": null,
-          "slug": "毛头小鹰"
+          "slug": "毛头小鹰",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "勇士雄鹰-洗翠",
@@ -1007,7 +1008,16 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "连理之桥·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "连理之桥·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": [
@@ -1021,11 +1031,12 @@
       "evolution": [
         {
           "nameCn": "毛头小鹰",
-          "alts": null,
-          "slug": "毛头小鹰"
+          "slug": "毛头小鹰",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "勇士雄鹰-洗翠",
@@ -1098,10 +1109,10 @@
         },
         {
           "level": 1,
-          "nameCn": "空气斩",
+          "nameCn": "空气之刃",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
           "type": "飞行",
           "category": "特殊",
           "power": 75,
@@ -1936,10 +1947,10 @@
         },
         {
           "level": null,
-          "nameCn": "力量储存",
+          "nameCn": "辅助力量",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+          "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
           "type": "超能力",
           "category": "特殊",
           "power": 20,
@@ -2025,8 +2036,8 @@
       "nameCn": "不服输",
       "href": "https://wiki.52poke.com/wiki/%E4%B8%8D%E6%9C%8D%E8%BE%93",
       "original": false,
-      "restrictedNameCn": "透明特性",
-      "restrictedHref": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+      "restrictedNameCn": "恒净之躯",
+      "restrictedHref": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
       "restrictedOriginal": false
     }
   ],
@@ -2045,11 +2056,12 @@
   "evolution": [
     {
       "nameCn": "毛头小鹰",
-      "alts": null,
-      "slug": "毛头小鹰"
+      "slug": "毛头小鹰",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "勇士雄鹰-洗翠",

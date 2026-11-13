@@ -48,11 +48,7 @@
       "obtains": {
         "map": [
           {
-            "text": "地鼠洞穴·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "地鼠洞穴 b1f·白天",
+            "text": "Diglett's Cave·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -63,13 +59,13 @@
       "evolution": [
         {
           "nameCn": "地鼠",
-          "alts": null,
-          "slug": "地鼠"
+          "slug": "地鼠",
+          "alts": null
         },
         {
           "nameCn": "三地鼠",
-          "alts": null,
-          "slug": "三地鼠"
+          "slug": "三地鼠",
+          "alts": null
         }
       ],
       "stats": {
@@ -874,11 +870,7 @@
       "obtains": {
         "map": [
           {
-            "text": "地鼠洞穴·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "地鼠洞穴 b1f·晚上",
+            "text": "Diglett's Cave·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -889,14 +881,14 @@
       "evolution": [
         {
           "nameCn": "地鼠-阿罗拉",
-          "alts": null,
           "slug": "地鼠",
+          "alts": null,
           "forme": "阿罗拉"
         },
         {
           "nameCn": "三地鼠-阿罗拉",
-          "alts": null,
           "slug": "三地鼠",
+          "alts": null,
           "forme": "阿罗拉"
         }
       ],
@@ -1720,11 +1712,7 @@
   "obtains": {
     "map": [
       {
-        "text": "地鼠洞穴·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "地鼠洞穴 b1f·白天",
+        "text": "Diglett's Cave·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1735,13 +1723,13 @@
   "evolution": [
     {
       "nameCn": "地鼠",
-      "alts": null,
-      "slug": "地鼠"
+      "slug": "地鼠",
+      "alts": null
     },
     {
       "nameCn": "三地鼠",
-      "alts": null,
-      "slug": "三地鼠"
+      "slug": "三地鼠",
+      "alts": null
     }
   ],
   "stats": {

@@ -40,11 +40,11 @@
       "obtains": {
         "map": [
           {
-            "text": "冠军之路 2f·白天",
+            "text": "冠军之路·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "冠军之路 2f·晚上",
+            "text": "冠军之路·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -61,18 +61,18 @@
       "evolution": [
         {
           "nameCn": "圆陆鲨",
-          "alts": null,
-          "slug": "圆陆鲨"
+          "slug": "圆陆鲨",
+          "alts": null
         },
         {
           "nameCn": "尖牙陆鲨",
-          "alts": null,
-          "slug": "尖牙陆鲨"
+          "slug": "尖牙陆鲨",
+          "alts": null
         },
         {
           "nameCn": "烈咬陆鲨",
-          "alts": null,
-          "slug": "烈咬陆鲨"
+          "slug": "烈咬陆鲨",
+          "alts": null
         }
       ],
       "stats": {
@@ -568,8 +568,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -1237,11 +1237,11 @@
       "obtains": {
         "map": [
           {
-            "text": "冠军之路 2f·白天",
+            "text": "冠军之路·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "冠军之路 2f·晚上",
+            "text": "冠军之路·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -1258,18 +1258,18 @@
       "evolution": [
         {
           "nameCn": "圆陆鲨",
-          "alts": null,
-          "slug": "圆陆鲨"
+          "slug": "圆陆鲨",
+          "alts": null
         },
         {
           "nameCn": "尖牙陆鲨",
-          "alts": null,
-          "slug": "尖牙陆鲨"
+          "slug": "尖牙陆鲨",
+          "alts": null
         },
         {
           "nameCn": "烈咬陆鲨",
-          "alts": null,
-          "slug": "烈咬陆鲨"
+          "slug": "烈咬陆鲨",
+          "alts": null
         }
       ],
       "stats": {
@@ -1506,11 +1506,11 @@
   "obtains": {
     "map": [
       {
-        "text": "冠军之路 2f·白天",
+        "text": "冠军之路·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "冠军之路 2f·晚上",
+        "text": "冠军之路·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1527,18 +1527,18 @@
   "evolution": [
     {
       "nameCn": "圆陆鲨",
-      "alts": null,
-      "slug": "圆陆鲨"
+      "slug": "圆陆鲨",
+      "alts": null
     },
     {
       "nameCn": "尖牙陆鲨",
-      "alts": null,
-      "slug": "尖牙陆鲨"
+      "slug": "尖牙陆鲨",
+      "alts": null
     },
     {
       "nameCn": "烈咬陆鲨",
-      "alts": null,
-      "slug": "烈咬陆鲨"
+      "slug": "烈咬陆鲨",
+      "alts": null
     }
   ],
   "stats": {
@@ -2034,8 +2034,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,

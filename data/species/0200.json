@@ -30,18 +30,18 @@
       "obtains": {
         "map": [
           {
-            "text": "月见山 b1f·晚上",
+            "text": "月见山·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
         "static": [
           {
             "text": "11号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           },
           {
-            "text": "地鼠洞穴",
-            "href": "/分布/定点获取"
+            "text": "Diglett's Cave",
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -50,13 +50,13 @@
       "evolution": [
         {
           "nameCn": "梦妖",
-          "alts": null,
-          "slug": "梦妖"
+          "slug": "梦妖",
+          "alts": null
         },
         {
           "nameCn": "梦妖魔",
-          "alts": null,
-          "slug": "梦妖魔"
+          "slug": "梦妖魔",
+          "alts": null
         }
       ],
       "stats": {
@@ -1030,18 +1030,18 @@
   "obtains": {
     "map": [
       {
-        "text": "月见山 b1f·晚上",
+        "text": "月见山·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
     "static": [
       {
         "text": "11号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       },
       {
-        "text": "地鼠洞穴",
-        "href": "/分布/定点获取"
+        "text": "Diglett's Cave",
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -1050,13 +1050,13 @@
   "evolution": [
     {
       "nameCn": "梦妖",
-      "alts": null,
-      "slug": "梦妖"
+      "slug": "梦妖",
+      "alts": null
     },
     {
       "nameCn": "梦妖魔",
-      "alts": null,
-      "slug": "梦妖魔"
+      "slug": "梦妖魔",
+      "alts": null
     }
   ],
   "stats": {

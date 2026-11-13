@@ -61,18 +61,18 @@
       "evolution": [
         {
           "nameCn": "独角犀牛",
-          "alts": null,
-          "slug": "独角犀牛"
+          "slug": "独角犀牛",
+          "alts": null
         },
         {
           "nameCn": "钻角犀兽",
-          "alts": null,
-          "slug": "钻角犀兽"
+          "slug": "钻角犀兽",
+          "alts": null
         },
         {
           "nameCn": "超甲狂犀",
-          "alts": null,
-          "slug": "超甲狂犀"
+          "slug": "超甲狂犀",
+          "alts": null
         }
       ],
       "stats": {
@@ -242,10 +242,10 @@
         },
         {
           "level": 33,
-          "nameCn": "钻冲赛道",
+          "nameCn": "直冲钻",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+          "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
           "type": "地面",
           "category": "物理",
           "power": 80,
@@ -1194,10 +1194,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1218,10 +1218,10 @@
         },
         {
           "level": null,
-          "nameCn": "钻冲赛道",
+          "nameCn": "直冲钻",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+          "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
           "type": "地面",
           "category": "物理",
           "power": 80,
@@ -1569,7 +1569,7 @@
     {
       "slot": "H",
       "nameCn": "舍身",
-      "href": "https://wiki.52poke.com/wiki/%E8%88%8D%E8%BA%AB",
+      "href": "/特性/修改#舍身",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1591,18 +1591,18 @@
   "evolution": [
     {
       "nameCn": "独角犀牛",
-      "alts": null,
-      "slug": "独角犀牛"
+      "slug": "独角犀牛",
+      "alts": null
     },
     {
       "nameCn": "钻角犀兽",
-      "alts": null,
-      "slug": "钻角犀兽"
+      "slug": "钻角犀兽",
+      "alts": null
     },
     {
       "nameCn": "超甲狂犀",
-      "alts": null,
-      "slug": "超甲狂犀"
+      "slug": "超甲狂犀",
+      "alts": null
     }
   ],
   "stats": {
@@ -1772,10 +1772,10 @@
     },
     {
       "level": 33,
-      "nameCn": "钻冲赛道",
+      "nameCn": "直冲钻",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+      "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
       "type": "地面",
       "category": "物理",
       "power": 80,
@@ -2724,10 +2724,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -2748,10 +2748,10 @@
     },
     {
       "level": null,
-      "nameCn": "钻冲赛道",
+      "nameCn": "直冲钻",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+      "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
       "type": "地面",
       "category": "物理",
       "power": 80,

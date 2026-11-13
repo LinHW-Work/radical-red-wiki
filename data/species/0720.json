@@ -32,12 +32,12 @@
         "map": [],
         "static": [
           {
-            "text": "宝可梦屋 1f",
-            "href": "/分布/定点获取"
+            "text": "宝可梦屋",
+            "href": "/分布/极巨巢穴"
           },
           {
-            "text": "宝可梦屋",
-            "href": "/分布/定点获取"
+            "text": "宝可梦屋 1f",
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -46,8 +46,8 @@
       "evolution": [
         {
           "nameCn": "胡帕",
-          "alts": null,
-          "slug": "胡帕"
+          "slug": "胡帕",
+          "alts": null
         }
       ],
       "stats": {
@@ -798,10 +798,10 @@
         },
         {
           "level": null,
-          "nameCn": "Dark Hole",
+          "nameCn": "暗黑洞",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Dark Hole",
+          "href": "/原创招式#暗黑洞",
           "type": null,
           "category": null,
           "power": null,
@@ -978,27 +978,15 @@
         },
         {
           "level": null,
-          "nameCn": "地狱突刺",
+          "nameCn": "深渊突刺",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+          "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
           "type": "恶",
           "category": "物理",
           "power": 80,
           "accuracy": 100,
           "pp": 15
-        },
-        {
-          "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
         },
         {
           "level": null,
@@ -1154,8 +1142,8 @@
       "evolution": [
         {
           "nameCn": "Hoopa-Unbound",
-          "alts": null,
           "slug": "胡帕",
+          "alts": null,
           "forme": "解放"
         }
       ],
@@ -1883,10 +1871,10 @@
         },
         {
           "level": null,
-          "nameCn": "Dark Hole",
+          "nameCn": "暗黑洞",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Dark Hole",
+          "href": "/原创招式#暗黑洞",
           "type": null,
           "category": null,
           "power": null,
@@ -2063,27 +2051,15 @@
         },
         {
           "level": null,
-          "nameCn": "地狱突刺",
+          "nameCn": "深渊突刺",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+          "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
           "type": "恶",
           "category": "物理",
           "power": 80,
           "accuracy": 100,
           "pp": 15
-        },
-        {
-          "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
         },
         {
           "level": null,
@@ -2227,12 +2203,12 @@
     "map": [],
     "static": [
       {
-        "text": "宝可梦屋 1f",
-        "href": "/分布/定点获取"
+        "text": "宝可梦屋",
+        "href": "/分布/极巨巢穴"
       },
       {
-        "text": "宝可梦屋",
-        "href": "/分布/定点获取"
+        "text": "宝可梦屋 1f",
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -2241,8 +2217,8 @@
   "evolution": [
     {
       "nameCn": "胡帕",
-      "alts": null,
-      "slug": "胡帕"
+      "slug": "胡帕",
+      "alts": null
     }
   ],
   "stats": {
@@ -2993,10 +2969,10 @@
     },
     {
       "level": null,
-      "nameCn": "Dark Hole",
+      "nameCn": "暗黑洞",
       "restricted": false,
       "original": true,
-      "href": "/原创招式/Dark Hole",
+      "href": "/原创招式#暗黑洞",
       "type": null,
       "category": null,
       "power": null,
@@ -3173,27 +3149,15 @@
     },
     {
       "level": null,
-      "nameCn": "地狱突刺",
+      "nameCn": "深渊突刺",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+      "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
       "type": "恶",
       "category": "物理",
       "power": 80,
       "accuracy": 100,
       "pp": 15
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

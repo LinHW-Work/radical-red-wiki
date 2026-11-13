@@ -30,11 +30,11 @@
       "obtains": {
         "map": [
           {
-            "text": "极西区·白天",
+            "text": "狩猎地带·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "极西区·夜晚",
+            "text": "狩猎地带·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -50,8 +50,8 @@
       "evolution": [
         {
           "nameCn": "冰砌鹅",
-          "alts": null,
-          "slug": "冰砌鹅"
+          "slug": "冰砌鹅",
+          "alts": null
         }
       ],
       "stats": {
@@ -736,8 +736,8 @@
       "evolution": [
         {
           "nameCn": "Eiscue-Noice",
-          "alts": null,
-          "slug": "Eiscue-Noice"
+          "slug": "Eiscue-Noice",
+          "alts": null
         }
       ],
       "stats": {
@@ -928,11 +928,11 @@
   "obtains": {
     "map": [
       {
-        "text": "极西区·白天",
+        "text": "狩猎地带·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "极西区·夜晚",
+        "text": "狩猎地带·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -948,8 +948,8 @@
   "evolution": [
     {
       "nameCn": "冰砌鹅",
-      "alts": null,
-      "slug": "冰砌鹅"
+      "slug": "冰砌鹅",
+      "alts": null
     }
   ],
   "stats": {

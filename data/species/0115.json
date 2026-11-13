@@ -48,11 +48,11 @@
       "obtains": {
         "map": [
           {
-            "text": "东区·白天",
+            "text": "狩猎地带·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "东区·夜晚",
+            "text": "狩猎地带·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -63,8 +63,8 @@
       "evolution": [
         {
           "nameCn": "袋兽",
-          "alts": null,
-          "slug": "袋兽"
+          "slug": "袋兽",
+          "alts": null
         }
       ],
       "stats": {
@@ -865,10 +865,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1047,10 +1047,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1252,11 +1252,11 @@
       "obtains": {
         "map": [
           {
-            "text": "东区·白天",
+            "text": "狩猎地带·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "东区·夜晚",
+            "text": "狩猎地带·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -1267,8 +1267,8 @@
       "evolution": [
         {
           "nameCn": "袋兽",
-          "alts": null,
-          "slug": "袋兽"
+          "slug": "袋兽",
+          "alts": null
         }
       ],
       "stats": {
@@ -1513,11 +1513,11 @@
   "obtains": {
     "map": [
       {
-        "text": "东区·白天",
+        "text": "狩猎地带·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "东区·夜晚",
+        "text": "狩猎地带·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1528,8 +1528,8 @@
   "evolution": [
     {
       "nameCn": "袋兽",
-      "alts": null,
-      "slug": "袋兽"
+      "slug": "袋兽",
+      "alts": null
     }
   ],
   "stats": {
@@ -2330,10 +2330,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -2512,10 +2512,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

@@ -49,43 +49,35 @@
       "obtains": {
         "map": [
           {
-            "text": "华蓝洞窟 1f·厉害吊杆",
+            "text": "华蓝洞窟·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "华蓝洞窟 1f·冲浪",
+            "text": "华蓝洞窟·冲浪",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "华蓝洞窟 b1f·厉害吊杆",
+            "text": "双子岛·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 b2f·白天",
+            "text": "双子岛·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 b2f·厉害吊杆",
+            "text": "双子岛·冲浪",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 b2f·冲浪",
+            "text": "狩猎地带·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 b4f·白天",
+            "text": "点之穴·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 b4f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "西区·厉害吊杆",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "极西区·厉害吊杆",
+            "text": "珍宝海滩·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -102,13 +94,13 @@
       "evolution": [
         {
           "nameCn": "龙虾小兵",
-          "alts": null,
-          "slug": "龙虾小兵"
+          "slug": "龙虾小兵",
+          "alts": null
         },
         {
           "nameCn": "铁螯龙虾",
-          "alts": null,
-          "slug": "铁螯龙虾"
+          "slug": "铁螯龙虾",
+          "alts": null
         }
       ],
       "stats": {
@@ -818,10 +810,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -988,10 +980,10 @@
         },
         {
           "level": null,
-          "nameCn": "Dark Hole",
+          "nameCn": "暗黑洞",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Dark Hole",
+          "href": "/原创招式#暗黑洞",
           "type": null,
           "category": null,
           "power": null,
@@ -1024,10 +1016,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1229,43 +1221,35 @@
   "obtains": {
     "map": [
       {
-        "text": "华蓝洞窟 1f·厉害吊杆",
+        "text": "华蓝洞窟·厉害吊杆",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "华蓝洞窟 1f·冲浪",
+        "text": "华蓝洞窟·冲浪",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "华蓝洞窟 b1f·厉害吊杆",
+        "text": "双子岛·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "双子岛 b2f·白天",
+        "text": "双子岛·厉害吊杆",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "双子岛 b2f·厉害吊杆",
+        "text": "双子岛·冲浪",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "双子岛 b2f·冲浪",
+        "text": "狩猎地带·厉害吊杆",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "双子岛 b4f·白天",
+        "text": "点之穴·厉害吊杆",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "双子岛 b4f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "西区·厉害吊杆",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "极西区·厉害吊杆",
+        "text": "珍宝海滩·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1282,13 +1266,13 @@
   "evolution": [
     {
       "nameCn": "龙虾小兵",
-      "alts": null,
-      "slug": "龙虾小兵"
+      "slug": "龙虾小兵",
+      "alts": null
     },
     {
       "nameCn": "铁螯龙虾",
-      "alts": null,
-      "slug": "铁螯龙虾"
+      "slug": "铁螯龙虾",
+      "alts": null
     }
   ],
   "stats": {
@@ -1998,10 +1982,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -2168,10 +2152,10 @@
     },
     {
       "level": null,
-      "nameCn": "Dark Hole",
+      "nameCn": "暗黑洞",
       "restricted": false,
       "original": true,
-      "href": "/原创招式/Dark Hole",
+      "href": "/原创招式#暗黑洞",
       "type": null,
       "category": null,
       "power": null,
@@ -2204,10 +2188,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

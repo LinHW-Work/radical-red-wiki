@@ -51,11 +51,12 @@
       "evolution": [
         {
           "nameCn": "伊布",
-          "alts": null,
-          "slug": "伊布"
+          "slug": "伊布",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "太阳伊布",
@@ -283,10 +284,10 @@
         },
         {
           "level": 70,
-          "nameCn": "糖浆炸弹",
+          "nameCn": "茁茁炸弹",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%B3%96%E6%B5%86%E7%82%B8%E5%BC%B9",
+          "href": "https://wiki.52poke.com/wiki/%E8%8C%81%E8%8C%81%E7%82%B8%E5%BC%B9",
           "type": "草",
           "category": "物理",
           "power": 100,
@@ -769,10 +770,10 @@
         },
         {
           "level": null,
-          "nameCn": "力量储存",
+          "nameCn": "辅助力量",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+          "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
           "type": "超能力",
           "category": "特殊",
           "power": 20,
@@ -1059,10 +1060,10 @@
         },
         {
           "level": null,
-          "nameCn": "力量储存",
+          "nameCn": "辅助力量",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+          "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
           "type": "超能力",
           "category": "特殊",
           "power": 20,
@@ -1092,18 +1093,6 @@
           "power": 120,
           "accuracy": 100,
           "pp": 10
-        },
-        {
-          "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
         },
         {
           "level": null,
@@ -1206,11 +1195,12 @@
   "evolution": [
     {
       "nameCn": "伊布",
-      "alts": null,
-      "slug": "伊布"
+      "slug": "伊布",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "太阳伊布",
@@ -1438,10 +1428,10 @@
     },
     {
       "level": 70,
-      "nameCn": "糖浆炸弹",
+      "nameCn": "茁茁炸弹",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%B3%96%E6%B5%86%E7%82%B8%E5%BC%B9",
+      "href": "https://wiki.52poke.com/wiki/%E8%8C%81%E8%8C%81%E7%82%B8%E5%BC%B9",
       "type": "草",
       "category": "物理",
       "power": 100,
@@ -1924,10 +1914,10 @@
     },
     {
       "level": null,
-      "nameCn": "力量储存",
+      "nameCn": "辅助力量",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+      "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
       "type": "超能力",
       "category": "特殊",
       "power": 20,
@@ -2214,10 +2204,10 @@
     },
     {
       "level": null,
-      "nameCn": "力量储存",
+      "nameCn": "辅助力量",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+      "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
       "type": "超能力",
       "category": "特殊",
       "power": 20,
@@ -2247,18 +2237,6 @@
       "power": 120,
       "accuracy": 100,
       "pp": 10
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

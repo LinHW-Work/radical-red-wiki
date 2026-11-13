@@ -61,18 +61,18 @@
       "evolution": [
         {
           "nameCn": "黑眼鳄",
-          "alts": null,
-          "slug": "黑眼鳄"
+          "slug": "黑眼鳄",
+          "alts": null
         },
         {
           "nameCn": "混混鳄",
-          "alts": null,
-          "slug": "混混鳄"
+          "slug": "混混鳄",
+          "alts": null
         },
         {
           "nameCn": "流氓鳄",
-          "alts": null,
-          "slug": "流氓鳄"
+          "slug": "流氓鳄",
+          "alts": null
         }
       ],
       "stats": {
@@ -1158,18 +1158,18 @@
   "evolution": [
     {
       "nameCn": "黑眼鳄",
-      "alts": null,
-      "slug": "黑眼鳄"
+      "slug": "黑眼鳄",
+      "alts": null
     },
     {
       "nameCn": "混混鳄",
-      "alts": null,
-      "slug": "混混鳄"
+      "slug": "混混鳄",
+      "alts": null
     },
     {
       "nameCn": "流氓鳄",
-      "alts": null,
-      "slug": "流氓鳄"
+      "slug": "流氓鳄",
+      "alts": null
     }
   ],
   "stats": {

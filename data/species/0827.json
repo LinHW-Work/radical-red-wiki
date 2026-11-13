@@ -46,21 +46,30 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "3号道路·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "3号道路·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": []
       },
       "evolution": [
         {
-          "nameCn": "偷儿狐",
-          "alts": null,
-          "slug": "偷儿狐"
+          "nameCn": "狡小狐",
+          "slug": "狡小狐",
+          "alts": null
         },
         {
-          "nameCn": "狐大盗",
-          "alts": null,
-          "slug": "狐大盗"
+          "nameCn": "猾大狐",
+          "slug": "猾大狐",
+          "alts": null
         }
       ],
       "stats": {
@@ -595,21 +604,30 @@
     }
   ],
   "obtains": {
-    "map": [],
+    "map": [
+      {
+        "text": "3号道路·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "3号道路·晚上",
+        "href": "/分布/地图捕捉"
+      }
+    ],
     "static": [],
     "npc": [],
     "evolution": []
   },
   "evolution": [
     {
-      "nameCn": "偷儿狐",
-      "alts": null,
-      "slug": "偷儿狐"
+      "nameCn": "狡小狐",
+      "slug": "狡小狐",
+      "alts": null
     },
     {
-      "nameCn": "狐大盗",
-      "alts": null,
-      "slug": "狐大盗"
+      "nameCn": "猾大狐",
+      "slug": "猾大狐",
+      "alts": null
     }
   ],
   "stats": {

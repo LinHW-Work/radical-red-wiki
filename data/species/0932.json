@@ -37,8 +37,8 @@
         },
         {
           "slot": "H",
-          "nameCn": "透明特性",
-          "href": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+          "nameCn": "恒净之躯",
+          "href": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
           "original": false,
           "restrictedNameCn": null,
           "restrictedHref": null,
@@ -48,19 +48,19 @@
       "obtains": {
         "map": [
           {
-            "text": "地鼠洞穴·白天",
+            "text": "月见山·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "地鼠洞穴·晚上",
+            "text": "月见山·晚上",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "月见山 b1f·白天",
+            "text": "Diglett's Cave·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "月见山 b1f·晚上",
+            "text": "Diglett's Cave·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -71,18 +71,18 @@
       "evolution": [
         {
           "nameCn": "盐石宝",
-          "alts": null,
-          "slug": "盐石宝"
+          "slug": "盐石宝",
+          "alts": null
         },
         {
           "nameCn": "盐石垒",
-          "alts": null,
-          "slug": "盐石垒"
+          "slug": "盐石垒",
+          "alts": null
         },
         {
           "nameCn": "盐石巨灵",
-          "alts": null,
-          "slug": "盐石巨灵"
+          "slug": "盐石巨灵",
+          "alts": null
         }
       ],
       "stats": {
@@ -708,8 +708,8 @@
     },
     {
       "slot": "H",
-      "nameCn": "透明特性",
-      "href": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+      "nameCn": "恒净之躯",
+      "href": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -719,19 +719,19 @@
   "obtains": {
     "map": [
       {
-        "text": "地鼠洞穴·白天",
+        "text": "月见山·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "地鼠洞穴·晚上",
+        "text": "月见山·晚上",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "月见山 b1f·白天",
+        "text": "Diglett's Cave·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "月见山 b1f·晚上",
+        "text": "Diglett's Cave·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -742,18 +742,18 @@
   "evolution": [
     {
       "nameCn": "盐石宝",
-      "alts": null,
-      "slug": "盐石宝"
+      "slug": "盐石宝",
+      "alts": null
     },
     {
       "nameCn": "盐石垒",
-      "alts": null,
-      "slug": "盐石垒"
+      "slug": "盐石垒",
+      "alts": null
     },
     {
       "nameCn": "盐石巨灵",
-      "alts": null,
-      "slug": "盐石巨灵"
+      "slug": "盐石巨灵",
+      "alts": null
     }
   ],
   "stats": {

@@ -49,11 +49,11 @@
       "obtains": {
         "map": [
           {
-            "text": "西区·白天",
+            "text": "狩猎地带·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "西区·夜晚",
+            "text": "狩猎地带·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -70,13 +70,13 @@
       "evolution": [
         {
           "nameCn": "好胜蟹",
-          "alts": null,
-          "slug": "好胜蟹"
+          "slug": "好胜蟹",
+          "alts": null
         },
         {
           "nameCn": "好胜毛蟹",
-          "alts": null,
-          "slug": "好胜毛蟹"
+          "slug": "好胜毛蟹",
+          "alts": null
         }
       ],
       "stats": {
@@ -762,10 +762,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -860,10 +860,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1022,7 +1022,7 @@
     {
       "slot": "1",
       "nameCn": "铁拳",
-      "href": "https://wiki.52poke.com/wiki/%E9%93%81%E6%8B%B3",
+      "href": "/特性/修改#铁拳",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1041,11 +1041,11 @@
   "obtains": {
     "map": [
       {
-        "text": "西区·白天",
+        "text": "狩猎地带·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "西区·夜晚",
+        "text": "狩猎地带·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1062,13 +1062,13 @@
   "evolution": [
     {
       "nameCn": "好胜蟹",
-      "alts": null,
-      "slug": "好胜蟹"
+      "slug": "好胜蟹",
+      "alts": null
     },
     {
       "nameCn": "好胜毛蟹",
-      "alts": null,
-      "slug": "好胜毛蟹"
+      "slug": "好胜毛蟹",
+      "alts": null
     }
   ],
   "stats": {
@@ -1754,10 +1754,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -1852,10 +1852,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

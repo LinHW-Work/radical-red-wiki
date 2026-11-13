@@ -33,7 +33,7 @@
         "static": [
           {
             "text": "冠军之路 2f",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -42,8 +42,8 @@
       "evolution": [
         {
           "nameCn": "波荡水",
-          "alts": null,
-          "slug": "波荡水"
+          "slug": "波荡水",
+          "alts": null
         }
       ],
       "stats": {
@@ -448,8 +448,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -695,7 +695,7 @@
     "static": [
       {
         "text": "冠军之路 2f",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -704,8 +704,8 @@
   "evolution": [
     {
       "nameCn": "波荡水",
-      "alts": null,
-      "slug": "波荡水"
+      "slug": "波荡水",
+      "alts": null
     }
   ],
   "stats": {
@@ -1110,8 +1110,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,

@@ -51,7 +51,7 @@
         "static": [
           {
             "text": "2号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -60,18 +60,18 @@
       "evolution": [
         {
           "nameCn": "捣蛋小妖",
-          "alts": null,
-          "slug": "捣蛋小妖"
+          "slug": "捣蛋小妖",
+          "alts": null
         },
         {
           "nameCn": "诈唬魔",
-          "alts": null,
-          "slug": "诈唬魔"
+          "slug": "诈唬魔",
+          "alts": null
         },
         {
           "nameCn": "长毛巨魔",
-          "alts": null,
-          "slug": "长毛巨魔"
+          "slug": "长毛巨魔",
+          "alts": null
         }
       ],
       "stats": {
@@ -630,7 +630,7 @@
     {
       "slot": "1",
       "nameCn": "察觉",
-      "href": "https://wiki.52poke.com/wiki/%E5%AF%9F%E8%A7%89",
+      "href": "/特性/修改#察觉",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -651,7 +651,7 @@
     "static": [
       {
         "text": "2号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -660,18 +660,18 @@
   "evolution": [
     {
       "nameCn": "捣蛋小妖",
-      "alts": null,
-      "slug": "捣蛋小妖"
+      "slug": "捣蛋小妖",
+      "alts": null
     },
     {
       "nameCn": "诈唬魔",
-      "alts": null,
-      "slug": "诈唬魔"
+      "slug": "诈唬魔",
+      "alts": null
     },
     {
       "nameCn": "长毛巨魔",
-      "alts": null,
-      "slug": "长毛巨魔"
+      "slug": "长毛巨魔",
+      "alts": null
     }
   ],
   "stats": {

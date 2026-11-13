@@ -51,18 +51,18 @@
       "evolution": [
         {
           "nameCn": "润水鸭",
-          "alts": null,
-          "slug": "润水鸭"
+          "slug": "润水鸭",
+          "alts": null
         },
         {
           "nameCn": "涌跃鸭",
-          "alts": null,
-          "slug": "涌跃鸭"
+          "slug": "涌跃鸭",
+          "alts": null
         },
         {
           "nameCn": "狂欢浪舞鸭",
-          "alts": null,
-          "slug": "狂欢浪舞鸭"
+          "slug": "狂欢浪舞鸭",
+          "alts": null
         }
       ],
       "stats": {
@@ -148,10 +148,10 @@
         },
         {
           "level": 23,
-          "nameCn": "空气斩",
+          "nameCn": "空气之刃",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
           "type": "飞行",
           "category": "特殊",
           "power": 75,
@@ -704,18 +704,18 @@
   "evolution": [
     {
       "nameCn": "润水鸭",
-      "alts": null,
-      "slug": "润水鸭"
+      "slug": "润水鸭",
+      "alts": null
     },
     {
       "nameCn": "涌跃鸭",
-      "alts": null,
-      "slug": "涌跃鸭"
+      "slug": "涌跃鸭",
+      "alts": null
     },
     {
       "nameCn": "狂欢浪舞鸭",
-      "alts": null,
-      "slug": "狂欢浪舞鸭"
+      "slug": "狂欢浪舞鸭",
+      "alts": null
     }
   ],
   "stats": {
@@ -801,10 +801,10 @@
     },
     {
       "level": 23,
-      "nameCn": "空气斩",
+      "nameCn": "空气之刃",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
       "type": "飞行",
       "category": "特殊",
       "power": 75,

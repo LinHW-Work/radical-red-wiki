@@ -42,18 +42,18 @@
       "evolution": [
         {
           "nameCn": "绿毛虫",
-          "alts": null,
-          "slug": "绿毛虫"
+          "slug": "绿毛虫",
+          "alts": null
         },
         {
           "nameCn": "铁甲蛹",
-          "alts": null,
-          "slug": "铁甲蛹"
+          "slug": "铁甲蛹",
+          "alts": null
         },
         {
           "nameCn": "巴大蝶",
-          "alts": null,
-          "slug": "巴大蝶"
+          "slug": "巴大蝶",
+          "alts": null
         }
       ],
       "stats": {
@@ -187,18 +187,18 @@
   "evolution": [
     {
       "nameCn": "绿毛虫",
-      "alts": null,
-      "slug": "绿毛虫"
+      "slug": "绿毛虫",
+      "alts": null
     },
     {
       "nameCn": "铁甲蛹",
-      "alts": null,
-      "slug": "铁甲蛹"
+      "slug": "铁甲蛹",
+      "alts": null
     },
     {
       "nameCn": "巴大蝶",
-      "alts": null,
-      "slug": "巴大蝶"
+      "slug": "巴大蝶",
+      "alts": null
     }
   ],
   "stats": {

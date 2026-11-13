@@ -49,11 +49,11 @@
       "obtains": {
         "map": [
           {
-            "text": "冠军之路 3f·白天",
+            "text": "冠军之路·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "冠军之路 3f·晚上",
+            "text": "冠军之路·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -75,11 +75,12 @@
       "evolution": [
         {
           "nameCn": "飞天螳螂",
-          "alts": null,
-          "slug": "飞天螳螂"
+          "slug": "飞天螳螂",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "巨钳螳螂",
@@ -1162,11 +1163,11 @@
       "obtains": {
         "map": [
           {
-            "text": "冠军之路 3f·白天",
+            "text": "冠军之路·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "冠军之路 3f·晚上",
+            "text": "冠军之路·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -1188,11 +1189,12 @@
       "evolution": [
         {
           "nameCn": "飞天螳螂",
-          "alts": null,
-          "slug": "飞天螳螂"
+          "slug": "飞天螳螂",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "巨钳螳螂",
@@ -1496,11 +1498,11 @@
   "obtains": {
     "map": [
       {
-        "text": "冠军之路 3f·白天",
+        "text": "冠军之路·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "冠军之路 3f·晚上",
+        "text": "冠军之路·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1522,11 +1524,12 @@
   "evolution": [
     {
       "nameCn": "飞天螳螂",
-      "alts": null,
-      "slug": "飞天螳螂"
+      "slug": "飞天螳螂",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "巨钳螳螂",

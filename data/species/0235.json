@@ -48,11 +48,27 @@
       "obtains": {
         "map": [
           {
-            "text": "西区·白天",
+            "text": "狩猎地带·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "西区·夜晚",
+            "text": "狩猎地带·晚上",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "Three Isle Port·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "Three Isle Port·晚上",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "火照小路·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "火照小路·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -63,8 +79,8 @@
       "evolution": [
         {
           "nameCn": "图图犬",
-          "alts": null,
-          "slug": "图图犬"
+          "slug": "图图犬",
+          "alts": null
         }
       ],
       "stats": {
@@ -237,11 +253,27 @@
   "obtains": {
     "map": [
       {
-        "text": "西区·白天",
+        "text": "狩猎地带·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "西区·夜晚",
+        "text": "狩猎地带·晚上",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "Three Isle Port·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "Three Isle Port·晚上",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "火照小路·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "火照小路·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -252,8 +284,8 @@
   "evolution": [
     {
       "nameCn": "图图犬",
-      "alts": null,
-      "slug": "图图犬"
+      "slug": "图图犬",
+      "alts": null
     }
   ],
   "stats": {

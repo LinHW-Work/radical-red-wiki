@@ -41,7 +41,7 @@
         "static": [
           {
             "text": "15号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -56,18 +56,18 @@
       "evolution": [
         {
           "nameCn": "咕妞妞",
-          "alts": null,
-          "slug": "咕妞妞"
+          "slug": "咕妞妞",
+          "alts": null
         },
         {
           "nameCn": "吼爆弹",
-          "alts": null,
-          "slug": "吼爆弹"
+          "slug": "吼爆弹",
+          "alts": null
         },
         {
           "nameCn": "爆音怪",
-          "alts": null,
-          "slug": "爆音怪"
+          "slug": "爆音怪",
+          "alts": null
         }
       ],
       "stats": {
@@ -333,10 +333,10 @@
         },
         {
           "level": 50,
-          "nameCn": "过载",
+          "nameCn": "破音",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E8%BF%87%E8%BD%BD",
+          "href": "https://wiki.52poke.com/wiki/%E7%A0%B4%E9%9F%B3",
           "type": "电",
           "category": "特殊",
           "power": 80,
@@ -889,10 +889,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -937,10 +937,10 @@
         },
         {
           "level": null,
-          "nameCn": "Disarm Cry",
+          "nameCn": "魅惑之声",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Disarm Cry",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%AD%85%E6%83%91%E4%B9%8B%E5%A3%B0",
           "type": null,
           "category": null,
           "power": null,
@@ -1023,10 +1023,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1256,7 +1256,7 @@
     "static": [
       {
         "text": "15号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -1271,18 +1271,18 @@
   "evolution": [
     {
       "nameCn": "咕妞妞",
-      "alts": null,
-      "slug": "咕妞妞"
+      "slug": "咕妞妞",
+      "alts": null
     },
     {
       "nameCn": "吼爆弹",
-      "alts": null,
-      "slug": "吼爆弹"
+      "slug": "吼爆弹",
+      "alts": null
     },
     {
       "nameCn": "爆音怪",
-      "alts": null,
-      "slug": "爆音怪"
+      "slug": "爆音怪",
+      "alts": null
     }
   ],
   "stats": {
@@ -1548,10 +1548,10 @@
     },
     {
       "level": 50,
-      "nameCn": "过载",
+      "nameCn": "破音",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E8%BF%87%E8%BD%BD",
+      "href": "https://wiki.52poke.com/wiki/%E7%A0%B4%E9%9F%B3",
       "type": "电",
       "category": "特殊",
       "power": 80,
@@ -2104,10 +2104,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -2152,10 +2152,10 @@
     },
     {
       "level": null,
-      "nameCn": "Disarm Cry",
+      "nameCn": "魅惑之声",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Disarm Cry",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%AD%85%E6%83%91%E4%B9%8B%E5%A3%B0",
       "type": null,
       "category": null,
       "power": null,
@@ -2238,10 +2238,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

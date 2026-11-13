@@ -31,8 +31,8 @@
           "nameCn": "好胜",
           "href": "https://wiki.52poke.com/wiki/%E5%A5%BD%E8%83%9C",
           "original": false,
-          "restrictedNameCn": "透明特性",
-          "restrictedHref": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+          "restrictedNameCn": "恒净之躯",
+          "restrictedHref": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
           "restrictedOriginal": false
         },
         {
@@ -48,7 +48,11 @@
       "obtains": {
         "map": [
           {
-            "text": "华蓝洞窟 b1f·冲浪",
+            "text": "华蓝洞窟·冲浪",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "狩猎地带·冲浪",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -70,13 +74,13 @@
       "evolution": [
         {
           "nameCn": "丑丑鱼",
-          "alts": null,
-          "slug": "丑丑鱼"
+          "slug": "丑丑鱼",
+          "alts": null
         },
         {
           "nameCn": "美纳斯",
-          "alts": null,
-          "slug": "美纳斯"
+          "slug": "美纳斯",
+          "alts": null
         }
       ],
       "stats": {
@@ -162,10 +166,10 @@
         },
         {
           "level": 11,
-          "nameCn": "Disarm Cry",
+          "nameCn": "魅惑之声",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Disarm Cry",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%AD%85%E6%83%91%E4%B9%8B%E5%A3%B0",
           "type": null,
           "category": null,
           "power": null,
@@ -1011,8 +1015,8 @@
           "nameCn": "好胜",
           "href": "https://wiki.52poke.com/wiki/%E5%A5%BD%E8%83%9C",
           "original": false,
-          "restrictedNameCn": "透明特性",
-          "restrictedHref": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+          "restrictedNameCn": "恒净之躯",
+          "restrictedHref": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
           "restrictedOriginal": false
         },
         {
@@ -1026,7 +1030,12 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "连理之桥·冲浪",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": [
@@ -1045,14 +1054,14 @@
       "evolution": [
         {
           "nameCn": "丑丑鱼-七之岛",
-          "alts": null,
           "slug": "丑丑鱼",
+          "alts": null,
           "forme": "七之岛"
         },
         {
           "nameCn": "美纳斯-七之岛",
-          "alts": null,
           "slug": "美纳斯",
+          "alts": null,
           "forme": "七之岛"
         }
       ],
@@ -1139,10 +1148,10 @@
         },
         {
           "level": 11,
-          "nameCn": "Disarm Cry",
+          "nameCn": "魅惑之声",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Disarm Cry",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%AD%85%E6%83%91%E4%B9%8B%E5%A3%B0",
           "type": null,
           "category": null,
           "power": null,
@@ -1163,10 +1172,10 @@
         },
         {
           "level": 17,
-          "nameCn": "Drain Kiss",
+          "nameCn": "吸取之吻",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Drain Kiss",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
           "type": null,
           "category": null,
           "power": null,
@@ -1934,8 +1943,8 @@
       "nameCn": "好胜",
       "href": "https://wiki.52poke.com/wiki/%E5%A5%BD%E8%83%9C",
       "original": false,
-      "restrictedNameCn": "透明特性",
-      "restrictedHref": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+      "restrictedNameCn": "恒净之躯",
+      "restrictedHref": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
       "restrictedOriginal": false
     },
     {
@@ -1951,7 +1960,11 @@
   "obtains": {
     "map": [
       {
-        "text": "华蓝洞窟 b1f·冲浪",
+        "text": "华蓝洞窟·冲浪",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "狩猎地带·冲浪",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1973,13 +1986,13 @@
   "evolution": [
     {
       "nameCn": "丑丑鱼",
-      "alts": null,
-      "slug": "丑丑鱼"
+      "slug": "丑丑鱼",
+      "alts": null
     },
     {
       "nameCn": "美纳斯",
-      "alts": null,
-      "slug": "美纳斯"
+      "slug": "美纳斯",
+      "alts": null
     }
   ],
   "stats": {
@@ -2065,10 +2078,10 @@
     },
     {
       "level": 11,
-      "nameCn": "Disarm Cry",
+      "nameCn": "魅惑之声",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Disarm Cry",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%AD%85%E6%83%91%E4%B9%8B%E5%A3%B0",
       "type": null,
       "category": null,
       "power": null,

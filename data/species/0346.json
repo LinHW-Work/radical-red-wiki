@@ -52,13 +52,13 @@
       "evolution": [
         {
           "nameCn": "触手百合",
-          "alts": null,
-          "slug": "触手百合"
+          "slug": "触手百合",
+          "alts": null
         },
         {
           "nameCn": "摇篮百合",
-          "alts": null,
-          "slug": "摇篮百合"
+          "slug": "摇篮百合",
+          "alts": null
         }
       ],
       "stats": {
@@ -288,10 +288,10 @@
         },
         {
           "level": 68,
-          "nameCn": "糖浆炸弹",
+          "nameCn": "茁茁炸弹",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%B3%96%E6%B5%86%E7%82%B8%E5%BC%B9",
+          "href": "https://wiki.52poke.com/wiki/%E8%8C%81%E8%8C%81%E7%82%B8%E5%BC%B9",
           "type": "草",
           "category": "物理",
           "power": 100,
@@ -1019,13 +1019,13 @@
   "evolution": [
     {
       "nameCn": "触手百合",
-      "alts": null,
-      "slug": "触手百合"
+      "slug": "触手百合",
+      "alts": null
     },
     {
       "nameCn": "摇篮百合",
-      "alts": null,
-      "slug": "摇篮百合"
+      "slug": "摇篮百合",
+      "alts": null
     }
   ],
   "stats": {
@@ -1255,10 +1255,10 @@
     },
     {
       "level": 68,
-      "nameCn": "糖浆炸弹",
+      "nameCn": "茁茁炸弹",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%B3%96%E6%B5%86%E7%82%B8%E5%BC%B9",
+      "href": "https://wiki.52poke.com/wiki/%E8%8C%81%E8%8C%81%E7%82%B8%E5%BC%B9",
       "type": "草",
       "category": "物理",
       "power": 100,

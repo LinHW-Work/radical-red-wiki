@@ -51,7 +51,7 @@
         "static": [
           {
             "text": "13号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -66,13 +66,13 @@
       "evolution": [
         {
           "nameCn": "蘑蘑菇",
-          "alts": null,
-          "slug": "蘑蘑菇"
+          "slug": "蘑蘑菇",
+          "alts": null
         },
         {
           "nameCn": "斗笠菇",
-          "alts": null,
-          "slug": "斗笠菇"
+          "slug": "斗笠菇",
+          "alts": null
         }
       ],
       "stats": {
@@ -941,18 +941,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "蛮力",
           "restricted": false,
           "original": false,
@@ -1112,7 +1100,7 @@
     "static": [
       {
         "text": "13号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -1127,13 +1115,13 @@
   "evolution": [
     {
       "nameCn": "蘑蘑菇",
-      "alts": null,
-      "slug": "蘑蘑菇"
+      "slug": "蘑蘑菇",
+      "alts": null
     },
     {
       "nameCn": "斗笠菇",
-      "alts": null,
-      "slug": "斗笠菇"
+      "slug": "斗笠菇",
+      "alts": null
     }
   ],
   "stats": {
@@ -1999,18 +1987,6 @@
       "power": null,
       "accuracy": null,
       "pp": 30
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

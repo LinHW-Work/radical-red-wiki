@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "泡沫栗鼠",
-          "alts": null,
-          "slug": "泡沫栗鼠"
+          "slug": "泡沫栗鼠",
+          "alts": null
         },
         {
           "nameCn": "奇诺栗鼠",
-          "alts": null,
-          "slug": "奇诺栗鼠"
+          "slug": "奇诺栗鼠",
+          "alts": null
         }
       ],
       "stats": {
@@ -711,18 +711,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "巨声",
           "restricted": false,
           "original": false,
@@ -903,13 +891,13 @@
   "evolution": [
     {
       "nameCn": "泡沫栗鼠",
-      "alts": null,
-      "slug": "泡沫栗鼠"
+      "slug": "泡沫栗鼠",
+      "alts": null
     },
     {
       "nameCn": "奇诺栗鼠",
-      "alts": null,
-      "slug": "奇诺栗鼠"
+      "slug": "奇诺栗鼠",
+      "alts": null
     }
   ],
   "stats": {
@@ -1551,18 +1539,6 @@
       "power": null,
       "accuracy": null,
       "pp": 30
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

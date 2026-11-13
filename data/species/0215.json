@@ -57,15 +57,15 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "岩山隧道 b1f·晚上",
+            "text": "岩山隧道·晚上",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 b2f·白天",
+            "text": "双子岛·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 b2f·晚上",
+            "text": "双子岛·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -76,13 +76,13 @@
       "evolution": [
         {
           "nameCn": "狃拉",
-          "alts": null,
-          "slug": "狃拉"
+          "slug": "狃拉",
+          "alts": null
         },
         {
           "nameCn": "玛狃拉",
-          "alts": null,
-          "slug": "玛狃拉"
+          "slug": "玛狃拉",
+          "alts": null
         }
       ],
       "stats": {
@@ -888,10 +888,10 @@
         },
         {
           "level": null,
-          "nameCn": "地狱突刺",
+          "nameCn": "深渊突刺",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+          "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
           "type": "恶",
           "category": "物理",
           "power": 80,
@@ -1010,10 +1010,10 @@
         },
         {
           "level": null,
-          "nameCn": "地狱突刺",
+          "nameCn": "深渊突刺",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+          "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
           "type": "恶",
           "category": "物理",
           "power": 80,
@@ -1248,12 +1248,20 @@
           {
             "text": "10号道路·白天",
             "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "连理之桥·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "连理之桥·晚上",
+            "href": "/分布/地图捕捉"
           }
         ],
         "static": [
           {
             "text": "14号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -1262,14 +1270,14 @@
       "evolution": [
         {
           "nameCn": "狃拉-洗翠",
-          "alts": null,
           "slug": "狃拉",
+          "alts": null,
           "forme": "洗翠"
         },
         {
           "nameCn": "大狃拉",
-          "alts": null,
-          "slug": "大狃拉"
+          "slug": "大狃拉",
+          "alts": null
         }
       ],
       "stats": {
@@ -2193,27 +2201,15 @@
         },
         {
           "level": null,
-          "nameCn": "地狱突刺",
+          "nameCn": "深渊突刺",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+          "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
           "type": "恶",
           "category": "物理",
           "power": 80,
           "accuracy": 100,
           "pp": 15
-        },
-        {
-          "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
         },
         {
           "level": null,
@@ -2301,10 +2297,10 @@
         },
         {
           "level": null,
-          "nameCn": "DD金勾臂",
+          "nameCn": "ＤＤ金勾臂",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/DD%E9%87%91%E5%8B%BE%E8%87%82",
+          "href": "https://wiki.52poke.com/wiki/%EF%BC%A4%EF%BC%A4%E9%87%91%E5%8B%BE%E8%87%82",
           "type": "恶",
           "category": "物理",
           "power": 85,
@@ -2406,15 +2402,15 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "岩山隧道 b1f·晚上",
+        "text": "岩山隧道·晚上",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "双子岛 b2f·白天",
+        "text": "双子岛·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "双子岛 b2f·晚上",
+        "text": "双子岛·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -2425,13 +2421,13 @@
   "evolution": [
     {
       "nameCn": "狃拉",
-      "alts": null,
-      "slug": "狃拉"
+      "slug": "狃拉",
+      "alts": null
     },
     {
       "nameCn": "玛狃拉",
-      "alts": null,
-      "slug": "玛狃拉"
+      "slug": "玛狃拉",
+      "alts": null
     }
   ],
   "stats": {
@@ -3237,10 +3233,10 @@
     },
     {
       "level": null,
-      "nameCn": "地狱突刺",
+      "nameCn": "深渊突刺",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+      "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
       "type": "恶",
       "category": "物理",
       "power": 80,
@@ -3359,10 +3355,10 @@
     },
     {
       "level": null,
-      "nameCn": "地狱突刺",
+      "nameCn": "深渊突刺",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+      "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
       "type": "恶",
       "category": "物理",
       "power": 80,

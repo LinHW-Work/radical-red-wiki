@@ -39,11 +39,11 @@
       "obtains": {
         "map": [
           {
-            "text": "无人发电厂·白天",
+            "text": "发电厂·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "无人发电厂·晚上",
+            "text": "发电厂·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -60,18 +60,18 @@
       "evolution": [
         {
           "nameCn": "电击怪",
-          "alts": null,
-          "slug": "电击怪"
+          "slug": "电击怪",
+          "alts": null
         },
         {
           "nameCn": "电击兽",
-          "alts": null,
-          "slug": "电击兽"
+          "slug": "电击兽",
+          "alts": null
         },
         {
           "nameCn": "电击魔兽",
-          "alts": null,
-          "slug": "电击魔兽"
+          "slug": "电击魔兽",
+          "alts": null
         }
       ],
       "stats": {
@@ -1112,11 +1112,11 @@
   "obtains": {
     "map": [
       {
-        "text": "无人发电厂·白天",
+        "text": "发电厂·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "无人发电厂·晚上",
+        "text": "发电厂·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1133,18 +1133,18 @@
   "evolution": [
     {
       "nameCn": "电击怪",
-      "alts": null,
-      "slug": "电击怪"
+      "slug": "电击怪",
+      "alts": null
     },
     {
       "nameCn": "电击兽",
-      "alts": null,
-      "slug": "电击兽"
+      "slug": "电击兽",
+      "alts": null
     },
     {
       "nameCn": "电击魔兽",
-      "alts": null,
-      "slug": "电击魔兽"
+      "slug": "电击魔兽",
+      "alts": null
     }
   ],
   "stats": {

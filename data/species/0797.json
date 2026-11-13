@@ -20,8 +20,8 @@
       "abilities": [
         {
           "slot": "0",
-          "nameCn": "兽提升",
-          "href": "https://wiki.52poke.com/wiki/%E5%85%BD%E6%8F%90%E5%8D%87",
+          "nameCn": "异兽提升",
+          "href": "https://wiki.52poke.com/wiki/%E5%BC%82%E5%85%BD%E6%8F%90%E5%8D%87",
           "original": false,
           "restrictedNameCn": "紧张感",
           "restrictedHref": "https://wiki.52poke.com/wiki/%E7%B4%A7%E5%BC%A0%E6%84%9F",
@@ -32,12 +32,12 @@
         "map": [],
         "static": [
           {
-            "text": "华蓝洞窟 2f",
-            "href": "/分布/定点获取"
+            "text": "华蓝洞窟",
+            "href": "/分布/极巨巢穴"
           },
           {
-            "text": "华蓝洞窟",
-            "href": "/分布/定点获取"
+            "text": "华蓝洞窟 2f",
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -46,8 +46,8 @@
       "evolution": [
         {
           "nameCn": "铁火辉夜",
-          "alts": null,
-          "slug": "铁火辉夜"
+          "slug": "铁火辉夜",
+          "alts": null
         }
       ],
       "stats": {
@@ -73,10 +73,10 @@
         },
         {
           "level": 1,
-          "nameCn": "空气斩",
+          "nameCn": "空气之刃",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
           "type": "飞行",
           "category": "特殊",
           "power": 75,
@@ -922,8 +922,8 @@
   "abilities": [
     {
       "slot": "0",
-      "nameCn": "兽提升",
-      "href": "https://wiki.52poke.com/wiki/%E5%85%BD%E6%8F%90%E5%8D%87",
+      "nameCn": "异兽提升",
+      "href": "https://wiki.52poke.com/wiki/%E5%BC%82%E5%85%BD%E6%8F%90%E5%8D%87",
       "original": false,
       "restrictedNameCn": "紧张感",
       "restrictedHref": "https://wiki.52poke.com/wiki/%E7%B4%A7%E5%BC%A0%E6%84%9F",
@@ -934,12 +934,12 @@
     "map": [],
     "static": [
       {
-        "text": "华蓝洞窟 2f",
-        "href": "/分布/定点获取"
+        "text": "华蓝洞窟",
+        "href": "/分布/极巨巢穴"
       },
       {
-        "text": "华蓝洞窟",
-        "href": "/分布/定点获取"
+        "text": "华蓝洞窟 2f",
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -948,8 +948,8 @@
   "evolution": [
     {
       "nameCn": "铁火辉夜",
-      "alts": null,
-      "slug": "铁火辉夜"
+      "slug": "铁火辉夜",
+      "alts": null
     }
   ],
   "stats": {
@@ -975,10 +975,10 @@
     },
     {
       "level": 1,
-      "nameCn": "空气斩",
+      "nameCn": "空气之刃",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
       "type": "飞行",
       "category": "特殊",
       "power": 75,

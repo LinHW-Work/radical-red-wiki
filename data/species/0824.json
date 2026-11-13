@@ -48,7 +48,7 @@
       "obtains": {
         "map": [
           {
-            "text": "森林扩展区·晚上",
+            "text": "常青森林·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -59,18 +59,18 @@
       "evolution": [
         {
           "nameCn": "索侦虫",
-          "alts": null,
-          "slug": "索侦虫"
+          "slug": "索侦虫",
+          "alts": null
         },
         {
           "nameCn": "天罩虫",
-          "alts": null,
-          "slug": "天罩虫"
+          "slug": "天罩虫",
+          "alts": null
         },
         {
           "nameCn": "以欧路普",
-          "alts": null,
-          "slug": "以欧路普"
+          "slug": "以欧路普",
+          "alts": null
         }
       ],
       "stats": {
@@ -250,7 +250,7 @@
   "obtains": {
     "map": [
       {
-        "text": "森林扩展区·晚上",
+        "text": "常青森林·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -261,18 +261,18 @@
   "evolution": [
     {
       "nameCn": "索侦虫",
-      "alts": null,
-      "slug": "索侦虫"
+      "slug": "索侦虫",
+      "alts": null
     },
     {
       "nameCn": "天罩虫",
-      "alts": null,
-      "slug": "天罩虫"
+      "slug": "天罩虫",
+      "alts": null
     },
     {
       "nameCn": "以欧路普",
-      "alts": null,
-      "slug": "以欧路普"
+      "slug": "以欧路普",
+      "alts": null
     }
   ],
   "stats": {

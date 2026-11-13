@@ -47,15 +47,20 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "珍宝海滩·冲浪",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [
           {
             "text": "8号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           },
           {
             "text": "双子岛",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -75,11 +80,12 @@
       "evolution": [
         {
           "nameCn": "野蛮鲈鱼",
-          "alts": null,
-          "slug": "野蛮鲈鱼"
+          "slug": "野蛮鲈鱼",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "幽尾玄鱼",
@@ -878,10 +884,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -916,10 +922,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1090,7 +1096,12 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "珍宝海滩·冲浪",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": [
@@ -1109,11 +1120,12 @@
       "evolution": [
         {
           "nameCn": "野蛮鲈鱼",
-          "alts": null,
-          "slug": "野蛮鲈鱼"
+          "slug": "野蛮鲈鱼",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "幽尾玄鱼",
@@ -1899,10 +1911,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1937,10 +1949,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -2044,15 +2056,20 @@
     }
   ],
   "obtains": {
-    "map": [],
+    "map": [
+      {
+        "text": "珍宝海滩·冲浪",
+        "href": "/分布/地图捕捉"
+      }
+    ],
     "static": [
       {
         "text": "8号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       },
       {
         "text": "双子岛",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -2072,11 +2089,12 @@
   "evolution": [
     {
       "nameCn": "野蛮鲈鱼",
-      "alts": null,
-      "slug": "野蛮鲈鱼"
+      "slug": "野蛮鲈鱼",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "幽尾玄鱼",
@@ -2875,10 +2893,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -2913,10 +2931,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

@@ -52,13 +52,13 @@
       "evolution": [
         {
           "nameCn": "太古羽虫",
-          "alts": null,
-          "slug": "太古羽虫"
+          "slug": "太古羽虫",
+          "alts": null
         },
         {
           "nameCn": "太古盔甲",
-          "alts": null,
-          "slug": "太古盔甲"
+          "slug": "太古盔甲",
+          "alts": null
         }
       ],
       "stats": {
@@ -1106,13 +1106,13 @@
   "evolution": [
     {
       "nameCn": "太古羽虫",
-      "alts": null,
-      "slug": "太古羽虫"
+      "slug": "太古羽虫",
+      "alts": null
     },
     {
       "nameCn": "太古盔甲",
-      "alts": null,
-      "slug": "太古盔甲"
+      "slug": "太古盔甲",
+      "alts": null
     }
   ],
   "stats": {

@@ -63,12 +63,12 @@
         ],
         "static": [
           {
-            "text": "24号道路",
-            "href": "/分布/定点获取"
+            "text": "6号道路",
+            "href": "/分布/极巨巢穴"
           },
           {
-            "text": "6号道路",
-            "href": "/分布/定点获取"
+            "text": "24号道路",
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -77,11 +77,12 @@
       "evolution": [
         {
           "nameCn": "啃果虫",
-          "alts": null,
-          "slug": "啃果虫"
+          "slug": "啃果虫",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "苹裹龙",
@@ -315,7 +316,7 @@
     {
       "slot": "H",
       "nameCn": "防弹",
-      "href": "https://wiki.52poke.com/wiki/%E9%98%B2%E5%BC%B9",
+      "href": "/特性/修改#防弹",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -339,12 +340,12 @@
     ],
     "static": [
       {
-        "text": "24号道路",
-        "href": "/分布/定点获取"
+        "text": "6号道路",
+        "href": "/分布/极巨巢穴"
       },
       {
-        "text": "6号道路",
-        "href": "/分布/定点获取"
+        "text": "24号道路",
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -353,11 +354,12 @@
   "evolution": [
     {
       "nameCn": "啃果虫",
-      "alts": null,
-      "slug": "啃果虫"
+      "slug": "啃果虫",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "苹裹龙",

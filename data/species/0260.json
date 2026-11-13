@@ -52,18 +52,18 @@
       "evolution": [
         {
           "nameCn": "水跃鱼",
-          "alts": null,
-          "slug": "水跃鱼"
+          "slug": "水跃鱼",
+          "alts": null
         },
         {
           "nameCn": "沼跃鱼",
-          "alts": null,
-          "slug": "沼跃鱼"
+          "slug": "沼跃鱼",
+          "alts": null
         },
         {
           "nameCn": "巨沼怪",
-          "alts": null,
-          "slug": "巨沼怪"
+          "slug": "巨沼怪",
+          "alts": null
         }
       ],
       "stats": {
@@ -1094,10 +1094,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1202,10 +1202,10 @@
         },
         {
           "level": null,
-          "nameCn": "水炮",
+          "nameCn": "加农水炮",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E7%82%AE",
+          "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E5%86%9C%E6%B0%B4%E7%82%AE",
           "type": "水",
           "category": "特殊",
           "power": 150,
@@ -1262,10 +1262,10 @@
         },
         {
           "level": null,
-          "nameCn": "DD金勾臂",
+          "nameCn": "ＤＤ金勾臂",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/DD%E9%87%91%E5%8B%BE%E8%87%82",
+          "href": "https://wiki.52poke.com/wiki/%EF%BC%A4%EF%BC%A4%E9%87%91%E5%8B%BE%E8%87%82",
           "type": "恶",
           "category": "物理",
           "power": 85,
@@ -1348,18 +1348,18 @@
       "evolution": [
         {
           "nameCn": "水跃鱼",
-          "alts": null,
-          "slug": "水跃鱼"
+          "slug": "水跃鱼",
+          "alts": null
         },
         {
           "nameCn": "沼跃鱼",
-          "alts": null,
-          "slug": "沼跃鱼"
+          "slug": "沼跃鱼",
+          "alts": null
         },
         {
           "nameCn": "巨沼怪",
-          "alts": null,
-          "slug": "巨沼怪"
+          "slug": "巨沼怪",
+          "alts": null
         }
       ],
       "stats": {
@@ -1644,18 +1644,18 @@
   "evolution": [
     {
       "nameCn": "水跃鱼",
-      "alts": null,
-      "slug": "水跃鱼"
+      "slug": "水跃鱼",
+      "alts": null
     },
     {
       "nameCn": "沼跃鱼",
-      "alts": null,
-      "slug": "沼跃鱼"
+      "slug": "沼跃鱼",
+      "alts": null
     },
     {
       "nameCn": "巨沼怪",
-      "alts": null,
-      "slug": "巨沼怪"
+      "slug": "巨沼怪",
+      "alts": null
     }
   ],
   "stats": {
@@ -2686,10 +2686,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -2794,10 +2794,10 @@
     },
     {
       "level": null,
-      "nameCn": "水炮",
+      "nameCn": "加农水炮",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E7%82%AE",
+      "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E5%86%9C%E6%B0%B4%E7%82%AE",
       "type": "水",
       "category": "特殊",
       "power": 150,
@@ -2854,10 +2854,10 @@
     },
     {
       "level": null,
-      "nameCn": "DD金勾臂",
+      "nameCn": "ＤＤ金勾臂",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/DD%E9%87%91%E5%8B%BE%E8%87%82",
+      "href": "https://wiki.52poke.com/wiki/%EF%BC%A4%EF%BC%A4%E9%87%91%E5%8B%BE%E8%87%82",
       "type": "恶",
       "category": "物理",
       "power": 85,

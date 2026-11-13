@@ -33,7 +33,7 @@
         "static": [
           {
             "text": "13号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -42,8 +42,8 @@
       "evolution": [
         {
           "nameCn": "波尔凯尼恩",
-          "alts": null,
-          "slug": "波尔凯尼恩"
+          "slug": "波尔凯尼恩",
+          "alts": null
         }
       ],
       "stats": {
@@ -1034,7 +1034,7 @@
     "static": [
       {
         "text": "13号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -1043,8 +1043,8 @@
   "evolution": [
     {
       "nameCn": "波尔凯尼恩",
-      "alts": null,
-      "slug": "波尔凯尼恩"
+      "slug": "波尔凯尼恩",
+      "alts": null
     }
   ],
   "stats": {

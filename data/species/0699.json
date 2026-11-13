@@ -52,13 +52,13 @@
       "evolution": [
         {
           "nameCn": "冰雪龙",
-          "alts": null,
-          "slug": "冰雪龙"
+          "slug": "冰雪龙",
+          "alts": null
         },
         {
           "nameCn": "冰雪巨龙",
-          "alts": null,
-          "slug": "冰雪巨龙"
+          "slug": "冰雪巨龙",
+          "alts": null
         }
       ],
       "stats": {
@@ -1197,13 +1197,13 @@
   "evolution": [
     {
       "nameCn": "冰雪龙",
-      "alts": null,
-      "slug": "冰雪龙"
+      "slug": "冰雪龙",
+      "alts": null
     },
     {
       "nameCn": "冰雪巨龙",
-      "alts": null,
-      "slug": "冰雪巨龙"
+      "slug": "冰雪巨龙",
+      "alts": null
     }
   ],
   "stats": {

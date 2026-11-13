@@ -48,7 +48,7 @@
       "obtains": {
         "map": [
           {
-            "text": "岩山隧道 b1f·晚上",
+            "text": "岩山隧道·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -59,13 +59,13 @@
       "evolution": [
         {
           "nameCn": "朝北鼻",
-          "alts": null,
-          "slug": "朝北鼻"
+          "slug": "朝北鼻",
+          "alts": null
         },
         {
           "nameCn": "大朝北鼻",
-          "alts": null,
-          "slug": "大朝北鼻"
+          "slug": "大朝北鼻",
+          "alts": null
         }
       ],
       "stats": {
@@ -1025,7 +1025,7 @@
   "obtains": {
     "map": [
       {
-        "text": "岩山隧道 b1f·晚上",
+        "text": "岩山隧道·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1036,13 +1036,13 @@
   "evolution": [
     {
       "nameCn": "朝北鼻",
-      "alts": null,
-      "slug": "朝北鼻"
+      "slug": "朝北鼻",
+      "alts": null
     },
     {
       "nameCn": "大朝北鼻",
-      "alts": null,
-      "slug": "大朝北鼻"
+      "slug": "大朝北鼻",
+      "alts": null
     }
   ],
   "stats": {

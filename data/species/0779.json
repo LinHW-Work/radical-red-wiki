@@ -29,8 +29,8 @@
         },
         {
           "slot": "1",
-          "nameCn": "强颚",
-          "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E9%A2%9A",
+          "nameCn": "强壮之颚",
+          "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E5%A3%AE%E4%B9%8B%E9%A2%9A",
           "original": false,
           "restrictedNameCn": null,
           "restrictedHref": null,
@@ -49,7 +49,7 @@
       "obtains": {
         "map": [
           {
-            "text": "常青市·厉害吊杆",
+            "text": "真新镇·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
@@ -65,7 +65,7 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "北区·厉害吊杆",
+            "text": "狩猎地带·厉害吊杆",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -76,8 +76,8 @@
       "evolution": [
         {
           "nameCn": "磨牙彩皮鱼",
-          "alts": null,
-          "slug": "磨牙彩皮鱼"
+          "slug": "磨牙彩皮鱼",
+          "alts": null
         }
       ],
       "stats": {
@@ -235,10 +235,10 @@
         },
         {
           "level": 48,
-          "nameCn": "Aqua Fang",
+          "nameCn": "水流牙",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Aqua Fang",
+          "href": "/原创招式#水流牙",
           "type": null,
           "category": null,
           "power": null,
@@ -922,8 +922,8 @@
     },
     {
       "slot": "1",
-      "nameCn": "强颚",
-      "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E9%A2%9A",
+      "nameCn": "强壮之颚",
+      "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E5%A3%AE%E4%B9%8B%E9%A2%9A",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -942,7 +942,7 @@
   "obtains": {
     "map": [
       {
-        "text": "常青市·厉害吊杆",
+        "text": "真新镇·厉害吊杆",
         "href": "/分布/地图捕捉"
       },
       {
@@ -958,7 +958,7 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "北区·厉害吊杆",
+        "text": "狩猎地带·厉害吊杆",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -969,8 +969,8 @@
   "evolution": [
     {
       "nameCn": "磨牙彩皮鱼",
-      "alts": null,
-      "slug": "磨牙彩皮鱼"
+      "slug": "磨牙彩皮鱼",
+      "alts": null
     }
   ],
   "stats": {
@@ -1128,10 +1128,10 @@
     },
     {
       "level": 48,
-      "nameCn": "Aqua Fang",
+      "nameCn": "水流牙",
       "restricted": false,
       "original": true,
-      "href": "/原创招式/Aqua Fang",
+      "href": "/原创招式#水流牙",
       "type": null,
       "category": null,
       "power": null,

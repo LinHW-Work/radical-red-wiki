@@ -49,19 +49,19 @@
       "obtains": {
         "map": [
           {
-            "text": "华蓝洞窟 1f·白天",
+            "text": "华蓝洞窟·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "华蓝洞窟 1f·晚上",
+            "text": "华蓝洞窟·晚上",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "无人发电厂·白天",
+            "text": "发电厂·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "无人发电厂·晚上",
+            "text": "发电厂·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -78,18 +78,18 @@
       "evolution": [
         {
           "nameCn": "小磁怪",
-          "alts": null,
-          "slug": "小磁怪"
+          "slug": "小磁怪",
+          "alts": null
         },
         {
           "nameCn": "三合一磁怪",
-          "alts": null,
-          "slug": "三合一磁怪"
+          "slug": "三合一磁怪",
+          "alts": null
         },
         {
           "nameCn": "自爆磁怪",
-          "alts": null,
-          "slug": "自爆磁怪"
+          "slug": "自爆磁怪",
+          "alts": null
         }
       ],
       "stats": {
@@ -911,19 +911,19 @@
   "obtains": {
     "map": [
       {
-        "text": "华蓝洞窟 1f·白天",
+        "text": "华蓝洞窟·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "华蓝洞窟 1f·晚上",
+        "text": "华蓝洞窟·晚上",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "无人发电厂·白天",
+        "text": "发电厂·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "无人发电厂·晚上",
+        "text": "发电厂·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -940,18 +940,18 @@
   "evolution": [
     {
       "nameCn": "小磁怪",
-      "alts": null,
-      "slug": "小磁怪"
+      "slug": "小磁怪",
+      "alts": null
     },
     {
       "nameCn": "三合一磁怪",
-      "alts": null,
-      "slug": "三合一磁怪"
+      "slug": "三合一磁怪",
+      "alts": null
     },
     {
       "nameCn": "自爆磁怪",
-      "alts": null,
-      "slug": "自爆磁怪"
+      "slug": "自爆磁怪",
+      "alts": null
     }
   ],
   "stats": {

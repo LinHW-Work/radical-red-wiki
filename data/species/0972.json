@@ -39,11 +39,11 @@
       "obtains": {
         "map": [
           {
-            "text": "宝可梦塔 4f·白天",
+            "text": "宝可梦塔·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "宝可梦塔 4f·晚上",
+            "text": "宝可梦塔·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "墓仔狗",
-          "alts": null,
-          "slug": "墓仔狗"
+          "slug": "墓仔狗",
+          "alts": null
         },
         {
           "nameCn": "墓扬犬",
-          "alts": null,
-          "slug": "墓扬犬"
+          "slug": "墓扬犬",
+          "alts": null
         }
       ],
       "stats": {
@@ -866,11 +866,11 @@
   "obtains": {
     "map": [
       {
-        "text": "宝可梦塔 4f·白天",
+        "text": "宝可梦塔·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "宝可梦塔 4f·晚上",
+        "text": "宝可梦塔·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -887,13 +887,13 @@
   "evolution": [
     {
       "nameCn": "墓仔狗",
-      "alts": null,
-      "slug": "墓仔狗"
+      "slug": "墓仔狗",
+      "alts": null
     },
     {
       "nameCn": "墓扬犬",
-      "alts": null,
-      "slug": "墓扬犬"
+      "slug": "墓扬犬",
+      "alts": null
     }
   ],
   "stats": {

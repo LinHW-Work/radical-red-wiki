@@ -43,18 +43,18 @@
       "evolution": [
         {
           "nameCn": "独剑鞘",
-          "alts": null,
-          "slug": "独剑鞘"
+          "slug": "独剑鞘",
+          "alts": null
         },
         {
           "nameCn": "双剑鞘",
-          "alts": null,
-          "slug": "双剑鞘"
+          "slug": "双剑鞘",
+          "alts": null
         },
         {
           "nameCn": "坚盾剑怪",
-          "alts": null,
-          "slug": "坚盾剑怪"
+          "slug": "坚盾剑怪",
+          "alts": null
         }
       ],
       "stats": {
@@ -729,18 +729,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "精神利刃",
           "restricted": false,
           "original": false,
@@ -808,18 +796,18 @@
   "evolution": [
     {
       "nameCn": "独剑鞘",
-      "alts": null,
-      "slug": "独剑鞘"
+      "slug": "独剑鞘",
+      "alts": null
     },
     {
       "nameCn": "双剑鞘",
-      "alts": null,
-      "slug": "双剑鞘"
+      "slug": "双剑鞘",
+      "alts": null
     },
     {
       "nameCn": "坚盾剑怪",
-      "alts": null,
-      "slug": "坚盾剑怪"
+      "slug": "坚盾剑怪",
+      "alts": null
     }
   ],
   "stats": {
@@ -1491,18 +1479,6 @@
       "power": null,
       "accuracy": 100,
       "pp": 15
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

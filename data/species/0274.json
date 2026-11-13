@@ -61,18 +61,18 @@
       "evolution": [
         {
           "nameCn": "橡实果",
-          "alts": null,
-          "slug": "橡实果"
+          "slug": "橡实果",
+          "alts": null
         },
         {
           "nameCn": "长鼻叶",
-          "alts": null,
-          "slug": "长鼻叶"
+          "slug": "长鼻叶",
+          "alts": null
         },
         {
           "nameCn": "狡猾天狗",
-          "alts": null,
-          "slug": "狡猾天狗"
+          "slug": "狡猾天狗",
+          "alts": null
         }
       ],
       "stats": {
@@ -997,18 +997,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "叶刃",
           "restricted": false,
           "original": false,
@@ -1082,18 +1070,18 @@
   "evolution": [
     {
       "nameCn": "橡实果",
-      "alts": null,
-      "slug": "橡实果"
+      "slug": "橡实果",
+      "alts": null
     },
     {
       "nameCn": "长鼻叶",
-      "alts": null,
-      "slug": "长鼻叶"
+      "slug": "长鼻叶",
+      "alts": null
     },
     {
       "nameCn": "狡猾天狗",
-      "alts": null,
-      "slug": "狡猾天狗"
+      "slug": "狡猾天狗",
+      "alts": null
     }
   ],
   "stats": {
@@ -2015,18 +2003,6 @@
       "power": 120,
       "accuracy": 100,
       "pp": 10
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

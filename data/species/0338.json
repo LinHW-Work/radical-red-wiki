@@ -31,11 +31,11 @@
       "obtains": {
         "map": [
           {
-            "text": "月见山 b2f·白天",
+            "text": "月见山·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "岩山隧道 1f·白天",
+            "text": "岩山隧道·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -46,8 +46,8 @@
       "evolution": [
         {
           "nameCn": "太阳岩",
-          "alts": null,
-          "slug": "太阳岩"
+          "slug": "太阳岩",
+          "alts": null
         }
       ],
       "stats": {
@@ -1063,10 +1063,10 @@
         },
         {
           "level": null,
-          "nameCn": "力量储存",
+          "nameCn": "辅助力量",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+          "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
           "type": "超能力",
           "category": "特殊",
           "power": 20,
@@ -1166,11 +1166,11 @@
   "obtains": {
     "map": [
       {
-        "text": "月见山 b2f·白天",
+        "text": "月见山·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "岩山隧道 1f·白天",
+        "text": "岩山隧道·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1181,8 +1181,8 @@
   "evolution": [
     {
       "nameCn": "太阳岩",
-      "alts": null,
-      "slug": "太阳岩"
+      "slug": "太阳岩",
+      "alts": null
     }
   ],
   "stats": {
@@ -2198,10 +2198,10 @@
     },
     {
       "level": null,
-      "nameCn": "力量储存",
+      "nameCn": "辅助力量",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+      "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
       "type": "超能力",
       "category": "特殊",
       "power": 20,

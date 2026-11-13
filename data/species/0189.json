@@ -66,18 +66,18 @@
       "evolution": [
         {
           "nameCn": "毽子草",
-          "alts": null,
-          "slug": "毽子草"
+          "slug": "毽子草",
+          "alts": null
         },
         {
           "nameCn": "毽子花",
-          "alts": null,
-          "slug": "毽子花"
+          "slug": "毽子花",
+          "alts": null
         },
         {
           "nameCn": "毽子棉",
-          "alts": null,
-          "slug": "毽子棉"
+          "slug": "毽子棉",
+          "alts": null
         }
       ],
       "stats": {
@@ -295,10 +295,10 @@
         },
         {
           "level": 49,
-          "nameCn": "U转攻击",
+          "nameCn": "急速折返",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+          "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
           "type": "虫",
           "category": "物理",
           "power": 70,
@@ -921,18 +921,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "叶刃",
           "restricted": false,
           "original": false,
@@ -1035,18 +1023,18 @@
   "evolution": [
     {
       "nameCn": "毽子草",
-      "alts": null,
-      "slug": "毽子草"
+      "slug": "毽子草",
+      "alts": null
     },
     {
       "nameCn": "毽子花",
-      "alts": null,
-      "slug": "毽子花"
+      "slug": "毽子花",
+      "alts": null
     },
     {
       "nameCn": "毽子棉",
-      "alts": null,
-      "slug": "毽子棉"
+      "slug": "毽子棉",
+      "alts": null
     }
   ],
   "stats": {
@@ -1264,10 +1252,10 @@
     },
     {
       "level": 49,
-      "nameCn": "U转攻击",
+      "nameCn": "急速折返",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+      "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
       "type": "虫",
       "category": "物理",
       "power": 70,
@@ -1887,18 +1875,6 @@
       "power": 120,
       "accuracy": 100,
       "pp": 10
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

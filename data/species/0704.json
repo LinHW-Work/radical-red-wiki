@@ -59,11 +59,12 @@
       "evolution": [
         {
           "nameCn": "黏黏宝",
-          "alts": null,
-          "slug": "黏黏宝"
+          "slug": "黏黏宝",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "黏美儿-洗翠",
@@ -354,8 +355,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -648,11 +649,12 @@
   "evolution": [
     {
       "nameCn": "黏黏宝",
-      "alts": null,
-      "slug": "黏黏宝"
+      "slug": "黏黏宝",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "黏美儿-洗翠",
@@ -943,8 +945,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,

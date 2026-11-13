@@ -20,8 +20,8 @@
       "abilities": [
         {
           "slot": "0",
-          "nameCn": "透明特性",
-          "href": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+          "nameCn": "恒净之躯",
+          "href": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
           "original": false,
           "restrictedNameCn": null,
           "restrictedHref": null,
@@ -49,11 +49,19 @@
       "obtains": {
         "map": [
           {
-            "text": "冠军之路 3f·白天",
+            "text": "冠军之路·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "冠军之路 3f·晚上",
+            "text": "冠军之路·晚上",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "宝可梦塔·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "宝可梦塔·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -75,18 +83,18 @@
       "evolution": [
         {
           "nameCn": "多龙梅西亚",
-          "alts": null,
-          "slug": "多龙梅西亚"
+          "slug": "多龙梅西亚",
+          "alts": null
         },
         {
           "nameCn": "多龙奇",
-          "alts": null,
-          "slug": "多龙奇"
+          "slug": "多龙奇",
+          "alts": null
         },
         {
           "nameCn": "多龙巴鲁托",
-          "alts": null,
-          "slug": "多龙巴鲁托"
+          "slug": "多龙巴鲁托",
+          "alts": null
         }
       ],
       "stats": {
@@ -268,10 +276,10 @@
         },
         {
           "level": 36,
-          "nameCn": "U转攻击",
+          "nameCn": "急速折返",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+          "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
           "type": "虫",
           "category": "物理",
           "power": 70,
@@ -591,8 +599,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -1008,8 +1016,8 @@
   "abilities": [
     {
       "slot": "0",
-      "nameCn": "透明特性",
-      "href": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+      "nameCn": "恒净之躯",
+      "href": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1037,11 +1045,19 @@
   "obtains": {
     "map": [
       {
-        "text": "冠军之路 3f·白天",
+        "text": "冠军之路·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "冠军之路 3f·晚上",
+        "text": "冠军之路·晚上",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "宝可梦塔·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "宝可梦塔·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1063,18 +1079,18 @@
   "evolution": [
     {
       "nameCn": "多龙梅西亚",
-      "alts": null,
-      "slug": "多龙梅西亚"
+      "slug": "多龙梅西亚",
+      "alts": null
     },
     {
       "nameCn": "多龙奇",
-      "alts": null,
-      "slug": "多龙奇"
+      "slug": "多龙奇",
+      "alts": null
     },
     {
       "nameCn": "多龙巴鲁托",
-      "alts": null,
-      "slug": "多龙巴鲁托"
+      "slug": "多龙巴鲁托",
+      "alts": null
     }
   ],
   "stats": {
@@ -1256,10 +1272,10 @@
     },
     {
       "level": 36,
-      "nameCn": "U转攻击",
+      "nameCn": "急速折返",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+      "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
       "type": "虫",
       "category": "物理",
       "power": 70,
@@ -1579,8 +1595,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,

@@ -49,11 +49,11 @@
       "obtains": {
         "map": [
           {
-            "text": "月见山 b1f·白天",
+            "text": "月见山·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "月见山 b1f·晚上",
+            "text": "月见山·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -64,18 +64,18 @@
       "evolution": [
         {
           "nameCn": "小锻匠",
-          "alts": null,
-          "slug": "小锻匠"
+          "slug": "小锻匠",
+          "alts": null
         },
         {
           "nameCn": "巧锻匠",
-          "alts": null,
-          "slug": "巧锻匠"
+          "slug": "巧锻匠",
+          "alts": null
         },
         {
           "nameCn": "巨锻匠",
-          "alts": null,
-          "slug": "巨锻匠"
+          "slug": "巨锻匠",
+          "alts": null
         }
       ],
       "stats": {
@@ -161,10 +161,10 @@
         },
         {
           "level": 17,
-          "nameCn": "Drain Kiss",
+          "nameCn": "吸取之吻",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Drain Kiss",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
           "type": null,
           "category": null,
           "power": null,
@@ -740,11 +740,11 @@
   "obtains": {
     "map": [
       {
-        "text": "月见山 b1f·白天",
+        "text": "月见山·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "月见山 b1f·晚上",
+        "text": "月见山·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -755,18 +755,18 @@
   "evolution": [
     {
       "nameCn": "小锻匠",
-      "alts": null,
-      "slug": "小锻匠"
+      "slug": "小锻匠",
+      "alts": null
     },
     {
       "nameCn": "巧锻匠",
-      "alts": null,
-      "slug": "巧锻匠"
+      "slug": "巧锻匠",
+      "alts": null
     },
     {
       "nameCn": "巨锻匠",
-      "alts": null,
-      "slug": "巨锻匠"
+      "slug": "巨锻匠",
+      "alts": null
     }
   ],
   "stats": {
@@ -852,10 +852,10 @@
     },
     {
       "level": 17,
-      "nameCn": "Drain Kiss",
+      "nameCn": "吸取之吻",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Drain Kiss",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
       "type": null,
       "category": null,
       "power": null,

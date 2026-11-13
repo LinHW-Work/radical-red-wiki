@@ -52,13 +52,13 @@
       "evolution": [
         {
           "nameCn": "盾甲龙",
-          "alts": null,
-          "slug": "盾甲龙"
+          "slug": "盾甲龙",
+          "alts": null
         },
         {
           "nameCn": "护城龙",
-          "alts": null,
-          "slug": "护城龙"
+          "slug": "护城龙",
+          "alts": null
         }
       ],
       "stats": {
@@ -1145,13 +1145,13 @@
   "evolution": [
     {
       "nameCn": "盾甲龙",
-      "alts": null,
-      "slug": "盾甲龙"
+      "slug": "盾甲龙",
+      "alts": null
     },
     {
       "nameCn": "护城龙",
-      "alts": null,
-      "slug": "护城龙"
+      "slug": "护城龙",
+      "alts": null
     }
   ],
   "stats": {

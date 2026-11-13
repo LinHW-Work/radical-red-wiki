@@ -50,18 +50,18 @@
       "evolution": [
         {
           "nameCn": "呆火鳄",
-          "alts": null,
-          "slug": "呆火鳄"
+          "slug": "呆火鳄",
+          "alts": null
         },
         {
           "nameCn": "炙烫鳄",
-          "alts": null,
-          "slug": "炙烫鳄"
+          "slug": "炙烫鳄",
+          "alts": null
         },
         {
           "nameCn": "骨纹巨声鳄",
-          "alts": null,
-          "slug": "骨纹巨声鳄"
+          "slug": "骨纹巨声鳄",
+          "alts": null
         }
       ],
       "stats": {
@@ -135,10 +135,10 @@
         },
         {
           "level": 14,
-          "nameCn": "烧尽",
+          "nameCn": "烧净",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
           "type": "火",
           "category": "特殊",
           "power": 60,
@@ -739,18 +739,18 @@
   "evolution": [
     {
       "nameCn": "呆火鳄",
-      "alts": null,
-      "slug": "呆火鳄"
+      "slug": "呆火鳄",
+      "alts": null
     },
     {
       "nameCn": "炙烫鳄",
-      "alts": null,
-      "slug": "炙烫鳄"
+      "slug": "炙烫鳄",
+      "alts": null
     },
     {
       "nameCn": "骨纹巨声鳄",
-      "alts": null,
-      "slug": "骨纹巨声鳄"
+      "slug": "骨纹巨声鳄",
+      "alts": null
     }
   ],
   "stats": {
@@ -824,10 +824,10 @@
     },
     {
       "level": 14,
-      "nameCn": "烧尽",
+      "nameCn": "烧净",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
       "type": "火",
       "category": "特殊",
       "power": 60,

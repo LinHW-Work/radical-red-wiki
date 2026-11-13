@@ -48,7 +48,7 @@
       "obtains": {
         "map": [
           {
-            "text": "常青市·白天",
+            "text": "真新镇·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -59,13 +59,13 @@
       "evolution": [
         {
           "nameCn": "毛辫羊",
-          "alts": null,
-          "slug": "毛辫羊"
+          "slug": "毛辫羊",
+          "alts": null
         },
         {
           "nameCn": "毛毛角羊",
-          "alts": null,
-          "slug": "毛毛角羊"
+          "slug": "毛毛角羊",
+          "alts": null
         }
       ],
       "stats": {
@@ -493,7 +493,7 @@
     {
       "slot": "H",
       "nameCn": "防弹",
-      "href": "https://wiki.52poke.com/wiki/%E9%98%B2%E5%BC%B9",
+      "href": "/特性/修改#防弹",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -503,7 +503,7 @@
   "obtains": {
     "map": [
       {
-        "text": "常青市·白天",
+        "text": "真新镇·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -514,13 +514,13 @@
   "evolution": [
     {
       "nameCn": "毛辫羊",
-      "alts": null,
-      "slug": "毛辫羊"
+      "slug": "毛辫羊",
+      "alts": null
     },
     {
       "nameCn": "毛毛角羊",
-      "alts": null,
-      "slug": "毛毛角羊"
+      "slug": "毛毛角羊",
+      "alts": null
     }
   ],
   "stats": {

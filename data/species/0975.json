@@ -69,13 +69,13 @@
       "evolution": [
         {
           "nameCn": "走鲸",
-          "alts": null,
-          "slug": "走鲸"
+          "slug": "走鲸",
+          "alts": null
         },
         {
           "nameCn": "浩大鲸",
-          "alts": null,
-          "slug": "浩大鲸"
+          "slug": "浩大鲸",
+          "alts": null
         }
       ],
       "stats": {
@@ -873,13 +873,13 @@
   "evolution": [
     {
       "nameCn": "走鲸",
-      "alts": null,
-      "slug": "走鲸"
+      "slug": "走鲸",
+      "alts": null
     },
     {
       "nameCn": "浩大鲸",
-      "alts": null,
-      "slug": "浩大鲸"
+      "slug": "浩大鲸",
+      "alts": null
     }
   ],
   "stats": {

@@ -37,11 +37,16 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "狩猎地带·冲浪",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [
           {
             "text": "宝可梦屋",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -56,13 +61,13 @@
       "evolution": [
         {
           "nameCn": "泳圈鼬",
-          "alts": null,
-          "slug": "泳圈鼬"
+          "slug": "泳圈鼬",
+          "alts": null
         },
         {
           "nameCn": "浮潜鼬",
-          "alts": null,
-          "slug": "浮潜鼬"
+          "slug": "浮潜鼬",
+          "alts": null
         }
       ],
       "stats": {
@@ -1096,11 +1101,16 @@
     }
   ],
   "obtains": {
-    "map": [],
+    "map": [
+      {
+        "text": "狩猎地带·冲浪",
+        "href": "/分布/地图捕捉"
+      }
+    ],
     "static": [
       {
         "text": "宝可梦屋",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -1115,13 +1125,13 @@
   "evolution": [
     {
       "nameCn": "泳圈鼬",
-      "alts": null,
-      "slug": "泳圈鼬"
+      "slug": "泳圈鼬",
+      "alts": null
     },
     {
       "nameCn": "浮潜鼬",
-      "alts": null,
-      "slug": "浮潜鼬"
+      "slug": "浮潜鼬",
+      "alts": null
     }
   ],
   "stats": {

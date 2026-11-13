@@ -59,8 +59,8 @@
       "evolution": [
         {
           "nameCn": "大奶罐",
-          "alts": null,
-          "slug": "大奶罐"
+          "slug": "大奶罐",
+          "alts": null
         }
       ],
       "stats": {
@@ -1157,8 +1157,8 @@
   "evolution": [
     {
       "nameCn": "大奶罐",
-      "alts": null,
-      "slug": "大奶罐"
+      "slug": "大奶罐",
+      "alts": null
     }
   ],
   "stats": {

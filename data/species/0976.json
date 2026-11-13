@@ -48,14 +48,14 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "圣特安努号·好吊杆",
+            "text": "圣安妮号·好吊杆",
             "href": "/分布/地图捕捉"
           }
         ],
         "static": [
           {
             "text": "11号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -64,8 +64,8 @@
       "evolution": [
         {
           "nameCn": "轻身鳕",
-          "alts": null,
-          "slug": "轻身鳕"
+          "slug": "轻身鳕",
+          "alts": null
         }
       ],
       "stats": {
@@ -524,10 +524,10 @@
         },
         {
           "level": null,
-          "nameCn": "钻冲赛道",
+          "nameCn": "直冲钻",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+          "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
           "type": "地面",
           "category": "物理",
           "power": 80,
@@ -685,8 +685,8 @@
     },
     {
       "slot": "H",
-      "nameCn": "锐利",
-      "href": "https://wiki.52poke.com/wiki/%E9%94%90%E5%88%A9",
+      "nameCn": "锋锐",
+      "href": "https://wiki.52poke.com/wiki/%E9%94%8B%E9%94%90",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -704,14 +704,14 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "圣特安努号·好吊杆",
+        "text": "圣安妮号·好吊杆",
         "href": "/分布/地图捕捉"
       }
     ],
     "static": [
       {
         "text": "11号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -720,8 +720,8 @@
   "evolution": [
     {
       "nameCn": "轻身鳕",
-      "alts": null,
-      "slug": "轻身鳕"
+      "slug": "轻身鳕",
+      "alts": null
     }
   ],
   "stats": {
@@ -1180,10 +1180,10 @@
     },
     {
       "level": null,
-      "nameCn": "钻冲赛道",
+      "nameCn": "直冲钻",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+      "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
       "type": "地面",
       "category": "物理",
       "power": 80,

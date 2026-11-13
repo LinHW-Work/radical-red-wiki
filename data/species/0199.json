@@ -49,7 +49,11 @@
       "obtains": {
         "map": [
           {
-            "text": "双子岛 b1f·白天",
+            "text": "双子岛·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "连理之桥·冲浪",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -71,11 +75,12 @@
       "evolution": [
         {
           "nameCn": "呆呆兽",
-          "alts": null,
-          "slug": "呆呆兽"
+          "slug": "呆呆兽",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "呆壳兽",
@@ -1300,10 +1305,10 @@
         },
         {
           "level": null,
-          "nameCn": "力量储存",
+          "nameCn": "辅助力量",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+          "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
           "type": "超能力",
           "category": "特殊",
           "power": 20,
@@ -1428,12 +1433,13 @@
       "evolution": [
         {
           "nameCn": "呆呆兽-伽勒尔",
-          "alts": null,
           "slug": "呆呆兽",
+          "alts": null,
           "forme": "伽勒尔"
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "呆壳兽-伽勒尔",
@@ -2360,10 +2366,10 @@
         },
         {
           "level": null,
-          "nameCn": "力量储存",
+          "nameCn": "辅助力量",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+          "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
           "type": "超能力",
           "category": "特殊",
           "power": 20,
@@ -2457,7 +2463,11 @@
   "obtains": {
     "map": [
       {
-        "text": "双子岛 b1f·白天",
+        "text": "双子岛·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "连理之桥·冲浪",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -2479,11 +2489,12 @@
   "evolution": [
     {
       "nameCn": "呆呆兽",
-      "alts": null,
-      "slug": "呆呆兽"
+      "slug": "呆呆兽",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "呆壳兽",
@@ -3708,10 +3719,10 @@
     },
     {
       "level": null,
-      "nameCn": "力量储存",
+      "nameCn": "辅助力量",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+      "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
       "type": "超能力",
       "category": "特殊",
       "power": 20,

@@ -41,19 +41,19 @@
           "nameCn": "不服输",
           "href": "https://wiki.52poke.com/wiki/%E4%B8%8D%E6%9C%8D%E8%BE%93",
           "original": false,
-          "restrictedNameCn": "透明特性",
-          "restrictedHref": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+          "restrictedNameCn": "恒净之躯",
+          "restrictedHref": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
           "restrictedOriginal": false
         }
       ],
       "obtains": {
         "map": [
           {
-            "text": "宝可梦塔 6f·白天",
+            "text": "宝可梦塔·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "宝可梦塔 6f·晚上",
+            "text": "宝可梦塔·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -62,12 +62,12 @@
         "evolution": [
           {
             "group": "evolution",
-            "text": "火爆猴·学会暗影拳",
+            "text": "火暴猴·学会暗影拳",
             "href": null
           },
           {
             "group": "evolution",
-            "text": "火爆猴·Lv.45",
+            "text": "火暴猴·Lv.45",
             "href": null
           }
         ]
@@ -75,18 +75,18 @@
       "evolution": [
         {
           "nameCn": "猴怪",
-          "alts": null,
-          "slug": "猴怪"
+          "slug": "猴怪",
+          "alts": null
         },
         {
-          "nameCn": "火爆猴",
-          "alts": null,
-          "slug": "火爆猴"
+          "nameCn": "火暴猴",
+          "slug": "火暴猴",
+          "alts": null
         },
         {
           "nameCn": "弃世猴",
-          "alts": null,
-          "slug": "弃世猴"
+          "slug": "弃世猴",
+          "alts": null
         }
       ],
       "stats": {
@@ -1209,18 +1209,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "密语",
           "restricted": false,
           "original": false,
@@ -1406,19 +1394,19 @@
       "nameCn": "不服输",
       "href": "https://wiki.52poke.com/wiki/%E4%B8%8D%E6%9C%8D%E8%BE%93",
       "original": false,
-      "restrictedNameCn": "透明特性",
-      "restrictedHref": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+      "restrictedNameCn": "恒净之躯",
+      "restrictedHref": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
       "restrictedOriginal": false
     }
   ],
   "obtains": {
     "map": [
       {
-        "text": "宝可梦塔 6f·白天",
+        "text": "宝可梦塔·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "宝可梦塔 6f·晚上",
+        "text": "宝可梦塔·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1427,12 +1415,12 @@
     "evolution": [
       {
         "group": "evolution",
-        "text": "火爆猴·学会暗影拳",
+        "text": "火暴猴·学会暗影拳",
         "href": null
       },
       {
         "group": "evolution",
-        "text": "火爆猴·Lv.45",
+        "text": "火暴猴·Lv.45",
         "href": null
       }
     ]
@@ -1440,18 +1428,18 @@
   "evolution": [
     {
       "nameCn": "猴怪",
-      "alts": null,
-      "slug": "猴怪"
+      "slug": "猴怪",
+      "alts": null
     },
     {
-      "nameCn": "火爆猴",
-      "alts": null,
-      "slug": "火爆猴"
+      "nameCn": "火暴猴",
+      "slug": "火暴猴",
+      "alts": null
     },
     {
       "nameCn": "弃世猴",
-      "alts": null,
-      "slug": "弃世猴"
+      "slug": "弃世猴",
+      "alts": null
     }
   ],
   "stats": {
@@ -2571,18 +2559,6 @@
       "power": null,
       "accuracy": null,
       "pp": 20
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

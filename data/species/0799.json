@@ -20,8 +20,8 @@
       "abilities": [
         {
           "slot": "0",
-          "nameCn": "兽提升",
-          "href": "https://wiki.52poke.com/wiki/%E5%85%BD%E6%8F%90%E5%8D%87",
+          "nameCn": "异兽提升",
+          "href": "https://wiki.52poke.com/wiki/%E5%BC%82%E5%85%BD%E6%8F%90%E5%8D%87",
           "original": false,
           "restrictedNameCn": "紧张感",
           "restrictedHref": "https://wiki.52poke.com/wiki/%E7%B4%A7%E5%BC%A0%E6%84%9F",
@@ -32,12 +32,12 @@
         "map": [],
         "static": [
           {
-            "text": "华蓝洞窟 2f",
-            "href": "/分布/定点获取"
+            "text": "华蓝洞窟",
+            "href": "/分布/极巨巢穴"
           },
           {
-            "text": "华蓝洞窟",
-            "href": "/分布/定点获取"
+            "text": "华蓝洞窟 2f",
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -46,8 +46,8 @@
       "evolution": [
         {
           "nameCn": "恶食大王",
-          "alts": null,
-          "slug": "恶食大王"
+          "slug": "恶食大王",
+          "alts": null
         }
       ],
       "stats": {
@@ -325,10 +325,10 @@
         },
         {
           "level": 77,
-          "nameCn": "Draco Barrage",
+          "nameCn": "龙之弹幕炮",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Draco Barrage",
+          "href": "/原创招式#龙之弹幕炮",
           "type": null,
           "category": null,
           "power": null,
@@ -653,8 +653,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -912,10 +912,10 @@
         },
         {
           "level": null,
-          "nameCn": "Dark Hole",
+          "nameCn": "暗黑洞",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Dark Hole",
+          "href": "/原创招式#暗黑洞",
           "type": null,
           "category": null,
           "power": null,
@@ -1100,8 +1100,8 @@
   "abilities": [
     {
       "slot": "0",
-      "nameCn": "兽提升",
-      "href": "https://wiki.52poke.com/wiki/%E5%85%BD%E6%8F%90%E5%8D%87",
+      "nameCn": "异兽提升",
+      "href": "https://wiki.52poke.com/wiki/%E5%BC%82%E5%85%BD%E6%8F%90%E5%8D%87",
       "original": false,
       "restrictedNameCn": "紧张感",
       "restrictedHref": "https://wiki.52poke.com/wiki/%E7%B4%A7%E5%BC%A0%E6%84%9F",
@@ -1112,12 +1112,12 @@
     "map": [],
     "static": [
       {
-        "text": "华蓝洞窟 2f",
-        "href": "/分布/定点获取"
+        "text": "华蓝洞窟",
+        "href": "/分布/极巨巢穴"
       },
       {
-        "text": "华蓝洞窟",
-        "href": "/分布/定点获取"
+        "text": "华蓝洞窟 2f",
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -1126,8 +1126,8 @@
   "evolution": [
     {
       "nameCn": "恶食大王",
-      "alts": null,
-      "slug": "恶食大王"
+      "slug": "恶食大王",
+      "alts": null
     }
   ],
   "stats": {
@@ -1405,10 +1405,10 @@
     },
     {
       "level": 77,
-      "nameCn": "Draco Barrage",
+      "nameCn": "龙之弹幕炮",
       "restricted": false,
       "original": true,
-      "href": "/原创招式/Draco Barrage",
+      "href": "/原创招式#龙之弹幕炮",
       "type": null,
       "category": null,
       "power": null,
@@ -1733,8 +1733,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,
@@ -1992,10 +1992,10 @@
     },
     {
       "level": null,
-      "nameCn": "Dark Hole",
+      "nameCn": "暗黑洞",
       "restricted": false,
       "original": true,
-      "href": "/原创招式/Dark Hole",
+      "href": "/原创招式#暗黑洞",
       "type": null,
       "category": null,
       "power": null,

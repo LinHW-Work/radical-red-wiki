@@ -43,11 +43,12 @@
       "evolution": [
         {
           "nameCn": "土居忍士",
-          "alts": null,
-          "slug": "土居忍士"
+          "slug": "土居忍士",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "铁面忍者",
@@ -824,11 +825,12 @@
   "evolution": [
     {
       "nameCn": "土居忍士",
-      "alts": null,
-      "slug": "土居忍士"
+      "slug": "土居忍士",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "铁面忍者",

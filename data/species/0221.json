@@ -49,23 +49,7 @@
       "obtains": {
         "map": [
           {
-            "text": "双子岛 1f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b1f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b3f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b4f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b4f·晚上",
+            "text": "双子岛·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -82,18 +66,18 @@
       "evolution": [
         {
           "nameCn": "小山猪",
-          "alts": null,
-          "slug": "小山猪"
+          "slug": "小山猪",
+          "alts": null
         },
         {
           "nameCn": "长毛猪",
-          "alts": null,
-          "slug": "长毛猪"
+          "slug": "长毛猪",
+          "alts": null
         },
         {
           "nameCn": "象牙猪",
-          "alts": null,
-          "slug": "象牙猪"
+          "slug": "象牙猪",
+          "alts": null
         }
       ],
       "stats": {
@@ -858,10 +842,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1063,23 +1047,7 @@
   "obtains": {
     "map": [
       {
-        "text": "双子岛 1f·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "双子岛 b1f·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "双子岛 b3f·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "双子岛 b4f·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "双子岛 b4f·晚上",
+        "text": "双子岛·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1096,18 +1064,18 @@
   "evolution": [
     {
       "nameCn": "小山猪",
-      "alts": null,
-      "slug": "小山猪"
+      "slug": "小山猪",
+      "alts": null
     },
     {
       "nameCn": "长毛猪",
-      "alts": null,
-      "slug": "长毛猪"
+      "slug": "长毛猪",
+      "alts": null
     },
     {
       "nameCn": "象牙猪",
-      "alts": null,
-      "slug": "象牙猪"
+      "slug": "象牙猪",
+      "alts": null
     }
   ],
   "stats": {
@@ -1872,10 +1840,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

@@ -61,18 +61,18 @@
       "evolution": [
         {
           "nameCn": "莲叶童子",
-          "alts": null,
-          "slug": "莲叶童子"
+          "slug": "莲叶童子",
+          "alts": null
         },
         {
           "nameCn": "莲帽小童",
-          "alts": null,
-          "slug": "莲帽小童"
+          "slug": "莲帽小童",
+          "alts": null
         },
         {
           "nameCn": "乐天河童",
-          "alts": null,
-          "slug": "乐天河童"
+          "slug": "乐天河童",
+          "alts": null
         }
       ],
       "stats": {
@@ -1017,18 +1017,18 @@
   "evolution": [
     {
       "nameCn": "莲叶童子",
-      "alts": null,
-      "slug": "莲叶童子"
+      "slug": "莲叶童子",
+      "alts": null
     },
     {
       "nameCn": "莲帽小童",
-      "alts": null,
-      "slug": "莲帽小童"
+      "slug": "莲帽小童",
+      "alts": null
     },
     {
       "nameCn": "乐天河童",
-      "alts": null,
-      "slug": "乐天河童"
+      "slug": "乐天河童",
+      "alts": null
     }
   ],
   "stats": {

@@ -52,7 +52,7 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "月见山 1f·白天",
+            "text": "月见山·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -63,8 +63,8 @@
       "evolution": [
         {
           "nameCn": "投摔鬼",
-          "alts": null,
-          "slug": "投摔鬼"
+          "slug": "投摔鬼",
+          "alts": null
         }
       ],
       "stats": {
@@ -933,7 +933,7 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "月见山 1f·白天",
+        "text": "月见山·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -944,8 +944,8 @@
   "evolution": [
     {
       "nameCn": "投摔鬼",
-      "alts": null,
-      "slug": "投摔鬼"
+      "slug": "投摔鬼",
+      "alts": null
     }
   ],
   "stats": {

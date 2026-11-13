@@ -63,13 +63,13 @@
       "evolution": [
         {
           "nameCn": "大牙狸",
-          "alts": null,
-          "slug": "大牙狸"
+          "slug": "大牙狸",
+          "alts": null
         },
         {
           "nameCn": "大尾狸",
-          "alts": null,
-          "slug": "大尾狸"
+          "slug": "大尾狸",
+          "alts": null
         }
       ],
       "stats": {
@@ -907,13 +907,13 @@
   "evolution": [
     {
       "nameCn": "大牙狸",
-      "alts": null,
-      "slug": "大牙狸"
+      "slug": "大牙狸",
+      "alts": null
     },
     {
       "nameCn": "大尾狸",
-      "alts": null,
-      "slug": "大尾狸"
+      "slug": "大尾狸",
+      "alts": null
     }
   ],
   "stats": {

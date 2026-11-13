@@ -42,7 +42,7 @@
         "static": [
           {
             "text": "关都游荡",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -51,8 +51,8 @@
       "evolution": [
         {
           "nameCn": "土地云",
-          "alts": null,
-          "slug": "土地云"
+          "slug": "土地云",
+          "alts": null
         }
       ],
       "stats": {
@@ -975,8 +975,8 @@
       "evolution": [
         {
           "nameCn": "Landorus-Therian",
-          "alts": null,
           "slug": "土地云",
+          "alts": null,
           "forme": "灵兽"
         }
       ],
@@ -1898,7 +1898,7 @@
     "static": [
       {
         "text": "关都游荡",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -1907,8 +1907,8 @@
   "evolution": [
     {
       "nameCn": "土地云",
-      "alts": null,
-      "slug": "土地云"
+      "slug": "土地云",
+      "alts": null
     }
   ],
   "stats": {

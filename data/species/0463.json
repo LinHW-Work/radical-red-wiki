@@ -65,13 +65,13 @@
       "evolution": [
         {
           "nameCn": "大舌头",
-          "alts": null,
-          "slug": "大舌头"
+          "slug": "大舌头",
+          "alts": null
         },
         {
           "nameCn": "大舌舔",
-          "alts": null,
-          "slug": "大舌舔"
+          "slug": "大舌舔",
+          "alts": null
         }
       ],
       "stats": {
@@ -1339,13 +1339,13 @@
   "evolution": [
     {
       "nameCn": "大舌头",
-      "alts": null,
-      "slug": "大舌头"
+      "slug": "大舌头",
+      "alts": null
     },
     {
       "nameCn": "大舌舔",
-      "alts": null,
-      "slug": "大舌舔"
+      "slug": "大舌舔",
+      "alts": null
     }
   ],
   "stats": {

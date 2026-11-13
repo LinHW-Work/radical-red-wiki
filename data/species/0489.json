@@ -36,8 +36,8 @@
       "evolution": [
         {
           "nameCn": "霏欧纳",
-          "alts": null,
-          "slug": "霏欧纳"
+          "slug": "霏欧纳",
+          "alts": null
         }
       ],
       "stats": {
@@ -677,8 +677,8 @@
   "evolution": [
     {
       "nameCn": "霏欧纳",
-      "alts": null,
-      "slug": "霏欧纳"
+      "slug": "霏欧纳",
+      "alts": null
     }
   ],
   "stats": {

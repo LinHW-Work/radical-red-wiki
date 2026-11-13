@@ -19,8 +19,8 @@
       "abilities": [
         {
           "slot": "0",
-          "nameCn": "沙暴",
-          "href": "https://wiki.52poke.com/wiki/%E6%B2%99%E6%9A%B4",
+          "nameCn": "扬沙",
+          "href": "https://wiki.52poke.com/wiki/%E6%89%AC%E6%B2%99",
           "original": false,
           "restrictedNameCn": "沙之力",
           "restrictedHref": "https://wiki.52poke.com/wiki/%E6%B2%99%E4%B9%8B%E5%8A%9B",
@@ -39,11 +39,11 @@
       "obtains": {
         "map": [
           {
-            "text": "西区·白天",
+            "text": "狩猎地带·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "西区·夜晚",
+            "text": "狩猎地带·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "沙河马",
-          "alts": null,
-          "slug": "沙河马"
+          "slug": "沙河马",
+          "alts": null
         },
         {
           "nameCn": "河马兽",
-          "alts": null,
-          "slug": "河马兽"
+          "slug": "河马兽",
+          "alts": null
         }
       ],
       "stats": {
@@ -910,8 +910,8 @@
   "abilities": [
     {
       "slot": "0",
-      "nameCn": "沙暴",
-      "href": "https://wiki.52poke.com/wiki/%E6%B2%99%E6%9A%B4",
+      "nameCn": "扬沙",
+      "href": "https://wiki.52poke.com/wiki/%E6%89%AC%E6%B2%99",
       "original": false,
       "restrictedNameCn": "沙之力",
       "restrictedHref": "https://wiki.52poke.com/wiki/%E6%B2%99%E4%B9%8B%E5%8A%9B",
@@ -930,11 +930,11 @@
   "obtains": {
     "map": [
       {
-        "text": "西区·白天",
+        "text": "狩猎地带·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "西区·夜晚",
+        "text": "狩猎地带·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -951,13 +951,13 @@
   "evolution": [
     {
       "nameCn": "沙河马",
-      "alts": null,
-      "slug": "沙河马"
+      "slug": "沙河马",
+      "alts": null
     },
     {
       "nameCn": "河马兽",
-      "alts": null,
-      "slug": "河马兽"
+      "slug": "河马兽",
+      "alts": null
     }
   ],
   "stats": {

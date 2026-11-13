@@ -31,9 +31,9 @@
           "nameCn": "唱反调",
           "href": "https://wiki.52poke.com/wiki/%E5%94%B1%E5%8F%8D%E8%B0%83",
           "original": false,
-          "restrictedNameCn": "badcompany",
-          "restrictedHref": "/原创特性/badcompany",
-          "restrictedOriginal": true
+          "restrictedNameCn": "乌龙搭档",
+          "restrictedHref": "/特性/原创#乌龙搭档",
+          "restrictedOriginal": false
         }
       ],
       "obtains": {
@@ -50,13 +50,13 @@
       "evolution": [
         {
           "nameCn": "伪螳草",
-          "alts": null,
-          "slug": "伪螳草"
+          "slug": "伪螳草",
+          "alts": null
         },
         {
           "nameCn": "兰螳花",
-          "alts": null,
-          "slug": "兰螳花"
+          "slug": "兰螳花",
+          "alts": null
         }
       ],
       "stats": {
@@ -728,9 +728,9 @@
       "nameCn": "唱反调",
       "href": "https://wiki.52poke.com/wiki/%E5%94%B1%E5%8F%8D%E8%B0%83",
       "original": false,
-      "restrictedNameCn": "badcompany",
-      "restrictedHref": "/原创特性/badcompany",
-      "restrictedOriginal": true
+      "restrictedNameCn": "乌龙搭档",
+      "restrictedHref": "/特性/原创#乌龙搭档",
+      "restrictedOriginal": false
     }
   ],
   "obtains": {
@@ -747,13 +747,13 @@
   "evolution": [
     {
       "nameCn": "伪螳草",
-      "alts": null,
-      "slug": "伪螳草"
+      "slug": "伪螳草",
+      "alts": null
     },
     {
       "nameCn": "兰螳花",
-      "alts": null,
-      "slug": "兰螳花"
+      "slug": "兰螳花",
+      "alts": null
     }
   ],
   "stats": {

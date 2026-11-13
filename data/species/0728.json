@@ -50,18 +50,18 @@
       "evolution": [
         {
           "nameCn": "球球海狮",
-          "alts": null,
-          "slug": "球球海狮"
+          "slug": "球球海狮",
+          "alts": null
         },
         {
           "nameCn": "花漾海狮",
-          "alts": null,
-          "slug": "花漾海狮"
+          "slug": "花漾海狮",
+          "alts": null
         },
         {
           "nameCn": "西狮海壬",
-          "alts": null,
-          "slug": "西狮海壬"
+          "slug": "西狮海壬",
+          "alts": null
         }
       ],
       "stats": {
@@ -111,10 +111,10 @@
         },
         {
           "level": 8,
-          "nameCn": "Disarm Cry",
+          "nameCn": "魅惑之声",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Disarm Cry",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%AD%85%E6%83%91%E4%B9%8B%E5%A3%B0",
           "type": null,
           "category": null,
           "power": null,
@@ -839,7 +839,7 @@
     {
       "slot": "H",
       "nameCn": "湿润之声",
-      "href": "https://wiki.52poke.com/wiki/%E6%B9%BF%E6%B6%A6%E4%B9%8B%E5%A3%B0",
+      "href": "/特性/修改#湿润之声",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -860,18 +860,18 @@
   "evolution": [
     {
       "nameCn": "球球海狮",
-      "alts": null,
-      "slug": "球球海狮"
+      "slug": "球球海狮",
+      "alts": null
     },
     {
       "nameCn": "花漾海狮",
-      "alts": null,
-      "slug": "花漾海狮"
+      "slug": "花漾海狮",
+      "alts": null
     },
     {
       "nameCn": "西狮海壬",
-      "alts": null,
-      "slug": "西狮海壬"
+      "slug": "西狮海壬",
+      "alts": null
     }
   ],
   "stats": {
@@ -921,10 +921,10 @@
     },
     {
       "level": 8,
-      "nameCn": "Disarm Cry",
+      "nameCn": "魅惑之声",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Disarm Cry",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%AD%85%E6%83%91%E4%B9%8B%E5%A3%B0",
       "type": null,
       "category": null,
       "power": null,

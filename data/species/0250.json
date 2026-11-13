@@ -42,7 +42,7 @@
         "static": [
           {
             "text": "神秘礼物：RXIIqgh29",
-            "href": "/分布/定点获取"
+            "href": "/分布/神秘礼物"
           }
         ],
         "npc": [],
@@ -51,8 +51,8 @@
       "evolution": [
         {
           "nameCn": "凤王",
-          "alts": null,
-          "slug": "凤王"
+          "slug": "凤王",
+          "alts": null
         }
       ],
       "stats": {
@@ -1103,7 +1103,7 @@
     "static": [
       {
         "text": "神秘礼物：RXIIqgh29",
-        "href": "/分布/定点获取"
+        "href": "/分布/神秘礼物"
       }
     ],
     "npc": [],
@@ -1112,8 +1112,8 @@
   "evolution": [
     {
       "nameCn": "凤王",
-      "alts": null,
-      "slug": "凤王"
+      "slug": "凤王",
+      "alts": null
     }
   ],
   "stats": {

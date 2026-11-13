@@ -52,12 +52,12 @@
         "evolution": [
           {
             "group": "evolution",
-            "text": "多边兽２型·使用暗之石",
+            "text": "多边兽2型·使用暗之石",
             "href": null
           },
           {
             "group": "evolution",
-            "text": "多边兽２型·携带可疑补丁交换",
+            "text": "多边兽2型·携带可疑补丁交换",
             "href": null
           }
         ]
@@ -65,18 +65,18 @@
       "evolution": [
         {
           "nameCn": "多边兽",
-          "alts": null,
-          "slug": "多边兽"
+          "slug": "多边兽",
+          "alts": null
         },
         {
-          "nameCn": "多边兽２型",
-          "alts": null,
-          "slug": "多边兽２型"
+          "nameCn": "多边兽2型",
+          "slug": "多边兽2型",
+          "alts": null
         },
         {
-          "nameCn": "多边兽Ｚ",
-          "alts": null,
-          "slug": "多边兽Ｚ"
+          "nameCn": "多边兽乙型",
+          "slug": "多边兽乙型",
+          "alts": null
         }
       ],
       "stats": {
@@ -953,12 +953,12 @@
     "evolution": [
       {
         "group": "evolution",
-        "text": "多边兽２型·使用暗之石",
+        "text": "多边兽2型·使用暗之石",
         "href": null
       },
       {
         "group": "evolution",
-        "text": "多边兽２型·携带可疑补丁交换",
+        "text": "多边兽2型·携带可疑补丁交换",
         "href": null
       }
     ]
@@ -966,18 +966,18 @@
   "evolution": [
     {
       "nameCn": "多边兽",
-      "alts": null,
-      "slug": "多边兽"
+      "slug": "多边兽",
+      "alts": null
     },
     {
-      "nameCn": "多边兽２型",
-      "alts": null,
-      "slug": "多边兽２型"
+      "nameCn": "多边兽2型",
+      "slug": "多边兽2型",
+      "alts": null
     },
     {
-      "nameCn": "多边兽Ｚ",
-      "alts": null,
-      "slug": "多边兽Ｚ"
+      "nameCn": "多边兽乙型",
+      "slug": "多边兽乙型",
+      "alts": null
     }
   ],
   "stats": {

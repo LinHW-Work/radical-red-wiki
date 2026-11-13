@@ -20,8 +20,8 @@
       "abilities": [
         {
           "slot": "0",
-          "nameCn": "透明特性",
-          "href": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+          "nameCn": "恒净之躯",
+          "href": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
           "original": false,
           "restrictedNameCn": null,
           "restrictedHref": null,
@@ -49,11 +49,7 @@
       "obtains": {
         "map": [
           {
-            "text": "真新镇·冲浪",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "红莲镇·冲浪",
+            "text": "浅红市·冲浪",
             "href": "/分布/地图捕捉"
           },
           {
@@ -65,15 +61,23 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "21a号道路·冲浪",
+            "text": "21号道路（靠近真新镇）·冲浪",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "21b号道路·冲浪",
+            "text": "21号道路（靠近红莲岛）·冲浪",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "圣特安努号·冲浪",
+            "text": "点之穴·冲浪",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "Dynamic·冲浪",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "圣安妮号·冲浪",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -90,13 +94,13 @@
       "evolution": [
         {
           "nameCn": "玛瑙水母",
-          "alts": null,
-          "slug": "玛瑙水母"
+          "slug": "玛瑙水母",
+          "alts": null
         },
         {
           "nameCn": "毒刺水母",
-          "alts": null,
-          "slug": "毒刺水母"
+          "slug": "毒刺水母",
+          "alts": null
         }
       ],
       "stats": {
@@ -989,8 +993,8 @@
   "abilities": [
     {
       "slot": "0",
-      "nameCn": "透明特性",
-      "href": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+      "nameCn": "恒净之躯",
+      "href": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1018,11 +1022,7 @@
   "obtains": {
     "map": [
       {
-        "text": "真新镇·冲浪",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "红莲镇·冲浪",
+        "text": "浅红市·冲浪",
         "href": "/分布/地图捕捉"
       },
       {
@@ -1034,15 +1034,23 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "21a号道路·冲浪",
+        "text": "21号道路（靠近真新镇）·冲浪",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "21b号道路·冲浪",
+        "text": "21号道路（靠近红莲岛）·冲浪",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "圣特安努号·冲浪",
+        "text": "点之穴·冲浪",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "Dynamic·冲浪",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "圣安妮号·冲浪",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1059,13 +1067,13 @@
   "evolution": [
     {
       "nameCn": "玛瑙水母",
-      "alts": null,
-      "slug": "玛瑙水母"
+      "slug": "玛瑙水母",
+      "alts": null
     },
     {
       "nameCn": "毒刺水母",
-      "alts": null,
-      "slug": "毒刺水母"
+      "slug": "毒刺水母",
+      "alts": null
     }
   ],
   "stats": {

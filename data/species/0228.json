@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "戴鲁比",
-          "alts": null,
-          "slug": "戴鲁比"
+          "slug": "戴鲁比",
+          "alts": null
         },
         {
           "nameCn": "黑鲁加",
-          "alts": null,
-          "slug": "黑鲁加"
+          "slug": "黑鲁加",
+          "alts": null
         }
       ],
       "stats": {
@@ -92,10 +92,10 @@
         },
         {
           "level": 1,
-          "nameCn": "烧尽",
+          "nameCn": "烧净",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
           "type": "火",
           "category": "特殊",
           "power": 60,
@@ -1070,13 +1070,13 @@
   "evolution": [
     {
       "nameCn": "戴鲁比",
-      "alts": null,
-      "slug": "戴鲁比"
+      "slug": "戴鲁比",
+      "alts": null
     },
     {
       "nameCn": "黑鲁加",
-      "alts": null,
-      "slug": "黑鲁加"
+      "slug": "黑鲁加",
+      "alts": null
     }
   ],
   "stats": {
@@ -1102,10 +1102,10 @@
     },
     {
       "level": 1,
-      "nameCn": "烧尽",
+      "nameCn": "烧净",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
       "type": "火",
       "category": "特殊",
       "power": 60,

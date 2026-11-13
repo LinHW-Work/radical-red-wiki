@@ -33,7 +33,7 @@
         "static": [
           {
             "text": "13号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -42,8 +42,8 @@
       "evolution": [
         {
           "nameCn": "比克提尼",
-          "alts": null,
-          "slug": "比克提尼"
+          "slug": "比克提尼",
+          "alts": null
         }
       ],
       "stats": {
@@ -141,10 +141,10 @@
         },
         {
           "level": 1,
-          "nameCn": "烧尽",
+          "nameCn": "烧净",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
           "type": "火",
           "category": "特殊",
           "power": 60,
@@ -261,10 +261,10 @@
         },
         {
           "level": 73,
-          "nameCn": "V热焰",
+          "nameCn": "Ｖ热焰",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/V%E7%83%AD%E7%84%B0",
+          "href": "https://wiki.52poke.com/wiki/%EF%BC%B6%E7%83%AD%E7%84%B0",
           "type": "火",
           "category": "物理",
           "power": 180,
@@ -285,10 +285,10 @@
         },
         {
           "level": 89,
-          "nameCn": "力量储存",
+          "nameCn": "辅助力量",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+          "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
           "type": "超能力",
           "category": "特殊",
           "power": 20,
@@ -1058,10 +1058,10 @@
         },
         {
           "level": null,
-          "nameCn": "力量储存",
+          "nameCn": "辅助力量",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+          "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
           "type": "超能力",
           "category": "特殊",
           "power": 20,
@@ -1151,7 +1151,7 @@
     "static": [
       {
         "text": "13号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -1160,8 +1160,8 @@
   "evolution": [
     {
       "nameCn": "比克提尼",
-      "alts": null,
-      "slug": "比克提尼"
+      "slug": "比克提尼",
+      "alts": null
     }
   ],
   "stats": {
@@ -1259,10 +1259,10 @@
     },
     {
       "level": 1,
-      "nameCn": "烧尽",
+      "nameCn": "烧净",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
       "type": "火",
       "category": "特殊",
       "power": 60,
@@ -1379,10 +1379,10 @@
     },
     {
       "level": 73,
-      "nameCn": "V热焰",
+      "nameCn": "Ｖ热焰",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/V%E7%83%AD%E7%84%B0",
+      "href": "https://wiki.52poke.com/wiki/%EF%BC%B6%E7%83%AD%E7%84%B0",
       "type": "火",
       "category": "物理",
       "power": 180,
@@ -1403,10 +1403,10 @@
     },
     {
       "level": 89,
-      "nameCn": "力量储存",
+      "nameCn": "辅助力量",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+      "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
       "type": "超能力",
       "category": "特殊",
       "power": 20,
@@ -2176,10 +2176,10 @@
     },
     {
       "level": null,
-      "nameCn": "力量储存",
+      "nameCn": "辅助力量",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+      "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
       "type": "超能力",
       "category": "特殊",
       "power": 20,

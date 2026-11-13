@@ -49,7 +49,7 @@
       "obtains": {
         "map": [
           {
-            "text": "枯叶市·冲浪",
+            "text": "紫苑镇·冲浪",
             "href": "/分布/地图捕捉"
           },
           {
@@ -64,7 +64,7 @@
         "static": [
           {
             "text": "14号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -79,13 +79,13 @@
       "evolution": [
         {
           "nameCn": "长翅鸥",
-          "alts": null,
-          "slug": "长翅鸥"
+          "slug": "长翅鸥",
+          "alts": null
         },
         {
           "nameCn": "大嘴鸥",
-          "alts": null,
-          "slug": "大嘴鸥"
+          "slug": "大嘴鸥",
+          "alts": null
         }
       ],
       "stats": {
@@ -951,18 +951,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "雪景",
           "restricted": true,
           "original": false,
@@ -1072,7 +1060,7 @@
   "obtains": {
     "map": [
       {
-        "text": "枯叶市·冲浪",
+        "text": "紫苑镇·冲浪",
         "href": "/分布/地图捕捉"
       },
       {
@@ -1087,7 +1075,7 @@
     "static": [
       {
         "text": "14号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -1102,13 +1090,13 @@
   "evolution": [
     {
       "nameCn": "长翅鸥",
-      "alts": null,
-      "slug": "长翅鸥"
+      "slug": "长翅鸥",
+      "alts": null
     },
     {
       "nameCn": "大嘴鸥",
-      "alts": null,
-      "slug": "大嘴鸥"
+      "slug": "大嘴鸥",
+      "alts": null
     }
   ],
   "stats": {
@@ -1971,18 +1959,6 @@
       "power": 140,
       "accuracy": 90,
       "pp": 5
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

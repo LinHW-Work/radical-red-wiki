@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "催眠貘",
-          "alts": null,
-          "slug": "催眠貘"
+          "slug": "催眠貘",
+          "alts": null
         },
         {
           "nameCn": "引梦貘人",
-          "alts": null,
-          "slug": "引梦貘人"
+          "slug": "引梦貘人",
+          "alts": null
         }
       ],
       "stats": {
@@ -346,8 +346,8 @@
           "level": 58,
           "nameCn": "暗黑洞",
           "restricted": false,
-          "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%9A%97%E9%BB%91%E6%B4%9E",
+          "original": true,
+          "href": "/原创招式#暗黑洞",
           "type": "恶",
           "category": "变化",
           "power": null,
@@ -1309,13 +1309,13 @@
   "evolution": [
     {
       "nameCn": "催眠貘",
-      "alts": null,
-      "slug": "催眠貘"
+      "slug": "催眠貘",
+      "alts": null
     },
     {
       "nameCn": "引梦貘人",
-      "alts": null,
-      "slug": "引梦貘人"
+      "slug": "引梦貘人",
+      "alts": null
     }
   ],
   "stats": {
@@ -1595,8 +1595,8 @@
       "level": 58,
       "nameCn": "暗黑洞",
       "restricted": false,
-      "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%9A%97%E9%BB%91%E6%B4%9E",
+      "original": true,
+      "href": "/原创招式#暗黑洞",
       "type": "恶",
       "category": "变化",
       "power": null,

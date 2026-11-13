@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "向尾喵",
-          "alts": null,
-          "slug": "向尾喵"
+          "slug": "向尾喵",
+          "alts": null
         },
         {
           "nameCn": "优雅猫",
-          "alts": null,
-          "slug": "优雅猫"
+          "slug": "优雅猫",
+          "alts": null
         }
       ],
       "stats": {
@@ -989,13 +989,13 @@
   "evolution": [
     {
       "nameCn": "向尾喵",
-      "alts": null,
-      "slug": "向尾喵"
+      "slug": "向尾喵",
+      "alts": null
     },
     {
       "nameCn": "优雅猫",
-      "alts": null,
-      "slug": "优雅猫"
+      "slug": "优雅猫",
+      "alts": null
     }
   ],
   "stats": {

@@ -49,7 +49,7 @@
       "obtains": {
         "map": [
           {
-            "text": "地鼠洞穴 b1f·白天",
+            "text": "Diglett's Cave·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "泥偶小人",
-          "alts": null,
-          "slug": "泥偶小人"
+          "slug": "泥偶小人",
+          "alts": null
         },
         {
           "nameCn": "泥偶巨人",
-          "alts": null,
-          "slug": "泥偶巨人"
+          "slug": "泥偶巨人",
+          "alts": null
         }
       ],
       "stats": {
@@ -994,7 +994,7 @@
     {
       "slot": "0",
       "nameCn": "铁拳",
-      "href": "https://wiki.52poke.com/wiki/%E9%93%81%E6%8B%B3",
+      "href": "/特性/修改#铁拳",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1022,7 +1022,7 @@
   "obtains": {
     "map": [
       {
-        "text": "地鼠洞穴 b1f·白天",
+        "text": "Diglett's Cave·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1033,13 +1033,13 @@
   "evolution": [
     {
       "nameCn": "泥偶小人",
-      "alts": null,
-      "slug": "泥偶小人"
+      "slug": "泥偶小人",
+      "alts": null
     },
     {
       "nameCn": "泥偶巨人",
-      "alts": null,
-      "slug": "泥偶巨人"
+      "slug": "泥偶巨人",
+      "alts": null
     }
   ],
   "stats": {

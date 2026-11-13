@@ -54,13 +54,13 @@
       "evolution": [
         {
           "nameCn": "泳圈鼬",
-          "alts": null,
-          "slug": "泳圈鼬"
+          "slug": "泳圈鼬",
+          "alts": null
         },
         {
           "nameCn": "浮潜鼬",
-          "alts": null,
-          "slug": "浮潜鼬"
+          "slug": "浮潜鼬",
+          "alts": null
         }
       ],
       "stats": {
@@ -925,13 +925,13 @@
   "evolution": [
     {
       "nameCn": "泳圈鼬",
-      "alts": null,
-      "slug": "泳圈鼬"
+      "slug": "泳圈鼬",
+      "alts": null
     },
     {
       "nameCn": "浮潜鼬",
-      "alts": null,
-      "slug": "浮潜鼬"
+      "slug": "浮潜鼬",
+      "alts": null
     }
   ],
   "stats": {

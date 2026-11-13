@@ -31,22 +31,22 @@
       "obtains": {
         "map": [
           {
-            "text": "华蓝洞窟 2f·白天",
+            "text": "华蓝洞窟·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "华蓝洞窟 2f·晚上",
+            "text": "华蓝洞窟·晚上",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "北区·夜晚",
+            "text": "狩猎地带·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
         "static": [
           {
             "text": "华蓝洞窟 2f",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -55,8 +55,8 @@
       "evolution": [
         {
           "nameCn": "猛恶菇",
-          "alts": null,
-          "slug": "猛恶菇"
+          "slug": "猛恶菇",
+          "alts": null
         }
       ],
       "stats": {
@@ -579,10 +579,10 @@
       "tutorMoves": [
         {
           "level": null,
-          "nameCn": "Dark Hole",
+          "nameCn": "暗黑洞",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Dark Hole",
+          "href": "/原创招式#暗黑洞",
           "type": null,
           "category": null,
           "power": null,
@@ -790,22 +790,22 @@
   "obtains": {
     "map": [
       {
-        "text": "华蓝洞窟 2f·白天",
+        "text": "华蓝洞窟·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "华蓝洞窟 2f·晚上",
+        "text": "华蓝洞窟·晚上",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "北区·夜晚",
+        "text": "狩猎地带·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
     "static": [
       {
         "text": "华蓝洞窟 2f",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -814,8 +814,8 @@
   "evolution": [
     {
       "nameCn": "猛恶菇",
-      "alts": null,
-      "slug": "猛恶菇"
+      "slug": "猛恶菇",
+      "alts": null
     }
   ],
   "stats": {
@@ -1338,10 +1338,10 @@
   "tutorMoves": [
     {
       "level": null,
-      "nameCn": "Dark Hole",
+      "nameCn": "暗黑洞",
       "restricted": false,
       "original": true,
-      "href": "/原创招式/Dark Hole",
+      "href": "/原创招式#暗黑洞",
       "type": null,
       "category": null,
       "power": null,

@@ -39,11 +39,11 @@
       "obtains": {
         "map": [
           {
-            "text": "森林扩展区·白天",
+            "text": "常青森林·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "森林扩展区·晚上",
+            "text": "常青森林·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -54,13 +54,13 @@
       "evolution": [
         {
           "nameCn": "豆蟋蟀",
-          "alts": null,
-          "slug": "豆蟋蟀"
+          "slug": "豆蟋蟀",
+          "alts": null
         },
         {
           "nameCn": "烈腿蝗",
-          "alts": null,
-          "slug": "烈腿蝗"
+          "slug": "烈腿蝗",
+          "alts": null
         }
       ],
       "stats": {
@@ -544,7 +544,16 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "点之穴·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "点之穴·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": []
@@ -552,14 +561,14 @@
       "evolution": [
         {
           "nameCn": "豆蟋蟀-七之岛",
-          "alts": null,
           "slug": "豆蟋蟀",
+          "alts": null,
           "forme": "七之岛"
         },
         {
           "nameCn": "烈腿蝗-七之岛",
-          "alts": null,
           "slug": "烈腿蝗",
+          "alts": null,
           "forme": "七之岛"
         }
       ],
@@ -838,8 +847,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -1076,11 +1085,11 @@
   "obtains": {
     "map": [
       {
-        "text": "森林扩展区·白天",
+        "text": "常青森林·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "森林扩展区·晚上",
+        "text": "常青森林·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1091,13 +1100,13 @@
   "evolution": [
     {
       "nameCn": "豆蟋蟀",
-      "alts": null,
-      "slug": "豆蟋蟀"
+      "slug": "豆蟋蟀",
+      "alts": null
     },
     {
       "nameCn": "烈腿蝗",
-      "alts": null,
-      "slug": "烈腿蝗"
+      "slug": "烈腿蝗",
+      "alts": null
     }
   ],
   "stats": {

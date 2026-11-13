@@ -66,18 +66,18 @@
       "evolution": [
         {
           "nameCn": "含羞苞",
-          "alts": null,
-          "slug": "含羞苞"
+          "slug": "含羞苞",
+          "alts": null
         },
         {
           "nameCn": "毒蔷薇",
-          "alts": null,
-          "slug": "毒蔷薇"
+          "slug": "毒蔷薇",
+          "alts": null
         },
         {
           "nameCn": "罗丝雷朵",
-          "alts": null,
-          "slug": "罗丝雷朵"
+          "slug": "罗丝雷朵",
+          "alts": null
         }
       ],
       "stats": {
@@ -1024,18 +1024,18 @@
   "evolution": [
     {
       "nameCn": "含羞苞",
-      "alts": null,
-      "slug": "含羞苞"
+      "slug": "含羞苞",
+      "alts": null
     },
     {
       "nameCn": "毒蔷薇",
-      "alts": null,
-      "slug": "毒蔷薇"
+      "slug": "毒蔷薇",
+      "alts": null
     },
     {
       "nameCn": "罗丝雷朵",
-      "alts": null,
-      "slug": "罗丝雷朵"
+      "slug": "罗丝雷朵",
+      "alts": null
     }
   ],
   "stats": {

@@ -61,18 +61,18 @@
       "evolution": [
         {
           "nameCn": "虫宝包",
-          "alts": null,
-          "slug": "虫宝包"
+          "slug": "虫宝包",
+          "alts": null
         },
         {
           "nameCn": "宝包茧",
-          "alts": null,
-          "slug": "宝包茧"
+          "slug": "宝包茧",
+          "alts": null
         },
         {
           "nameCn": "保姆虫",
-          "alts": null,
-          "slug": "保姆虫"
+          "slug": "保姆虫",
+          "alts": null
         }
       ],
       "stats": {
@@ -752,10 +752,10 @@
         },
         {
           "level": null,
-          "nameCn": "空气斩",
+          "nameCn": "空气之刃",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
           "type": "飞行",
           "category": "特殊",
           "power": 75,
@@ -910,10 +910,10 @@
         },
         {
           "level": null,
-          "nameCn": "地狱突刺",
+          "nameCn": "深渊突刺",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+          "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
           "type": "恶",
           "category": "物理",
           "power": 80,
@@ -1042,18 +1042,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "虫鸣",
           "restricted": false,
           "original": false,
@@ -1139,18 +1127,18 @@
   "evolution": [
     {
       "nameCn": "虫宝包",
-      "alts": null,
-      "slug": "虫宝包"
+      "slug": "虫宝包",
+      "alts": null
     },
     {
       "nameCn": "宝包茧",
-      "alts": null,
-      "slug": "宝包茧"
+      "slug": "宝包茧",
+      "alts": null
     },
     {
       "nameCn": "保姆虫",
-      "alts": null,
-      "slug": "保姆虫"
+      "slug": "保姆虫",
+      "alts": null
     }
   ],
   "stats": {
@@ -1830,10 +1818,10 @@
     },
     {
       "level": null,
-      "nameCn": "空气斩",
+      "nameCn": "空气之刃",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
       "type": "飞行",
       "category": "特殊",
       "power": 75,
@@ -1988,10 +1976,10 @@
     },
     {
       "level": null,
-      "nameCn": "地狱突刺",
+      "nameCn": "深渊突刺",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+      "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
       "type": "恶",
       "category": "物理",
       "power": 80,
@@ -2117,18 +2105,6 @@
       "power": null,
       "accuracy": null,
       "pp": 15
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

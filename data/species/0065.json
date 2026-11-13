@@ -48,7 +48,7 @@
       "obtains": {
         "map": [
           {
-            "text": "华蓝洞窟 2f·白天",
+            "text": "华蓝洞窟·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -57,7 +57,7 @@
         "evolution": [
           {
             "group": "evolution",
-            "text": "勇基拉·使用Link Cable",
+            "text": "勇基拉·使用连接电缆",
             "href": null
           }
         ]
@@ -65,18 +65,18 @@
       "evolution": [
         {
           "nameCn": "凯西",
-          "alts": null,
-          "slug": "凯西"
+          "slug": "凯西",
+          "alts": null
         },
         {
           "nameCn": "勇基拉",
-          "alts": null,
-          "slug": "勇基拉"
+          "slug": "勇基拉",
+          "alts": null
         },
         {
           "nameCn": "胡地",
-          "alts": null,
-          "slug": "胡地"
+          "slug": "胡地",
+          "alts": null
         }
       ],
       "stats": {
@@ -1064,10 +1064,10 @@
         },
         {
           "level": null,
-          "nameCn": "力量储存",
+          "nameCn": "辅助力量",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+          "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
           "type": "超能力",
           "category": "特殊",
           "power": 20,
@@ -1149,7 +1149,7 @@
       "obtains": {
         "map": [
           {
-            "text": "华蓝洞窟 2f·白天",
+            "text": "华蓝洞窟·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -1158,7 +1158,7 @@
         "evolution": [
           {
             "group": "evolution",
-            "text": "勇基拉·使用Link Cable",
+            "text": "勇基拉·使用连接电缆",
             "href": null
           }
         ]
@@ -1166,18 +1166,18 @@
       "evolution": [
         {
           "nameCn": "凯西",
-          "alts": null,
-          "slug": "凯西"
+          "slug": "凯西",
+          "alts": null
         },
         {
           "nameCn": "勇基拉",
-          "alts": null,
-          "slug": "勇基拉"
+          "slug": "勇基拉",
+          "alts": null
         },
         {
           "nameCn": "胡地",
-          "alts": null,
-          "slug": "胡地"
+          "slug": "胡地",
+          "alts": null
         }
       ],
       "stats": {
@@ -1398,7 +1398,7 @@
   "obtains": {
     "map": [
       {
-        "text": "华蓝洞窟 2f·白天",
+        "text": "华蓝洞窟·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1407,7 +1407,7 @@
     "evolution": [
       {
         "group": "evolution",
-        "text": "勇基拉·使用Link Cable",
+        "text": "勇基拉·使用连接电缆",
         "href": null
       }
     ]
@@ -1415,18 +1415,18 @@
   "evolution": [
     {
       "nameCn": "凯西",
-      "alts": null,
-      "slug": "凯西"
+      "slug": "凯西",
+      "alts": null
     },
     {
       "nameCn": "勇基拉",
-      "alts": null,
-      "slug": "勇基拉"
+      "slug": "勇基拉",
+      "alts": null
     },
     {
       "nameCn": "胡地",
-      "alts": null,
-      "slug": "胡地"
+      "slug": "胡地",
+      "alts": null
     }
   ],
   "stats": {
@@ -2414,10 +2414,10 @@
     },
     {
       "level": null,
-      "nameCn": "力量储存",
+      "nameCn": "辅助力量",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+      "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
       "type": "超能力",
       "category": "特殊",
       "power": 20,

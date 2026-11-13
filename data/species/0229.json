@@ -49,7 +49,11 @@
       "obtains": {
         "map": [
           {
-            "text": "宝可梦屋 2f·白天",
+            "text": "宝可梦屋·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "1,97·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -66,13 +70,13 @@
       "evolution": [
         {
           "nameCn": "戴鲁比",
-          "alts": null,
-          "slug": "戴鲁比"
+          "slug": "戴鲁比",
+          "alts": null
         },
         {
           "nameCn": "黑鲁加",
-          "alts": null,
-          "slug": "黑鲁加"
+          "slug": "黑鲁加",
+          "alts": null
         }
       ],
       "stats": {
@@ -146,10 +150,10 @@
         },
         {
           "level": 1,
-          "nameCn": "烧尽",
+          "nameCn": "烧净",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
           "type": "火",
           "category": "特殊",
           "power": 60,
@@ -909,10 +913,10 @@
         },
         {
           "level": null,
-          "nameCn": "Dark Hole",
+          "nameCn": "暗黑洞",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Dark Hole",
+          "href": "/原创招式#暗黑洞",
           "type": null,
           "category": null,
           "power": null,
@@ -993,10 +997,10 @@
         },
         {
           "level": null,
-          "nameCn": "地狱突刺",
+          "nameCn": "深渊突刺",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+          "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
           "type": "恶",
           "category": "物理",
           "power": 80,
@@ -1199,7 +1203,11 @@
       "obtains": {
         "map": [
           {
-            "text": "宝可梦屋 2f·白天",
+            "text": "宝可梦屋·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "1,97·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -1216,13 +1224,13 @@
       "evolution": [
         {
           "nameCn": "戴鲁比",
-          "alts": null,
-          "slug": "戴鲁比"
+          "slug": "戴鲁比",
+          "alts": null
         },
         {
           "nameCn": "黑鲁加",
-          "alts": null,
-          "slug": "黑鲁加"
+          "slug": "黑鲁加",
+          "alts": null
         }
       ],
       "stats": {
@@ -1296,10 +1304,10 @@
         },
         {
           "level": 1,
-          "nameCn": "烧尽",
+          "nameCn": "烧净",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
           "type": "火",
           "category": "特殊",
           "power": 60,
@@ -1564,7 +1572,11 @@
   "obtains": {
     "map": [
       {
-        "text": "宝可梦屋 2f·白天",
+        "text": "宝可梦屋·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "1,97·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1581,13 +1593,13 @@
   "evolution": [
     {
       "nameCn": "戴鲁比",
-      "alts": null,
-      "slug": "戴鲁比"
+      "slug": "戴鲁比",
+      "alts": null
     },
     {
       "nameCn": "黑鲁加",
-      "alts": null,
-      "slug": "黑鲁加"
+      "slug": "黑鲁加",
+      "alts": null
     }
   ],
   "stats": {
@@ -1661,10 +1673,10 @@
     },
     {
       "level": 1,
-      "nameCn": "烧尽",
+      "nameCn": "烧净",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
       "type": "火",
       "category": "特殊",
       "power": 60,
@@ -2424,10 +2436,10 @@
     },
     {
       "level": null,
-      "nameCn": "Dark Hole",
+      "nameCn": "暗黑洞",
       "restricted": false,
       "original": true,
-      "href": "/原创招式/Dark Hole",
+      "href": "/原创招式#暗黑洞",
       "type": null,
       "category": null,
       "power": null,
@@ -2508,10 +2520,10 @@
     },
     {
       "level": null,
-      "nameCn": "地狱突刺",
+      "nameCn": "深渊突刺",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+      "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
       "type": "恶",
       "category": "物理",
       "power": 80,

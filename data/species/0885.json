@@ -20,8 +20,8 @@
       "abilities": [
         {
           "slot": "0",
-          "nameCn": "透明特性",
-          "href": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+          "nameCn": "恒净之躯",
+          "href": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
           "original": false,
           "restrictedNameCn": null,
           "restrictedHref": null,
@@ -60,18 +60,18 @@
       "evolution": [
         {
           "nameCn": "多龙梅西亚",
-          "alts": null,
-          "slug": "多龙梅西亚"
+          "slug": "多龙梅西亚",
+          "alts": null
         },
         {
           "nameCn": "多龙奇",
-          "alts": null,
-          "slug": "多龙奇"
+          "slug": "多龙奇",
+          "alts": null
         },
         {
           "nameCn": "多龙巴鲁托",
-          "alts": null,
-          "slug": "多龙巴鲁托"
+          "slug": "多龙巴鲁托",
+          "alts": null
         }
       ],
       "stats": {
@@ -396,8 +396,8 @@
   "abilities": [
     {
       "slot": "0",
-      "nameCn": "透明特性",
-      "href": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+      "nameCn": "恒净之躯",
+      "href": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -436,18 +436,18 @@
   "evolution": [
     {
       "nameCn": "多龙梅西亚",
-      "alts": null,
-      "slug": "多龙梅西亚"
+      "slug": "多龙梅西亚",
+      "alts": null
     },
     {
       "nameCn": "多龙奇",
-      "alts": null,
-      "slug": "多龙奇"
+      "slug": "多龙奇",
+      "alts": null
     },
     {
       "nameCn": "多龙巴鲁托",
-      "alts": null,
-      "slug": "多龙巴鲁托"
+      "slug": "多龙巴鲁托",
+      "alts": null
     }
   ],
   "stats": {

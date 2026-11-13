@@ -43,13 +43,13 @@
       "evolution": [
         {
           "nameCn": "始祖小鸟",
-          "alts": null,
-          "slug": "始祖小鸟"
+          "slug": "始祖小鸟",
+          "alts": null
         },
         {
           "nameCn": "始祖大鸟",
-          "alts": null,
-          "slug": "始祖大鸟"
+          "slug": "始祖大鸟",
+          "alts": null
         }
       ],
       "stats": {
@@ -219,10 +219,10 @@
         },
         {
           "level": 45,
-          "nameCn": "U转攻击",
+          "nameCn": "急速折返",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+          "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
           "type": "虫",
           "category": "物理",
           "power": 70,
@@ -961,10 +961,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1150,7 +1150,7 @@
     {
       "slot": "0",
       "nameCn": "软弱",
-      "href": "https://wiki.52poke.com/wiki/%E8%BD%AF%E5%BC%B1",
+      "href": "/特性/修改#软弱",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1172,13 +1172,13 @@
   "evolution": [
     {
       "nameCn": "始祖小鸟",
-      "alts": null,
-      "slug": "始祖小鸟"
+      "slug": "始祖小鸟",
+      "alts": null
     },
     {
       "nameCn": "始祖大鸟",
-      "alts": null,
-      "slug": "始祖大鸟"
+      "slug": "始祖大鸟",
+      "alts": null
     }
   ],
   "stats": {
@@ -1348,10 +1348,10 @@
     },
     {
       "level": 45,
-      "nameCn": "U转攻击",
+      "nameCn": "急速折返",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+      "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
       "type": "虫",
       "category": "物理",
       "power": 70,
@@ -2090,10 +2090,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

@@ -39,15 +39,31 @@
       "obtains": {
         "map": [
           {
-            "text": "宝可梦屋 1f·晚上",
+            "text": "宝可梦屋·晚上",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "宝可梦屋 2f·晚上",
+            "text": "1,100·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "宝可梦屋 b1f·晚上",
+            "text": "1,100·晚上",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "1,98·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "1,98·晚上",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "1,99·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "1,99·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -64,13 +80,13 @@
       "evolution": [
         {
           "nameCn": "六尾",
-          "alts": null,
-          "slug": "六尾"
+          "slug": "六尾",
+          "alts": null
         },
         {
           "nameCn": "九尾",
-          "alts": null,
-          "slug": "九尾"
+          "slug": "九尾",
+          "alts": null
         }
       ],
       "stats": {
@@ -880,10 +896,10 @@
         },
         {
           "level": null,
-          "nameCn": "力量储存",
+          "nameCn": "辅助力量",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+          "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
           "type": "超能力",
           "category": "特殊",
           "power": 20,
@@ -987,27 +1003,11 @@
       "obtains": {
         "map": [
           {
-            "text": "双子岛 b2f·白天",
+            "text": "双子岛·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 b2f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b3f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b3f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b4f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b4f·晚上",
+            "text": "双子岛·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -1024,14 +1024,14 @@
       "evolution": [
         {
           "nameCn": "六尾-阿罗拉",
-          "alts": null,
           "slug": "六尾",
+          "alts": null,
           "forme": "阿罗拉"
         },
         {
           "nameCn": "九尾-阿罗拉",
-          "alts": null,
           "slug": "九尾",
+          "alts": null,
           "forme": "阿罗拉"
         }
       ],
@@ -1927,10 +1927,10 @@
         },
         {
           "level": null,
-          "nameCn": "力量储存",
+          "nameCn": "辅助力量",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+          "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
           "type": "超能力",
           "category": "特殊",
           "power": 20,
@@ -1990,15 +1990,31 @@
   "obtains": {
     "map": [
       {
-        "text": "宝可梦屋 1f·晚上",
+        "text": "宝可梦屋·晚上",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "宝可梦屋 2f·晚上",
+        "text": "1,100·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "宝可梦屋 b1f·晚上",
+        "text": "1,100·晚上",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "1,98·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "1,98·晚上",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "1,99·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "1,99·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -2015,13 +2031,13 @@
   "evolution": [
     {
       "nameCn": "六尾",
-      "alts": null,
-      "slug": "六尾"
+      "slug": "六尾",
+      "alts": null
     },
     {
       "nameCn": "九尾",
-      "alts": null,
-      "slug": "九尾"
+      "slug": "九尾",
+      "alts": null
     }
   ],
   "stats": {
@@ -2831,10 +2847,10 @@
     },
     {
       "level": null,
-      "nameCn": "力量储存",
+      "nameCn": "辅助力量",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+      "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
       "type": "超能力",
       "category": "特殊",
       "power": 20,

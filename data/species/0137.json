@@ -56,18 +56,18 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "中心区·白天",
+            "text": "狩猎地带·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "中心区·夜晚",
+            "text": "狩猎地带·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
         "static": [
           {
             "text": "16号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -76,18 +76,18 @@
       "evolution": [
         {
           "nameCn": "多边兽",
-          "alts": null,
-          "slug": "多边兽"
+          "slug": "多边兽",
+          "alts": null
         },
         {
-          "nameCn": "多边兽２型",
-          "alts": null,
-          "slug": "多边兽２型"
+          "nameCn": "多边兽2型",
+          "slug": "多边兽2型",
+          "alts": null
         },
         {
-          "nameCn": "多边兽Ｚ",
-          "alts": null,
-          "slug": "多边兽Ｚ"
+          "nameCn": "多边兽乙型",
+          "slug": "多边兽乙型",
+          "alts": null
         }
       ],
       "stats": {
@@ -883,18 +883,18 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "中心区·白天",
+        "text": "狩猎地带·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "中心区·夜晚",
+        "text": "狩猎地带·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
     "static": [
       {
         "text": "16号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -903,18 +903,18 @@
   "evolution": [
     {
       "nameCn": "多边兽",
-      "alts": null,
-      "slug": "多边兽"
+      "slug": "多边兽",
+      "alts": null
     },
     {
-      "nameCn": "多边兽２型",
-      "alts": null,
-      "slug": "多边兽２型"
+      "nameCn": "多边兽2型",
+      "slug": "多边兽2型",
+      "alts": null
     },
     {
-      "nameCn": "多边兽Ｚ",
-      "alts": null,
-      "slug": "多边兽Ｚ"
+      "nameCn": "多边兽乙型",
+      "slug": "多边兽乙型",
+      "alts": null
     }
   ],
   "stats": {

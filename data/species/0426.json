@@ -61,13 +61,13 @@
       "evolution": [
         {
           "nameCn": "飘飘球",
-          "alts": null,
-          "slug": "飘飘球"
+          "slug": "飘飘球",
+          "alts": null
         },
         {
           "nameCn": "随风球",
-          "alts": null,
-          "slug": "随风球"
+          "slug": "随风球",
+          "alts": null
         }
       ],
       "stats": {
@@ -225,10 +225,10 @@
         },
         {
           "level": 34,
-          "nameCn": "空气斩",
+          "nameCn": "空气之刃",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
           "type": "飞行",
           "category": "特殊",
           "power": 75,
@@ -1054,7 +1054,7 @@
     {
       "slot": "H",
       "nameCn": "受热激升",
-      "href": "https://wiki.52poke.com/wiki/%E5%8F%97%E7%83%AD%E6%BF%80%E5%8D%87",
+      "href": "/特性/修改#受热激升",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1076,13 +1076,13 @@
   "evolution": [
     {
       "nameCn": "飘飘球",
-      "alts": null,
-      "slug": "飘飘球"
+      "slug": "飘飘球",
+      "alts": null
     },
     {
       "nameCn": "随风球",
-      "alts": null,
-      "slug": "随风球"
+      "slug": "随风球",
+      "alts": null
     }
   ],
   "stats": {
@@ -1240,10 +1240,10 @@
     },
     {
       "level": 34,
-      "nameCn": "空气斩",
+      "nameCn": "空气之刃",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
       "type": "飞行",
       "category": "特殊",
       "power": 75,

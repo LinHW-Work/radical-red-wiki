@@ -48,11 +48,11 @@
       "obtains": {
         "map": [
           {
-            "text": "常青市·白天",
+            "text": "真新镇·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "常青市·晚上",
+            "text": "真新镇·晚上",
             "href": "/分布/地图捕捉"
           },
           {
@@ -71,13 +71,13 @@
       "evolution": [
         {
           "nameCn": "土狼犬",
-          "alts": null,
-          "slug": "土狼犬"
+          "slug": "土狼犬",
+          "alts": null
         },
         {
           "nameCn": "大狼犬",
-          "alts": null,
-          "slug": "大狼犬"
+          "slug": "大狼犬",
+          "alts": null
         }
       ],
       "stats": {
@@ -936,7 +936,7 @@
     {
       "slot": "1",
       "nameCn": "飞毛腿",
-      "href": "https://wiki.52poke.com/wiki/%E9%A3%9E%E6%AF%9B%E8%85%BF",
+      "href": "/特性/修改#飞毛腿",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -955,11 +955,11 @@
   "obtains": {
     "map": [
       {
-        "text": "常青市·白天",
+        "text": "真新镇·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "常青市·晚上",
+        "text": "真新镇·晚上",
         "href": "/分布/地图捕捉"
       },
       {
@@ -978,13 +978,13 @@
   "evolution": [
     {
       "nameCn": "土狼犬",
-      "alts": null,
-      "slug": "土狼犬"
+      "slug": "土狼犬",
+      "alts": null
     },
     {
       "nameCn": "大狼犬",
-      "alts": null,
-      "slug": "大狼犬"
+      "slug": "大狼犬",
+      "alts": null
     }
   ],
   "stats": {

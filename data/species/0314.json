@@ -59,8 +59,8 @@
       "evolution": [
         {
           "nameCn": "甜甜萤",
-          "alts": null,
-          "slug": "甜甜萤"
+          "slug": "甜甜萤",
+          "alts": null
         }
       ],
       "stats": {
@@ -1018,8 +1018,8 @@
   "evolution": [
     {
       "nameCn": "甜甜萤",
-      "alts": null,
-      "slug": "甜甜萤"
+      "slug": "甜甜萤",
+      "alts": null
     }
   ],
   "stats": {

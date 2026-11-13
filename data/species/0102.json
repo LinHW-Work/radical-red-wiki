@@ -40,11 +40,11 @@
       "obtains": {
         "map": [
           {
-            "text": "深灰市·白天",
+            "text": "常青市·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "深灰市·晚上",
+            "text": "常青市·晚上",
             "href": "/分布/地图捕捉"
           },
           {
@@ -63,11 +63,12 @@
       "evolution": [
         {
           "nameCn": "蛋蛋",
-          "alts": null,
-          "slug": "蛋蛋"
+          "slug": "蛋蛋",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "椰蛋树",
@@ -1016,11 +1017,11 @@
   "obtains": {
     "map": [
       {
-        "text": "深灰市·白天",
+        "text": "常青市·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "深灰市·晚上",
+        "text": "常青市·晚上",
         "href": "/分布/地图捕捉"
       },
       {
@@ -1039,11 +1040,12 @@
   "evolution": [
     {
       "nameCn": "蛋蛋",
-      "alts": null,
-      "slug": "蛋蛋"
+      "slug": "蛋蛋",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "椰蛋树",

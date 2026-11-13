@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "秃鹰丫头",
-          "alts": null,
-          "slug": "秃鹰丫头"
+          "slug": "秃鹰丫头",
+          "alts": null
         },
         {
           "nameCn": "秃鹰娜",
-          "alts": null,
-          "slug": "秃鹰娜"
+          "slug": "秃鹰娜",
+          "alts": null
         }
       ],
       "stats": {
@@ -941,13 +941,13 @@
   "evolution": [
     {
       "nameCn": "秃鹰丫头",
-      "alts": null,
-      "slug": "秃鹰丫头"
+      "slug": "秃鹰丫头",
+      "alts": null
     },
     {
       "nameCn": "秃鹰娜",
-      "alts": null,
-      "slug": "秃鹰娜"
+      "slug": "秃鹰娜",
+      "alts": null
     }
   ],
   "stats": {

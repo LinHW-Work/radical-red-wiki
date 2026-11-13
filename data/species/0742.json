@@ -49,7 +49,7 @@
       "obtains": {
         "map": [
           {
-            "text": "深灰市·白天",
+            "text": "常青市·白天",
             "href": "/分布/地图捕捉"
           },
           {
@@ -68,13 +68,13 @@
       "evolution": [
         {
           "nameCn": "萌虻",
-          "alts": null,
-          "slug": "萌虻"
+          "slug": "萌虻",
+          "alts": null
         },
         {
           "nameCn": "蝶结萌虻",
-          "alts": null,
-          "slug": "蝶结萌虻"
+          "slug": "蝶结萌虻",
+          "alts": null
         }
       ],
       "stats": {
@@ -148,10 +148,10 @@
         },
         {
           "level": 16,
-          "nameCn": "Drain Kiss",
+          "nameCn": "吸取之吻",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Drain Kiss",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
           "type": null,
           "category": null,
           "power": null,
@@ -855,7 +855,7 @@
     {
       "slot": "1",
       "nameCn": "鳞粉",
-      "href": "https://wiki.52poke.com/wiki/%E9%B3%9E%E7%B2%89",
+      "href": "/特性/修改#鳞粉",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -874,7 +874,7 @@
   "obtains": {
     "map": [
       {
-        "text": "深灰市·白天",
+        "text": "常青市·白天",
         "href": "/分布/地图捕捉"
       },
       {
@@ -893,13 +893,13 @@
   "evolution": [
     {
       "nameCn": "萌虻",
-      "alts": null,
-      "slug": "萌虻"
+      "slug": "萌虻",
+      "alts": null
     },
     {
       "nameCn": "蝶结萌虻",
-      "alts": null,
-      "slug": "蝶结萌虻"
+      "slug": "蝶结萌虻",
+      "alts": null
     }
   ],
   "stats": {
@@ -973,10 +973,10 @@
     },
     {
       "level": 16,
-      "nameCn": "Drain Kiss",
+      "nameCn": "吸取之吻",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Drain Kiss",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
       "type": null,
       "category": null,
       "power": null,

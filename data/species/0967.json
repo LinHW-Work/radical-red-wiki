@@ -55,8 +55,8 @@
       "evolution": [
         {
           "nameCn": "摩托蜥",
-          "alts": null,
-          "slug": "摩托蜥"
+          "slug": "摩托蜥",
+          "alts": null
         }
       ],
       "stats": {
@@ -154,10 +154,10 @@
         },
         {
           "level": 27,
-          "nameCn": "U转攻击",
+          "nameCn": "急速折返",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+          "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
           "type": "虫",
           "category": "物理",
           "power": 70,
@@ -226,10 +226,10 @@
         },
         {
           "level": 65,
-          "nameCn": "甩尾",
+          "nameCn": "断尾",
           "restricted": true,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%94%A9%E5%B0%BE",
+          "href": "https://wiki.52poke.com/wiki/%E6%96%AD%E5%B0%BE",
           "type": "一般",
           "category": "变化",
           "power": null,
@@ -476,8 +476,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -905,8 +905,8 @@
   "evolution": [
     {
       "nameCn": "摩托蜥",
-      "alts": null,
-      "slug": "摩托蜥"
+      "slug": "摩托蜥",
+      "alts": null
     }
   ],
   "stats": {
@@ -1004,10 +1004,10 @@
     },
     {
       "level": 27,
-      "nameCn": "U转攻击",
+      "nameCn": "急速折返",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+      "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
       "type": "虫",
       "category": "物理",
       "power": 70,
@@ -1076,10 +1076,10 @@
     },
     {
       "level": 65,
-      "nameCn": "甩尾",
+      "nameCn": "断尾",
       "restricted": true,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%94%A9%E5%B0%BE",
+      "href": "https://wiki.52poke.com/wiki/%E6%96%AD%E5%B0%BE",
       "type": "一般",
       "category": "变化",
       "power": null,
@@ -1326,8 +1326,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,

@@ -67,7 +67,7 @@
         "static": [
           {
             "text": "24号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -76,18 +76,18 @@
       "evolution": [
         {
           "nameCn": "凯西",
-          "alts": null,
-          "slug": "凯西"
+          "slug": "凯西",
+          "alts": null
         },
         {
           "nameCn": "勇基拉",
-          "alts": null,
-          "slug": "勇基拉"
+          "slug": "勇基拉",
+          "alts": null
         },
         {
           "nameCn": "胡地",
-          "alts": null,
-          "slug": "胡地"
+          "slug": "胡地",
+          "alts": null
         }
       ],
       "stats": {
@@ -972,7 +972,7 @@
     "static": [
       {
         "text": "24号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -981,18 +981,18 @@
   "evolution": [
     {
       "nameCn": "凯西",
-      "alts": null,
-      "slug": "凯西"
+      "slug": "凯西",
+      "alts": null
     },
     {
       "nameCn": "勇基拉",
-      "alts": null,
-      "slug": "勇基拉"
+      "slug": "勇基拉",
+      "alts": null
     },
     {
       "nameCn": "胡地",
-      "alts": null,
-      "slug": "胡地"
+      "slug": "胡地",
+      "alts": null
     }
   ],
   "stats": {

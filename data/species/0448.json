@@ -49,11 +49,11 @@
       "obtains": {
         "map": [
           {
-            "text": "冠军之路 2f·白天",
+            "text": "冠军之路·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "冠军之路 2f·晚上",
+            "text": "冠军之路·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -70,13 +70,13 @@
       "evolution": [
         {
           "nameCn": "利欧路",
-          "alts": null,
-          "slug": "利欧路"
+          "slug": "利欧路",
+          "alts": null
         },
         {
           "nameCn": "路卡利欧",
-          "alts": null,
-          "slug": "路卡利欧"
+          "slug": "路卡利欧",
+          "alts": null
         }
       ],
       "stats": {
@@ -1433,11 +1433,11 @@
       "obtains": {
         "map": [
           {
-            "text": "冠军之路 2f·白天",
+            "text": "冠军之路·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "冠军之路 2f·晚上",
+            "text": "冠军之路·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -1454,13 +1454,13 @@
       "evolution": [
         {
           "nameCn": "利欧路",
-          "alts": null,
-          "slug": "利欧路"
+          "slug": "利欧路",
+          "alts": null
         },
         {
           "nameCn": "路卡利欧",
-          "alts": null,
-          "slug": "路卡利欧"
+          "slug": "路卡利欧",
+          "alts": null
         }
       ],
       "stats": {
@@ -1778,11 +1778,11 @@
   "obtains": {
     "map": [
       {
-        "text": "冠军之路 2f·白天",
+        "text": "冠军之路·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "冠军之路 2f·晚上",
+        "text": "冠军之路·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1799,13 +1799,13 @@
   "evolution": [
     {
       "nameCn": "利欧路",
-      "alts": null,
-      "slug": "利欧路"
+      "slug": "利欧路",
+      "alts": null
     },
     {
       "nameCn": "路卡利欧",
-      "alts": null,
-      "slug": "路卡利欧"
+      "slug": "路卡利欧",
+      "alts": null
     }
   ],
   "stats": {

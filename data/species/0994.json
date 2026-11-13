@@ -31,14 +31,14 @@
       "obtains": {
         "map": [
           {
-            "text": "中心区·夜晚",
+            "text": "狩猎地带·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
         "static": [
           {
             "text": "狩猎地带中心区",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -46,9 +46,9 @@
       },
       "evolution": [
         {
-          "nameCn": "铁蛾",
-          "alts": null,
-          "slug": "铁蛾"
+          "nameCn": "铁毒蛾",
+          "slug": "铁毒蛾",
+          "alts": null
         }
       ],
       "stats": {
@@ -745,14 +745,14 @@
   "obtains": {
     "map": [
       {
-        "text": "中心区·夜晚",
+        "text": "狩猎地带·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
     "static": [
       {
         "text": "狩猎地带中心区",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -760,9 +760,9 @@
   },
   "evolution": [
     {
-      "nameCn": "铁蛾",
-      "alts": null,
-      "slug": "铁蛾"
+      "nameCn": "铁毒蛾",
+      "slug": "铁毒蛾",
+      "alts": null
     }
   ],
   "stats": {

@@ -51,18 +51,18 @@
       "evolution": [
         {
           "nameCn": "小锯鳄",
-          "alts": null,
-          "slug": "小锯鳄"
+          "slug": "小锯鳄",
+          "alts": null
         },
         {
           "nameCn": "蓝鳄",
-          "alts": null,
-          "slug": "蓝鳄"
+          "slug": "蓝鳄",
+          "alts": null
         },
         {
           "nameCn": "大力鳄",
-          "alts": null,
-          "slug": "大力鳄"
+          "slug": "大力鳄",
+          "alts": null
         }
       ],
       "stats": {
@@ -304,10 +304,10 @@
         },
         {
           "level": 45,
-          "nameCn": "Aqua Fang",
+          "nameCn": "水流牙",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Aqua Fang",
+          "href": "/原创招式#水流牙",
           "type": null,
           "category": null,
           "power": null,
@@ -1237,10 +1237,10 @@
         },
         {
           "level": null,
-          "nameCn": "水炮",
+          "nameCn": "加农水炮",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E7%82%AE",
+          "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E5%86%9C%E6%B0%B4%E7%82%AE",
           "type": "水",
           "category": "特殊",
           "power": 150,
@@ -1456,18 +1456,18 @@
   "evolution": [
     {
       "nameCn": "小锯鳄",
-      "alts": null,
-      "slug": "小锯鳄"
+      "slug": "小锯鳄",
+      "alts": null
     },
     {
       "nameCn": "蓝鳄",
-      "alts": null,
-      "slug": "蓝鳄"
+      "slug": "蓝鳄",
+      "alts": null
     },
     {
       "nameCn": "大力鳄",
-      "alts": null,
-      "slug": "大力鳄"
+      "slug": "大力鳄",
+      "alts": null
     }
   ],
   "stats": {
@@ -1709,10 +1709,10 @@
     },
     {
       "level": 45,
-      "nameCn": "Aqua Fang",
+      "nameCn": "水流牙",
       "restricted": false,
       "original": true,
-      "href": "/原创招式/Aqua Fang",
+      "href": "/原创招式#水流牙",
       "type": null,
       "category": null,
       "power": null,
@@ -2642,10 +2642,10 @@
     },
     {
       "level": null,
-      "nameCn": "水炮",
+      "nameCn": "加农水炮",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E7%82%AE",
+      "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E5%86%9C%E6%B0%B4%E7%82%AE",
       "type": "水",
       "category": "特殊",
       "power": 150,

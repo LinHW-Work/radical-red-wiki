@@ -48,11 +48,7 @@
       "obtains": {
         "map": [
           {
-            "text": "玉虹市·好吊杆",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "浅红市·好吊杆",
+            "text": "枯叶市·好吊杆",
             "href": "/分布/地图捕捉"
           },
           {
@@ -68,7 +64,7 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "北区·破旧吊杆",
+            "text": "狩猎地带·破旧吊杆",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -79,16 +75,17 @@
       "evolution": [
         {
           "nameCn": "蚊香蝌蚪",
-          "alts": null,
-          "slug": "蚊香蝌蚪"
+          "slug": "蚊香蝌蚪",
+          "alts": null
         },
         {
           "nameCn": "蚊香君",
-          "alts": null,
-          "slug": "蚊香君"
+          "slug": "蚊香君",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "蚊香泳士",
@@ -627,10 +624,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -701,10 +698,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -845,11 +842,7 @@
   "obtains": {
     "map": [
       {
-        "text": "玉虹市·好吊杆",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "浅红市·好吊杆",
+        "text": "枯叶市·好吊杆",
         "href": "/分布/地图捕捉"
       },
       {
@@ -865,7 +858,7 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "北区·破旧吊杆",
+        "text": "狩猎地带·破旧吊杆",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -876,16 +869,17 @@
   "evolution": [
     {
       "nameCn": "蚊香蝌蚪",
-      "alts": null,
-      "slug": "蚊香蝌蚪"
+      "slug": "蚊香蝌蚪",
+      "alts": null
     },
     {
       "nameCn": "蚊香君",
-      "alts": null,
-      "slug": "蚊香君"
+      "slug": "蚊香君",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "蚊香泳士",
@@ -1424,10 +1418,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -1498,10 +1492,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

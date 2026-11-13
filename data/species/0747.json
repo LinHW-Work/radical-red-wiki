@@ -49,7 +49,7 @@
       "obtains": {
         "map": [
           {
-            "text": "玉虹市·厉害吊杆",
+            "text": "枯叶市·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
@@ -57,19 +57,19 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "华蓝洞窟 b1f·破旧吊杆",
+            "text": "华蓝洞窟·破旧吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "华蓝洞窟 b1f·好吊杆",
+            "text": "华蓝洞窟·好吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 b2f·好吊杆",
+            "text": "双子岛·好吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "中心区·好吊杆",
+            "text": "狩猎地带·好吊杆",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -80,13 +80,13 @@
       "evolution": [
         {
           "nameCn": "好坏星",
-          "alts": null,
-          "slug": "好坏星"
+          "slug": "好坏星",
+          "alts": null
         },
         {
           "nameCn": "超坏星",
-          "alts": null,
-          "slug": "超坏星"
+          "slug": "超坏星",
+          "alts": null
         }
       ],
       "stats": {
@@ -704,18 +704,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "雪景",
           "restricted": true,
           "original": false,
@@ -849,7 +837,7 @@
   "obtains": {
     "map": [
       {
-        "text": "玉虹市·厉害吊杆",
+        "text": "枯叶市·厉害吊杆",
         "href": "/分布/地图捕捉"
       },
       {
@@ -857,19 +845,19 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "华蓝洞窟 b1f·破旧吊杆",
+        "text": "华蓝洞窟·破旧吊杆",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "华蓝洞窟 b1f·好吊杆",
+        "text": "华蓝洞窟·好吊杆",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "双子岛 b2f·好吊杆",
+        "text": "双子岛·好吊杆",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "中心区·好吊杆",
+        "text": "狩猎地带·好吊杆",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -880,13 +868,13 @@
   "evolution": [
     {
       "nameCn": "好坏星",
-      "alts": null,
-      "slug": "好坏星"
+      "slug": "好坏星",
+      "alts": null
     },
     {
       "nameCn": "超坏星",
-      "alts": null,
-      "slug": "超坏星"
+      "slug": "超坏星",
+      "alts": null
     }
   ],
   "stats": {
@@ -1501,18 +1489,6 @@
       "power": null,
       "accuracy": 100,
       "pp": 10
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

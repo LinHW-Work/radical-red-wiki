@@ -30,15 +30,20 @@
       ],
       "obtains": {
         "map": [],
-        "static": [],
+        "static": [
+          {
+            "text": "神秘礼物：1cDhR0jwEkCu",
+            "href": "/分布/神秘礼物"
+          }
+        ],
         "npc": [],
         "evolution": []
       },
       "evolution": [
         {
           "nameCn": "无极汰那",
-          "alts": null,
-          "slug": "无极汰那"
+          "slug": "无极汰那",
+          "alts": null
         }
       ],
       "stats": {
@@ -379,8 +384,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -685,8 +690,8 @@
       "evolution": [
         {
           "nameCn": "Eternatus-Eternamax",
-          "alts": null,
           "slug": "无极汰那",
+          "alts": null,
           "forme": "无极巨化"
         }
       ],
@@ -902,15 +907,20 @@
   ],
   "obtains": {
     "map": [],
-    "static": [],
+    "static": [
+      {
+        "text": "神秘礼物：1cDhR0jwEkCu",
+        "href": "/分布/神秘礼物"
+      }
+    ],
     "npc": [],
     "evolution": []
   },
   "evolution": [
     {
       "nameCn": "无极汰那",
-      "alts": null,
-      "slug": "无极汰那"
+      "slug": "无极汰那",
+      "alts": null
     }
   ],
   "stats": {
@@ -1251,8 +1261,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,

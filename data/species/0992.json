@@ -31,14 +31,14 @@
       "obtains": {
         "map": [
           {
-            "text": "中心区·白天",
+            "text": "狩猎地带·白天",
             "href": "/分布/地图捕捉"
           }
         ],
         "static": [
           {
             "text": "狩猎地带中心区",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -47,8 +47,8 @@
       "evolution": [
         {
           "nameCn": "铁臂膀",
-          "alts": null,
-          "slug": "铁臂膀"
+          "slug": "铁臂膀",
+          "alts": null
         }
       ],
       "stats": {
@@ -206,10 +206,10 @@
         },
         {
           "level": 56,
-          "nameCn": "等离子闪电拳",
+          "nameCn": "等离子电拳",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%AD%89%E7%A6%BB%E5%AD%90%E9%97%AA%E7%94%B5%E6%8B%B3",
+          "href": "https://wiki.52poke.com/wiki/%E7%AD%89%E7%A6%BB%E5%AD%90%E7%94%B5%E6%8B%B3",
           "type": "电",
           "category": "物理",
           "power": 100,
@@ -861,14 +861,14 @@
   "obtains": {
     "map": [
       {
-        "text": "中心区·白天",
+        "text": "狩猎地带·白天",
         "href": "/分布/地图捕捉"
       }
     ],
     "static": [
       {
         "text": "狩猎地带中心区",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -877,8 +877,8 @@
   "evolution": [
     {
       "nameCn": "铁臂膀",
-      "alts": null,
-      "slug": "铁臂膀"
+      "slug": "铁臂膀",
+      "alts": null
     }
   ],
   "stats": {
@@ -1036,10 +1036,10 @@
     },
     {
       "level": 56,
-      "nameCn": "等离子闪电拳",
+      "nameCn": "等离子电拳",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%AD%89%E7%A6%BB%E5%AD%90%E9%97%AA%E7%94%B5%E6%8B%B3",
+      "href": "https://wiki.52poke.com/wiki/%E7%AD%89%E7%A6%BB%E5%AD%90%E7%94%B5%E6%8B%B3",
       "type": "电",
       "category": "物理",
       "power": 100,

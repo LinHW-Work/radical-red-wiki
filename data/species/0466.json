@@ -43,12 +43,12 @@
         "evolution": [
           {
             "group": "evolution",
-            "text": "电击兽·使用Link Cable",
+            "text": "电击兽·使用连接电缆",
             "href": null
           },
           {
             "group": "evolution",
-            "text": "电击兽·携带Link Cable交换",
+            "text": "电击兽·携带连接电缆交换",
             "href": null
           }
         ]
@@ -56,18 +56,18 @@
       "evolution": [
         {
           "nameCn": "电击怪",
-          "alts": null,
-          "slug": "电击怪"
+          "slug": "电击怪",
+          "alts": null
         },
         {
           "nameCn": "电击兽",
-          "alts": null,
-          "slug": "电击兽"
+          "slug": "电击兽",
+          "alts": null
         },
         {
           "nameCn": "电击魔兽",
-          "alts": null,
-          "slug": "电击魔兽"
+          "slug": "电击魔兽",
+          "alts": null
         }
       ],
       "stats": {
@@ -321,10 +321,10 @@
         },
         {
           "level": 64,
-          "nameCn": "等离子闪电拳",
+          "nameCn": "等离子电拳",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%AD%89%E7%A6%BB%E5%AD%90%E9%97%AA%E7%94%B5%E6%8B%B3",
+          "href": "https://wiki.52poke.com/wiki/%E7%AD%89%E7%A6%BB%E5%AD%90%E7%94%B5%E6%8B%B3",
           "type": "电",
           "category": "物理",
           "power": 100,
@@ -1285,10 +1285,10 @@
         },
         {
           "level": null,
-          "nameCn": "DD金勾臂",
+          "nameCn": "ＤＤ金勾臂",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/DD%E9%87%91%E5%8B%BE%E8%87%82",
+          "href": "https://wiki.52poke.com/wiki/%EF%BC%A4%EF%BC%A4%E9%87%91%E5%8B%BE%E8%87%82",
           "type": "恶",
           "category": "物理",
           "power": 85,
@@ -1364,12 +1364,12 @@
     "evolution": [
       {
         "group": "evolution",
-        "text": "电击兽·使用Link Cable",
+        "text": "电击兽·使用连接电缆",
         "href": null
       },
       {
         "group": "evolution",
-        "text": "电击兽·携带Link Cable交换",
+        "text": "电击兽·携带连接电缆交换",
         "href": null
       }
     ]
@@ -1377,18 +1377,18 @@
   "evolution": [
     {
       "nameCn": "电击怪",
-      "alts": null,
-      "slug": "电击怪"
+      "slug": "电击怪",
+      "alts": null
     },
     {
       "nameCn": "电击兽",
-      "alts": null,
-      "slug": "电击兽"
+      "slug": "电击兽",
+      "alts": null
     },
     {
       "nameCn": "电击魔兽",
-      "alts": null,
-      "slug": "电击魔兽"
+      "slug": "电击魔兽",
+      "alts": null
     }
   ],
   "stats": {
@@ -1642,10 +1642,10 @@
     },
     {
       "level": 64,
-      "nameCn": "等离子闪电拳",
+      "nameCn": "等离子电拳",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%AD%89%E7%A6%BB%E5%AD%90%E9%97%AA%E7%94%B5%E6%8B%B3",
+      "href": "https://wiki.52poke.com/wiki/%E7%AD%89%E7%A6%BB%E5%AD%90%E7%94%B5%E6%8B%B3",
       "type": "电",
       "category": "物理",
       "power": 100,
@@ -2606,10 +2606,10 @@
     },
     {
       "level": null,
-      "nameCn": "DD金勾臂",
+      "nameCn": "ＤＤ金勾臂",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/DD%E9%87%91%E5%8B%BE%E8%87%82",
+      "href": "https://wiki.52poke.com/wiki/%EF%BC%A4%EF%BC%A4%E9%87%91%E5%8B%BE%E8%87%82",
       "type": "恶",
       "category": "物理",
       "power": 85,

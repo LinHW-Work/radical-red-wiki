@@ -50,13 +50,13 @@
       "evolution": [
         {
           "nameCn": "绵绵泡芙",
-          "alts": null,
-          "slug": "绵绵泡芙"
+          "slug": "绵绵泡芙",
+          "alts": null
         },
         {
           "nameCn": "胖甜妮",
-          "alts": null,
-          "slug": "胖甜妮"
+          "slug": "胖甜妮",
+          "alts": null
         }
       ],
       "stats": {
@@ -154,10 +154,10 @@
         },
         {
           "level": 21,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -178,10 +178,10 @@
         },
         {
           "level": 31,
-          "nameCn": "Drain Kiss",
+          "nameCn": "吸取之吻",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Drain Kiss",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
           "type": null,
           "category": null,
           "power": null,
@@ -635,10 +635,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -793,13 +793,13 @@
   "evolution": [
     {
       "nameCn": "绵绵泡芙",
-      "alts": null,
-      "slug": "绵绵泡芙"
+      "slug": "绵绵泡芙",
+      "alts": null
     },
     {
       "nameCn": "胖甜妮",
-      "alts": null,
-      "slug": "胖甜妮"
+      "slug": "胖甜妮",
+      "alts": null
     }
   ],
   "stats": {
@@ -897,10 +897,10 @@
     },
     {
       "level": 21,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -921,10 +921,10 @@
     },
     {
       "level": 31,
-      "nameCn": "Drain Kiss",
+      "nameCn": "吸取之吻",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Drain Kiss",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
       "type": null,
       "category": null,
       "power": null,
@@ -1378,10 +1378,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

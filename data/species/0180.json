@@ -51,18 +51,18 @@
       "evolution": [
         {
           "nameCn": "咩利羊",
-          "alts": null,
-          "slug": "咩利羊"
+          "slug": "咩利羊",
+          "alts": null
         },
         {
           "nameCn": "茸茸羊",
-          "alts": null,
-          "slug": "茸茸羊"
+          "slug": "茸茸羊",
+          "alts": null
         },
         {
           "nameCn": "电龙",
-          "alts": null,
-          "slug": "电龙"
+          "slug": "电龙",
+          "alts": null
         }
       ],
       "stats": {
@@ -996,18 +996,18 @@
   "evolution": [
     {
       "nameCn": "咩利羊",
-      "alts": null,
-      "slug": "咩利羊"
+      "slug": "咩利羊",
+      "alts": null
     },
     {
       "nameCn": "茸茸羊",
-      "alts": null,
-      "slug": "茸茸羊"
+      "slug": "茸茸羊",
+      "alts": null
     },
     {
       "nameCn": "电龙",
-      "alts": null,
-      "slug": "电龙"
+      "slug": "电龙",
+      "alts": null
     }
   ],
   "stats": {

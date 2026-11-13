@@ -49,11 +49,15 @@
       "obtains": {
         "map": [
           {
-            "text": "枯叶市·好吊杆",
+            "text": "紫苑镇·好吊杆",
             "href": "/分布/地图捕捉"
           },
           {
             "text": "11号道路·好吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "狩猎地带·冲浪",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -64,13 +68,13 @@
       "evolution": [
         {
           "nameCn": "轻飘飘",
-          "alts": null,
-          "slug": "轻飘飘"
+          "slug": "轻飘飘",
+          "alts": null
         },
         {
           "nameCn": "胖嘟嘟",
-          "alts": null,
-          "slug": "胖嘟嘟"
+          "slug": "胖嘟嘟",
+          "alts": null
         }
       ],
       "stats": {
@@ -886,11 +890,15 @@
   "obtains": {
     "map": [
       {
-        "text": "枯叶市·好吊杆",
+        "text": "紫苑镇·好吊杆",
         "href": "/分布/地图捕捉"
       },
       {
         "text": "11号道路·好吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "狩猎地带·冲浪",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -901,13 +909,13 @@
   "evolution": [
     {
       "nameCn": "轻飘飘",
-      "alts": null,
-      "slug": "轻飘飘"
+      "slug": "轻飘飘",
+      "alts": null
     },
     {
       "nameCn": "胖嘟嘟",
-      "alts": null,
-      "slug": "胖嘟嘟"
+      "slug": "胖嘟嘟",
+      "alts": null
     }
   ],
   "stats": {

@@ -42,13 +42,13 @@
       "evolution": [
         {
           "nameCn": "樱花宝",
-          "alts": null,
-          "slug": "樱花宝"
+          "slug": "樱花宝",
+          "alts": null
         },
         {
           "nameCn": "樱花儿",
-          "alts": null,
-          "slug": "樱花儿"
+          "slug": "樱花儿",
+          "alts": null
         }
       ],
       "stats": {
@@ -697,10 +697,10 @@
         },
         {
           "level": null,
-          "nameCn": "Flower Guard",
+          "nameCn": "鲜花防守",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Flower Guard",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%B2%9C%E8%8A%B1%E9%98%B2%E5%AE%88",
           "type": null,
           "category": null,
           "power": null,
@@ -843,18 +843,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "花粉团",
           "restricted": false,
           "original": false,
@@ -887,7 +875,7 @@
     {
       "slot": "0",
       "nameCn": "花之礼",
-      "href": "https://wiki.52poke.com/wiki/%E8%8A%B1%E4%B9%8B%E7%A4%BC",
+      "href": "/特性/修改#花之礼",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -909,13 +897,13 @@
   "evolution": [
     {
       "nameCn": "樱花宝",
-      "alts": null,
-      "slug": "樱花宝"
+      "slug": "樱花宝",
+      "alts": null
     },
     {
       "nameCn": "樱花儿",
-      "alts": null,
-      "slug": "樱花儿"
+      "slug": "樱花儿",
+      "alts": null
     }
   ],
   "stats": {
@@ -1564,10 +1552,10 @@
     },
     {
       "level": null,
-      "nameCn": "Flower Guard",
+      "nameCn": "鲜花防守",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Flower Guard",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%B2%9C%E8%8A%B1%E9%98%B2%E5%AE%88",
       "type": null,
       "category": null,
       "power": null,
@@ -1707,18 +1695,6 @@
       "power": 120,
       "accuracy": 100,
       "pp": 10
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

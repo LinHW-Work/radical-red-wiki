@@ -30,7 +30,7 @@
       "obtains": {
         "map": [
           {
-            "text": "森林扩展区·白天",
+            "text": "常青森林·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -41,18 +41,18 @@
       "evolution": [
         {
           "nameCn": "强颚鸡母虫",
-          "alts": null,
-          "slug": "强颚鸡母虫"
+          "slug": "强颚鸡母虫",
+          "alts": null
         },
         {
           "nameCn": "虫电宝",
-          "alts": null,
-          "slug": "虫电宝"
+          "slug": "虫电宝",
+          "alts": null
         },
         {
           "nameCn": "锹农炮虫",
-          "alts": null,
-          "slug": "锹农炮虫"
+          "slug": "锹农炮虫",
+          "alts": null
         }
       ],
       "stats": {
@@ -611,7 +611,7 @@
   "obtains": {
     "map": [
       {
-        "text": "森林扩展区·白天",
+        "text": "常青森林·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -622,18 +622,18 @@
   "evolution": [
     {
       "nameCn": "强颚鸡母虫",
-      "alts": null,
-      "slug": "强颚鸡母虫"
+      "slug": "强颚鸡母虫",
+      "alts": null
     },
     {
       "nameCn": "虫电宝",
-      "alts": null,
-      "slug": "虫电宝"
+      "slug": "虫电宝",
+      "alts": null
     },
     {
       "nameCn": "锹农炮虫",
-      "alts": null,
-      "slug": "锹农炮虫"
+      "slug": "锹农炮虫",
+      "alts": null
     }
   ],
   "stats": {

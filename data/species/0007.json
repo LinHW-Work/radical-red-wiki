@@ -50,18 +50,18 @@
       "evolution": [
         {
           "nameCn": "杰尼龟",
-          "alts": null,
-          "slug": "杰尼龟"
+          "slug": "杰尼龟",
+          "alts": null
         },
         {
           "nameCn": "卡咪龟",
-          "alts": null,
-          "slug": "卡咪龟"
+          "slug": "卡咪龟",
+          "alts": null
         },
         {
           "nameCn": "水箭龟",
-          "alts": null,
-          "slug": "水箭龟"
+          "slug": "水箭龟",
+          "alts": null
         }
       ],
       "stats": {
@@ -1059,18 +1059,18 @@
   "evolution": [
     {
       "nameCn": "杰尼龟",
-      "alts": null,
-      "slug": "杰尼龟"
+      "slug": "杰尼龟",
+      "alts": null
     },
     {
       "nameCn": "卡咪龟",
-      "alts": null,
-      "slug": "卡咪龟"
+      "slug": "卡咪龟",
+      "alts": null
     },
     {
       "nameCn": "水箭龟",
-      "alts": null,
-      "slug": "水箭龟"
+      "slug": "水箭龟",
+      "alts": null
     }
   ],
   "stats": {

@@ -37,7 +37,16 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "火照小路·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "火照小路·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": [
@@ -51,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "小仙奶",
-          "alts": null,
-          "slug": "小仙奶"
+          "slug": "小仙奶",
+          "alts": null
         },
         {
-          "nameCn": "Alcremie",
-          "alts": null,
-          "slug": "Alcremie"
+          "nameCn": "霜奶仙",
+          "slug": "霜奶仙",
+          "alts": null
         }
       ],
       "stats": {
@@ -143,10 +152,10 @@
         },
         {
           "level": 15,
-          "nameCn": "Drain Kiss",
+          "nameCn": "吸取之吻",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Drain Kiss",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
           "type": null,
           "category": null,
           "power": null,
@@ -646,10 +655,10 @@
         },
         {
           "level": null,
-          "nameCn": "力量储存",
+          "nameCn": "辅助力量",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+          "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
           "type": "超能力",
           "category": "特殊",
           "power": 20,
@@ -707,7 +716,16 @@
     }
   ],
   "obtains": {
-    "map": [],
+    "map": [
+      {
+        "text": "火照小路·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "火照小路·晚上",
+        "href": "/分布/地图捕捉"
+      }
+    ],
     "static": [],
     "npc": [],
     "evolution": [
@@ -721,13 +739,13 @@
   "evolution": [
     {
       "nameCn": "小仙奶",
-      "alts": null,
-      "slug": "小仙奶"
+      "slug": "小仙奶",
+      "alts": null
     },
     {
-      "nameCn": "Alcremie",
-      "alts": null,
-      "slug": "Alcremie"
+      "nameCn": "霜奶仙",
+      "slug": "霜奶仙",
+      "alts": null
     }
   ],
   "stats": {
@@ -813,10 +831,10 @@
     },
     {
       "level": 15,
-      "nameCn": "Drain Kiss",
+      "nameCn": "吸取之吻",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Drain Kiss",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
       "type": null,
       "category": null,
       "power": null,
@@ -1316,10 +1334,10 @@
     },
     {
       "level": null,
-      "nameCn": "力量储存",
+      "nameCn": "辅助力量",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+      "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
       "type": "超能力",
       "category": "特殊",
       "power": 20,

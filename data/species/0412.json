@@ -39,7 +39,7 @@
       "obtains": {
         "map": [
           {
-            "text": "森林扩展区·白天",
+            "text": "常青森林·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -50,12 +50,13 @@
       "evolution": [
         {
           "nameCn": "结草儿",
-          "alts": null,
           "slug": "结草儿",
+          "alts": null,
           "forme": "草木蓑衣"
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "结草贵妇",
@@ -253,12 +254,13 @@
       "evolution": [
         {
           "nameCn": "结草儿-砂土蓑衣",
-          "alts": null,
           "slug": "结草儿",
+          "alts": null,
           "forme": "砂土蓑衣"
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "结草贵妇-砂土蓑衣",
@@ -447,10 +449,6 @@
           {
             "text": "常青森林·晚上",
             "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "森林扩展区·晚上",
-            "href": "/分布/地图捕捉"
           }
         ],
         "static": [],
@@ -460,12 +458,13 @@
       "evolution": [
         {
           "nameCn": "结草儿-垃圾蓑衣",
-          "alts": null,
           "slug": "结草儿",
+          "alts": null,
           "forme": "垃圾蓑衣"
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "结草贵妇-垃圾蓑衣",
@@ -645,7 +644,7 @@
   "obtains": {
     "map": [
       {
-        "text": "森林扩展区·白天",
+        "text": "常青森林·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -656,12 +655,13 @@
   "evolution": [
     {
       "nameCn": "结草儿",
-      "alts": null,
       "slug": "结草儿",
+      "alts": null,
       "forme": "草木蓑衣"
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "结草贵妇",

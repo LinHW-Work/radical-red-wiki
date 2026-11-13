@@ -59,13 +59,13 @@
       "evolution": [
         {
           "nameCn": "落雷兽",
-          "alts": null,
-          "slug": "落雷兽"
+          "slug": "落雷兽",
+          "alts": null
         },
         {
           "nameCn": "雷电兽",
-          "alts": null,
-          "slug": "雷电兽"
+          "slug": "雷电兽",
+          "alts": null
         }
       ],
       "stats": {
@@ -920,13 +920,13 @@
   "evolution": [
     {
       "nameCn": "落雷兽",
-      "alts": null,
-      "slug": "落雷兽"
+      "slug": "落雷兽",
+      "alts": null
     },
     {
       "nameCn": "雷电兽",
-      "alts": null,
-      "slug": "雷电兽"
+      "slug": "雷电兽",
+      "alts": null
     }
   ],
   "stats": {

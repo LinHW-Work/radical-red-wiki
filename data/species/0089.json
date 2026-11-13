@@ -48,7 +48,7 @@
       "obtains": {
         "map": [
           {
-            "text": "玉虹市·厉害吊杆",
+            "text": "枯叶市·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
@@ -56,7 +56,7 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "宝可梦屋 1f·白天",
+            "text": "宝可梦屋·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -73,13 +73,13 @@
       "evolution": [
         {
           "nameCn": "臭泥",
-          "alts": null,
-          "slug": "臭泥"
+          "slug": "臭泥",
+          "alts": null
         },
         {
           "nameCn": "臭臭泥",
-          "alts": null,
-          "slug": "臭臭泥"
+          "slug": "臭臭泥",
+          "alts": null
         }
       ],
       "stats": {
@@ -985,18 +985,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "密语",
           "restricted": false,
           "original": false,
@@ -1161,7 +1149,7 @@
       "obtains": {
         "map": [
           {
-            "text": "玉虹市·厉害吊杆",
+            "text": "枯叶市·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
@@ -1169,7 +1157,7 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "宝可梦屋 1f·晚上",
+            "text": "宝可梦屋·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -1186,14 +1174,14 @@
       "evolution": [
         {
           "nameCn": "臭泥-阿罗拉",
-          "alts": null,
           "slug": "臭泥",
+          "alts": null,
           "forme": "阿罗拉"
         },
         {
           "nameCn": "臭臭泥-阿罗拉",
-          "alts": null,
           "slug": "臭臭泥",
+          "alts": null,
           "forme": "阿罗拉"
         }
       ],
@@ -2089,10 +2077,10 @@
         },
         {
           "level": null,
-          "nameCn": "Dark Hole",
+          "nameCn": "暗黑洞",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Dark Hole",
+          "href": "/原创招式#暗黑洞",
           "type": null,
           "category": null,
           "power": null,
@@ -2170,18 +2158,6 @@
           "power": null,
           "accuracy": null,
           "pp": 20
-        },
-        {
-          "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
         },
         {
           "level": null,
@@ -2341,7 +2317,7 @@
   "obtains": {
     "map": [
       {
-        "text": "玉虹市·厉害吊杆",
+        "text": "枯叶市·厉害吊杆",
         "href": "/分布/地图捕捉"
       },
       {
@@ -2349,7 +2325,7 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "宝可梦屋 1f·白天",
+        "text": "宝可梦屋·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -2366,13 +2342,13 @@
   "evolution": [
     {
       "nameCn": "臭泥",
-      "alts": null,
-      "slug": "臭泥"
+      "slug": "臭泥",
+      "alts": null
     },
     {
       "nameCn": "臭臭泥",
-      "alts": null,
-      "slug": "臭臭泥"
+      "slug": "臭臭泥",
+      "alts": null
     }
   ],
   "stats": {
@@ -3275,18 +3251,6 @@
       "power": null,
       "accuracy": null,
       "pp": 20
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

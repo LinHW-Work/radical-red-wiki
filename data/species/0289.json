@@ -42,18 +42,18 @@
       "evolution": [
         {
           "nameCn": "懒人獭",
-          "alts": null,
-          "slug": "懒人獭"
+          "slug": "懒人獭",
+          "alts": null
         },
         {
           "nameCn": "过动猿",
-          "alts": null,
-          "slug": "过动猿"
+          "slug": "过动猿",
+          "alts": null
         },
         {
           "nameCn": "请假王",
-          "alts": null,
-          "slug": "请假王"
+          "slug": "请假王",
+          "alts": null
         }
       ],
       "stats": {
@@ -1110,18 +1110,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "击落",
           "restricted": false,
           "original": false,
@@ -1310,7 +1298,7 @@
     {
       "slot": "0",
       "nameCn": "懒惰",
-      "href": "https://wiki.52poke.com/wiki/%E6%87%92%E6%83%B0",
+      "href": "/特性/修改#懒惰",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1332,18 +1320,18 @@
   "evolution": [
     {
       "nameCn": "懒人獭",
-      "alts": null,
-      "slug": "懒人獭"
+      "slug": "懒人獭",
+      "alts": null
     },
     {
       "nameCn": "过动猿",
-      "alts": null,
-      "slug": "过动猿"
+      "slug": "过动猿",
+      "alts": null
     },
     {
       "nameCn": "请假王",
-      "alts": null,
-      "slug": "请假王"
+      "slug": "请假王",
+      "alts": null
     }
   ],
   "stats": {
@@ -2397,18 +2385,6 @@
       "power": null,
       "accuracy": null,
       "pp": 20
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

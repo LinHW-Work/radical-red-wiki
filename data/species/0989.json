@@ -31,18 +31,18 @@
       "obtains": {
         "map": [
           {
-            "text": "北区·白天",
+            "text": "狩猎地带·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "北区·夜晚",
+            "text": "狩猎地带·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
         "static": [
           {
             "text": "狩猎地带北区",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -51,8 +51,8 @@
       "evolution": [
         {
           "nameCn": "沙铁皮",
-          "alts": null,
-          "slug": "沙铁皮"
+          "slug": "沙铁皮",
+          "alts": null
         }
       ],
       "stats": {
@@ -784,18 +784,18 @@
   "obtains": {
     "map": [
       {
-        "text": "北区·白天",
+        "text": "狩猎地带·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "北区·夜晚",
+        "text": "狩猎地带·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
     "static": [
       {
         "text": "狩猎地带北区",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -804,8 +804,8 @@
   "evolution": [
     {
       "nameCn": "沙铁皮",
-      "alts": null,
-      "slug": "沙铁皮"
+      "slug": "沙铁皮",
+      "alts": null
     }
   ],
   "stats": {

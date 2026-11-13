@@ -50,18 +50,18 @@
       "evolution": [
         {
           "nameCn": "炎兔儿",
-          "alts": null,
-          "slug": "炎兔儿"
+          "slug": "炎兔儿",
+          "alts": null
         },
         {
           "nameCn": "腾蹴小将",
-          "alts": null,
-          "slug": "腾蹴小将"
+          "slug": "腾蹴小将",
+          "alts": null
         },
         {
           "nameCn": "闪焰王牌",
-          "alts": null,
-          "slug": "闪焰王牌"
+          "slug": "闪焰王牌",
+          "alts": null
         }
       ],
       "stats": {
@@ -605,18 +605,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "密语",
           "restricted": false,
           "original": false,
@@ -811,18 +799,18 @@
   "evolution": [
     {
       "nameCn": "炎兔儿",
-      "alts": null,
-      "slug": "炎兔儿"
+      "slug": "炎兔儿",
+      "alts": null
     },
     {
       "nameCn": "腾蹴小将",
-      "alts": null,
-      "slug": "腾蹴小将"
+      "slug": "腾蹴小将",
+      "alts": null
     },
     {
       "nameCn": "闪焰王牌",
-      "alts": null,
-      "slug": "闪焰王牌"
+      "slug": "闪焰王牌",
+      "alts": null
     }
   ],
   "stats": {
@@ -1363,18 +1351,6 @@
       "power": null,
       "accuracy": 90,
       "pp": 10
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

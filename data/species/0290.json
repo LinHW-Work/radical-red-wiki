@@ -42,10 +42,6 @@
           {
             "text": "常青森林·晚上",
             "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "森林扩展区·晚上",
-            "href": "/分布/地图捕捉"
           }
         ],
         "static": [],
@@ -55,11 +51,12 @@
       "evolution": [
         {
           "nameCn": "土居忍士",
-          "alts": null,
-          "slug": "土居忍士"
+          "slug": "土居忍士",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "铁面忍者",
@@ -662,10 +659,6 @@
       {
         "text": "常青森林·晚上",
         "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "森林扩展区·晚上",
-        "href": "/分布/地图捕捉"
       }
     ],
     "static": [],
@@ -675,11 +668,12 @@
   "evolution": [
     {
       "nameCn": "土居忍士",
-      "alts": null,
-      "slug": "土居忍士"
+      "slug": "土居忍士",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "铁面忍者",

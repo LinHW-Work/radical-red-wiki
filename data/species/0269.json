@@ -52,11 +52,12 @@
       "evolution": [
         {
           "nameCn": "刺尾虫",
-          "alts": null,
-          "slug": "刺尾虫"
+          "slug": "刺尾虫",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "甲壳茧",
@@ -704,7 +705,7 @@
     {
       "slot": "0",
       "nameCn": "鳞粉",
-      "href": "https://wiki.52poke.com/wiki/%E9%B3%9E%E7%B2%89",
+      "href": "/特性/修改#鳞粉",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -735,11 +736,12 @@
   "evolution": [
     {
       "nameCn": "刺尾虫",
-      "alts": null,
-      "slug": "刺尾虫"
+      "slug": "刺尾虫",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "甲壳茧",

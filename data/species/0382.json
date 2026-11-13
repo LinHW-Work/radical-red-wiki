@@ -32,7 +32,7 @@
         "static": [
           {
             "text": "双子岛密室",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -41,8 +41,8 @@
       "evolution": [
         {
           "nameCn": "盖欧卡",
-          "alts": null,
-          "slug": "盖欧卡"
+          "slug": "盖欧卡",
+          "alts": null
         }
       ],
       "stats": {
@@ -799,7 +799,7 @@
         "static": [
           {
             "text": "双子岛密室",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -808,8 +808,8 @@
       "evolution": [
         {
           "nameCn": "盖欧卡",
-          "alts": null,
-          "slug": "盖欧卡"
+          "slug": "盖欧卡",
+          "alts": null
         }
       ],
       "stats": {
@@ -1002,7 +1002,7 @@
     "static": [
       {
         "text": "双子岛密室",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -1011,8 +1011,8 @@
   "evolution": [
     {
       "nameCn": "盖欧卡",
-      "alts": null,
-      "slug": "盖欧卡"
+      "slug": "盖欧卡",
+      "alts": null
     }
   ],
   "stats": {

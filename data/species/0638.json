@@ -33,7 +33,7 @@
         "static": [
           {
             "text": "月见山 b2f",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -42,8 +42,8 @@
       "evolution": [
         {
           "nameCn": "勾帕路翁",
-          "alts": null,
-          "slug": "勾帕路翁"
+          "slug": "勾帕路翁",
+          "alts": null
         }
       ],
       "stats": {
@@ -942,7 +942,7 @@
     "static": [
       {
         "text": "月见山 b2f",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -951,8 +951,8 @@
   "evolution": [
     {
       "nameCn": "勾帕路翁",
-      "alts": null,
-      "slug": "勾帕路翁"
+      "slug": "勾帕路翁",
+      "alts": null
     }
   ],
   "stats": {

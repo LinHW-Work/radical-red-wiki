@@ -31,9 +31,9 @@
           "nameCn": "唱反调",
           "href": "https://wiki.52poke.com/wiki/%E5%94%B1%E5%8F%8D%E8%B0%83",
           "original": false,
-          "restrictedNameCn": "badcompany",
-          "restrictedHref": "/原创特性/badcompany",
-          "restrictedOriginal": true
+          "restrictedNameCn": "乌龙搭档",
+          "restrictedHref": "/特性/原创#乌龙搭档",
+          "restrictedOriginal": false
         }
       ],
       "obtains": {
@@ -50,18 +50,18 @@
       "evolution": [
         {
           "nameCn": "藤藤蛇",
-          "alts": null,
-          "slug": "藤藤蛇"
+          "slug": "藤藤蛇",
+          "alts": null
         },
         {
           "nameCn": "青藤蛇",
-          "alts": null,
-          "slug": "青藤蛇"
+          "slug": "青藤蛇",
+          "alts": null
         },
         {
           "nameCn": "君主蛇",
-          "alts": null,
-          "slug": "君主蛇"
+          "slug": "君主蛇",
+          "alts": null
         }
       ],
       "stats": {
@@ -568,10 +568,10 @@
         },
         {
           "level": null,
-          "nameCn": "蛇瞪",
+          "nameCn": "大蛇瞪眼",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E8%9B%87%E7%9E%AA",
+          "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E8%9B%87%E7%9E%AA%E7%9C%BC",
           "type": "一般",
           "category": "变化",
           "power": null,
@@ -889,9 +889,9 @@
       "nameCn": "唱反调",
       "href": "https://wiki.52poke.com/wiki/%E5%94%B1%E5%8F%8D%E8%B0%83",
       "original": false,
-      "restrictedNameCn": "badcompany",
-      "restrictedHref": "/原创特性/badcompany",
-      "restrictedOriginal": true
+      "restrictedNameCn": "乌龙搭档",
+      "restrictedHref": "/特性/原创#乌龙搭档",
+      "restrictedOriginal": false
     }
   ],
   "obtains": {
@@ -908,18 +908,18 @@
   "evolution": [
     {
       "nameCn": "藤藤蛇",
-      "alts": null,
-      "slug": "藤藤蛇"
+      "slug": "藤藤蛇",
+      "alts": null
     },
     {
       "nameCn": "青藤蛇",
-      "alts": null,
-      "slug": "青藤蛇"
+      "slug": "青藤蛇",
+      "alts": null
     },
     {
       "nameCn": "君主蛇",
-      "alts": null,
-      "slug": "君主蛇"
+      "slug": "君主蛇",
+      "alts": null
     }
   ],
   "stats": {
@@ -1426,10 +1426,10 @@
     },
     {
       "level": null,
-      "nameCn": "蛇瞪",
+      "nameCn": "大蛇瞪眼",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E8%9B%87%E7%9E%AA",
+      "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E8%9B%87%E7%9E%AA%E7%9C%BC",
       "type": "一般",
       "category": "变化",
       "power": null,

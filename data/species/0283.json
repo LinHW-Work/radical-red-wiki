@@ -51,13 +51,13 @@
       "evolution": [
         {
           "nameCn": "溜溜糖球",
-          "alts": null,
-          "slug": "溜溜糖球"
+          "slug": "溜溜糖球",
+          "alts": null
         },
         {
           "nameCn": "雨翅蛾",
-          "alts": null,
-          "slug": "雨翅蛾"
+          "slug": "雨翅蛾",
+          "alts": null
         }
       ],
       "stats": {
@@ -745,13 +745,13 @@
   "evolution": [
     {
       "nameCn": "溜溜糖球",
-      "alts": null,
-      "slug": "溜溜糖球"
+      "slug": "溜溜糖球",
+      "alts": null
     },
     {
       "nameCn": "雨翅蛾",
-      "alts": null,
-      "slug": "雨翅蛾"
+      "slug": "雨翅蛾",
+      "alts": null
     }
   ],
   "stats": {

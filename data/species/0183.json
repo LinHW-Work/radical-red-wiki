@@ -49,7 +49,7 @@
       "obtains": {
         "map": [
           {
-            "text": "常青市·破旧吊杆",
+            "text": "真新镇·破旧吊杆",
             "href": "/分布/地图捕捉"
           },
           {
@@ -70,18 +70,18 @@
       "evolution": [
         {
           "nameCn": "露力丽",
-          "alts": null,
-          "slug": "露力丽"
+          "slug": "露力丽",
+          "alts": null
         },
         {
           "nameCn": "玛力露",
-          "alts": null,
-          "slug": "玛力露"
+          "slug": "玛力露",
+          "alts": null
         },
         {
           "nameCn": "玛力露丽",
-          "alts": null,
-          "slug": "玛力露丽"
+          "slug": "玛力露丽",
+          "alts": null
         }
       ],
       "stats": {
@@ -1165,7 +1165,7 @@
   "obtains": {
     "map": [
       {
-        "text": "常青市·破旧吊杆",
+        "text": "真新镇·破旧吊杆",
         "href": "/分布/地图捕捉"
       },
       {
@@ -1186,18 +1186,18 @@
   "evolution": [
     {
       "nameCn": "露力丽",
-      "alts": null,
-      "slug": "露力丽"
+      "slug": "露力丽",
+      "alts": null
     },
     {
       "nameCn": "玛力露",
-      "alts": null,
-      "slug": "玛力露"
+      "slug": "玛力露",
+      "alts": null
     },
     {
       "nameCn": "玛力露丽",
-      "alts": null,
-      "slug": "玛力露丽"
+      "slug": "玛力露丽",
+      "alts": null
     }
   ],
   "stats": {

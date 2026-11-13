@@ -65,11 +65,19 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "岩山隧道 1f·白天",
+            "text": "岩山隧道·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "岩山隧道 1f·晚上",
+            "text": "岩山隧道·晚上",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "点之穴·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "点之穴·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -80,8 +88,8 @@
       "evolution": [
         {
           "nameCn": "铁蚁",
-          "alts": null,
-          "slug": "铁蚁"
+          "slug": "铁蚁",
+          "alts": null
         }
       ],
       "stats": {
@@ -775,10 +783,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -934,7 +942,7 @@
     {
       "slot": "H",
       "nameCn": "懒惰",
-      "href": "https://wiki.52poke.com/wiki/%E6%87%92%E6%83%B0",
+      "href": "/特性/修改#懒惰",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -960,11 +968,19 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "岩山隧道 1f·白天",
+        "text": "岩山隧道·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "岩山隧道 1f·晚上",
+        "text": "岩山隧道·晚上",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "点之穴·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "点之穴·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -975,8 +991,8 @@
   "evolution": [
     {
       "nameCn": "铁蚁",
-      "alts": null,
-      "slug": "铁蚁"
+      "slug": "铁蚁",
+      "alts": null
     }
   ],
   "stats": {
@@ -1670,10 +1686,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

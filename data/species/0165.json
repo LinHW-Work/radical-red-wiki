@@ -64,13 +64,13 @@
       "evolution": [
         {
           "nameCn": "芭瓢虫",
-          "alts": null,
-          "slug": "芭瓢虫"
+          "slug": "芭瓢虫",
+          "alts": null
         },
         {
           "nameCn": "安瓢虫",
-          "alts": null,
-          "slug": "安瓢虫"
+          "slug": "安瓢虫",
+          "alts": null
         }
       ],
       "stats": {
@@ -958,13 +958,13 @@
   "evolution": [
     {
       "nameCn": "芭瓢虫",
-      "alts": null,
-      "slug": "芭瓢虫"
+      "slug": "芭瓢虫",
+      "alts": null
     },
     {
       "nameCn": "安瓢虫",
-      "alts": null,
-      "slug": "安瓢虫"
+      "slug": "安瓢虫",
+      "alts": null
     }
   ],
   "stats": {

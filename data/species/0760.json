@@ -49,7 +49,7 @@
       "obtains": {
         "map": [
           {
-            "text": "宝可梦屋 3f·白天",
+            "text": "宝可梦屋·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -58,21 +58,21 @@
         "evolution": [
           {
             "group": "evolution",
-            "text": "着装熊·Lv.27",
+            "text": "童偶熊·Lv.27",
             "href": null
           }
         ]
       },
       "evolution": [
         {
-          "nameCn": "着装熊",
-          "alts": null,
-          "slug": "着装熊"
+          "nameCn": "童偶熊",
+          "slug": "童偶熊",
+          "alts": null
         },
         {
           "nameCn": "穿着熊",
-          "alts": null,
-          "slug": "穿着熊"
+          "slug": "穿着熊",
+          "alts": null
         }
       ],
       "stats": {
@@ -1013,10 +1013,10 @@
         },
         {
           "level": null,
-          "nameCn": "DD金勾臂",
+          "nameCn": "ＤＤ金勾臂",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/DD%E9%87%91%E5%8B%BE%E8%87%82",
+          "href": "https://wiki.52poke.com/wiki/%EF%BC%A4%EF%BC%A4%E9%87%91%E5%8B%BE%E8%87%82",
           "type": "恶",
           "category": "物理",
           "power": 85,
@@ -1074,7 +1074,7 @@
   "obtains": {
     "map": [
       {
-        "text": "宝可梦屋 3f·白天",
+        "text": "宝可梦屋·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1083,21 +1083,21 @@
     "evolution": [
       {
         "group": "evolution",
-        "text": "着装熊·Lv.27",
+        "text": "童偶熊·Lv.27",
         "href": null
       }
     ]
   },
   "evolution": [
     {
-      "nameCn": "着装熊",
-      "alts": null,
-      "slug": "着装熊"
+      "nameCn": "童偶熊",
+      "slug": "童偶熊",
+      "alts": null
     },
     {
       "nameCn": "穿着熊",
-      "alts": null,
-      "slug": "穿着熊"
+      "slug": "穿着熊",
+      "alts": null
     }
   ],
   "stats": {
@@ -2038,10 +2038,10 @@
     },
     {
       "level": null,
-      "nameCn": "DD金勾臂",
+      "nameCn": "ＤＤ金勾臂",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/DD%E9%87%91%E5%8B%BE%E8%87%82",
+      "href": "https://wiki.52poke.com/wiki/%EF%BC%A4%EF%BC%A4%E9%87%91%E5%8B%BE%E8%87%82",
       "type": "恶",
       "category": "物理",
       "power": 85,

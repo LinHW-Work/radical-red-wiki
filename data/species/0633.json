@@ -42,18 +42,18 @@
       "evolution": [
         {
           "nameCn": "单首龙",
-          "alts": null,
-          "slug": "单首龙"
+          "slug": "单首龙",
+          "alts": null
         },
         {
           "nameCn": "双首暴龙",
-          "alts": null,
-          "slug": "双首暴龙"
+          "slug": "双首暴龙",
+          "alts": null
         },
         {
           "nameCn": "三首恶龙",
-          "alts": null,
-          "slug": "三首恶龙"
+          "slug": "三首恶龙",
+          "alts": null
         }
       ],
       "stats": {
@@ -419,8 +419,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -977,18 +977,18 @@
   "evolution": [
     {
       "nameCn": "单首龙",
-      "alts": null,
-      "slug": "单首龙"
+      "slug": "单首龙",
+      "alts": null
     },
     {
       "nameCn": "双首暴龙",
-      "alts": null,
-      "slug": "双首暴龙"
+      "slug": "双首暴龙",
+      "alts": null
     },
     {
       "nameCn": "三首恶龙",
-      "alts": null,
-      "slug": "三首恶龙"
+      "slug": "三首恶龙",
+      "alts": null
     }
   ],
   "stats": {
@@ -1354,8 +1354,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,

@@ -44,7 +44,7 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "宝可梦屋 4f·晚上",
+            "text": "宝可梦屋·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -61,11 +61,12 @@
       "evolution": [
         {
           "nameCn": "雪童子",
-          "alts": null,
-          "slug": "雪童子"
+          "slug": "雪童子",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "冰鬼护",
@@ -185,10 +186,10 @@
         },
         {
           "level": 23,
-          "nameCn": "Drain Kiss",
+          "nameCn": "吸取之吻",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Drain Kiss",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
           "type": null,
           "category": null,
           "power": null,
@@ -197,10 +198,10 @@
         },
         {
           "level": 28,
-          "nameCn": "鬼火",
+          "nameCn": "磷火",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+          "href": "https://wiki.52poke.com/wiki/%E7%A3%B7%E7%81%AB",
           "type": "火",
           "category": "变化",
           "power": null,
@@ -1102,7 +1103,7 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "宝可梦屋 4f·晚上",
+        "text": "宝可梦屋·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1119,11 +1120,12 @@
   "evolution": [
     {
       "nameCn": "雪童子",
-      "alts": null,
-      "slug": "雪童子"
+      "slug": "雪童子",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "冰鬼护",
@@ -1243,10 +1245,10 @@
     },
     {
       "level": 23,
-      "nameCn": "Drain Kiss",
+      "nameCn": "吸取之吻",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Drain Kiss",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
       "type": null,
       "category": null,
       "power": null,
@@ -1255,10 +1257,10 @@
     },
     {
       "level": 28,
-      "nameCn": "鬼火",
+      "nameCn": "磷火",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+      "href": "https://wiki.52poke.com/wiki/%E7%A3%B7%E7%81%AB",
       "type": "火",
       "category": "变化",
       "power": null,

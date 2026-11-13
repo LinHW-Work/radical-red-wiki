@@ -52,7 +52,7 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "地鼠洞穴·晚上",
+            "text": "Diglett's Cave·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -63,13 +63,13 @@
       "evolution": [
         {
           "nameCn": "顽皮熊猫",
-          "alts": null,
-          "slug": "顽皮熊猫"
+          "slug": "顽皮熊猫",
+          "alts": null
         },
         {
           "nameCn": "霸道熊猫",
-          "alts": null,
-          "slug": "霸道熊猫"
+          "slug": "霸道熊猫",
+          "alts": null
         }
       ],
       "stats": {
@@ -955,10 +955,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -988,18 +988,6 @@
           "power": 95,
           "accuracy": 100,
           "pp": 15
-        },
-        {
-          "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
         },
         {
           "level": null,
@@ -1143,7 +1131,7 @@
     {
       "slot": "0",
       "nameCn": "铁拳",
-      "href": "https://wiki.52poke.com/wiki/%E9%93%81%E6%8B%B3",
+      "href": "/特性/修改#铁拳",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1175,7 +1163,7 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "地鼠洞穴·晚上",
+        "text": "Diglett's Cave·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1186,13 +1174,13 @@
   "evolution": [
     {
       "nameCn": "顽皮熊猫",
-      "alts": null,
-      "slug": "顽皮熊猫"
+      "slug": "顽皮熊猫",
+      "alts": null
     },
     {
       "nameCn": "霸道熊猫",
-      "alts": null,
-      "slug": "霸道熊猫"
+      "slug": "霸道熊猫",
+      "alts": null
     }
   ],
   "stats": {
@@ -2078,10 +2066,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -2111,18 +2099,6 @@
       "power": 95,
       "accuracy": 100,
       "pp": 15
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

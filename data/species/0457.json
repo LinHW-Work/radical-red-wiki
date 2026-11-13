@@ -48,7 +48,7 @@
       "obtains": {
         "map": [
           {
-            "text": "红莲镇·厉害吊杆",
+            "text": "浅红市·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
@@ -56,15 +56,19 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "21a号道路·厉害吊杆",
+            "text": "21号道路（靠近真新镇）·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "21a号道路·冲浪",
+            "text": "21号道路（靠近真新镇）·冲浪",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "21b号道路·厉害吊杆",
+            "text": "21号道路（靠近红莲岛）·厉害吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "狩猎地带·冲浪",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -81,13 +85,13 @@
       "evolution": [
         {
           "nameCn": "荧光鱼",
-          "alts": null,
-          "slug": "荧光鱼"
+          "slug": "荧光鱼",
+          "alts": null
         },
         {
           "nameCn": "霓虹鱼",
-          "alts": null,
-          "slug": "霓虹鱼"
+          "slug": "霓虹鱼",
+          "alts": null
         }
       ],
       "stats": {
@@ -293,10 +297,10 @@
         },
         {
           "level": 48,
-          "nameCn": "U转攻击",
+          "nameCn": "急速折返",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+          "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
           "type": "虫",
           "category": "物理",
           "power": 70,
@@ -982,7 +986,7 @@
   "obtains": {
     "map": [
       {
-        "text": "红莲镇·厉害吊杆",
+        "text": "浅红市·厉害吊杆",
         "href": "/分布/地图捕捉"
       },
       {
@@ -990,15 +994,19 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "21a号道路·厉害吊杆",
+        "text": "21号道路（靠近真新镇）·厉害吊杆",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "21a号道路·冲浪",
+        "text": "21号道路（靠近真新镇）·冲浪",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "21b号道路·厉害吊杆",
+        "text": "21号道路（靠近红莲岛）·厉害吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "狩猎地带·冲浪",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1015,13 +1023,13 @@
   "evolution": [
     {
       "nameCn": "荧光鱼",
-      "alts": null,
-      "slug": "荧光鱼"
+      "slug": "荧光鱼",
+      "alts": null
     },
     {
       "nameCn": "霓虹鱼",
-      "alts": null,
-      "slug": "霓虹鱼"
+      "slug": "霓虹鱼",
+      "alts": null
     }
   ],
   "stats": {
@@ -1227,10 +1235,10 @@
     },
     {
       "level": 48,
-      "nameCn": "U转攻击",
+      "nameCn": "急速折返",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+      "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
       "type": "虫",
       "category": "物理",
       "power": 70,

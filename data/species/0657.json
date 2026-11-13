@@ -51,18 +51,18 @@
       "evolution": [
         {
           "nameCn": "呱呱泡蛙",
-          "alts": null,
-          "slug": "呱呱泡蛙"
+          "slug": "呱呱泡蛙",
+          "alts": null
         },
         {
           "nameCn": "呱头蛙",
-          "alts": null,
-          "slug": "呱头蛙"
+          "slug": "呱头蛙",
+          "alts": null
         },
         {
           "nameCn": "甲贺忍蛙",
-          "alts": null,
-          "slug": "甲贺忍蛙"
+          "slug": "甲贺忍蛙",
+          "alts": null
         }
       ],
       "stats": {
@@ -857,18 +857,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "击落",
           "restricted": false,
           "original": false,
@@ -992,18 +980,18 @@
   "evolution": [
     {
       "nameCn": "呱呱泡蛙",
-      "alts": null,
-      "slug": "呱呱泡蛙"
+      "slug": "呱呱泡蛙",
+      "alts": null
     },
     {
       "nameCn": "呱头蛙",
-      "alts": null,
-      "slug": "呱头蛙"
+      "slug": "呱头蛙",
+      "alts": null
     },
     {
       "nameCn": "甲贺忍蛙",
-      "alts": null,
-      "slug": "甲贺忍蛙"
+      "slug": "甲贺忍蛙",
+      "alts": null
     }
   ],
   "stats": {
@@ -1795,18 +1783,6 @@
       "power": 55,
       "accuracy": 95,
       "pp": 15
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

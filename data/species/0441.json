@@ -49,11 +49,11 @@
       "obtains": {
         "map": [
           {
-            "text": "极西区·白天",
+            "text": "狩猎地带·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "极西区·夜晚",
+            "text": "狩猎地带·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -69,8 +69,8 @@
       "evolution": [
         {
           "nameCn": "聒噪鸟",
-          "alts": null,
-          "slug": "聒噪鸟"
+          "slug": "聒噪鸟",
+          "alts": null
         }
       ],
       "stats": {
@@ -892,11 +892,11 @@
   "obtains": {
     "map": [
       {
-        "text": "极西区·白天",
+        "text": "狩猎地带·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "极西区·夜晚",
+        "text": "狩猎地带·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -912,8 +912,8 @@
   "evolution": [
     {
       "nameCn": "聒噪鸟",
-      "alts": null,
-      "slug": "聒噪鸟"
+      "slug": "聒噪鸟",
+      "alts": null
     }
   ],
   "stats": {

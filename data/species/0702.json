@@ -57,14 +57,14 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "无人发电厂·白天",
+            "text": "发电厂·白天",
             "href": "/分布/地图捕捉"
           }
         ],
         "static": [
           {
             "text": "14号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -73,8 +73,8 @@
       "evolution": [
         {
           "nameCn": "咚咚鼠",
-          "alts": null,
-          "slug": "咚咚鼠"
+          "slug": "咚咚鼠",
+          "alts": null
         }
       ],
       "stats": {
@@ -882,7 +882,7 @@
     {
       "slot": "1",
       "nameCn": "捡拾",
-      "href": "https://wiki.52poke.com/wiki/%E6%8D%A1%E6%8B%BE",
+      "href": "/特性/修改#捡拾",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -909,14 +909,14 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "无人发电厂·白天",
+        "text": "发电厂·白天",
         "href": "/分布/地图捕捉"
       }
     ],
     "static": [
       {
         "text": "14号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -925,8 +925,8 @@
   "evolution": [
     {
       "nameCn": "咚咚鼠",
-      "alts": null,
-      "slug": "咚咚鼠"
+      "slug": "咚咚鼠",
+      "alts": null
     }
   ],
   "stats": {

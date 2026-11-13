@@ -43,11 +43,11 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "宝可梦屋 b1f·白天",
+            "text": "宝可梦屋·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "宝可梦屋 b1f·晚上",
+            "text": "宝可梦屋·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -64,18 +64,18 @@
       "evolution": [
         {
           "nameCn": "鸭嘴宝宝",
-          "alts": null,
-          "slug": "鸭嘴宝宝"
+          "slug": "鸭嘴宝宝",
+          "alts": null
         },
         {
           "nameCn": "鸭嘴火兽",
-          "alts": null,
-          "slug": "鸭嘴火兽"
+          "slug": "鸭嘴火兽",
+          "alts": null
         },
         {
           "nameCn": "鸭嘴炎兽",
-          "alts": null,
-          "slug": "鸭嘴炎兽"
+          "slug": "鸭嘴炎兽",
+          "alts": null
         }
       ],
       "stats": {
@@ -1044,7 +1044,7 @@
     {
       "slot": "0",
       "nameCn": "火焰之躯",
-      "href": "https://wiki.52poke.com/wiki/%E7%81%AB%E7%84%B0%E4%B9%8B%E8%BA%AF",
+      "href": "/特性/修改#火焰之躯",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1067,11 +1067,11 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "宝可梦屋 b1f·白天",
+        "text": "宝可梦屋·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "宝可梦屋 b1f·晚上",
+        "text": "宝可梦屋·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1088,18 +1088,18 @@
   "evolution": [
     {
       "nameCn": "鸭嘴宝宝",
-      "alts": null,
-      "slug": "鸭嘴宝宝"
+      "slug": "鸭嘴宝宝",
+      "alts": null
     },
     {
       "nameCn": "鸭嘴火兽",
-      "alts": null,
-      "slug": "鸭嘴火兽"
+      "slug": "鸭嘴火兽",
+      "alts": null
     },
     {
       "nameCn": "鸭嘴炎兽",
-      "alts": null,
-      "slug": "鸭嘴炎兽"
+      "slug": "鸭嘴炎兽",
+      "alts": null
     }
   ],
   "stats": {

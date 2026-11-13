@@ -43,18 +43,18 @@
       "evolution": [
         {
           "nameCn": "独角虫",
-          "alts": null,
-          "slug": "独角虫"
+          "slug": "独角虫",
+          "alts": null
         },
         {
           "nameCn": "铁壳蛹",
-          "alts": null,
-          "slug": "铁壳蛹"
+          "slug": "铁壳蛹",
+          "alts": null
         },
         {
           "nameCn": "大针蜂",
-          "alts": null,
-          "slug": "大针蜂"
+          "slug": "大针蜂",
+          "alts": null
         }
       ],
       "stats": {
@@ -189,18 +189,18 @@
   "evolution": [
     {
       "nameCn": "独角虫",
-      "alts": null,
-      "slug": "独角虫"
+      "slug": "独角虫",
+      "alts": null
     },
     {
       "nameCn": "铁壳蛹",
-      "alts": null,
-      "slug": "铁壳蛹"
+      "slug": "铁壳蛹",
+      "alts": null
     },
     {
       "nameCn": "大针蜂",
-      "alts": null,
-      "slug": "大针蜂"
+      "slug": "大针蜂",
+      "alts": null
     }
   ],
   "stats": {

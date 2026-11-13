@@ -49,15 +49,15 @@
       "obtains": {
         "map": [
           {
-            "text": "月见山 b2f·晚上",
+            "text": "月见山·晚上",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "冠军之路 3f·白天",
+            "text": "冠军之路·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "冠军之路 3f·晚上",
+            "text": "冠军之路·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -68,8 +68,8 @@
       "evolution": [
         {
           "nameCn": "大嘴娃",
-          "alts": null,
-          "slug": "大嘴娃"
+          "slug": "大嘴娃",
+          "alts": null
         }
       ],
       "stats": {
@@ -287,10 +287,10 @@
         },
         {
           "level": 100,
-          "nameCn": "双臂平连",
+          "nameCn": "钢拳双击",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8F%8C%E8%87%82%E5%B9%B3%E8%BF%9E",
+          "href": "https://wiki.52poke.com/wiki/%E9%92%A2%E6%8B%B3%E5%8F%8C%E5%87%BB",
           "type": "钢",
           "category": "物理",
           "power": 60,
@@ -1310,15 +1310,15 @@
       "obtains": {
         "map": [
           {
-            "text": "月见山 b2f·晚上",
+            "text": "月见山·晚上",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "冠军之路 3f·白天",
+            "text": "冠军之路·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "冠军之路 3f·晚上",
+            "text": "冠军之路·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -1329,8 +1329,8 @@
       "evolution": [
         {
           "nameCn": "大嘴娃",
-          "alts": null,
-          "slug": "大嘴娃"
+          "slug": "大嘴娃",
+          "alts": null
         }
       ],
       "stats": {
@@ -1548,10 +1548,10 @@
         },
         {
           "level": 100,
-          "nameCn": "双臂平连",
+          "nameCn": "钢拳双击",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8F%8C%E8%87%82%E5%B9%B3%E8%BF%9E",
+          "href": "https://wiki.52poke.com/wiki/%E9%92%A2%E6%8B%B3%E5%8F%8C%E5%87%BB",
           "type": "钢",
           "category": "物理",
           "power": 60,
@@ -1600,15 +1600,15 @@
   "obtains": {
     "map": [
       {
-        "text": "月见山 b2f·晚上",
+        "text": "月见山·晚上",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "冠军之路 3f·白天",
+        "text": "冠军之路·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "冠军之路 3f·晚上",
+        "text": "冠军之路·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1619,8 +1619,8 @@
   "evolution": [
     {
       "nameCn": "大嘴娃",
-      "alts": null,
-      "slug": "大嘴娃"
+      "slug": "大嘴娃",
+      "alts": null
     }
   ],
   "stats": {
@@ -1838,10 +1838,10 @@
     },
     {
       "level": 100,
-      "nameCn": "双臂平连",
+      "nameCn": "钢拳双击",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8F%8C%E8%87%82%E5%B9%B3%E8%BF%9E",
+      "href": "https://wiki.52poke.com/wiki/%E9%92%A2%E6%8B%B3%E5%8F%8C%E5%87%BB",
       "type": "钢",
       "category": "物理",
       "power": 60,

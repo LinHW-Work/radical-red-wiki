@@ -68,13 +68,13 @@
       "evolution": [
         {
           "nameCn": "灯笼鱼",
-          "alts": null,
-          "slug": "灯笼鱼"
+          "slug": "灯笼鱼",
+          "alts": null
         },
         {
           "nameCn": "电灯怪",
-          "alts": null,
-          "slug": "电灯怪"
+          "slug": "电灯怪",
+          "alts": null
         }
       ],
       "stats": {
@@ -891,7 +891,7 @@
     {
       "slot": "1",
       "nameCn": "发光",
-      "href": "https://wiki.52poke.com/wiki/%E5%8F%91%E5%85%89",
+      "href": "/特性/修改#发光",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -929,13 +929,13 @@
   "evolution": [
     {
       "nameCn": "灯笼鱼",
-      "alts": null,
-      "slug": "灯笼鱼"
+      "slug": "灯笼鱼",
+      "alts": null
     },
     {
       "nameCn": "电灯怪",
-      "alts": null,
-      "slug": "电灯怪"
+      "slug": "电灯怪",
+      "alts": null
     }
   ],
   "stats": {

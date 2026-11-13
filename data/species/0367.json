@@ -43,7 +43,11 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "东区·厉害吊杆",
+            "text": "狩猎地带·厉害吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "火照小路·厉害吊杆",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -65,11 +69,12 @@
       "evolution": [
         {
           "nameCn": "珍珠贝",
-          "alts": null,
-          "slug": "珍珠贝"
+          "slug": "珍珠贝",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "猎斑鱼",
@@ -273,10 +278,10 @@
         },
         {
           "level": 50,
-          "nameCn": "Aqua Fang",
+          "nameCn": "水流牙",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Aqua Fang",
+          "href": "/原创招式#水流牙",
           "type": null,
           "category": null,
           "power": null,
@@ -693,10 +698,10 @@
         },
         {
           "level": null,
-          "nameCn": "Dark Hole",
+          "nameCn": "暗黑洞",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Dark Hole",
+          "href": "/原创招式#暗黑洞",
           "type": null,
           "category": null,
           "power": null,
@@ -952,7 +957,11 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "东区·厉害吊杆",
+        "text": "狩猎地带·厉害吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "火照小路·厉害吊杆",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -974,11 +983,12 @@
   "evolution": [
     {
       "nameCn": "珍珠贝",
-      "alts": null,
-      "slug": "珍珠贝"
+      "slug": "珍珠贝",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "猎斑鱼",
@@ -1182,10 +1192,10 @@
     },
     {
       "level": 50,
-      "nameCn": "Aqua Fang",
+      "nameCn": "水流牙",
       "restricted": false,
       "original": true,
-      "href": "/原创招式/Aqua Fang",
+      "href": "/原创招式#水流牙",
       "type": null,
       "category": null,
       "power": null,
@@ -1602,10 +1612,10 @@
     },
     {
       "level": null,
-      "nameCn": "Dark Hole",
+      "nameCn": "暗黑洞",
       "restricted": false,
       "original": true,
-      "href": "/原创招式/Dark Hole",
+      "href": "/原创招式#暗黑洞",
       "type": null,
       "category": null,
       "power": null,

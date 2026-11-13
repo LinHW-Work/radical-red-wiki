@@ -50,18 +50,18 @@
       "evolution": [
         {
           "nameCn": "新叶喵",
-          "alts": null,
-          "slug": "新叶喵"
+          "slug": "新叶喵",
+          "alts": null
         },
         {
           "nameCn": "蒂蕾喵",
-          "alts": null,
-          "slug": "蒂蕾喵"
+          "slug": "蒂蕾喵",
+          "alts": null
         },
         {
           "nameCn": "魔幻假面喵",
-          "alts": null,
-          "slug": "魔幻假面喵"
+          "slug": "魔幻假面喵",
+          "alts": null
         }
       ],
       "stats": {
@@ -159,10 +159,10 @@
         },
         {
           "level": 21,
-          "nameCn": "U转攻击",
+          "nameCn": "急速折返",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+          "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
           "type": "虫",
           "category": "物理",
           "power": 70,
@@ -727,18 +727,18 @@
   "evolution": [
     {
       "nameCn": "新叶喵",
-      "alts": null,
-      "slug": "新叶喵"
+      "slug": "新叶喵",
+      "alts": null
     },
     {
       "nameCn": "蒂蕾喵",
-      "alts": null,
-      "slug": "蒂蕾喵"
+      "slug": "蒂蕾喵",
+      "alts": null
     },
     {
       "nameCn": "魔幻假面喵",
-      "alts": null,
-      "slug": "魔幻假面喵"
+      "slug": "魔幻假面喵",
+      "alts": null
     }
   ],
   "stats": {
@@ -836,10 +836,10 @@
     },
     {
       "level": 21,
-      "nameCn": "U转攻击",
+      "nameCn": "急速折返",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+      "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
       "type": "虫",
       "category": "物理",
       "power": 70,

@@ -49,15 +49,15 @@
       "obtains": {
         "map": [
           {
-            "text": "21a号道路·白天",
+            "text": "21号道路（靠近真新镇）·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "21a号道路·晚上",
+            "text": "21号道路（靠近真新镇）·晚上",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "岩山隧道 1f·晚上",
+            "text": "岩山隧道·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -68,13 +68,13 @@
       "evolution": [
         {
           "nameCn": "石居蟹",
-          "alts": null,
-          "slug": "石居蟹"
+          "slug": "石居蟹",
+          "alts": null
         },
         {
           "nameCn": "岩殿居蟹",
-          "alts": null,
-          "slug": "岩殿居蟹"
+          "slug": "岩殿居蟹",
+          "alts": null
         }
       ],
       "stats": {
@@ -908,15 +908,15 @@
   "obtains": {
     "map": [
       {
-        "text": "21a号道路·白天",
+        "text": "21号道路（靠近真新镇）·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "21a号道路·晚上",
+        "text": "21号道路（靠近真新镇）·晚上",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "岩山隧道 1f·晚上",
+        "text": "岩山隧道·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -927,13 +927,13 @@
   "evolution": [
     {
       "nameCn": "石居蟹",
-      "alts": null,
-      "slug": "石居蟹"
+      "slug": "石居蟹",
+      "alts": null
     },
     {
       "nameCn": "岩殿居蟹",
-      "alts": null,
-      "slug": "岩殿居蟹"
+      "slug": "岩殿居蟹",
+      "alts": null
     }
   ],
   "stats": {

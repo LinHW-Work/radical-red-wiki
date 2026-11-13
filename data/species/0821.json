@@ -63,18 +63,18 @@
       "evolution": [
         {
           "nameCn": "稚山雀",
-          "alts": null,
-          "slug": "稚山雀"
+          "slug": "稚山雀",
+          "alts": null
         },
         {
           "nameCn": "蓝鸦",
-          "alts": null,
-          "slug": "蓝鸦"
+          "slug": "蓝鸦",
+          "alts": null
         },
         {
           "nameCn": "钢铠鸦",
-          "alts": null,
-          "slug": "钢铠鸦"
+          "slug": "钢铠鸦",
+          "alts": null
         }
       ],
       "stats": {
@@ -762,18 +762,18 @@
   "evolution": [
     {
       "nameCn": "稚山雀",
-      "alts": null,
-      "slug": "稚山雀"
+      "slug": "稚山雀",
+      "alts": null
     },
     {
       "nameCn": "蓝鸦",
-      "alts": null,
-      "slug": "蓝鸦"
+      "slug": "蓝鸦",
+      "alts": null
     },
     {
       "nameCn": "钢铠鸦",
-      "alts": null,
-      "slug": "钢铠鸦"
+      "slug": "钢铠鸦",
+      "alts": null
     }
   ],
   "stats": {

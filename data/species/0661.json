@@ -51,7 +51,7 @@
         "static": [
           {
             "text": "3号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -60,18 +60,18 @@
       "evolution": [
         {
           "nameCn": "小箭雀",
-          "alts": null,
-          "slug": "小箭雀"
+          "slug": "小箭雀",
+          "alts": null
         },
         {
           "nameCn": "火箭雀",
-          "alts": null,
-          "slug": "火箭雀"
+          "slug": "火箭雀",
+          "alts": null
         },
         {
           "nameCn": "烈箭鹰",
-          "alts": null,
-          "slug": "烈箭鹰"
+          "slug": "烈箭鹰",
+          "alts": null
         }
       ],
       "stats": {
@@ -714,7 +714,7 @@
     "static": [
       {
         "text": "3号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -723,18 +723,18 @@
   "evolution": [
     {
       "nameCn": "小箭雀",
-      "alts": null,
-      "slug": "小箭雀"
+      "slug": "小箭雀",
+      "alts": null
     },
     {
       "nameCn": "火箭雀",
-      "alts": null,
-      "slug": "火箭雀"
+      "slug": "火箭雀",
+      "alts": null
     },
     {
       "nameCn": "烈箭鹰",
-      "alts": null,
-      "slug": "烈箭鹰"
+      "slug": "烈箭鹰",
+      "alts": null
     }
   ],
   "stats": {

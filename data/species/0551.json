@@ -49,41 +49,42 @@
       "obtains": {
         "map": [
           {
-            "text": "地鼠洞穴·晚上",
+            "text": "月见山·晚上",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "地鼠洞穴 b1f·白天",
+            "text": "Diglett's Cave·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "地鼠洞穴 b1f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "月见山 b1f·晚上",
+            "text": "Diglett's Cave·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
-        "static": [],
+        "static": [
+          {
+            "text": "Diglett's Cave",
+            "href": "/分布/极巨巢穴"
+          }
+        ],
         "npc": [],
         "evolution": []
       },
       "evolution": [
         {
           "nameCn": "黑眼鳄",
-          "alts": null,
-          "slug": "黑眼鳄"
+          "slug": "黑眼鳄",
+          "alts": null
         },
         {
           "nameCn": "混混鳄",
-          "alts": null,
-          "slug": "混混鳄"
+          "slug": "混混鳄",
+          "alts": null
         },
         {
           "nameCn": "流氓鳄",
-          "alts": null,
-          "slug": "流氓鳄"
+          "slug": "流氓鳄",
+          "alts": null
         }
       ],
       "stats": {
@@ -1017,41 +1018,42 @@
   "obtains": {
     "map": [
       {
-        "text": "地鼠洞穴·晚上",
+        "text": "月见山·晚上",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "地鼠洞穴 b1f·白天",
+        "text": "Diglett's Cave·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "地鼠洞穴 b1f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "月见山 b1f·晚上",
+        "text": "Diglett's Cave·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
-    "static": [],
+    "static": [
+      {
+        "text": "Diglett's Cave",
+        "href": "/分布/极巨巢穴"
+      }
+    ],
     "npc": [],
     "evolution": []
   },
   "evolution": [
     {
       "nameCn": "黑眼鳄",
-      "alts": null,
-      "slug": "黑眼鳄"
+      "slug": "黑眼鳄",
+      "alts": null
     },
     {
       "nameCn": "混混鳄",
-      "alts": null,
-      "slug": "混混鳄"
+      "slug": "混混鳄",
+      "alts": null
     },
     {
       "nameCn": "流氓鳄",
-      "alts": null,
-      "slug": "流氓鳄"
+      "slug": "流氓鳄",
+      "alts": null
     }
   ],
   "stats": {

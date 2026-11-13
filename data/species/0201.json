@@ -30,19 +30,11 @@
       "obtains": {
         "map": [
           {
-            "text": "宝可梦屋 4f·白天",
+            "text": "宝可梦屋·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "宝可梦屋 4f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "轰鸣月的房间·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "轰鸣月的房间·晚上",
+            "text": "宝可梦屋·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -53,8 +45,8 @@
       "evolution": [
         {
           "nameCn": "未知图腾",
-          "alts": null,
-          "slug": "未知图腾"
+          "slug": "未知图腾",
+          "alts": null
         }
       ],
       "stats": {
@@ -92,10 +84,10 @@
         },
         {
           "level": 34,
-          "nameCn": "Forbidden Spell",
+          "nameCn": "禁忌咒文",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Forbidden Spell",
+          "href": "/原创招式#禁忌咒文",
           "type": null,
           "category": null,
           "power": null,
@@ -151,19 +143,11 @@
   "obtains": {
     "map": [
       {
-        "text": "宝可梦屋 4f·白天",
+        "text": "宝可梦屋·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "宝可梦屋 4f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "轰鸣月的房间·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "轰鸣月的房间·晚上",
+        "text": "宝可梦屋·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -174,8 +158,8 @@
   "evolution": [
     {
       "nameCn": "未知图腾",
-      "alts": null,
-      "slug": "未知图腾"
+      "slug": "未知图腾",
+      "alts": null
     }
   ],
   "stats": {
@@ -213,10 +197,10 @@
     },
     {
       "level": 34,
-      "nameCn": "Forbidden Spell",
+      "nameCn": "禁忌咒文",
       "restricted": false,
       "original": true,
-      "href": "/原创招式/Forbidden Spell",
+      "href": "/原创招式#禁忌咒文",
       "type": null,
       "category": null,
       "power": null,

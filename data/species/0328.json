@@ -48,11 +48,11 @@
       "obtains": {
         "map": [
           {
-            "text": "地鼠洞穴·白天",
+            "text": "Diglett's Cave·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "地鼠洞穴·晚上",
+            "text": "Diglett's Cave·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -63,18 +63,18 @@
       "evolution": [
         {
           "nameCn": "大颚蚁",
-          "alts": null,
-          "slug": "大颚蚁"
+          "slug": "大颚蚁",
+          "alts": null
         },
         {
           "nameCn": "超音波幼虫",
-          "alts": null,
-          "slug": "超音波幼虫"
+          "slug": "超音波幼虫",
+          "alts": null
         },
         {
           "nameCn": "沙漠蜻蜓",
-          "alts": null,
-          "slug": "沙漠蜻蜓"
+          "slug": "沙漠蜻蜓",
+          "alts": null
         }
       ],
       "stats": {
@@ -820,11 +820,11 @@
   "obtains": {
     "map": [
       {
-        "text": "地鼠洞穴·白天",
+        "text": "Diglett's Cave·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "地鼠洞穴·晚上",
+        "text": "Diglett's Cave·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -835,18 +835,18 @@
   "evolution": [
     {
       "nameCn": "大颚蚁",
-      "alts": null,
-      "slug": "大颚蚁"
+      "slug": "大颚蚁",
+      "alts": null
     },
     {
       "nameCn": "超音波幼虫",
-      "alts": null,
-      "slug": "超音波幼虫"
+      "slug": "超音波幼虫",
+      "alts": null
     },
     {
       "nameCn": "沙漠蜻蜓",
-      "alts": null,
-      "slug": "沙漠蜻蜓"
+      "slug": "沙漠蜻蜓",
+      "alts": null
     }
   ],
   "stats": {

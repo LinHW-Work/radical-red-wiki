@@ -50,7 +50,7 @@
         "static": [
           {
             "text": "12号道路与16号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -65,13 +65,13 @@
       "evolution": [
         {
           "nameCn": "小卡比兽",
-          "alts": null,
-          "slug": "小卡比兽"
+          "slug": "小卡比兽",
+          "alts": null
         },
         {
           "nameCn": "卡比兽",
-          "alts": null,
-          "slug": "卡比兽"
+          "slug": "卡比兽",
+          "alts": null
         }
       ],
       "stats": {
@@ -1168,18 +1168,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "巨声",
           "restricted": false,
           "original": false,
@@ -1372,10 +1360,10 @@
         },
         {
           "level": null,
-          "nameCn": "DD金勾臂",
+          "nameCn": "ＤＤ金勾臂",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/DD%E9%87%91%E5%8B%BE%E8%87%82",
+          "href": "https://wiki.52poke.com/wiki/%EF%BC%A4%EF%BC%A4%E9%87%91%E5%8B%BE%E8%87%82",
           "type": "恶",
           "category": "物理",
           "power": 85,
@@ -1458,7 +1446,7 @@
     "static": [
       {
         "text": "12号道路与16号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -1473,13 +1461,13 @@
   "evolution": [
     {
       "nameCn": "小卡比兽",
-      "alts": null,
-      "slug": "小卡比兽"
+      "slug": "小卡比兽",
+      "alts": null
     },
     {
       "nameCn": "卡比兽",
-      "alts": null,
-      "slug": "卡比兽"
+      "slug": "卡比兽",
+      "alts": null
     }
   ],
   "stats": {
@@ -2576,18 +2564,6 @@
     },
     {
       "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
-    },
-    {
-      "level": null,
       "nameCn": "巨声",
       "restricted": false,
       "original": false,
@@ -2780,10 +2756,10 @@
     },
     {
       "level": null,
-      "nameCn": "DD金勾臂",
+      "nameCn": "ＤＤ金勾臂",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/DD%E9%87%91%E5%8B%BE%E8%87%82",
+      "href": "https://wiki.52poke.com/wiki/%EF%BC%A4%EF%BC%A4%E9%87%91%E5%8B%BE%E8%87%82",
       "type": "恶",
       "category": "物理",
       "power": 85,

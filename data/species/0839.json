@@ -47,7 +47,16 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "1,97·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "1,97·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": [
@@ -61,18 +70,18 @@
       "evolution": [
         {
           "nameCn": "小炭仔",
-          "alts": null,
-          "slug": "小炭仔"
+          "slug": "小炭仔",
+          "alts": null
         },
         {
           "nameCn": "大炭车",
-          "alts": null,
-          "slug": "大炭车"
+          "slug": "大炭车",
+          "alts": null
         },
         {
           "nameCn": "巨炭山",
-          "alts": null,
-          "slug": "巨炭山"
+          "slug": "巨炭山",
+          "alts": null
         }
       ],
       "stats": {
@@ -206,10 +215,10 @@
         },
         {
           "level": 27,
-          "nameCn": "烧尽",
+          "nameCn": "烧净",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
           "type": "火",
           "category": "特殊",
           "power": 60,
@@ -1045,7 +1054,7 @@
     {
       "slot": "0",
       "nameCn": "蒸汽机",
-      "href": "https://wiki.52poke.com/wiki/%E8%92%B8%E6%B1%BD%E6%9C%BA",
+      "href": "/特性/修改#蒸汽机",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1054,7 +1063,7 @@
     {
       "slot": "1",
       "nameCn": "火焰之躯",
-      "href": "https://wiki.52poke.com/wiki/%E7%81%AB%E7%84%B0%E4%B9%8B%E8%BA%AF",
+      "href": "/特性/修改#火焰之躯",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1071,7 +1080,16 @@
     }
   ],
   "obtains": {
-    "map": [],
+    "map": [
+      {
+        "text": "1,97·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "1,97·晚上",
+        "href": "/分布/地图捕捉"
+      }
+    ],
     "static": [],
     "npc": [],
     "evolution": [
@@ -1085,18 +1103,18 @@
   "evolution": [
     {
       "nameCn": "小炭仔",
-      "alts": null,
-      "slug": "小炭仔"
+      "slug": "小炭仔",
+      "alts": null
     },
     {
       "nameCn": "大炭车",
-      "alts": null,
-      "slug": "大炭车"
+      "slug": "大炭车",
+      "alts": null
     },
     {
       "nameCn": "巨炭山",
-      "alts": null,
-      "slug": "巨炭山"
+      "slug": "巨炭山",
+      "alts": null
     }
   ],
   "stats": {
@@ -1230,10 +1248,10 @@
     },
     {
       "level": 27,
-      "nameCn": "烧尽",
+      "nameCn": "烧净",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
       "type": "火",
       "category": "特殊",
       "power": 60,

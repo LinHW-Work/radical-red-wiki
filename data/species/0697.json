@@ -20,8 +20,8 @@
       "abilities": [
         {
           "slot": "0",
-          "nameCn": "强颚",
-          "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E9%A2%9A",
+          "nameCn": "强壮之颚",
+          "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E5%A3%AE%E4%B9%8B%E9%A2%9A",
           "original": false,
           "restrictedNameCn": null,
           "restrictedHref": null,
@@ -52,13 +52,13 @@
       "evolution": [
         {
           "nameCn": "宝宝暴龙",
-          "alts": null,
-          "slug": "宝宝暴龙"
+          "slug": "宝宝暴龙",
+          "alts": null
         },
         {
           "nameCn": "怪颚龙",
-          "alts": null,
-          "slug": "怪颚龙"
+          "slug": "怪颚龙",
+          "alts": null
         }
       ],
       "stats": {
@@ -300,10 +300,10 @@
         },
         {
           "level": 52,
-          "nameCn": "加速岩",
+          "nameCn": "冲岩",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E9%80%9F%E5%B2%A9",
+          "href": "https://wiki.52poke.com/wiki/%E5%86%B2%E5%B2%A9",
           "type": "岩石",
           "category": "物理",
           "power": 40,
@@ -625,8 +625,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -1214,8 +1214,8 @@
   "abilities": [
     {
       "slot": "0",
-      "nameCn": "强颚",
-      "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E9%A2%9A",
+      "nameCn": "强壮之颚",
+      "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E5%A3%AE%E4%B9%8B%E9%A2%9A",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1246,13 +1246,13 @@
   "evolution": [
     {
       "nameCn": "宝宝暴龙",
-      "alts": null,
-      "slug": "宝宝暴龙"
+      "slug": "宝宝暴龙",
+      "alts": null
     },
     {
       "nameCn": "怪颚龙",
-      "alts": null,
-      "slug": "怪颚龙"
+      "slug": "怪颚龙",
+      "alts": null
     }
   ],
   "stats": {
@@ -1494,10 +1494,10 @@
     },
     {
       "level": 52,
-      "nameCn": "加速岩",
+      "nameCn": "冲岩",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E9%80%9F%E5%B2%A9",
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B2%E5%B2%A9",
       "type": "岩石",
       "category": "物理",
       "power": 40,
@@ -1819,8 +1819,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,

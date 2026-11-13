@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "不良蛙",
-          "alts": null,
-          "slug": "不良蛙"
+          "slug": "不良蛙",
+          "alts": null
         },
         {
           "nameCn": "毒骷蛙",
-          "alts": null,
-          "slug": "毒骷蛙"
+          "slug": "毒骷蛙",
+          "alts": null
         }
       ],
       "stats": {
@@ -1121,18 +1121,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "二连劈",
           "restricted": false,
           "original": false,
@@ -1313,13 +1301,13 @@
   "evolution": [
     {
       "nameCn": "不良蛙",
-      "alts": null,
-      "slug": "不良蛙"
+      "slug": "不良蛙",
+      "alts": null
     },
     {
       "nameCn": "毒骷蛙",
-      "alts": null,
-      "slug": "毒骷蛙"
+      "slug": "毒骷蛙",
+      "alts": null
     }
   ],
   "stats": {
@@ -2371,18 +2359,6 @@
       "power": null,
       "accuracy": 90,
       "pp": 10
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

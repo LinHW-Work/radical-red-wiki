@@ -48,11 +48,11 @@
       "obtains": {
         "map": [
           {
-            "text": "深灰市·白天",
+            "text": "常青市·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "深灰市·晚上",
+            "text": "常青市·晚上",
             "href": "/分布/地图捕捉"
           },
           {
@@ -71,13 +71,13 @@
       "evolution": [
         {
           "nameCn": "阿柏蛇",
-          "alts": null,
-          "slug": "阿柏蛇"
+          "slug": "阿柏蛇",
+          "alts": null
         },
         {
           "nameCn": "阿柏怪",
-          "alts": null,
-          "slug": "阿柏怪"
+          "slug": "阿柏怪",
+          "alts": null
         }
       ],
       "stats": {
@@ -139,10 +139,10 @@
         },
         {
           "level": 12,
-          "nameCn": "蛇瞪",
+          "nameCn": "大蛇瞪眼",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E8%9B%87%E7%9E%AA",
+          "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E8%9B%87%E7%9E%AA%E7%9C%BC",
           "type": "一般",
           "category": "变化",
           "power": null,
@@ -817,18 +817,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "密语",
           "restricted": false,
           "original": false,
@@ -961,11 +949,11 @@
   "obtains": {
     "map": [
       {
-        "text": "深灰市·白天",
+        "text": "常青市·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "深灰市·晚上",
+        "text": "常青市·晚上",
         "href": "/分布/地图捕捉"
       },
       {
@@ -984,13 +972,13 @@
   "evolution": [
     {
       "nameCn": "阿柏蛇",
-      "alts": null,
-      "slug": "阿柏蛇"
+      "slug": "阿柏蛇",
+      "alts": null
     },
     {
       "nameCn": "阿柏怪",
-      "alts": null,
-      "slug": "阿柏怪"
+      "slug": "阿柏怪",
+      "alts": null
     }
   ],
   "stats": {
@@ -1052,10 +1040,10 @@
     },
     {
       "level": 12,
-      "nameCn": "蛇瞪",
+      "nameCn": "大蛇瞪眼",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E8%9B%87%E7%9E%AA",
+      "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E8%9B%87%E7%9E%AA%E7%9C%BC",
       "type": "一般",
       "category": "变化",
       "power": null,
@@ -1727,18 +1715,6 @@
       "power": null,
       "accuracy": 100,
       "pp": 10
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

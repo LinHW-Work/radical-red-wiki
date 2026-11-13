@@ -47,13 +47,18 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "岩山隧道·碎岩",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": [
           {
             "group": "evolution",
-            "text": "隆隆石·使用Link Cable",
+            "text": "隆隆石·使用连接电缆",
             "href": null
           }
         ]
@@ -61,18 +66,18 @@
       "evolution": [
         {
           "nameCn": "小拳石",
-          "alts": null,
-          "slug": "小拳石"
+          "slug": "小拳石",
+          "alts": null
         },
         {
           "nameCn": "隆隆石",
-          "alts": null,
-          "slug": "隆隆石"
+          "slug": "隆隆石",
+          "alts": null
         },
         {
           "nameCn": "隆隆岩",
-          "alts": null,
-          "slug": "隆隆岩"
+          "slug": "隆隆岩",
+          "alts": null
         }
       ],
       "stats": {
@@ -242,10 +247,10 @@
         },
         {
           "level": 24,
-          "nameCn": "自爆",
+          "nameCn": "玉石俱碎",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E7%88%86",
+          "href": "https://wiki.52poke.com/wiki/%E7%8E%89%E7%9F%B3%E4%BF%B1%E7%A2%8E",
           "type": "一般",
           "category": "物理",
           "power": 200,
@@ -1175,13 +1180,18 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "岩山隧道·碎岩",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": [
           {
             "group": "evolution",
-            "text": "隆隆石-阿罗拉·使用Link Cable",
+            "text": "隆隆石-阿罗拉·使用连接电缆",
             "href": null
           }
         ]
@@ -1189,20 +1199,20 @@
       "evolution": [
         {
           "nameCn": "小拳石-阿罗拉",
-          "alts": null,
           "slug": "小拳石",
+          "alts": null,
           "forme": "阿罗拉"
         },
         {
           "nameCn": "隆隆石-阿罗拉",
-          "alts": null,
           "slug": "隆隆石",
+          "alts": null,
           "forme": "阿罗拉"
         },
         {
           "nameCn": "隆隆岩-阿罗拉",
-          "alts": null,
           "slug": "隆隆岩",
+          "alts": null,
           "forme": "阿罗拉"
         }
       ],
@@ -1373,10 +1383,10 @@
         },
         {
           "level": 24,
-          "nameCn": "自爆",
+          "nameCn": "玉石俱碎",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E7%88%86",
+          "href": "https://wiki.52poke.com/wiki/%E7%8E%89%E7%9F%B3%E4%BF%B1%E7%A2%8E",
           "type": "一般",
           "category": "物理",
           "power": 200,
@@ -2424,13 +2434,18 @@
     }
   ],
   "obtains": {
-    "map": [],
+    "map": [
+      {
+        "text": "岩山隧道·碎岩",
+        "href": "/分布/地图捕捉"
+      }
+    ],
     "static": [],
     "npc": [],
     "evolution": [
       {
         "group": "evolution",
-        "text": "隆隆石·使用Link Cable",
+        "text": "隆隆石·使用连接电缆",
         "href": null
       }
     ]
@@ -2438,18 +2453,18 @@
   "evolution": [
     {
       "nameCn": "小拳石",
-      "alts": null,
-      "slug": "小拳石"
+      "slug": "小拳石",
+      "alts": null
     },
     {
       "nameCn": "隆隆石",
-      "alts": null,
-      "slug": "隆隆石"
+      "slug": "隆隆石",
+      "alts": null
     },
     {
       "nameCn": "隆隆岩",
-      "alts": null,
-      "slug": "隆隆岩"
+      "slug": "隆隆岩",
+      "alts": null
     }
   ],
   "stats": {
@@ -2619,10 +2634,10 @@
     },
     {
       "level": 24,
-      "nameCn": "自爆",
+      "nameCn": "玉石俱碎",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E7%88%86",
+      "href": "https://wiki.52poke.com/wiki/%E7%8E%89%E7%9F%B3%E4%BF%B1%E7%A2%8E",
       "type": "一般",
       "category": "物理",
       "power": 200,

@@ -53,11 +53,11 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "月见山 b1f·白天",
+            "text": "月见山·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "月见山 b1f·晚上",
+            "text": "月见山·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -68,13 +68,13 @@
       "evolution": [
         {
           "nameCn": "派拉斯",
-          "alts": null,
-          "slug": "派拉斯"
+          "slug": "派拉斯",
+          "alts": null
         },
         {
           "nameCn": "派拉斯特",
-          "alts": null,
-          "slug": "派拉斯特"
+          "slug": "派拉斯特",
+          "alts": null
         }
       ],
       "stats": {
@@ -1013,11 +1013,11 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "月见山 b1f·白天",
+        "text": "月见山·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "月见山 b1f·晚上",
+        "text": "月见山·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1028,13 +1028,13 @@
   "evolution": [
     {
       "nameCn": "派拉斯",
-      "alts": null,
-      "slug": "派拉斯"
+      "slug": "派拉斯",
+      "alts": null
     },
     {
       "nameCn": "派拉斯特",
-      "alts": null,
-      "slug": "派拉斯特"
+      "slug": "派拉斯特",
+      "alts": null
     }
   ],
   "stats": {

@@ -48,11 +48,11 @@
       "obtains": {
         "map": [
           {
-            "text": "21a号道路·白天",
+            "text": "21号道路（靠近真新镇）·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "21a号道路·晚上",
+            "text": "21号道路（靠近真新镇）·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -63,11 +63,12 @@
       "evolution": [
         {
           "nameCn": "爱吃豚",
-          "alts": null,
-          "slug": "爱吃豚"
+          "slug": "爱吃豚",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "飘香豚-雌",
@@ -117,10 +118,10 @@
         },
         {
           "level": 4,
-          "nameCn": "Disarm Cry",
+          "nameCn": "魅惑之声",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Disarm Cry",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%AD%85%E6%83%91%E4%B9%8B%E5%A3%B0",
           "type": null,
           "category": null,
           "power": null,
@@ -474,10 +475,10 @@
       "eggMoves": [
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -596,10 +597,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -716,11 +717,11 @@
   "obtains": {
     "map": [
       {
-        "text": "21a号道路·白天",
+        "text": "21号道路（靠近真新镇）·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "21a号道路·晚上",
+        "text": "21号道路（靠近真新镇）·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -731,11 +732,12 @@
   "evolution": [
     {
       "nameCn": "爱吃豚",
-      "alts": null,
-      "slug": "爱吃豚"
+      "slug": "爱吃豚",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "飘香豚-雌",
@@ -785,10 +787,10 @@
     },
     {
       "level": 4,
-      "nameCn": "Disarm Cry",
+      "nameCn": "魅惑之声",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Disarm Cry",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%AD%85%E6%83%91%E4%B9%8B%E5%A3%B0",
       "type": null,
       "category": null,
       "power": null,
@@ -1142,10 +1144,10 @@
   "eggMoves": [
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -1264,10 +1266,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

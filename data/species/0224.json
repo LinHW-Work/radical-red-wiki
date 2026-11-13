@@ -48,19 +48,19 @@
       "obtains": {
         "map": [
           {
-            "text": "华蓝市·厉害吊杆",
+            "text": "深灰市·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "红莲镇·厉害吊杆",
+            "text": "浅红市·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "21a号道路·厉害吊杆",
+            "text": "21号道路（靠近真新镇）·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "21b号道路·厉害吊杆",
+            "text": "21号道路（靠近红莲岛）·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
@@ -81,13 +81,13 @@
       "evolution": [
         {
           "nameCn": "铁炮鱼",
-          "alts": null,
-          "slug": "铁炮鱼"
+          "slug": "铁炮鱼",
+          "alts": null
         },
         {
           "nameCn": "章鱼桶",
-          "alts": null,
-          "slug": "章鱼桶"
+          "slug": "章鱼桶",
+          "alts": null
         }
       ],
       "stats": {
@@ -977,18 +977,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "击落",
           "restricted": false,
           "original": false,
@@ -1145,19 +1133,19 @@
   "obtains": {
     "map": [
       {
-        "text": "华蓝市·厉害吊杆",
+        "text": "深灰市·厉害吊杆",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "红莲镇·厉害吊杆",
+        "text": "浅红市·厉害吊杆",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "21a号道路·厉害吊杆",
+        "text": "21号道路（靠近真新镇）·厉害吊杆",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "21b号道路·厉害吊杆",
+        "text": "21号道路（靠近红莲岛）·厉害吊杆",
         "href": "/分布/地图捕捉"
       },
       {
@@ -1178,13 +1166,13 @@
   "evolution": [
     {
       "nameCn": "铁炮鱼",
-      "alts": null,
-      "slug": "铁炮鱼"
+      "slug": "铁炮鱼",
+      "alts": null
     },
     {
       "nameCn": "章鱼桶",
-      "alts": null,
-      "slug": "章鱼桶"
+      "slug": "章鱼桶",
+      "alts": null
     }
   ],
   "stats": {
@@ -2071,18 +2059,6 @@
       "power": 55,
       "accuracy": 95,
       "pp": 15
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

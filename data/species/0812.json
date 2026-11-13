@@ -31,9 +31,9 @@
           "nameCn": "青草制造者",
           "href": "https://wiki.52poke.com/wiki/%E9%9D%92%E8%8D%89%E5%88%B6%E9%80%A0%E8%80%85",
           "original": false,
-          "restrictedNameCn": "selfsufficient",
-          "restrictedHref": "/原创特性/selfsufficient",
-          "restrictedOriginal": true
+          "restrictedNameCn": "自给自足",
+          "restrictedHref": "/特性/原创#自给自足",
+          "restrictedOriginal": false
         }
       ],
       "obtains": {
@@ -51,18 +51,18 @@
       "evolution": [
         {
           "nameCn": "敲音猴",
-          "alts": null,
-          "slug": "敲音猴"
+          "slug": "敲音猴",
+          "alts": null
         },
         {
           "nameCn": "啪咚猴",
-          "alts": null,
-          "slug": "啪咚猴"
+          "slug": "啪咚猴",
+          "alts": null
         },
         {
           "nameCn": "轰擂金刚猩",
-          "alts": null,
-          "slug": "轰擂金刚猩"
+          "slug": "轰擂金刚猩",
+          "alts": null
         }
       ],
       "stats": {
@@ -280,10 +280,10 @@
         },
         {
           "level": 54,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -819,10 +819,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1023,22 +1023,10 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
-          "nameCn": "DD金勾臂",
+          "nameCn": "ＤＤ金勾臂",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/DD%E9%87%91%E5%8B%BE%E8%87%82",
+          "href": "https://wiki.52poke.com/wiki/%EF%BC%A4%EF%BC%A4%E9%87%91%E5%8B%BE%E8%87%82",
           "type": "恶",
           "category": "物理",
           "power": 85,
@@ -1102,9 +1090,9 @@
       "nameCn": "青草制造者",
       "href": "https://wiki.52poke.com/wiki/%E9%9D%92%E8%8D%89%E5%88%B6%E9%80%A0%E8%80%85",
       "original": false,
-      "restrictedNameCn": "selfsufficient",
-      "restrictedHref": "/原创特性/selfsufficient",
-      "restrictedOriginal": true
+      "restrictedNameCn": "自给自足",
+      "restrictedHref": "/特性/原创#自给自足",
+      "restrictedOriginal": false
     }
   ],
   "obtains": {
@@ -1122,18 +1110,18 @@
   "evolution": [
     {
       "nameCn": "敲音猴",
-      "alts": null,
-      "slug": "敲音猴"
+      "slug": "敲音猴",
+      "alts": null
     },
     {
       "nameCn": "啪咚猴",
-      "alts": null,
-      "slug": "啪咚猴"
+      "slug": "啪咚猴",
+      "alts": null
     },
     {
       "nameCn": "轰擂金刚猩",
-      "alts": null,
-      "slug": "轰擂金刚猩"
+      "slug": "轰擂金刚猩",
+      "alts": null
     }
   ],
   "stats": {
@@ -1351,10 +1339,10 @@
     },
     {
       "level": 54,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -1890,10 +1878,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -2094,22 +2082,10 @@
     },
     {
       "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
-    },
-    {
-      "level": null,
-      "nameCn": "DD金勾臂",
+      "nameCn": "ＤＤ金勾臂",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/DD%E9%87%91%E5%8B%BE%E8%87%82",
+      "href": "https://wiki.52poke.com/wiki/%EF%BC%A4%EF%BC%A4%E9%87%91%E5%8B%BE%E8%87%82",
       "type": "恶",
       "category": "物理",
       "power": 85,

@@ -30,11 +30,11 @@
       "obtains": {
         "map": [
           {
-            "text": "北区·白天",
+            "text": "狩猎地带·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "北区·夜晚",
+            "text": "狩猎地带·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -45,13 +45,13 @@
       "evolution": [
         {
           "nameCn": "索财灵",
-          "alts": null,
-          "slug": "索财灵"
+          "slug": "索财灵",
+          "alts": null
         },
         {
           "nameCn": "赛富豪",
-          "alts": null,
-          "slug": "赛富豪"
+          "slug": "赛富豪",
+          "alts": null
         }
       ],
       "stats": {
@@ -328,14 +328,14 @@
       "evolution": [
         {
           "nameCn": "Gimmighoul-Roaming",
-          "alts": null,
           "slug": "索财灵",
+          "alts": null,
           "forme": "徒步"
         },
         {
           "nameCn": "赛富豪",
-          "alts": null,
-          "slug": "赛富豪"
+          "slug": "赛富豪",
+          "alts": null
         }
       ],
       "stats": {
@@ -394,11 +394,11 @@
   "obtains": {
     "map": [
       {
-        "text": "北区·白天",
+        "text": "狩猎地带·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "北区·夜晚",
+        "text": "狩猎地带·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -409,13 +409,13 @@
   "evolution": [
     {
       "nameCn": "索财灵",
-      "alts": null,
-      "slug": "索财灵"
+      "slug": "索财灵",
+      "alts": null
     },
     {
       "nameCn": "赛富豪",
-      "alts": null,
-      "slug": "赛富豪"
+      "slug": "赛富豪",
+      "alts": null
     }
   ],
   "stats": {

@@ -64,13 +64,13 @@
       "evolution": [
         {
           "nameCn": "飘飘球",
-          "alts": null,
-          "slug": "飘飘球"
+          "slug": "飘飘球",
+          "alts": null
         },
         {
           "nameCn": "随风球",
-          "alts": null,
-          "slug": "随风球"
+          "slug": "随风球",
+          "alts": null
         }
       ],
       "stats": {
@@ -946,7 +946,7 @@
     {
       "slot": "H",
       "nameCn": "受热激升",
-      "href": "https://wiki.52poke.com/wiki/%E5%8F%97%E7%83%AD%E6%BF%80%E5%8D%87",
+      "href": "/特性/修改#受热激升",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -971,13 +971,13 @@
   "evolution": [
     {
       "nameCn": "飘飘球",
-      "alts": null,
-      "slug": "飘飘球"
+      "slug": "飘飘球",
+      "alts": null
     },
     {
       "nameCn": "随风球",
-      "alts": null,
-      "slug": "随风球"
+      "slug": "随风球",
+      "alts": null
     }
   ],
   "stats": {

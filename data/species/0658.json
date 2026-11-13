@@ -61,18 +61,18 @@
       "evolution": [
         {
           "nameCn": "呱呱泡蛙",
-          "alts": null,
-          "slug": "呱呱泡蛙"
+          "slug": "呱呱泡蛙",
+          "alts": null
         },
         {
           "nameCn": "呱头蛙",
-          "alts": null,
-          "slug": "呱头蛙"
+          "slug": "呱头蛙",
+          "alts": null
         },
         {
           "nameCn": "甲贺忍蛙",
-          "alts": null,
-          "slug": "甲贺忍蛙"
+          "slug": "甲贺忍蛙",
+          "alts": null
         }
       ],
       "stats": {
@@ -929,10 +929,10 @@
         },
         {
           "level": null,
-          "nameCn": "Dark Hole",
+          "nameCn": "暗黑洞",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Dark Hole",
+          "href": "/原创招式#暗黑洞",
           "type": null,
           "category": null,
           "power": null,
@@ -1001,18 +1001,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "剑舞",
           "restricted": true,
           "original": false,
@@ -1061,10 +1049,10 @@
         },
         {
           "level": null,
-          "nameCn": "水炮",
+          "nameCn": "加农水炮",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E7%82%AE",
+          "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E5%86%9C%E6%B0%B4%E7%82%AE",
           "type": "水",
           "category": "特殊",
           "power": 150,
@@ -1165,8 +1153,8 @@
       "evolution": [
         {
           "nameCn": "甲贺忍蛙-小智",
-          "alts": null,
-          "slug": "甲贺忍蛙-小智"
+          "slug": "甲贺忍蛙-小智",
+          "alts": null
         }
       ],
       "stats": {
@@ -1662,10 +1650,10 @@
         },
         {
           "level": null,
-          "nameCn": "水炮",
+          "nameCn": "加农水炮",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E7%82%AE",
+          "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E5%86%9C%E6%B0%B4%E7%82%AE",
           "type": "水",
           "category": "特殊",
           "power": 150,
@@ -1706,8 +1694,8 @@
       "evolution": [
         {
           "nameCn": "甲贺忍蛙-小智",
-          "alts": null,
-          "slug": "甲贺忍蛙-小智"
+          "slug": "甲贺忍蛙-小智",
+          "alts": null
         }
       ],
       "stats": {
@@ -2203,10 +2191,10 @@
         },
         {
           "level": null,
-          "nameCn": "水炮",
+          "nameCn": "加农水炮",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E7%82%AE",
+          "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E5%86%9C%E6%B0%B4%E7%82%AE",
           "type": "水",
           "category": "特殊",
           "power": 150,
@@ -2264,18 +2252,18 @@
   "evolution": [
     {
       "nameCn": "呱呱泡蛙",
-      "alts": null,
-      "slug": "呱呱泡蛙"
+      "slug": "呱呱泡蛙",
+      "alts": null
     },
     {
       "nameCn": "呱头蛙",
-      "alts": null,
-      "slug": "呱头蛙"
+      "slug": "呱头蛙",
+      "alts": null
     },
     {
       "nameCn": "甲贺忍蛙",
-      "alts": null,
-      "slug": "甲贺忍蛙"
+      "slug": "甲贺忍蛙",
+      "alts": null
     }
   ],
   "stats": {
@@ -3132,10 +3120,10 @@
     },
     {
       "level": null,
-      "nameCn": "Dark Hole",
+      "nameCn": "暗黑洞",
       "restricted": false,
       "original": true,
-      "href": "/原创招式/Dark Hole",
+      "href": "/原创招式#暗黑洞",
       "type": null,
       "category": null,
       "power": null,
@@ -3204,18 +3192,6 @@
     },
     {
       "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
-    },
-    {
-      "level": null,
       "nameCn": "剑舞",
       "restricted": true,
       "original": false,
@@ -3264,10 +3240,10 @@
     },
     {
       "level": null,
-      "nameCn": "水炮",
+      "nameCn": "加农水炮",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E7%82%AE",
+      "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E5%86%9C%E6%B0%B4%E7%82%AE",
       "type": "水",
       "category": "特殊",
       "power": 150,

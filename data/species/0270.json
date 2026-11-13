@@ -49,7 +49,7 @@
       "obtains": {
         "map": [
           {
-            "text": "21a号道路·晚上",
+            "text": "21号道路（靠近真新镇）·晚上",
             "href": "/分布/地图捕捉"
           },
           {
@@ -60,7 +60,7 @@
         "static": [
           {
             "text": "24号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -69,18 +69,18 @@
       "evolution": [
         {
           "nameCn": "莲叶童子",
-          "alts": null,
-          "slug": "莲叶童子"
+          "slug": "莲叶童子",
+          "alts": null
         },
         {
           "nameCn": "莲帽小童",
-          "alts": null,
-          "slug": "莲帽小童"
+          "slug": "莲帽小童",
+          "alts": null
         },
         {
           "nameCn": "乐天河童",
-          "alts": null,
-          "slug": "乐天河童"
+          "slug": "乐天河童",
+          "alts": null
         }
       ],
       "stats": {
@@ -830,7 +830,7 @@
   "obtains": {
     "map": [
       {
-        "text": "21a号道路·晚上",
+        "text": "21号道路（靠近真新镇）·晚上",
         "href": "/分布/地图捕捉"
       },
       {
@@ -841,7 +841,7 @@
     "static": [
       {
         "text": "24号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -850,18 +850,18 @@
   "evolution": [
     {
       "nameCn": "莲叶童子",
-      "alts": null,
-      "slug": "莲叶童子"
+      "slug": "莲叶童子",
+      "alts": null
     },
     {
       "nameCn": "莲帽小童",
-      "alts": null,
-      "slug": "莲帽小童"
+      "slug": "莲帽小童",
+      "alts": null
     },
     {
       "nameCn": "乐天河童",
-      "alts": null,
-      "slug": "乐天河童"
+      "slug": "乐天河童",
+      "alts": null
     }
   ],
   "stats": {

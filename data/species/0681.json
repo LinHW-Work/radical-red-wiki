@@ -31,11 +31,11 @@
       "obtains": {
         "map": [
           {
-            "text": "冠军之路 1f·白天",
+            "text": "冠军之路·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "冠军之路 1f·晚上",
+            "text": "冠军之路·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -52,18 +52,18 @@
       "evolution": [
         {
           "nameCn": "独剑鞘",
-          "alts": null,
-          "slug": "独剑鞘"
+          "slug": "独剑鞘",
+          "alts": null
         },
         {
           "nameCn": "双剑鞘",
-          "alts": null,
-          "slug": "双剑鞘"
+          "slug": "双剑鞘",
+          "alts": null
         },
         {
           "nameCn": "坚盾剑怪",
-          "alts": null,
-          "slug": "坚盾剑怪"
+          "slug": "坚盾剑怪",
+          "alts": null
         }
       ],
       "stats": {
@@ -764,18 +764,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "精神利刃",
           "restricted": false,
           "original": false,
@@ -844,8 +832,8 @@
       "evolution": [
         {
           "nameCn": "Aegislash-Blade",
-          "alts": null,
           "slug": "坚盾剑怪",
+          "alts": null,
           "forme": "刀锋枪"
         }
       ],
@@ -1227,11 +1215,11 @@
   "obtains": {
     "map": [
       {
-        "text": "冠军之路 1f·白天",
+        "text": "冠军之路·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "冠军之路 1f·晚上",
+        "text": "冠军之路·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1248,18 +1236,18 @@
   "evolution": [
     {
       "nameCn": "独剑鞘",
-      "alts": null,
-      "slug": "独剑鞘"
+      "slug": "独剑鞘",
+      "alts": null
     },
     {
       "nameCn": "双剑鞘",
-      "alts": null,
-      "slug": "双剑鞘"
+      "slug": "双剑鞘",
+      "alts": null
     },
     {
       "nameCn": "坚盾剑怪",
-      "alts": null,
-      "slug": "坚盾剑怪"
+      "slug": "坚盾剑怪",
+      "alts": null
     }
   ],
   "stats": {
@@ -1957,18 +1945,6 @@
       "power": null,
       "accuracy": null,
       "pp": 5
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

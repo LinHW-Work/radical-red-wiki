@@ -59,18 +59,18 @@
       "evolution": [
         {
           "nameCn": "小火龙",
-          "alts": null,
-          "slug": "小火龙"
+          "slug": "小火龙",
+          "alts": null
         },
         {
           "nameCn": "火恐龙",
-          "alts": null,
-          "slug": "火恐龙"
+          "slug": "火恐龙",
+          "alts": null
         },
         {
           "nameCn": "喷火龙",
-          "alts": null,
-          "slug": "喷火龙"
+          "slug": "喷火龙",
+          "alts": null
         }
       ],
       "stats": {
@@ -1110,7 +1110,7 @@
     {
       "slot": "H",
       "nameCn": "太阳之力",
-      "href": "https://wiki.52poke.com/wiki/%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%8A%9B",
+      "href": "/特性/修改#太阳之力",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1140,18 +1140,18 @@
   "evolution": [
     {
       "nameCn": "小火龙",
-      "alts": null,
-      "slug": "小火龙"
+      "slug": "小火龙",
+      "alts": null
     },
     {
       "nameCn": "火恐龙",
-      "alts": null,
-      "slug": "火恐龙"
+      "slug": "火恐龙",
+      "alts": null
     },
     {
       "nameCn": "喷火龙",
-      "alts": null,
-      "slug": "喷火龙"
+      "slug": "喷火龙",
+      "alts": null
     }
   ],
   "stats": {

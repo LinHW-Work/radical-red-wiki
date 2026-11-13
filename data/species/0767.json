@@ -31,11 +31,15 @@
       "obtains": {
         "map": [
           {
-            "text": "枯叶市·好吊杆",
+            "text": "紫苑镇·好吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "圣特安努号·破旧吊杆",
+            "text": "狩猎地带·冲浪",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "圣安妮号·破旧吊杆",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -46,13 +50,13 @@
       "evolution": [
         {
           "nameCn": "胆小虫",
-          "alts": null,
-          "slug": "胆小虫"
+          "slug": "胆小虫",
+          "alts": null
         },
         {
           "nameCn": "具甲武者",
-          "alts": null,
-          "slug": "具甲武者"
+          "slug": "具甲武者",
+          "alts": null
         }
       ],
       "stats": {
@@ -427,11 +431,15 @@
   "obtains": {
     "map": [
       {
-        "text": "枯叶市·好吊杆",
+        "text": "紫苑镇·好吊杆",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "圣特安努号·破旧吊杆",
+        "text": "狩猎地带·冲浪",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "圣安妮号·破旧吊杆",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -442,13 +450,13 @@
   "evolution": [
     {
       "nameCn": "胆小虫",
-      "alts": null,
-      "slug": "胆小虫"
+      "slug": "胆小虫",
+      "alts": null
     },
     {
       "nameCn": "具甲武者",
-      "alts": null,
-      "slug": "具甲武者"
+      "slug": "具甲武者",
+      "alts": null
     }
   ],
   "stats": {

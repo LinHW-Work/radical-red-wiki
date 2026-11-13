@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "毛球",
-          "alts": null,
-          "slug": "毛球"
+          "slug": "毛球",
+          "alts": null
         },
         {
           "nameCn": "摩鲁蛾",
-          "alts": null,
-          "slug": "摩鲁蛾"
+          "slug": "摩鲁蛾",
+          "alts": null
         }
       ],
       "stats": {
@@ -787,13 +787,13 @@
   "evolution": [
     {
       "nameCn": "毛球",
-      "alts": null,
-      "slug": "毛球"
+      "slug": "毛球",
+      "alts": null
     },
     {
       "nameCn": "摩鲁蛾",
-      "alts": null,
-      "slug": "摩鲁蛾"
+      "slug": "摩鲁蛾",
+      "alts": null
     }
   ],
   "stats": {

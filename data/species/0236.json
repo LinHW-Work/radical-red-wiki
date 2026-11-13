@@ -48,11 +48,11 @@
       "obtains": {
         "map": [
           {
-            "text": "月见山 1f·白天",
+            "text": "月见山·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "月见山 1f·晚上",
+            "text": "月见山·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -63,11 +63,12 @@
       "evolution": [
         {
           "nameCn": "无畏小子",
-          "alts": null,
-          "slug": "无畏小子"
+          "slug": "无畏小子",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "飞腿郎",
@@ -718,11 +719,11 @@
   "obtains": {
     "map": [
       {
-        "text": "月见山 1f·白天",
+        "text": "月见山·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "月见山 1f·晚上",
+        "text": "月见山·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -733,11 +734,12 @@
   "evolution": [
     {
       "nameCn": "无畏小子",
-      "alts": null,
-      "slug": "无畏小子"
+      "slug": "无畏小子",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "飞腿郎",

@@ -52,16 +52,17 @@
       "evolution": [
         {
           "nameCn": "木木枭",
-          "alts": null,
-          "slug": "木木枭"
+          "slug": "木木枭",
+          "alts": null
         },
         {
           "nameCn": "投羽枭",
-          "alts": null,
-          "slug": "投羽枭"
+          "slug": "投羽枭",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "狙射树枭",
@@ -146,10 +147,10 @@
         },
         {
           "level": 1,
-          "nameCn": "U转攻击",
+          "nameCn": "急速折返",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+          "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
           "type": "虫",
           "category": "物理",
           "power": 70,
@@ -1093,18 +1094,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "叶刃",
           "restricted": false,
           "original": false,
@@ -1222,7 +1211,24 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "点之穴·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "点之穴·晚上",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "连理之桥·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "连理之桥·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": [
@@ -1236,16 +1242,17 @@
       "evolution": [
         {
           "nameCn": "木木枭",
-          "alts": null,
-          "slug": "木木枭"
+          "slug": "木木枭",
+          "alts": null
         },
         {
           "nameCn": "投羽枭",
-          "alts": null,
-          "slug": "投羽枭"
+          "slug": "投羽枭",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "狙射树枭",
@@ -1330,10 +1337,10 @@
         },
         {
           "level": 1,
-          "nameCn": "U转攻击",
+          "nameCn": "急速折返",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+          "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
           "type": "虫",
           "category": "物理",
           "power": 70,
@@ -2251,18 +2258,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "叶刃",
           "restricted": false,
           "original": false,
@@ -2351,16 +2346,17 @@
   "evolution": [
     {
       "nameCn": "木木枭",
-      "alts": null,
-      "slug": "木木枭"
+      "slug": "木木枭",
+      "alts": null
     },
     {
       "nameCn": "投羽枭",
-      "alts": null,
-      "slug": "投羽枭"
+      "slug": "投羽枭",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "狙射树枭",
@@ -2445,10 +2441,10 @@
     },
     {
       "level": 1,
-      "nameCn": "U转攻击",
+      "nameCn": "急速折返",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+      "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
       "type": "虫",
       "category": "物理",
       "power": 70,
@@ -3389,18 +3385,6 @@
       "power": 120,
       "accuracy": 100,
       "pp": 10
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

@@ -40,19 +40,19 @@
       "obtains": {
         "map": [
           {
-            "text": "真新镇·好吊杆",
-            "href": "/分布/地图捕捉"
-          },
-          {
             "text": "24号道路·破旧吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "华蓝洞窟 1f·好吊杆",
+            "text": "华蓝洞窟·好吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 b3f-b4f·好吊杆",
+            "text": "双子岛·好吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "Dynamic·好吊杆",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -63,13 +63,13 @@
       "evolution": [
         {
           "nameCn": "利牙鱼",
-          "alts": null,
-          "slug": "利牙鱼"
+          "slug": "利牙鱼",
+          "alts": null
         },
         {
           "nameCn": "巨牙鲨",
-          "alts": null,
-          "slug": "巨牙鲨"
+          "slug": "巨牙鲨",
+          "alts": null
         }
       ],
       "stats": {
@@ -858,19 +858,19 @@
   "obtains": {
     "map": [
       {
-        "text": "真新镇·好吊杆",
-        "href": "/分布/地图捕捉"
-      },
-      {
         "text": "24号道路·破旧吊杆",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "华蓝洞窟 1f·好吊杆",
+        "text": "华蓝洞窟·好吊杆",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "双子岛 b3f-b4f·好吊杆",
+        "text": "双子岛·好吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "Dynamic·好吊杆",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -881,13 +881,13 @@
   "evolution": [
     {
       "nameCn": "利牙鱼",
-      "alts": null,
-      "slug": "利牙鱼"
+      "slug": "利牙鱼",
+      "alts": null
     },
     {
       "nameCn": "巨牙鲨",
-      "alts": null,
-      "slug": "巨牙鲨"
+      "slug": "巨牙鲨",
+      "alts": null
     }
   ],
   "stats": {

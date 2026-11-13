@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "圆丝蛛",
-          "alts": null,
-          "slug": "圆丝蛛"
+          "slug": "圆丝蛛",
+          "alts": null
         },
         {
           "nameCn": "阿利多斯",
-          "alts": null,
-          "slug": "阿利多斯"
+          "slug": "阿利多斯",
+          "alts": null
         }
       ],
       "stats": {
@@ -980,13 +980,13 @@
   "evolution": [
     {
       "nameCn": "圆丝蛛",
-      "alts": null,
-      "slug": "圆丝蛛"
+      "slug": "圆丝蛛",
+      "alts": null
     },
     {
       "nameCn": "阿利多斯",
-      "alts": null,
-      "slug": "阿利多斯"
+      "slug": "阿利多斯",
+      "alts": null
     }
   ],
   "stats": {

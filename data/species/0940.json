@@ -41,15 +41,15 @@
           "nameCn": "好胜",
           "href": "https://wiki.52poke.com/wiki/%E5%A5%BD%E8%83%9C",
           "original": false,
-          "restrictedNameCn": "透明特性",
-          "restrictedHref": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+          "restrictedNameCn": "恒净之躯",
+          "restrictedHref": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
           "restrictedOriginal": false
         }
       ],
       "obtains": {
         "map": [
           {
-            "text": "常青市·晚上",
+            "text": "真新镇·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "电海燕",
-          "alts": null,
-          "slug": "电海燕"
+          "slug": "电海燕",
+          "alts": null
         },
         {
           "nameCn": "大电海燕",
-          "alts": null,
-          "slug": "大电海燕"
+          "slug": "大电海燕",
+          "alts": null
         }
       ],
       "stats": {
@@ -605,10 +605,10 @@
       "eggMoves": [
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -727,10 +727,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -828,15 +828,15 @@
       "nameCn": "好胜",
       "href": "https://wiki.52poke.com/wiki/%E5%A5%BD%E8%83%9C",
       "original": false,
-      "restrictedNameCn": "透明特性",
-      "restrictedHref": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+      "restrictedNameCn": "恒净之躯",
+      "restrictedHref": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
       "restrictedOriginal": false
     }
   ],
   "obtains": {
     "map": [
       {
-        "text": "常青市·晚上",
+        "text": "真新镇·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -847,13 +847,13 @@
   "evolution": [
     {
       "nameCn": "电海燕",
-      "alts": null,
-      "slug": "电海燕"
+      "slug": "电海燕",
+      "alts": null
     },
     {
       "nameCn": "大电海燕",
-      "alts": null,
-      "slug": "大电海燕"
+      "slug": "大电海燕",
+      "alts": null
     }
   ],
   "stats": {
@@ -1392,10 +1392,10 @@
   "eggMoves": [
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -1514,10 +1514,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

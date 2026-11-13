@@ -49,7 +49,7 @@
       "obtains": {
         "map": [
           {
-            "text": "红莲镇·冲浪",
+            "text": "浅红市·冲浪",
             "href": "/分布/地图捕捉"
           },
           {
@@ -61,7 +61,7 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "21b号道路·冲浪",
+            "text": "21号道路（靠近红莲岛）·冲浪",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -83,13 +83,13 @@
       "evolution": [
         {
           "nameCn": "小球飞鱼",
-          "alts": null,
-          "slug": "小球飞鱼"
+          "slug": "小球飞鱼",
+          "alts": null
         },
         {
           "nameCn": "巨翅飞鱼",
-          "alts": null,
-          "slug": "巨翅飞鱼"
+          "slug": "巨翅飞鱼",
+          "alts": null
         }
       ],
       "stats": {
@@ -307,10 +307,10 @@
         },
         {
           "level": 36,
-          "nameCn": "空气斩",
+          "nameCn": "空气之刃",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
           "type": "飞行",
           "category": "特殊",
           "power": 75,
@@ -1017,18 +1017,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "雪景",
           "restricted": true,
           "original": false,
@@ -1167,7 +1155,20 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "火照小路·冲浪",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "珍宝海滩·冲浪",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "连理之桥·冲浪",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": [
@@ -1186,14 +1187,14 @@
       "evolution": [
         {
           "nameCn": "小球飞鱼-七之岛",
-          "alts": null,
           "slug": "小球飞鱼",
+          "alts": null,
           "forme": "七之岛"
         },
         {
           "nameCn": "巨翅飞鱼-七之岛",
-          "alts": null,
           "slug": "巨翅飞鱼",
+          "alts": null,
           "forme": "七之岛"
         }
       ],
@@ -1969,18 +1970,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "替身",
           "restricted": true,
           "original": false,
@@ -2054,7 +2043,7 @@
   "obtains": {
     "map": [
       {
-        "text": "红莲镇·冲浪",
+        "text": "浅红市·冲浪",
         "href": "/分布/地图捕捉"
       },
       {
@@ -2066,7 +2055,7 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "21b号道路·冲浪",
+        "text": "21号道路（靠近红莲岛）·冲浪",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -2088,13 +2077,13 @@
   "evolution": [
     {
       "nameCn": "小球飞鱼",
-      "alts": null,
-      "slug": "小球飞鱼"
+      "slug": "小球飞鱼",
+      "alts": null
     },
     {
       "nameCn": "巨翅飞鱼",
-      "alts": null,
-      "slug": "巨翅飞鱼"
+      "slug": "巨翅飞鱼",
+      "alts": null
     }
   ],
   "stats": {
@@ -2312,10 +2301,10 @@
     },
     {
       "level": 36,
-      "nameCn": "空气斩",
+      "nameCn": "空气之刃",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
       "type": "飞行",
       "category": "特殊",
       "power": 75,
@@ -3019,18 +3008,6 @@
       "power": 55,
       "accuracy": 95,
       "pp": 15
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

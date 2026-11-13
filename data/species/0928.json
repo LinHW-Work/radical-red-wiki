@@ -51,18 +51,18 @@
       "evolution": [
         {
           "nameCn": "迷你芙",
-          "alts": null,
-          "slug": "迷你芙"
+          "slug": "迷你芙",
+          "alts": null
         },
         {
           "nameCn": "奥利纽",
-          "alts": null,
-          "slug": "奥利纽"
+          "slug": "奥利纽",
+          "alts": null
         },
         {
           "nameCn": "奥利瓦",
-          "alts": null,
-          "slug": "奥利瓦"
+          "slug": "奥利瓦",
+          "alts": null
         }
       ],
       "stats": {
@@ -629,18 +629,18 @@
   "evolution": [
     {
       "nameCn": "迷你芙",
-      "alts": null,
-      "slug": "迷你芙"
+      "slug": "迷你芙",
+      "alts": null
     },
     {
       "nameCn": "奥利纽",
-      "alts": null,
-      "slug": "奥利纽"
+      "slug": "奥利纽",
+      "alts": null
     },
     {
       "nameCn": "奥利瓦",
-      "alts": null,
-      "slug": "奥利瓦"
+      "slug": "奥利瓦",
+      "alts": null
     }
   ],
   "stats": {

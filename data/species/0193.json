@@ -64,7 +64,7 @@
         "static": [
           {
             "text": "8号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -73,13 +73,13 @@
       "evolution": [
         {
           "nameCn": "蜻蜻蜓",
-          "alts": null,
-          "slug": "蜻蜻蜓"
+          "slug": "蜻蜻蜓",
+          "alts": null
         },
         {
           "nameCn": "远古巨蜓",
-          "alts": null,
-          "slug": "远古巨蜓"
+          "slug": "远古巨蜓",
+          "alts": null
         }
       ],
       "stats": {
@@ -249,10 +249,10 @@
         },
         {
           "level": 49,
-          "nameCn": "U转攻击",
+          "nameCn": "急速折返",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+          "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
           "type": "虫",
           "category": "物理",
           "power": 70,
@@ -261,10 +261,10 @@
         },
         {
           "level": 54,
-          "nameCn": "空气斩",
+          "nameCn": "空气之刃",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
           "type": "飞行",
           "category": "特殊",
           "power": 75,
@@ -879,7 +879,7 @@
     {
       "slot": "H",
       "nameCn": "察觉",
-      "href": "https://wiki.52poke.com/wiki/%E5%AF%9F%E8%A7%89",
+      "href": "/特性/修改#察觉",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -904,7 +904,7 @@
     "static": [
       {
         "text": "8号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -913,13 +913,13 @@
   "evolution": [
     {
       "nameCn": "蜻蜻蜓",
-      "alts": null,
-      "slug": "蜻蜻蜓"
+      "slug": "蜻蜻蜓",
+      "alts": null
     },
     {
       "nameCn": "远古巨蜓",
-      "alts": null,
-      "slug": "远古巨蜓"
+      "slug": "远古巨蜓",
+      "alts": null
     }
   ],
   "stats": {
@@ -1089,10 +1089,10 @@
     },
     {
       "level": 49,
-      "nameCn": "U转攻击",
+      "nameCn": "急速折返",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+      "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
       "type": "虫",
       "category": "物理",
       "power": 70,
@@ -1101,10 +1101,10 @@
     },
     {
       "level": 54,
-      "nameCn": "空气斩",
+      "nameCn": "空气之刃",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
       "type": "飞行",
       "category": "特殊",
       "power": 75,

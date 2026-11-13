@@ -50,18 +50,18 @@
       "evolution": [
         {
           "nameCn": "草苗龟",
-          "alts": null,
-          "slug": "草苗龟"
+          "slug": "草苗龟",
+          "alts": null
         },
         {
           "nameCn": "树林龟",
-          "alts": null,
-          "slug": "树林龟"
+          "slug": "树林龟",
+          "alts": null
         },
         {
           "nameCn": "土台龟",
-          "alts": null,
-          "slug": "土台龟"
+          "slug": "土台龟",
+          "alts": null
         }
       ],
       "stats": {
@@ -957,18 +957,18 @@
   "evolution": [
     {
       "nameCn": "草苗龟",
-      "alts": null,
-      "slug": "草苗龟"
+      "slug": "草苗龟",
+      "alts": null
     },
     {
       "nameCn": "树林龟",
-      "alts": null,
-      "slug": "树林龟"
+      "slug": "树林龟",
+      "alts": null
     },
     {
       "nameCn": "土台龟",
-      "alts": null,
-      "slug": "土台龟"
+      "slug": "土台龟",
+      "alts": null
     }
   ],
   "stats": {

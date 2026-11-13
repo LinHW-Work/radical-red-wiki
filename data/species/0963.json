@@ -41,13 +41,13 @@
       "evolution": [
         {
           "nameCn": "波普海豚",
-          "alts": null,
-          "slug": "波普海豚"
+          "slug": "波普海豚",
+          "alts": null
         },
         {
           "nameCn": "海豚侠",
-          "alts": null,
-          "slug": "海豚侠"
+          "slug": "海豚侠",
+          "alts": null
         }
       ],
       "stats": {
@@ -691,13 +691,13 @@
   "evolution": [
     {
       "nameCn": "波普海豚",
-      "alts": null,
-      "slug": "波普海豚"
+      "slug": "波普海豚",
+      "alts": null
     },
     {
       "nameCn": "海豚侠",
-      "alts": null,
-      "slug": "海豚侠"
+      "slug": "海豚侠",
+      "alts": null
     }
   ],
   "stats": {

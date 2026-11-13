@@ -40,11 +40,7 @@
       "obtains": {
         "map": [
           {
-            "text": "枯叶市·厉害吊杆",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "浅红市·厉害吊杆",
+            "text": "紫苑镇·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
@@ -64,19 +60,15 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "华蓝洞窟 b1f·厉害吊杆",
+            "text": "华蓝洞窟·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 b2f·厉害吊杆",
+            "text": "双子岛·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 b3f-b4f·厉害吊杆",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "圣特安努号·厉害吊杆",
+            "text": "圣安妮号·厉害吊杆",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -93,13 +85,13 @@
       "evolution": [
         {
           "nameCn": "鲤鱼王",
-          "alts": null,
-          "slug": "鲤鱼王"
+          "slug": "鲤鱼王",
+          "alts": null
         },
         {
           "nameCn": "暴鲤龙",
-          "alts": null,
-          "slug": "暴鲤龙"
+          "slug": "暴鲤龙",
+          "alts": null
         }
       ],
       "stats": {
@@ -185,10 +177,10 @@
         },
         {
           "level": 30,
-          "nameCn": "Aqua Fang",
+          "nameCn": "水流牙",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Aqua Fang",
+          "href": "/原创招式#水流牙",
           "type": null,
           "category": null,
           "power": null,
@@ -1043,11 +1035,7 @@
       "obtains": {
         "map": [
           {
-            "text": "枯叶市·厉害吊杆",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "浅红市·厉害吊杆",
+            "text": "紫苑镇·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
@@ -1067,19 +1055,15 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "华蓝洞窟 b1f·厉害吊杆",
+            "text": "华蓝洞窟·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 b2f·厉害吊杆",
+            "text": "双子岛·厉害吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 b3f-b4f·厉害吊杆",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "圣特安努号·厉害吊杆",
+            "text": "圣安妮号·厉害吊杆",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -1096,13 +1080,13 @@
       "evolution": [
         {
           "nameCn": "鲤鱼王",
-          "alts": null,
-          "slug": "鲤鱼王"
+          "slug": "鲤鱼王",
+          "alts": null
         },
         {
           "nameCn": "暴鲤龙",
-          "alts": null,
-          "slug": "暴鲤龙"
+          "slug": "暴鲤龙",
+          "alts": null
         }
       ],
       "stats": {
@@ -1188,10 +1172,10 @@
         },
         {
           "level": 30,
-          "nameCn": "Aqua Fang",
+          "nameCn": "水流牙",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Aqua Fang",
+          "href": "/原创招式#水流牙",
           "type": null,
           "category": null,
           "power": null,
@@ -1339,11 +1323,7 @@
   "obtains": {
     "map": [
       {
-        "text": "枯叶市·厉害吊杆",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "浅红市·厉害吊杆",
+        "text": "紫苑镇·厉害吊杆",
         "href": "/分布/地图捕捉"
       },
       {
@@ -1363,19 +1343,15 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "华蓝洞窟 b1f·厉害吊杆",
+        "text": "华蓝洞窟·厉害吊杆",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "双子岛 b2f·厉害吊杆",
+        "text": "双子岛·厉害吊杆",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "双子岛 b3f-b4f·厉害吊杆",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "圣特安努号·厉害吊杆",
+        "text": "圣安妮号·厉害吊杆",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1392,13 +1368,13 @@
   "evolution": [
     {
       "nameCn": "鲤鱼王",
-      "alts": null,
-      "slug": "鲤鱼王"
+      "slug": "鲤鱼王",
+      "alts": null
     },
     {
       "nameCn": "暴鲤龙",
-      "alts": null,
-      "slug": "暴鲤龙"
+      "slug": "暴鲤龙",
+      "alts": null
     }
   ],
   "stats": {
@@ -1484,10 +1460,10 @@
     },
     {
       "level": 30,
-      "nameCn": "Aqua Fang",
+      "nameCn": "水流牙",
       "restricted": false,
       "original": true,
-      "href": "/原创招式/Aqua Fang",
+      "href": "/原创招式#水流牙",
       "type": null,
       "category": null,
       "power": null,

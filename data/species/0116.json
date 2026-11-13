@@ -56,11 +56,7 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "西区·破旧吊杆",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "极西区·破旧吊杆",
+            "text": "狩猎地带·破旧吊杆",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -71,18 +67,18 @@
       "evolution": [
         {
           "nameCn": "墨海马",
-          "alts": null,
-          "slug": "墨海马"
+          "slug": "墨海马",
+          "alts": null
         },
         {
           "nameCn": "海刺龙",
-          "alts": null,
-          "slug": "海刺龙"
+          "slug": "海刺龙",
+          "alts": null
         },
         {
           "nameCn": "刺龙王",
-          "alts": null,
-          "slug": "刺龙王"
+          "slug": "刺龙王",
+          "alts": null
         }
       ],
       "stats": {
@@ -825,11 +821,7 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "西区·破旧吊杆",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "极西区·破旧吊杆",
+        "text": "狩猎地带·破旧吊杆",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -840,18 +832,18 @@
   "evolution": [
     {
       "nameCn": "墨海马",
-      "alts": null,
-      "slug": "墨海马"
+      "slug": "墨海马",
+      "alts": null
     },
     {
       "nameCn": "海刺龙",
-      "alts": null,
-      "slug": "海刺龙"
+      "slug": "海刺龙",
+      "alts": null
     },
     {
       "nameCn": "刺龙王",
-      "alts": null,
-      "slug": "刺龙王"
+      "slug": "刺龙王",
+      "alts": null
     }
   ],
   "stats": {

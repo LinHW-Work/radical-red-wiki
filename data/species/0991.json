@@ -31,14 +31,14 @@
       "obtains": {
         "map": [
           {
-            "text": "冠军之路 3f·白天",
+            "text": "冠军之路·白天",
             "href": "/分布/地图捕捉"
           }
         ],
         "static": [
           {
             "text": "冠军之路 3f",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -47,8 +47,8 @@
       "evolution": [
         {
           "nameCn": "铁包袱",
-          "alts": null,
-          "slug": "铁包袱"
+          "slug": "铁包袱",
+          "alts": null
         }
       ],
       "stats": {
@@ -622,14 +622,14 @@
   "obtains": {
     "map": [
       {
-        "text": "冠军之路 3f·白天",
+        "text": "冠军之路·白天",
         "href": "/分布/地图捕捉"
       }
     ],
     "static": [
       {
         "text": "冠军之路 3f",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -638,8 +638,8 @@
   "evolution": [
     {
       "nameCn": "铁包袱",
-      "alts": null,
-      "slug": "铁包袱"
+      "slug": "铁包袱",
+      "alts": null
     }
   ],
   "stats": {

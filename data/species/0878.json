@@ -50,7 +50,7 @@
         "static": [
           {
             "text": "月见山",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -59,13 +59,13 @@
       "evolution": [
         {
           "nameCn": "铜象",
-          "alts": null,
-          "slug": "铜象"
+          "slug": "铜象",
+          "alts": null
         },
         {
           "nameCn": "大王铜象",
-          "alts": null,
-          "slug": "大王铜象"
+          "slug": "大王铜象",
+          "alts": null
         }
       ],
       "stats": {
@@ -780,7 +780,7 @@
     "static": [
       {
         "text": "月见山",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -789,13 +789,13 @@
   "evolution": [
     {
       "nameCn": "铜象",
-      "alts": null,
-      "slug": "铜象"
+      "slug": "铜象",
+      "alts": null
     },
     {
       "nameCn": "大王铜象",
-      "alts": null,
-      "slug": "大王铜象"
+      "slug": "大王铜象",
+      "alts": null
     }
   ],
   "stats": {

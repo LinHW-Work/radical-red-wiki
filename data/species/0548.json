@@ -59,11 +59,12 @@
       "evolution": [
         {
           "nameCn": "百合根娃娃",
-          "alts": null,
-          "slug": "百合根娃娃"
+          "slug": "百合根娃娃",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "裙儿小姐",
@@ -839,11 +840,12 @@
   "evolution": [
     {
       "nameCn": "百合根娃娃",
-      "alts": null,
-      "slug": "百合根娃娃"
+      "slug": "百合根娃娃",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "裙儿小姐",

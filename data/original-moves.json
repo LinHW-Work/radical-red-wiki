@@ -1,22 +1,74 @@
 [
   {
-    "nameCn": "暗洞",
-    "path": "/原创招式/暗洞",
-    "type": "（待补）",
-    "category": "（待补）",
-    "power": "（待补）",
-    "accuracy": "（待补）",
-    "pp": "（待补）",
-    "effect": "（待补）"
+    "nameCn": "暗黑洞",
+    "nameEn": "Dark Hole",
+    "path": "/原创招式#暗黑洞",
+    "type": "恶",
+    "category": "特殊",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "effect": "将对手送入暗影界。有时会使对手陷入睡眠。",
+    "moveId": 160
+  },
+  {
+    "nameCn": "水流牙",
+    "nameEn": "Aqua Fang",
+    "path": "/原创招式#水流牙",
+    "type": "水",
+    "category": "物理",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "effect": "以水流之力撕咬对手。",
+    "moveId": 542
+  },
+  {
+    "nameCn": "夺魂",
+    "nameEn": "Soul Robbery",
+    "path": "/原创招式#夺魂",
+    "type": "超能力",
+    "category": "特殊",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "effect": "吞噬对手的灵魂，夺取其能力提升后再进行攻击。",
+    "moveId": 90
+  },
+  {
+    "nameCn": "禁忌咒文",
+    "nameEn": "Forbidden Spell",
+    "path": "/原创招式#禁忌咒文",
+    "type": "恶",
+    "category": "变化",
+    "power": "—",
+    "accuracy": "—",
+    "pp": 1,
+    "effect": "咏唱古老的邪恶咒文，引发难以预料的力量。",
+    "moveId": 742
+  },
+  {
+    "nameCn": "音波斩",
+    "nameEn": "Sonic Slash",
+    "path": "/原创招式#音波斩",
+    "type": "飞行",
+    "category": "物理",
+    "power": "变化",
+    "accuracy": 100,
+    "pp": 10,
+    "effect": "以迅疾斩击攻击对手；自身速度越高，威力越大。",
+    "moveId": 748
   },
   {
     "nameCn": "龙之弹幕炮",
-    "path": "/原创招式/龙之弹幕炮",
-    "type": "（待补）",
-    "category": "（待补）",
-    "power": "（待补）",
-    "accuracy": "（待补）",
-    "pp": "（待补）",
-    "effect": "（待补）"
+    "nameEn": "Draco Barrage",
+    "path": "/原创招式#龙之弹幕炮",
+    "type": "龙",
+    "category": "特殊",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "effect": "能击中妖精属性，但自身会受到反伤；根据攻击与特攻较高的一方决定物理／特殊分类。",
+    "moveId": 749
   }
 ]

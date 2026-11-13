@@ -42,18 +42,18 @@
       "evolution": [
         {
           "nameCn": "懒人獭",
-          "alts": null,
-          "slug": "懒人獭"
+          "slug": "懒人獭",
+          "alts": null
         },
         {
           "nameCn": "过动猿",
-          "alts": null,
-          "slug": "过动猿"
+          "slug": "过动猿",
+          "alts": null
         },
         {
           "nameCn": "请假王",
-          "alts": null,
-          "slug": "请假王"
+          "slug": "请假王",
+          "alts": null
         }
       ],
       "stats": {
@@ -974,18 +974,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "密语",
           "restricted": false,
           "original": false,
@@ -1160,18 +1148,18 @@
   "evolution": [
     {
       "nameCn": "懒人獭",
-      "alts": null,
-      "slug": "懒人獭"
+      "slug": "懒人獭",
+      "alts": null
     },
     {
       "nameCn": "过动猿",
-      "alts": null,
-      "slug": "过动猿"
+      "slug": "过动猿",
+      "alts": null
     },
     {
       "nameCn": "请假王",
-      "alts": null,
-      "slug": "请假王"
+      "slug": "请假王",
+      "alts": null
     }
   ],
   "stats": {
@@ -2089,18 +2077,6 @@
       "power": null,
       "accuracy": null,
       "pp": 20
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

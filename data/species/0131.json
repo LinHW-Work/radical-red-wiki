@@ -47,7 +47,12 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "狩猎地带·冲浪",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [
           {
@@ -60,8 +65,8 @@
       "evolution": [
         {
           "nameCn": "拉普拉斯",
-          "alts": null,
-          "slug": "拉普拉斯"
+          "slug": "拉普拉斯",
+          "alts": null
         }
       ],
       "stats": {
@@ -580,8 +585,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -906,10 +911,10 @@
         },
         {
           "level": null,
-          "nameCn": "泡影的咏叹调",
+          "nameCn": "泡影咏叹调",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%B3%A1%E5%BD%B1%E7%9A%84%E5%92%8F%E5%8F%B9%E8%B0%83",
+          "href": "https://wiki.52poke.com/wiki/%E6%B3%A1%E5%BD%B1%E5%92%8F%E5%8F%B9%E8%B0%83",
           "type": "水",
           "category": "特殊",
           "power": 90,
@@ -1016,10 +1021,10 @@
         },
         {
           "level": null,
-          "nameCn": "钻冲赛道",
+          "nameCn": "直冲钻",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+          "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
           "type": "地面",
           "category": "物理",
           "power": 80,
@@ -1207,7 +1212,12 @@
     }
   ],
   "obtains": {
-    "map": [],
+    "map": [
+      {
+        "text": "狩猎地带·冲浪",
+        "href": "/分布/地图捕捉"
+      }
+    ],
     "static": [],
     "npc": [
       {
@@ -1220,8 +1230,8 @@
   "evolution": [
     {
       "nameCn": "拉普拉斯",
-      "alts": null,
-      "slug": "拉普拉斯"
+      "slug": "拉普拉斯",
+      "alts": null
     }
   ],
   "stats": {
@@ -1740,8 +1750,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,
@@ -2066,10 +2076,10 @@
     },
     {
       "level": null,
-      "nameCn": "泡影的咏叹调",
+      "nameCn": "泡影咏叹调",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%B3%A1%E5%BD%B1%E7%9A%84%E5%92%8F%E5%8F%B9%E8%B0%83",
+      "href": "https://wiki.52poke.com/wiki/%E6%B3%A1%E5%BD%B1%E5%92%8F%E5%8F%B9%E8%B0%83",
       "type": "水",
       "category": "特殊",
       "power": 90,
@@ -2176,10 +2186,10 @@
     },
     {
       "level": null,
-      "nameCn": "钻冲赛道",
+      "nameCn": "直冲钻",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+      "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
       "type": "地面",
       "category": "物理",
       "power": 80,

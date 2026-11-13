@@ -44,9 +44,9 @@
       },
       "evolution": [
         {
-          "nameCn": "負电拍拍",
-          "alts": null,
-          "slug": "負电拍拍"
+          "nameCn": "负电拍拍",
+          "slug": "负电拍拍",
+          "alts": null
         }
       ],
       "stats": {
@@ -984,9 +984,9 @@
   },
   "evolution": [
     {
-      "nameCn": "負电拍拍",
-      "alts": null,
-      "slug": "負电拍拍"
+      "nameCn": "负电拍拍",
+      "slug": "负电拍拍",
+      "alts": null
     }
   ],
   "stats": {

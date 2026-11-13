@@ -49,26 +49,18 @@
       "obtains": {
         "map": [
           {
-            "text": "双子岛 b1f·白天",
+            "text": "双子岛·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 b1f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b2f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b2f·晚上",
+            "text": "双子岛·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
         "static": [
           {
             "text": "岩山隧道",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -77,8 +69,8 @@
       "evolution": [
         {
           "nameCn": "信使鸟",
-          "alts": null,
-          "slug": "信使鸟"
+          "slug": "信使鸟",
+          "alts": null
         }
       ],
       "stats": {
@@ -762,10 +754,10 @@
         },
         {
           "level": null,
-          "nameCn": "钻冲赛道",
+          "nameCn": "直冲钻",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+          "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
           "type": "地面",
           "category": "物理",
           "power": 80,
@@ -783,18 +775,6 @@
           "power": 140,
           "accuracy": 90,
           "pp": 5
-        },
-        {
-          "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
         },
         {
           "level": null,
@@ -979,26 +959,18 @@
   "obtains": {
     "map": [
       {
-        "text": "双子岛 b1f·白天",
+        "text": "双子岛·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "双子岛 b1f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "双子岛 b2f·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "双子岛 b2f·晚上",
+        "text": "双子岛·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
     "static": [
       {
         "text": "岩山隧道",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -1007,8 +979,8 @@
   "evolution": [
     {
       "nameCn": "信使鸟",
-      "alts": null,
-      "slug": "信使鸟"
+      "slug": "信使鸟",
+      "alts": null
     }
   ],
   "stats": {
@@ -1692,10 +1664,10 @@
     },
     {
       "level": null,
-      "nameCn": "钻冲赛道",
+      "nameCn": "直冲钻",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+      "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
       "type": "地面",
       "category": "物理",
       "power": 80,
@@ -1713,18 +1685,6 @@
       "power": 140,
       "accuracy": 90,
       "pp": 5
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

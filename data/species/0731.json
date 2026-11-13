@@ -49,7 +49,7 @@
       "obtains": {
         "map": [
           {
-            "text": "常青市·白天",
+            "text": "真新镇·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -60,18 +60,18 @@
       "evolution": [
         {
           "nameCn": "小笃儿",
-          "alts": null,
-          "slug": "小笃儿"
+          "slug": "小笃儿",
+          "alts": null
         },
         {
           "nameCn": "喇叭啄鸟",
-          "alts": null,
-          "slug": "喇叭啄鸟"
+          "slug": "喇叭啄鸟",
+          "alts": null
         },
         {
           "nameCn": "铳嘴大鸟",
-          "alts": null,
-          "slug": "铳嘴大鸟"
+          "slug": "铳嘴大鸟",
+          "alts": null
         }
       ],
       "stats": {
@@ -678,18 +678,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "巨声",
           "restricted": false,
           "original": false,
@@ -813,7 +801,7 @@
     {
       "slot": "H",
       "nameCn": "捡拾",
-      "href": "https://wiki.52poke.com/wiki/%E6%8D%A1%E6%8B%BE",
+      "href": "/特性/修改#捡拾",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -823,7 +811,7 @@
   "obtains": {
     "map": [
       {
-        "text": "常青市·白天",
+        "text": "真新镇·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -834,18 +822,18 @@
   "evolution": [
     {
       "nameCn": "小笃儿",
-      "alts": null,
-      "slug": "小笃儿"
+      "slug": "小笃儿",
+      "alts": null
     },
     {
       "nameCn": "喇叭啄鸟",
-      "alts": null,
-      "slug": "喇叭啄鸟"
+      "slug": "喇叭啄鸟",
+      "alts": null
     },
     {
       "nameCn": "铳嘴大鸟",
-      "alts": null,
-      "slug": "铳嘴大鸟"
+      "slug": "铳嘴大鸟",
+      "alts": null
     }
   ],
   "stats": {
@@ -1449,18 +1437,6 @@
       "power": 140,
       "accuracy": 90,
       "pp": 5
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

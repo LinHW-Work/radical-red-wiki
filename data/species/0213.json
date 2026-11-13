@@ -41,15 +41,15 @@
           "nameCn": "唱反调",
           "href": "https://wiki.52poke.com/wiki/%E5%94%B1%E5%8F%8D%E8%B0%83",
           "original": false,
-          "restrictedNameCn": "badcompany",
-          "restrictedHref": "/原创特性/badcompany",
-          "restrictedOriginal": true
+          "restrictedNameCn": "乌龙搭档",
+          "restrictedHref": "/特性/原创#乌龙搭档",
+          "restrictedOriginal": false
         }
       ],
       "obtains": {
         "map": [
           {
-            "text": "岩山隧道 1f·白天",
+            "text": "岩山隧道·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -60,8 +60,8 @@
       "evolution": [
         {
           "nameCn": "壶壶",
-          "alts": null,
-          "slug": "壶壶"
+          "slug": "壶壶",
+          "alts": null
         }
       ],
       "stats": {
@@ -997,15 +997,15 @@
       "nameCn": "唱反调",
       "href": "https://wiki.52poke.com/wiki/%E5%94%B1%E5%8F%8D%E8%B0%83",
       "original": false,
-      "restrictedNameCn": "badcompany",
-      "restrictedHref": "/原创特性/badcompany",
-      "restrictedOriginal": true
+      "restrictedNameCn": "乌龙搭档",
+      "restrictedHref": "/特性/原创#乌龙搭档",
+      "restrictedOriginal": false
     }
   ],
   "obtains": {
     "map": [
       {
-        "text": "岩山隧道 1f·白天",
+        "text": "岩山隧道·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1016,8 +1016,8 @@
   "evolution": [
     {
       "nameCn": "壶壶",
-      "alts": null,
-      "slug": "壶壶"
+      "slug": "壶壶",
+      "alts": null
     }
   ],
   "stats": {

@@ -31,35 +31,11 @@
       "obtains": {
         "map": [
           {
-            "text": "宝可梦塔 3&5f·白天",
+            "text": "宝可梦塔·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "宝可梦塔 3&5f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "宝可梦塔 4f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "宝可梦塔 4f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "宝可梦塔 6f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "宝可梦塔 6f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "宝可梦塔 7f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "宝可梦塔 7f·晚上",
+            "text": "宝可梦塔·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -76,18 +52,18 @@
       "evolution": [
         {
           "nameCn": "鬼斯",
-          "alts": null,
-          "slug": "鬼斯"
+          "slug": "鬼斯",
+          "alts": null
         },
         {
           "nameCn": "鬼斯通",
-          "alts": null,
-          "slug": "鬼斯通"
+          "slug": "鬼斯通",
+          "alts": null
         },
         {
           "nameCn": "耿鬼",
-          "alts": null,
-          "slug": "耿鬼"
+          "slug": "耿鬼",
+          "alts": null
         }
       ],
       "stats": {
@@ -101,10 +77,10 @@
       "levelMoves": [
         {
           "level": 0,
-          "nameCn": "鬼火",
+          "nameCn": "磷火",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+          "href": "https://wiki.52poke.com/wiki/%E7%A3%B7%E7%81%AB",
           "type": "火",
           "category": "变化",
           "power": null,
@@ -149,10 +125,10 @@
         },
         {
           "level": 1,
-          "nameCn": "鬼火",
+          "nameCn": "磷火",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+          "href": "https://wiki.52poke.com/wiki/%E7%A3%B7%E7%81%AB",
           "type": "火",
           "category": "变化",
           "power": null,
@@ -1104,35 +1080,11 @@
   "obtains": {
     "map": [
       {
-        "text": "宝可梦塔 3&5f·白天",
+        "text": "宝可梦塔·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "宝可梦塔 3&5f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "宝可梦塔 4f·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "宝可梦塔 4f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "宝可梦塔 6f·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "宝可梦塔 6f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "宝可梦塔 7f·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "宝可梦塔 7f·晚上",
+        "text": "宝可梦塔·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1149,18 +1101,18 @@
   "evolution": [
     {
       "nameCn": "鬼斯",
-      "alts": null,
-      "slug": "鬼斯"
+      "slug": "鬼斯",
+      "alts": null
     },
     {
       "nameCn": "鬼斯通",
-      "alts": null,
-      "slug": "鬼斯通"
+      "slug": "鬼斯通",
+      "alts": null
     },
     {
       "nameCn": "耿鬼",
-      "alts": null,
-      "slug": "耿鬼"
+      "slug": "耿鬼",
+      "alts": null
     }
   ],
   "stats": {
@@ -1174,10 +1126,10 @@
   "levelMoves": [
     {
       "level": 0,
-      "nameCn": "鬼火",
+      "nameCn": "磷火",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+      "href": "https://wiki.52poke.com/wiki/%E7%A3%B7%E7%81%AB",
       "type": "火",
       "category": "变化",
       "power": null,
@@ -1222,10 +1174,10 @@
     },
     {
       "level": 1,
-      "nameCn": "鬼火",
+      "nameCn": "磷火",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+      "href": "https://wiki.52poke.com/wiki/%E7%A3%B7%E7%81%AB",
       "type": "火",
       "category": "变化",
       "power": null,

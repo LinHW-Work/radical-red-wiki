@@ -55,13 +55,13 @@
       "evolution": [
         {
           "nameCn": "化石盔",
-          "alts": null,
-          "slug": "化石盔"
+          "slug": "化石盔",
+          "alts": null
         },
         {
           "nameCn": "镰刀盔",
-          "alts": null,
-          "slug": "镰刀盔"
+          "slug": "镰刀盔",
+          "alts": null
         }
       ],
       "stats": {
@@ -918,13 +918,13 @@
   "evolution": [
     {
       "nameCn": "化石盔",
-      "alts": null,
-      "slug": "化石盔"
+      "slug": "化石盔",
+      "alts": null
     },
     {
       "nameCn": "镰刀盔",
-      "alts": null,
-      "slug": "镰刀盔"
+      "slug": "镰刀盔",
+      "alts": null
     }
   ],
   "stats": {

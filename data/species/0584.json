@@ -48,11 +48,11 @@
       "obtains": {
         "map": [
           {
-            "text": "双子岛 b1f·白天",
+            "text": "双子岛·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 b1f·晚上",
+            "text": "双子岛·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -69,18 +69,18 @@
       "evolution": [
         {
           "nameCn": "迷你冰",
-          "alts": null,
-          "slug": "迷你冰"
+          "slug": "迷你冰",
+          "alts": null
         },
         {
           "nameCn": "多多冰",
-          "alts": null,
-          "slug": "多多冰"
+          "slug": "多多冰",
+          "alts": null
         },
         {
           "nameCn": "双倍多多冰",
-          "alts": null,
-          "slug": "双倍多多冰"
+          "slug": "双倍多多冰",
+          "alts": null
         }
       ],
       "stats": {
@@ -857,7 +857,7 @@
     {
       "slot": "0",
       "nameCn": "冰冻之躯",
-      "href": "https://wiki.52poke.com/wiki/%E5%86%B0%E5%86%BB%E4%B9%8B%E8%BA%AF",
+      "href": "/特性/修改#冰冻之躯",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -885,11 +885,11 @@
   "obtains": {
     "map": [
       {
-        "text": "双子岛 b1f·白天",
+        "text": "双子岛·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "双子岛 b1f·晚上",
+        "text": "双子岛·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -906,18 +906,18 @@
   "evolution": [
     {
       "nameCn": "迷你冰",
-      "alts": null,
-      "slug": "迷你冰"
+      "slug": "迷你冰",
+      "alts": null
     },
     {
       "nameCn": "多多冰",
-      "alts": null,
-      "slug": "多多冰"
+      "slug": "多多冰",
+      "alts": null
     },
     {
       "nameCn": "双倍多多冰",
-      "alts": null,
-      "slug": "双倍多多冰"
+      "slug": "双倍多多冰",
+      "alts": null
     }
   ],
   "stats": {

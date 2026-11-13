@@ -51,18 +51,18 @@
       "evolution": [
         {
           "nameCn": "粉蝶虫",
-          "alts": null,
-          "slug": "粉蝶虫"
+          "slug": "粉蝶虫",
+          "alts": null
         },
         {
           "nameCn": "粉蝶蛹",
-          "alts": null,
-          "slug": "粉蝶蛹"
+          "slug": "粉蝶蛹",
+          "alts": null
         },
         {
           "nameCn": "彩粉蝶",
-          "alts": null,
-          "slug": "彩粉蝶"
+          "slug": "彩粉蝶",
+          "alts": null
         }
       ],
       "stats": {
@@ -218,18 +218,18 @@
   "evolution": [
     {
       "nameCn": "粉蝶虫",
-      "alts": null,
-      "slug": "粉蝶虫"
+      "slug": "粉蝶虫",
+      "alts": null
     },
     {
       "nameCn": "粉蝶蛹",
-      "alts": null,
-      "slug": "粉蝶蛹"
+      "slug": "粉蝶蛹",
+      "alts": null
     },
     {
       "nameCn": "彩粉蝶",
-      "alts": null,
-      "slug": "彩粉蝶"
+      "slug": "彩粉蝶",
+      "alts": null
     }
   ],
   "stats": {

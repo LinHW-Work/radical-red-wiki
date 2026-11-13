@@ -1,17 +1,17 @@
 {
   "num": "0931",
-  "nameCn": "Squawkabilly",
+  "nameCn": "怒鹦哥",
   "nameEn": "Squawkabilly",
-  "slug": "Squawkabilly",
-  "path": "/图鉴/Squawkabilly",
+  "slug": "怒鹦哥",
+  "path": "/图鉴/怒鹦哥",
   "formes": [
     {
       "key": "Squawkabilly",
-      "label": "Squawkabilly",
+      "label": "怒鹦哥",
       "kind": "base",
       "num": "0931",
       "sprite": "0931.png",
-      "nameCn": "Squawkabilly",
+      "nameCn": "怒鹦哥",
       "nameEn": "Squawkabilly",
       "types": [
         "一般",
@@ -47,16 +47,26 @@
         }
       ],
       "obtains": {
-        "map": [],
-        "static": [],
+        "map": [
+          {
+            "text": "25号道路·白天",
+            "href": "/分布/地图捕捉"
+          }
+        ],
+        "static": [
+          {
+            "text": "6号道路",
+            "href": "/分布/极巨巢穴"
+          }
+        ],
         "npc": [],
         "evolution": []
       },
       "evolution": [
         {
-          "nameCn": "Squawkabilly",
-          "alts": null,
-          "slug": "Squawkabilly"
+          "nameCn": "怒鹦哥",
+          "slug": "怒鹦哥",
+          "alts": null
         }
       ],
       "stats": {
@@ -769,16 +779,26 @@
     }
   ],
   "obtains": {
-    "map": [],
-    "static": [],
+    "map": [
+      {
+        "text": "25号道路·白天",
+        "href": "/分布/地图捕捉"
+      }
+    ],
+    "static": [
+      {
+        "text": "6号道路",
+        "href": "/分布/极巨巢穴"
+      }
+    ],
     "npc": [],
     "evolution": []
   },
   "evolution": [
     {
-      "nameCn": "Squawkabilly",
-      "alts": null,
-      "slug": "Squawkabilly"
+      "nameCn": "怒鹦哥",
+      "slug": "怒鹦哥",
+      "alts": null
     }
   ],
   "stats": {

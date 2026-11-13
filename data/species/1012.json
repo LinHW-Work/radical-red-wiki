@@ -40,7 +40,7 @@
       "obtains": {
         "map": [
           {
-            "text": "深灰市·晚上",
+            "text": "常青市·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -51,13 +51,13 @@
       "evolution": [
         {
           "nameCn": "斯魔茶",
-          "alts": null,
-          "slug": "斯魔茶"
+          "slug": "斯魔茶",
+          "alts": null
         },
         {
           "nameCn": "来悲粗茶",
-          "alts": null,
-          "slug": "来悲粗茶"
+          "slug": "来悲粗茶",
+          "alts": null
         }
       ],
       "stats": {
@@ -575,7 +575,7 @@
   "obtains": {
     "map": [
       {
-        "text": "深灰市·晚上",
+        "text": "常青市·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -586,13 +586,13 @@
   "evolution": [
     {
       "nameCn": "斯魔茶",
-      "alts": null,
-      "slug": "斯魔茶"
+      "slug": "斯魔茶",
+      "alts": null
     },
     {
       "nameCn": "来悲粗茶",
-      "alts": null,
-      "slug": "来悲粗茶"
+      "slug": "来悲粗茶",
+      "alts": null
     }
   ],
   "stats": {

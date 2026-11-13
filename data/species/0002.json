@@ -52,18 +52,18 @@
       "evolution": [
         {
           "nameCn": "妙蛙种子",
-          "alts": null,
-          "slug": "妙蛙种子"
+          "slug": "妙蛙种子",
+          "alts": null
         },
         {
           "nameCn": "妙蛙草",
-          "alts": null,
-          "slug": "妙蛙草"
+          "slug": "妙蛙草",
+          "alts": null
         },
         {
           "nameCn": "妙蛙花",
-          "alts": null,
-          "slug": "妙蛙花"
+          "slug": "妙蛙花",
+          "alts": null
         }
       ],
       "stats": {
@@ -987,18 +987,18 @@
   "evolution": [
     {
       "nameCn": "妙蛙种子",
-      "alts": null,
-      "slug": "妙蛙种子"
+      "slug": "妙蛙种子",
+      "alts": null
     },
     {
       "nameCn": "妙蛙草",
-      "alts": null,
-      "slug": "妙蛙草"
+      "slug": "妙蛙草",
+      "alts": null
     },
     {
       "nameCn": "妙蛙花",
-      "alts": null,
-      "slug": "妙蛙花"
+      "slug": "妙蛙花",
+      "alts": null
     }
   ],
   "stats": {

@@ -60,11 +60,12 @@
       "evolution": [
         {
           "nameCn": "岩狗狗",
-          "alts": null,
-          "slug": "岩狗狗"
+          "slug": "岩狗狗",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "Lycanroc-Dusk",
@@ -94,10 +95,10 @@
       "levelMoves": [
         {
           "level": 0,
-          "nameCn": "加速岩",
+          "nameCn": "冲岩",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E9%80%9F%E5%B2%A9",
+          "href": "https://wiki.52poke.com/wiki/%E5%86%B2%E5%B2%A9",
           "type": "岩石",
           "category": "物理",
           "power": 40,
@@ -106,10 +107,10 @@
         },
         {
           "level": 1,
-          "nameCn": "加速岩",
+          "nameCn": "冲岩",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E9%80%9F%E5%B2%A9",
+          "href": "https://wiki.52poke.com/wiki/%E5%86%B2%E5%B2%A9",
           "type": "岩石",
           "category": "物理",
           "power": 40,
@@ -799,10 +800,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -823,10 +824,10 @@
         },
         {
           "level": null,
-          "nameCn": "钻冲赛道",
+          "nameCn": "直冲钻",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+          "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
           "type": "地面",
           "category": "物理",
           "power": 80,
@@ -1076,11 +1077,12 @@
       "evolution": [
         {
           "nameCn": "岩狗狗",
-          "alts": null,
-          "slug": "岩狗狗"
+          "slug": "岩狗狗",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "Lycanroc-Dusk",
@@ -1134,10 +1136,10 @@
         },
         {
           "level": 1,
-          "nameCn": "加速岩",
+          "nameCn": "冲岩",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E9%80%9F%E5%B2%A9",
+          "href": "https://wiki.52poke.com/wiki/%E5%86%B2%E5%B2%A9",
           "type": "岩石",
           "category": "物理",
           "power": 40,
@@ -1338,10 +1340,10 @@
         },
         {
           "level": 68,
-          "nameCn": "强刃而解",
+          "nameCn": "强刃攻击",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E5%88%83%E8%80%8C%E8%A7%A3",
+          "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E5%88%83%E6%94%BB%E5%87%BB",
           "type": "岩石",
           "category": "物理",
           "power": 95,
@@ -1827,10 +1829,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1851,10 +1853,10 @@
         },
         {
           "level": null,
-          "nameCn": "钻冲赛道",
+          "nameCn": "直冲钻",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+          "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
           "type": "地面",
           "category": "物理",
           "power": 80,
@@ -2134,11 +2136,12 @@
       "evolution": [
         {
           "nameCn": "岩狗狗",
-          "alts": null,
-          "slug": "岩狗狗"
+          "slug": "岩狗狗",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "Lycanroc-Dusk",
@@ -2998,10 +3001,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -3058,10 +3061,10 @@
         },
         {
           "level": null,
-          "nameCn": "地狱突刺",
+          "nameCn": "深渊突刺",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+          "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
           "type": "恶",
           "category": "物理",
           "power": 80,
@@ -3334,11 +3337,12 @@
   "evolution": [
     {
       "nameCn": "岩狗狗",
-      "alts": null,
-      "slug": "岩狗狗"
+      "slug": "岩狗狗",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "Lycanroc-Dusk",
@@ -3368,10 +3372,10 @@
   "levelMoves": [
     {
       "level": 0,
-      "nameCn": "加速岩",
+      "nameCn": "冲岩",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E9%80%9F%E5%B2%A9",
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B2%E5%B2%A9",
       "type": "岩石",
       "category": "物理",
       "power": 40,
@@ -3380,10 +3384,10 @@
     },
     {
       "level": 1,
-      "nameCn": "加速岩",
+      "nameCn": "冲岩",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E9%80%9F%E5%B2%A9",
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B2%E5%B2%A9",
       "type": "岩石",
       "category": "物理",
       "power": 40,
@@ -4073,10 +4077,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -4097,10 +4101,10 @@
     },
     {
       "level": null,
-      "nameCn": "钻冲赛道",
+      "nameCn": "直冲钻",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+      "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
       "type": "地面",
       "category": "物理",
       "power": 80,

@@ -52,16 +52,17 @@
       "evolution": [
         {
           "nameCn": "走路草",
-          "alts": null,
-          "slug": "走路草"
+          "slug": "走路草",
+          "alts": null
         },
         {
           "nameCn": "臭臭花",
-          "alts": null,
-          "slug": "臭臭花"
+          "slug": "臭臭花",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "美丽花",
@@ -871,16 +872,17 @@
   "evolution": [
     {
       "nameCn": "走路草",
-      "alts": null,
-      "slug": "走路草"
+      "slug": "走路草",
+      "alts": null
     },
     {
       "nameCn": "臭臭花",
-      "alts": null,
-      "slug": "臭臭花"
+      "slug": "臭臭花",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "美丽花",

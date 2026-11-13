@@ -28,8 +28,8 @@
         },
         {
           "slot": "1",
-          "nameCn": "沙暴",
-          "href": "https://wiki.52poke.com/wiki/%E6%B2%99%E6%9A%B4",
+          "nameCn": "扬沙",
+          "href": "https://wiki.52poke.com/wiki/%E6%89%AC%E6%B2%99",
           "original": false,
           "restrictedNameCn": "坚硬岩石",
           "restrictedHref": "https://wiki.52poke.com/wiki/%E5%9D%9A%E7%A1%AC%E5%B2%A9%E7%9F%B3",
@@ -52,7 +52,7 @@
         "evolution": [
           {
             "group": "evolution",
-            "text": "地幔岩·使用Link Cable",
+            "text": "地幔岩·使用连接电缆",
             "href": null
           }
         ]
@@ -60,18 +60,18 @@
       "evolution": [
         {
           "nameCn": "石丸子",
-          "alts": null,
-          "slug": "石丸子"
+          "slug": "石丸子",
+          "alts": null
         },
         {
           "nameCn": "地幔岩",
-          "alts": null,
-          "slug": "地幔岩"
+          "slug": "地幔岩",
+          "alts": null
         },
         {
           "nameCn": "庞岩怪",
-          "alts": null,
-          "slug": "庞岩怪"
+          "slug": "庞岩怪",
+          "alts": null
         }
       ],
       "stats": {
@@ -750,10 +750,10 @@
         },
         {
           "level": null,
-          "nameCn": "地狱突刺",
+          "nameCn": "深渊突刺",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+          "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
           "type": "恶",
           "category": "物理",
           "power": 80,
@@ -946,8 +946,8 @@
     },
     {
       "slot": "1",
-      "nameCn": "沙暴",
-      "href": "https://wiki.52poke.com/wiki/%E6%B2%99%E6%9A%B4",
+      "nameCn": "扬沙",
+      "href": "https://wiki.52poke.com/wiki/%E6%89%AC%E6%B2%99",
       "original": false,
       "restrictedNameCn": "坚硬岩石",
       "restrictedHref": "https://wiki.52poke.com/wiki/%E5%9D%9A%E7%A1%AC%E5%B2%A9%E7%9F%B3",
@@ -970,7 +970,7 @@
     "evolution": [
       {
         "group": "evolution",
-        "text": "地幔岩·使用Link Cable",
+        "text": "地幔岩·使用连接电缆",
         "href": null
       }
     ]
@@ -978,18 +978,18 @@
   "evolution": [
     {
       "nameCn": "石丸子",
-      "alts": null,
-      "slug": "石丸子"
+      "slug": "石丸子",
+      "alts": null
     },
     {
       "nameCn": "地幔岩",
-      "alts": null,
-      "slug": "地幔岩"
+      "slug": "地幔岩",
+      "alts": null
     },
     {
       "nameCn": "庞岩怪",
-      "alts": null,
-      "slug": "庞岩怪"
+      "slug": "庞岩怪",
+      "alts": null
     }
   ],
   "stats": {
@@ -1668,10 +1668,10 @@
     },
     {
       "level": null,
-      "nameCn": "地狱突刺",
+      "nameCn": "深渊突刺",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+      "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
       "type": "恶",
       "category": "物理",
       "power": 80,

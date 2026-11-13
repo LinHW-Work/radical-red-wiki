@@ -42,7 +42,7 @@
         "static": [
           {
             "text": "冠军之路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -51,8 +51,8 @@
       "evolution": [
         {
           "nameCn": "基格尔德",
-          "alts": null,
-          "slug": "基格尔德"
+          "slug": "基格尔德",
+          "alts": null
         }
       ],
       "stats": {
@@ -66,10 +66,10 @@
       "levelMoves": [
         {
           "level": 1,
-          "nameCn": "蛇瞪",
+          "nameCn": "大蛇瞪眼",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E8%9B%87%E7%9E%AA",
+          "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E8%9B%87%E7%9E%AA%E7%9C%BC",
           "type": "一般",
           "category": "变化",
           "power": null,
@@ -508,8 +508,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -930,15 +930,20 @@
       ],
       "obtains": {
         "map": [],
-        "static": [],
+        "static": [
+          {
+            "text": "16号道路",
+            "href": "/分布/极巨巢穴"
+          }
+        ],
         "npc": [],
         "evolution": []
       },
       "evolution": [
         {
           "nameCn": "Zygarde-10%",
-          "alts": null,
           "slug": "基格尔德",
+          "alts": null,
           "forme": "10%"
         }
       ],
@@ -965,10 +970,10 @@
         },
         {
           "level": 1,
-          "nameCn": "蛇瞪",
+          "nameCn": "大蛇瞪眼",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E8%9B%87%E7%9E%AA",
+          "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E8%9B%87%E7%9E%AA%E7%9C%BC",
           "type": "一般",
           "category": "变化",
           "power": null,
@@ -1407,8 +1412,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -1801,8 +1806,8 @@
       "evolution": [
         {
           "nameCn": "Zygarde-Complete",
-          "alts": null,
           "slug": "基格尔德",
+          "alts": null,
           "forme": "完全体"
         }
       ],
@@ -1817,10 +1822,10 @@
       "levelMoves": [
         {
           "level": 1,
-          "nameCn": "蛇瞪",
+          "nameCn": "大蛇瞪眼",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E8%9B%87%E7%9E%AA",
+          "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E8%9B%87%E7%9E%AA%E7%9C%BC",
           "type": "一般",
           "category": "变化",
           "power": null,
@@ -2208,7 +2213,7 @@
     "static": [
       {
         "text": "冠军之路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -2217,8 +2222,8 @@
   "evolution": [
     {
       "nameCn": "基格尔德",
-      "alts": null,
-      "slug": "基格尔德"
+      "slug": "基格尔德",
+      "alts": null
     }
   ],
   "stats": {
@@ -2232,10 +2237,10 @@
   "levelMoves": [
     {
       "level": 1,
-      "nameCn": "蛇瞪",
+      "nameCn": "大蛇瞪眼",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E8%9B%87%E7%9E%AA",
+      "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E8%9B%87%E7%9E%AA%E7%9C%BC",
       "type": "一般",
       "category": "变化",
       "power": null,
@@ -2674,8 +2679,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,

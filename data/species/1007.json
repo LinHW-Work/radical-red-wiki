@@ -20,8 +20,8 @@
       "abilities": [
         {
           "slot": "0",
-          "nameCn": "或奥拉激励",
-          "href": "https://wiki.52poke.com/wiki/%E6%88%96%E5%A5%A5%E6%8B%89%E6%BF%80%E5%8A%B1",
+          "nameCn": "绯红脉动",
+          "href": "https://wiki.52poke.com/wiki/%E7%BB%AF%E7%BA%A2%E8%84%89%E5%8A%A8",
           "original": false,
           "restrictedNameCn": "古代活性",
           "restrictedHref": "https://wiki.52poke.com/wiki/%E5%8F%A4%E4%BB%A3%E6%B4%BB%E6%80%A7",
@@ -33,7 +33,7 @@
         "static": [
           {
             "text": "神秘礼物：ghS57gu",
-            "href": "/分布/定点获取"
+            "href": "/分布/神秘礼物"
           }
         ],
         "npc": [],
@@ -42,8 +42,8 @@
       "evolution": [
         {
           "nameCn": "故勒顿",
-          "alts": null,
-          "slug": "故勒顿"
+          "slug": "故勒顿",
+          "alts": null
         }
       ],
       "stats": {
@@ -177,10 +177,10 @@
         },
         {
           "level": 70,
-          "nameCn": "迅疾钻",
+          "nameCn": "全开猛撞",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E8%BF%85%E7%96%BE%E9%92%BB",
+          "href": "https://wiki.52poke.com/wiki/%E5%85%A8%E5%BC%80%E7%8C%9B%E6%92%9E",
           "type": "格斗",
           "category": "物理",
           "power": 100,
@@ -566,8 +566,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -1058,8 +1058,8 @@
   "abilities": [
     {
       "slot": "0",
-      "nameCn": "或奥拉激励",
-      "href": "https://wiki.52poke.com/wiki/%E6%88%96%E5%A5%A5%E6%8B%89%E6%BF%80%E5%8A%B1",
+      "nameCn": "绯红脉动",
+      "href": "https://wiki.52poke.com/wiki/%E7%BB%AF%E7%BA%A2%E8%84%89%E5%8A%A8",
       "original": false,
       "restrictedNameCn": "古代活性",
       "restrictedHref": "https://wiki.52poke.com/wiki/%E5%8F%A4%E4%BB%A3%E6%B4%BB%E6%80%A7",
@@ -1071,7 +1071,7 @@
     "static": [
       {
         "text": "神秘礼物：ghS57gu",
-        "href": "/分布/定点获取"
+        "href": "/分布/神秘礼物"
       }
     ],
     "npc": [],
@@ -1080,8 +1080,8 @@
   "evolution": [
     {
       "nameCn": "故勒顿",
-      "alts": null,
-      "slug": "故勒顿"
+      "slug": "故勒顿",
+      "alts": null
     }
   ],
   "stats": {
@@ -1215,10 +1215,10 @@
     },
     {
       "level": 70,
-      "nameCn": "迅疾钻",
+      "nameCn": "全开猛撞",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E8%BF%85%E7%96%BE%E9%92%BB",
+      "href": "https://wiki.52poke.com/wiki/%E5%85%A8%E5%BC%80%E7%8C%9B%E6%92%9E",
       "type": "格斗",
       "category": "物理",
       "power": 100,
@@ -1604,8 +1604,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,

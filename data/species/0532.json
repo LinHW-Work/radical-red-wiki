@@ -48,7 +48,7 @@
       "obtains": {
         "map": [
           {
-            "text": "月见山 1f·白天",
+            "text": "月见山·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -59,18 +59,18 @@
       "evolution": [
         {
           "nameCn": "搬运小匠",
-          "alts": null,
-          "slug": "搬运小匠"
+          "slug": "搬运小匠",
+          "alts": null
         },
         {
           "nameCn": "铁骨土人",
-          "alts": null,
-          "slug": "铁骨土人"
+          "slug": "铁骨土人",
+          "alts": null
         },
         {
           "nameCn": "修建老匠",
-          "alts": null,
-          "slug": "修建老匠"
+          "slug": "修建老匠",
+          "alts": null
         }
       ],
       "stats": {
@@ -1019,7 +1019,7 @@
     {
       "slot": "H",
       "nameCn": "铁拳",
-      "href": "https://wiki.52poke.com/wiki/%E9%93%81%E6%8B%B3",
+      "href": "/特性/修改#铁拳",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1029,7 +1029,7 @@
   "obtains": {
     "map": [
       {
-        "text": "月见山 1f·白天",
+        "text": "月见山·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1040,18 +1040,18 @@
   "evolution": [
     {
       "nameCn": "搬运小匠",
-      "alts": null,
-      "slug": "搬运小匠"
+      "slug": "搬运小匠",
+      "alts": null
     },
     {
       "nameCn": "铁骨土人",
-      "alts": null,
-      "slug": "铁骨土人"
+      "slug": "铁骨土人",
+      "alts": null
     },
     {
       "nameCn": "修建老匠",
-      "alts": null,
-      "slug": "修建老匠"
+      "slug": "修建老匠",
+      "alts": null
     }
   ],
   "stats": {

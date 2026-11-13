@@ -49,23 +49,23 @@
       "obtains": {
         "map": [
           {
-            "text": "深灰市·白天",
+            "text": "常青市·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "深灰市·晚上",
+            "text": "常青市·晚上",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "地鼠洞穴·白天",
+            "text": "月见山·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "地鼠洞穴·晚上",
+            "text": "Diglett's Cave·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "月见山 b2f·白天",
+            "text": "Diglett's Cave·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -76,13 +76,13 @@
       "evolution": [
         {
           "nameCn": "呆火驼",
-          "alts": null,
-          "slug": "呆火驼"
+          "slug": "呆火驼",
+          "alts": null
         },
         {
           "nameCn": "喷火驼",
-          "alts": null,
-          "slug": "喷火驼"
+          "slug": "喷火驼",
+          "alts": null
         }
       ],
       "stats": {
@@ -1027,23 +1027,23 @@
   "obtains": {
     "map": [
       {
-        "text": "深灰市·白天",
+        "text": "常青市·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "深灰市·晚上",
+        "text": "常青市·晚上",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "地鼠洞穴·白天",
+        "text": "月见山·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "地鼠洞穴·晚上",
+        "text": "Diglett's Cave·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "月见山 b2f·白天",
+        "text": "Diglett's Cave·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1054,13 +1054,13 @@
   "evolution": [
     {
       "nameCn": "呆火驼",
-      "alts": null,
-      "slug": "呆火驼"
+      "slug": "呆火驼",
+      "alts": null
     },
     {
       "nameCn": "喷火驼",
-      "alts": null,
-      "slug": "喷火驼"
+      "slug": "喷火驼",
+      "alts": null
     }
   ],
   "stats": {

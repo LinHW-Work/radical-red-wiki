@@ -52,18 +52,18 @@
       "evolution": [
         {
           "nameCn": "小火龙",
-          "alts": null,
-          "slug": "小火龙"
+          "slug": "小火龙",
+          "alts": null
         },
         {
           "nameCn": "火恐龙",
-          "alts": null,
-          "slug": "火恐龙"
+          "slug": "火恐龙",
+          "alts": null
         },
         {
           "nameCn": "喷火龙",
-          "alts": null,
-          "slug": "喷火龙"
+          "slug": "喷火龙",
+          "alts": null
         }
       ],
       "stats": {
@@ -101,10 +101,10 @@
         },
         {
           "level": 1,
-          "nameCn": "烧尽",
+          "nameCn": "烧净",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
           "type": "火",
           "category": "特殊",
           "power": 60,
@@ -161,10 +161,10 @@
         },
         {
           "level": 1,
-          "nameCn": "空气斩",
+          "nameCn": "空气之刃",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
           "type": "飞行",
           "category": "特殊",
           "power": 75,
@@ -783,8 +783,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -1549,18 +1549,18 @@
       "evolution": [
         {
           "nameCn": "小火龙",
-          "alts": null,
-          "slug": "小火龙"
+          "slug": "小火龙",
+          "alts": null
         },
         {
           "nameCn": "火恐龙",
-          "alts": null,
-          "slug": "火恐龙"
+          "slug": "火恐龙",
+          "alts": null
         },
         {
           "nameCn": "喷火龙",
-          "alts": null,
-          "slug": "喷火龙"
+          "slug": "喷火龙",
+          "alts": null
         }
       ],
       "stats": {
@@ -1598,10 +1598,10 @@
         },
         {
           "level": 1,
-          "nameCn": "烧尽",
+          "nameCn": "烧净",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
           "type": "火",
           "category": "特殊",
           "power": 60,
@@ -1658,10 +1658,10 @@
         },
         {
           "level": 1,
-          "nameCn": "空气斩",
+          "nameCn": "空气之刃",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
           "type": "飞行",
           "category": "特殊",
           "power": 75,
@@ -1927,18 +1927,18 @@
       "evolution": [
         {
           "nameCn": "小火龙",
-          "alts": null,
-          "slug": "小火龙"
+          "slug": "小火龙",
+          "alts": null
         },
         {
           "nameCn": "火恐龙",
-          "alts": null,
-          "slug": "火恐龙"
+          "slug": "火恐龙",
+          "alts": null
         },
         {
           "nameCn": "喷火龙",
-          "alts": null,
-          "slug": "喷火龙"
+          "slug": "喷火龙",
+          "alts": null
         }
       ],
       "stats": {
@@ -1976,10 +1976,10 @@
         },
         {
           "level": 1,
-          "nameCn": "烧尽",
+          "nameCn": "烧净",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
           "type": "火",
           "category": "特殊",
           "power": 60,
@@ -2036,10 +2036,10 @@
         },
         {
           "level": 1,
-          "nameCn": "空气斩",
+          "nameCn": "空气之刃",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
           "type": "飞行",
           "category": "特殊",
           "power": 75,
@@ -2285,7 +2285,7 @@
     {
       "slot": "H",
       "nameCn": "太阳之力",
-      "href": "https://wiki.52poke.com/wiki/%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%8A%9B",
+      "href": "/特性/修改#太阳之力",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -2307,18 +2307,18 @@
   "evolution": [
     {
       "nameCn": "小火龙",
-      "alts": null,
-      "slug": "小火龙"
+      "slug": "小火龙",
+      "alts": null
     },
     {
       "nameCn": "火恐龙",
-      "alts": null,
-      "slug": "火恐龙"
+      "slug": "火恐龙",
+      "alts": null
     },
     {
       "nameCn": "喷火龙",
-      "alts": null,
-      "slug": "喷火龙"
+      "slug": "喷火龙",
+      "alts": null
     }
   ],
   "stats": {
@@ -2356,10 +2356,10 @@
     },
     {
       "level": 1,
-      "nameCn": "烧尽",
+      "nameCn": "烧净",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
       "type": "火",
       "category": "特殊",
       "power": 60,
@@ -2416,10 +2416,10 @@
     },
     {
       "level": 1,
-      "nameCn": "空气斩",
+      "nameCn": "空气之刃",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
       "type": "飞行",
       "category": "特殊",
       "power": 75,
@@ -3038,8 +3038,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,

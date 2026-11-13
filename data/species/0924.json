@@ -59,7 +59,7 @@
         "static": [
           {
             "text": "3号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -68,13 +68,13 @@
       "evolution": [
         {
           "nameCn": "一对鼠",
-          "alts": null,
-          "slug": "一对鼠"
+          "slug": "一对鼠",
+          "alts": null
         },
         {
           "nameCn": "一家鼠",
-          "alts": null,
-          "slug": "一家鼠"
+          "slug": "一家鼠",
+          "alts": null
         }
       ],
       "stats": {
@@ -806,7 +806,7 @@
     {
       "slot": "1",
       "nameCn": "捡拾",
-      "href": "https://wiki.52poke.com/wiki/%E6%8D%A1%E6%8B%BE",
+      "href": "/特性/修改#捡拾",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -836,7 +836,7 @@
     "static": [
       {
         "text": "3号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -845,13 +845,13 @@
   "evolution": [
     {
       "nameCn": "一对鼠",
-      "alts": null,
-      "slug": "一对鼠"
+      "slug": "一对鼠",
+      "alts": null
     },
     {
       "nameCn": "一家鼠",
-      "alts": null,
-      "slug": "一家鼠"
+      "slug": "一家鼠",
+      "alts": null
     }
   ],
   "stats": {

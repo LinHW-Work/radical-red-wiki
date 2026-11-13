@@ -52,18 +52,18 @@
       "evolution": [
         {
           "nameCn": "火狐狸",
-          "alts": null,
-          "slug": "火狐狸"
+          "slug": "火狐狸",
+          "alts": null
         },
         {
           "nameCn": "长尾火狐",
-          "alts": null,
-          "slug": "长尾火狐"
+          "slug": "长尾火狐",
+          "alts": null
         },
         {
           "nameCn": "妖火红狐",
-          "alts": null,
-          "slug": "妖火红狐"
+          "slug": "妖火红狐",
+          "alts": null
         }
       ],
       "stats": {
@@ -209,10 +209,10 @@
         },
         {
           "level": 8,
-          "nameCn": "鬼火",
+          "nameCn": "磷火",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+          "href": "https://wiki.52poke.com/wiki/%E7%A3%B7%E7%81%AB",
           "type": "火",
           "category": "变化",
           "power": null,
@@ -233,10 +233,10 @@
         },
         {
           "level": 14,
-          "nameCn": "烧尽",
+          "nameCn": "烧净",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
           "type": "火",
           "category": "特殊",
           "power": 60,
@@ -1260,18 +1260,18 @@
   "evolution": [
     {
       "nameCn": "火狐狸",
-      "alts": null,
-      "slug": "火狐狸"
+      "slug": "火狐狸",
+      "alts": null
     },
     {
       "nameCn": "长尾火狐",
-      "alts": null,
-      "slug": "长尾火狐"
+      "slug": "长尾火狐",
+      "alts": null
     },
     {
       "nameCn": "妖火红狐",
-      "alts": null,
-      "slug": "妖火红狐"
+      "slug": "妖火红狐",
+      "alts": null
     }
   ],
   "stats": {
@@ -1417,10 +1417,10 @@
     },
     {
       "level": 8,
-      "nameCn": "鬼火",
+      "nameCn": "磷火",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E9%AC%BC%E7%81%AB",
+      "href": "https://wiki.52poke.com/wiki/%E7%A3%B7%E7%81%AB",
       "type": "火",
       "category": "变化",
       "power": null,
@@ -1441,10 +1441,10 @@
     },
     {
       "level": 14,
-      "nameCn": "烧尽",
+      "nameCn": "烧净",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
       "type": "火",
       "category": "特殊",
       "power": 60,

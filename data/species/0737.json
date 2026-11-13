@@ -52,18 +52,18 @@
       "evolution": [
         {
           "nameCn": "强颚鸡母虫",
-          "alts": null,
-          "slug": "强颚鸡母虫"
+          "slug": "强颚鸡母虫",
+          "alts": null
         },
         {
           "nameCn": "虫电宝",
-          "alts": null,
-          "slug": "虫电宝"
+          "slug": "虫电宝",
+          "alts": null
         },
         {
           "nameCn": "锹农炮虫",
-          "alts": null,
-          "slug": "锹农炮虫"
+          "slug": "锹农炮虫",
+          "alts": null
         }
       ],
       "stats": {
@@ -765,18 +765,18 @@
   "evolution": [
     {
       "nameCn": "强颚鸡母虫",
-      "alts": null,
-      "slug": "强颚鸡母虫"
+      "slug": "强颚鸡母虫",
+      "alts": null
     },
     {
       "nameCn": "虫电宝",
-      "alts": null,
-      "slug": "虫电宝"
+      "slug": "虫电宝",
+      "alts": null
     },
     {
       "nameCn": "锹农炮虫",
-      "alts": null,
-      "slug": "锹农炮虫"
+      "slug": "锹农炮虫",
+      "alts": null
     }
   ],
   "stats": {

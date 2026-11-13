@@ -48,14 +48,14 @@
       "obtains": {
         "map": [
           {
-            "text": "常青市·晚上",
+            "text": "真新镇·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
         "static": [
           {
             "text": "4号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -64,18 +64,18 @@
       "evolution": [
         {
           "nameCn": "布拨",
-          "alts": null,
-          "slug": "布拨"
+          "slug": "布拨",
+          "alts": null
         },
         {
           "nameCn": "布土拨",
-          "alts": null,
-          "slug": "布土拨"
+          "slug": "布土拨",
+          "alts": null
         },
         {
           "nameCn": "巴布土拨",
-          "alts": null,
-          "slug": "巴布土拨"
+          "slug": "巴布土拨",
+          "alts": null
         }
       ],
       "stats": {
@@ -714,7 +714,7 @@
     {
       "slot": "H",
       "nameCn": "铁拳",
-      "href": "https://wiki.52poke.com/wiki/%E9%93%81%E6%8B%B3",
+      "href": "/特性/修改#铁拳",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -724,14 +724,14 @@
   "obtains": {
     "map": [
       {
-        "text": "常青市·晚上",
+        "text": "真新镇·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
     "static": [
       {
         "text": "4号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -740,18 +740,18 @@
   "evolution": [
     {
       "nameCn": "布拨",
-      "alts": null,
-      "slug": "布拨"
+      "slug": "布拨",
+      "alts": null
     },
     {
       "nameCn": "布土拨",
-      "alts": null,
-      "slug": "布土拨"
+      "slug": "布土拨",
+      "alts": null
     },
     {
       "nameCn": "巴布土拨",
-      "alts": null,
-      "slug": "巴布土拨"
+      "slug": "巴布土拨",
+      "alts": null
     }
   ],
   "stats": {

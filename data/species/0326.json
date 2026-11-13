@@ -69,13 +69,13 @@
       "evolution": [
         {
           "nameCn": "跳跳猪",
-          "alts": null,
-          "slug": "跳跳猪"
+          "slug": "跳跳猪",
+          "alts": null
         },
         {
           "nameCn": "噗噗猪",
-          "alts": null,
-          "slug": "噗噗猪"
+          "slug": "噗噗猪",
+          "alts": null
         }
       ],
       "stats": {
@@ -1303,13 +1303,13 @@
   "evolution": [
     {
       "nameCn": "跳跳猪",
-      "alts": null,
-      "slug": "跳跳猪"
+      "slug": "跳跳猪",
+      "alts": null
     },
     {
       "nameCn": "噗噗猪",
-      "alts": null,
-      "slug": "噗噗猪"
+      "slug": "噗噗猪",
+      "alts": null
     }
   ],
   "stats": {

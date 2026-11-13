@@ -42,10 +42,6 @@
           {
             "text": "常青森林·白天",
             "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "森林扩展区·白天",
-            "href": "/分布/地图捕捉"
           }
         ],
         "static": [],
@@ -55,18 +51,18 @@
       "evolution": [
         {
           "nameCn": "独角虫",
-          "alts": null,
-          "slug": "独角虫"
+          "slug": "独角虫",
+          "alts": null
         },
         {
           "nameCn": "铁壳蛹",
-          "alts": null,
-          "slug": "铁壳蛹"
+          "slug": "铁壳蛹",
+          "alts": null
         },
         {
           "nameCn": "大针蜂",
-          "alts": null,
-          "slug": "大针蜂"
+          "slug": "大针蜂",
+          "alts": null
         }
       ],
       "stats": {
@@ -167,7 +163,7 @@
     {
       "slot": "0",
       "nameCn": "鳞粉",
-      "href": "https://wiki.52poke.com/wiki/%E9%B3%9E%E7%B2%89",
+      "href": "/特性/修改#鳞粉",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -188,10 +184,6 @@
       {
         "text": "常青森林·白天",
         "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "森林扩展区·白天",
-        "href": "/分布/地图捕捉"
       }
     ],
     "static": [],
@@ -201,18 +193,18 @@
   "evolution": [
     {
       "nameCn": "独角虫",
-      "alts": null,
-      "slug": "独角虫"
+      "slug": "独角虫",
+      "alts": null
     },
     {
       "nameCn": "铁壳蛹",
-      "alts": null,
-      "slug": "铁壳蛹"
+      "slug": "铁壳蛹",
+      "alts": null
     },
     {
       "nameCn": "大针蜂",
-      "alts": null,
-      "slug": "大针蜂"
+      "slug": "大针蜂",
+      "alts": null
     }
   ],
   "stats": {

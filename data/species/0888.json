@@ -32,7 +32,7 @@
         "static": [
           {
             "text": "神秘礼物：enR6C8knHyO",
-            "href": "/分布/定点获取"
+            "href": "/分布/神秘礼物"
           }
         ],
         "npc": [],
@@ -41,8 +41,8 @@
       "evolution": [
         {
           "nameCn": "苍响",
-          "alts": null,
-          "slug": "苍响"
+          "slug": "苍响",
+          "alts": null
         }
       ],
       "stats": {
@@ -644,18 +644,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "咬碎",
           "restricted": false,
           "original": false,
@@ -748,8 +736,8 @@
       "evolution": [
         {
           "nameCn": "Zacian-Crowned",
-          "alts": null,
           "slug": "苍响",
+          "alts": null,
           "forme": "剑之王"
         }
       ],
@@ -1300,18 +1288,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "咬碎",
           "restricted": false,
           "original": false,
@@ -1392,7 +1368,7 @@
     "static": [
       {
         "text": "神秘礼物：enR6C8knHyO",
-        "href": "/分布/定点获取"
+        "href": "/分布/神秘礼物"
       }
     ],
     "npc": [],
@@ -1401,8 +1377,8 @@
   "evolution": [
     {
       "nameCn": "苍响",
-      "alts": null,
-      "slug": "苍响"
+      "slug": "苍响",
+      "alts": null
     }
   ],
   "stats": {
@@ -2001,18 +1977,6 @@
       "power": null,
       "accuracy": 100,
       "pp": 15
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

@@ -42,16 +42,17 @@
       "evolution": [
         {
           "nameCn": "科斯莫古",
-          "alts": null,
-          "slug": "科斯莫古"
+          "slug": "科斯莫古",
+          "alts": null
         },
         {
           "nameCn": "科斯莫姆",
-          "alts": null,
-          "slug": "科斯莫姆"
+          "slug": "科斯莫姆",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "索尔迦雷欧",
@@ -184,16 +185,17 @@
   "evolution": [
     {
       "nameCn": "科斯莫古",
-      "alts": null,
-      "slug": "科斯莫古"
+      "slug": "科斯莫古",
+      "alts": null
     },
     {
       "nameCn": "科斯莫姆",
-      "alts": null,
-      "slug": "科斯莫姆"
+      "slug": "科斯莫姆",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "索尔迦雷欧",

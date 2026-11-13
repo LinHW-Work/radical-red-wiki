@@ -54,6 +54,10 @@
           {
             "text": "25号道路·好吊杆",
             "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "狩猎地带·冲浪",
+            "href": "/分布/地图捕捉"
           }
         ],
         "static": [],
@@ -63,13 +67,13 @@
       "evolution": [
         {
           "nameCn": "滴蛛",
-          "alts": null,
-          "slug": "滴蛛"
+          "slug": "滴蛛",
+          "alts": null
         },
         {
           "nameCn": "滴蛛霸",
-          "alts": null,
-          "slug": "滴蛛霸"
+          "slug": "滴蛛霸",
+          "alts": null
         }
       ],
       "stats": {
@@ -775,6 +779,10 @@
       {
         "text": "25号道路·好吊杆",
         "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "狩猎地带·冲浪",
+        "href": "/分布/地图捕捉"
       }
     ],
     "static": [],
@@ -784,13 +792,13 @@
   "evolution": [
     {
       "nameCn": "滴蛛",
-      "alts": null,
-      "slug": "滴蛛"
+      "slug": "滴蛛",
+      "alts": null
     },
     {
       "nameCn": "滴蛛霸",
-      "alts": null,
-      "slug": "滴蛛霸"
+      "slug": "滴蛛霸",
+      "alts": null
     }
   ],
   "stats": {

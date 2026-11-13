@@ -51,18 +51,18 @@
       "evolution": [
         {
           "nameCn": "幼基拉斯",
-          "alts": null,
-          "slug": "幼基拉斯"
+          "slug": "幼基拉斯",
+          "alts": null
         },
         {
           "nameCn": "沙基拉斯",
-          "alts": null,
-          "slug": "沙基拉斯"
+          "slug": "沙基拉斯",
+          "alts": null
         },
         {
           "nameCn": "班基拉斯",
-          "alts": null,
-          "slug": "班基拉斯"
+          "slug": "班基拉斯",
+          "alts": null
         }
       ],
       "stats": {
@@ -1020,18 +1020,18 @@
   "evolution": [
     {
       "nameCn": "幼基拉斯",
-      "alts": null,
-      "slug": "幼基拉斯"
+      "slug": "幼基拉斯",
+      "alts": null
     },
     {
       "nameCn": "沙基拉斯",
-      "alts": null,
-      "slug": "沙基拉斯"
+      "slug": "沙基拉斯",
+      "alts": null
     },
     {
       "nameCn": "班基拉斯",
-      "alts": null,
-      "slug": "班基拉斯"
+      "slug": "班基拉斯",
+      "alts": null
     }
   ],
   "stats": {

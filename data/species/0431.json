@@ -63,13 +63,13 @@
       "evolution": [
         {
           "nameCn": "魅力喵",
-          "alts": null,
-          "slug": "魅力喵"
+          "slug": "魅力喵",
+          "alts": null
         },
         {
           "nameCn": "东施喵",
-          "alts": null,
-          "slug": "东施喵"
+          "slug": "东施喵",
+          "alts": null
         }
       ],
       "stats": {
@@ -906,13 +906,13 @@
   "evolution": [
     {
       "nameCn": "魅力喵",
-      "alts": null,
-      "slug": "魅力喵"
+      "slug": "魅力喵",
+      "alts": null
     },
     {
       "nameCn": "东施喵",
-      "alts": null,
-      "slug": "东施喵"
+      "slug": "东施喵",
+      "alts": null
     }
   ],
   "stats": {

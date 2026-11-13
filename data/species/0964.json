@@ -28,7 +28,12 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "连理之桥·冲浪",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": [
@@ -42,13 +47,13 @@
       "evolution": [
         {
           "nameCn": "波普海豚",
-          "alts": null,
-          "slug": "波普海豚"
+          "slug": "波普海豚",
+          "alts": null
         },
         {
           "nameCn": "海豚侠",
-          "alts": null,
-          "slug": "海豚侠"
+          "slug": "海豚侠",
+          "alts": null
         }
       ],
       "stats": {
@@ -266,10 +271,10 @@
         },
         {
           "level": 70,
-          "nameCn": "喷射拳头",
+          "nameCn": "喷射拳",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%96%B7%E5%B0%84%E6%8B%B3%E5%A4%B4",
+          "href": "https://wiki.52poke.com/wiki/%E5%96%B7%E5%B0%84%E6%8B%B3",
           "type": "水",
           "category": "物理",
           "power": 60,
@@ -981,8 +986,8 @@
       "evolution": [
         {
           "nameCn": "海豚侠-英雄",
-          "alts": null,
           "slug": "海豚侠",
+          "alts": null,
           "forme": "英雄"
         }
       ],
@@ -1201,10 +1206,10 @@
         },
         {
           "level": 70,
-          "nameCn": "喷射拳头",
+          "nameCn": "喷射拳",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%96%B7%E5%B0%84%E6%8B%B3%E5%A4%B4",
+          "href": "https://wiki.52poke.com/wiki/%E5%96%B7%E5%B0%84%E6%8B%B3",
           "type": "水",
           "category": "物理",
           "power": 60,
@@ -1244,7 +1249,12 @@
     }
   ],
   "obtains": {
-    "map": [],
+    "map": [
+      {
+        "text": "连理之桥·冲浪",
+        "href": "/分布/地图捕捉"
+      }
+    ],
     "static": [],
     "npc": [],
     "evolution": [
@@ -1258,13 +1268,13 @@
   "evolution": [
     {
       "nameCn": "波普海豚",
-      "alts": null,
-      "slug": "波普海豚"
+      "slug": "波普海豚",
+      "alts": null
     },
     {
       "nameCn": "海豚侠",
-      "alts": null,
-      "slug": "海豚侠"
+      "slug": "海豚侠",
+      "alts": null
     }
   ],
   "stats": {
@@ -1482,10 +1492,10 @@
     },
     {
       "level": 70,
-      "nameCn": "喷射拳头",
+      "nameCn": "喷射拳",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%96%B7%E5%B0%84%E6%8B%B3%E5%A4%B4",
+      "href": "https://wiki.52poke.com/wiki/%E5%96%B7%E5%B0%84%E6%8B%B3",
       "type": "水",
       "category": "物理",
       "power": 60,

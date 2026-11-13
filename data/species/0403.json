@@ -48,7 +48,7 @@
       "obtains": {
         "map": [
           {
-            "text": "常青市·白天",
+            "text": "真新镇·白天",
             "href": "/分布/地图捕捉"
           },
           {
@@ -71,18 +71,18 @@
       "evolution": [
         {
           "nameCn": "小猫怪",
-          "alts": null,
-          "slug": "小猫怪"
+          "slug": "小猫怪",
+          "alts": null
         },
         {
           "nameCn": "勒克猫",
-          "alts": null,
-          "slug": "勒克猫"
+          "slug": "勒克猫",
+          "alts": null
         },
         {
           "nameCn": "伦琴猫",
-          "alts": null,
-          "slug": "伦琴猫"
+          "slug": "伦琴猫",
+          "alts": null
         }
       ],
       "stats": {
@@ -898,7 +898,7 @@
     {
       "slot": "0",
       "nameCn": "斗争心",
-      "href": "https://wiki.52poke.com/wiki/%E6%96%97%E4%BA%89%E5%BF%83",
+      "href": "/特性/修改#斗争心",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -926,7 +926,7 @@
   "obtains": {
     "map": [
       {
-        "text": "常青市·白天",
+        "text": "真新镇·白天",
         "href": "/分布/地图捕捉"
       },
       {
@@ -949,18 +949,18 @@
   "evolution": [
     {
       "nameCn": "小猫怪",
-      "alts": null,
-      "slug": "小猫怪"
+      "slug": "小猫怪",
+      "alts": null
     },
     {
       "nameCn": "勒克猫",
-      "alts": null,
-      "slug": "勒克猫"
+      "slug": "勒克猫",
+      "alts": null
     },
     {
       "nameCn": "伦琴猫",
-      "alts": null,
-      "slug": "伦琴猫"
+      "slug": "伦琴猫",
+      "alts": null
     }
   ],
   "stats": {

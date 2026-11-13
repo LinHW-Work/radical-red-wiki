@@ -48,11 +48,11 @@
       "obtains": {
         "map": [
           {
-            "text": "中心区·白天",
+            "text": "狩猎地带·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "中心区·夜晚",
+            "text": "狩猎地带·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -63,8 +63,8 @@
       "evolution": [
         {
           "nameCn": "晃晃斑",
-          "alts": null,
-          "slug": "晃晃斑"
+          "slug": "晃晃斑",
+          "alts": null
         }
       ],
       "stats": {
@@ -1157,11 +1157,11 @@
   "obtains": {
     "map": [
       {
-        "text": "中心区·白天",
+        "text": "狩猎地带·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "中心区·夜晚",
+        "text": "狩猎地带·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1172,8 +1172,8 @@
   "evolution": [
     {
       "nameCn": "晃晃斑",
-      "alts": null,
-      "slug": "晃晃斑"
+      "slug": "晃晃斑",
+      "alts": null
     }
   ],
   "stats": {

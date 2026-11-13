@@ -20,8 +20,8 @@
       "abilities": [
         {
           "slot": "0",
-          "nameCn": "沙暴",
-          "href": "https://wiki.52poke.com/wiki/%E6%B2%99%E6%9A%B4",
+          "nameCn": "扬沙",
+          "href": "https://wiki.52poke.com/wiki/%E6%89%AC%E6%B2%99",
           "original": false,
           "restrictedNameCn": "威吓",
           "restrictedHref": "https://wiki.52poke.com/wiki/%E5%A8%81%E5%90%93",
@@ -40,11 +40,11 @@
       "obtains": {
         "map": [
           {
-            "text": "冠军之路 2f·白天",
+            "text": "冠军之路·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "冠军之路 2f·晚上",
+            "text": "冠军之路·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -61,18 +61,18 @@
       "evolution": [
         {
           "nameCn": "幼基拉斯",
-          "alts": null,
-          "slug": "幼基拉斯"
+          "slug": "幼基拉斯",
+          "alts": null
         },
         {
           "nameCn": "沙基拉斯",
-          "alts": null,
-          "slug": "沙基拉斯"
+          "slug": "沙基拉斯",
+          "alts": null
         },
         {
           "nameCn": "班基拉斯",
-          "alts": null,
-          "slug": "班基拉斯"
+          "slug": "班基拉斯",
+          "alts": null
         }
       ],
       "stats": {
@@ -1175,10 +1175,10 @@
         },
         {
           "level": null,
-          "nameCn": "Dark Hole",
+          "nameCn": "暗黑洞",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Dark Hole",
+          "href": "/原创招式#暗黑洞",
           "type": null,
           "category": null,
           "power": null,
@@ -1622,8 +1622,8 @@
       "abilities": [
         {
           "slot": "0",
-          "nameCn": "沙暴",
-          "href": "https://wiki.52poke.com/wiki/%E6%B2%99%E6%9A%B4",
+          "nameCn": "扬沙",
+          "href": "https://wiki.52poke.com/wiki/%E6%89%AC%E6%B2%99",
           "original": false,
           "restrictedNameCn": "威吓",
           "restrictedHref": "https://wiki.52poke.com/wiki/%E5%A8%81%E5%90%93",
@@ -1633,11 +1633,11 @@
       "obtains": {
         "map": [
           {
-            "text": "冠军之路 2f·白天",
+            "text": "冠军之路·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "冠军之路 2f·晚上",
+            "text": "冠军之路·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -1654,18 +1654,18 @@
       "evolution": [
         {
           "nameCn": "幼基拉斯",
-          "alts": null,
-          "slug": "幼基拉斯"
+          "slug": "幼基拉斯",
+          "alts": null
         },
         {
           "nameCn": "沙基拉斯",
-          "alts": null,
-          "slug": "沙基拉斯"
+          "slug": "沙基拉斯",
+          "alts": null
         },
         {
           "nameCn": "班基拉斯",
-          "alts": null,
-          "slug": "班基拉斯"
+          "slug": "班基拉斯",
+          "alts": null
         }
       ],
       "stats": {
@@ -1930,8 +1930,8 @@
   "abilities": [
     {
       "slot": "0",
-      "nameCn": "沙暴",
-      "href": "https://wiki.52poke.com/wiki/%E6%B2%99%E6%9A%B4",
+      "nameCn": "扬沙",
+      "href": "https://wiki.52poke.com/wiki/%E6%89%AC%E6%B2%99",
       "original": false,
       "restrictedNameCn": "威吓",
       "restrictedHref": "https://wiki.52poke.com/wiki/%E5%A8%81%E5%90%93",
@@ -1950,11 +1950,11 @@
   "obtains": {
     "map": [
       {
-        "text": "冠军之路 2f·白天",
+        "text": "冠军之路·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "冠军之路 2f·晚上",
+        "text": "冠军之路·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1971,18 +1971,18 @@
   "evolution": [
     {
       "nameCn": "幼基拉斯",
-      "alts": null,
-      "slug": "幼基拉斯"
+      "slug": "幼基拉斯",
+      "alts": null
     },
     {
       "nameCn": "沙基拉斯",
-      "alts": null,
-      "slug": "沙基拉斯"
+      "slug": "沙基拉斯",
+      "alts": null
     },
     {
       "nameCn": "班基拉斯",
-      "alts": null,
-      "slug": "班基拉斯"
+      "slug": "班基拉斯",
+      "alts": null
     }
   ],
   "stats": {
@@ -3085,10 +3085,10 @@
     },
     {
       "level": null,
-      "nameCn": "Dark Hole",
+      "nameCn": "暗黑洞",
       "restricted": false,
       "original": true,
-      "href": "/原创招式/Dark Hole",
+      "href": "/原创招式#暗黑洞",
       "type": null,
       "category": null,
       "power": null,

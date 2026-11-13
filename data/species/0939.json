@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "光蚪仔",
-          "alts": null,
-          "slug": "光蚪仔"
+          "slug": "光蚪仔",
+          "alts": null
         },
         {
           "nameCn": "电肚蛙",
-          "alts": null,
-          "slug": "电肚蛙"
+          "slug": "电肚蛙",
+          "alts": null
         }
       ],
       "stats": {
@@ -732,13 +732,13 @@
   "evolution": [
     {
       "nameCn": "光蚪仔",
-      "alts": null,
-      "slug": "光蚪仔"
+      "slug": "光蚪仔",
+      "alts": null
     },
     {
       "nameCn": "电肚蛙",
-      "alts": null,
-      "slug": "电肚蛙"
+      "slug": "电肚蛙",
+      "alts": null
     }
   ],
   "stats": {

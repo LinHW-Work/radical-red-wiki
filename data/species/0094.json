@@ -35,7 +35,7 @@
         "evolution": [
           {
             "group": "evolution",
-            "text": "鬼斯通·使用Link Cable",
+            "text": "鬼斯通·使用连接电缆",
             "href": null
           }
         ]
@@ -43,18 +43,18 @@
       "evolution": [
         {
           "nameCn": "鬼斯",
-          "alts": null,
-          "slug": "鬼斯"
+          "slug": "鬼斯",
+          "alts": null
         },
         {
           "nameCn": "鬼斯通",
-          "alts": null,
-          "slug": "鬼斯通"
+          "slug": "鬼斯通",
+          "alts": null
         },
         {
           "nameCn": "耿鬼",
-          "alts": null,
-          "slug": "耿鬼"
+          "slug": "耿鬼",
+          "alts": null
         }
       ],
       "stats": {
@@ -1258,7 +1258,7 @@
         "evolution": [
           {
             "group": "evolution",
-            "text": "鬼斯通·使用Link Cable",
+            "text": "鬼斯通·使用连接电缆",
             "href": null
           }
         ]
@@ -1266,18 +1266,18 @@
       "evolution": [
         {
           "nameCn": "鬼斯",
-          "alts": null,
-          "slug": "鬼斯"
+          "slug": "鬼斯",
+          "alts": null
         },
         {
           "nameCn": "鬼斯通",
-          "alts": null,
-          "slug": "鬼斯通"
+          "slug": "鬼斯通",
+          "alts": null
         },
         {
           "nameCn": "耿鬼",
-          "alts": null,
-          "slug": "耿鬼"
+          "slug": "耿鬼",
+          "alts": null
         }
       ],
       "stats": {
@@ -1521,7 +1521,7 @@
     "evolution": [
       {
         "group": "evolution",
-        "text": "鬼斯通·使用Link Cable",
+        "text": "鬼斯通·使用连接电缆",
         "href": null
       }
     ]
@@ -1529,18 +1529,18 @@
   "evolution": [
     {
       "nameCn": "鬼斯",
-      "alts": null,
-      "slug": "鬼斯"
+      "slug": "鬼斯",
+      "alts": null
     },
     {
       "nameCn": "鬼斯通",
-      "alts": null,
-      "slug": "鬼斯通"
+      "slug": "鬼斯通",
+      "alts": null
     },
     {
       "nameCn": "耿鬼",
-      "alts": null,
-      "slug": "耿鬼"
+      "slug": "耿鬼",
+      "alts": null
     }
   ],
   "stats": {

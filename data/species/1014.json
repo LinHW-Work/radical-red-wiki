@@ -41,8 +41,12 @@
         "map": [],
         "static": [
           {
+            "text": "狩猎地带",
+            "href": "/分布/极巨巢穴"
+          },
+          {
             "text": "狩猎地带极西区",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -51,8 +55,8 @@
       "evolution": [
         {
           "nameCn": "够赞狗",
-          "alts": null,
-          "slug": "够赞狗"
+          "slug": "够赞狗",
+          "alts": null
         }
       ],
       "stats": {
@@ -731,18 +735,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "替身",
           "restricted": true,
           "original": false,
@@ -856,8 +848,12 @@
     "map": [],
     "static": [
       {
+        "text": "狩猎地带",
+        "href": "/分布/极巨巢穴"
+      },
+      {
         "text": "狩猎地带极西区",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -866,8 +862,8 @@
   "evolution": [
     {
       "nameCn": "够赞狗",
-      "alts": null,
-      "slug": "够赞狗"
+      "slug": "够赞狗",
+      "alts": null
     }
   ],
   "stats": {
@@ -1543,18 +1539,6 @@
       "power": null,
       "accuracy": null,
       "pp": 20
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

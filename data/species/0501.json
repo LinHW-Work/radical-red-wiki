@@ -50,16 +50,17 @@
       "evolution": [
         {
           "nameCn": "水水獭",
-          "alts": null,
-          "slug": "水水獭"
+          "slug": "水水獭",
+          "alts": null
         },
         {
           "nameCn": "双刃丸",
-          "alts": null,
-          "slug": "双刃丸"
+          "slug": "双刃丸",
+          "alts": null
         },
         {
           "nameCn": null,
+          "slug": null,
           "alts": [
             {
               "nameCn": "大剑鬼-洗翠",
@@ -180,10 +181,10 @@
         },
         {
           "level": 25,
-          "nameCn": "空气斩",
+          "nameCn": "空气之刃",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
           "type": "飞行",
           "category": "特殊",
           "power": 75,
@@ -604,10 +605,10 @@
         },
         {
           "level": null,
-          "nameCn": "空气斩",
+          "nameCn": "空气之刃",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
           "type": "飞行",
           "category": "特殊",
           "power": 75,
@@ -920,16 +921,17 @@
   "evolution": [
     {
       "nameCn": "水水獭",
-      "alts": null,
-      "slug": "水水獭"
+      "slug": "水水獭",
+      "alts": null
     },
     {
       "nameCn": "双刃丸",
-      "alts": null,
-      "slug": "双刃丸"
+      "slug": "双刃丸",
+      "alts": null
     },
     {
       "nameCn": null,
+      "slug": null,
       "alts": [
         {
           "nameCn": "大剑鬼-洗翠",
@@ -1050,10 +1052,10 @@
     },
     {
       "level": 25,
-      "nameCn": "空气斩",
+      "nameCn": "空气之刃",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
       "type": "飞行",
       "category": "特殊",
       "power": 75,
@@ -1474,10 +1476,10 @@
     },
     {
       "level": null,
-      "nameCn": "空气斩",
+      "nameCn": "空气之刃",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
       "type": "飞行",
       "category": "特殊",
       "power": 75,

@@ -55,18 +55,18 @@
       "evolution": [
         {
           "nameCn": "喇叭芽",
-          "alts": null,
-          "slug": "喇叭芽"
+          "slug": "喇叭芽",
+          "alts": null
         },
         {
           "nameCn": "口呆花",
-          "alts": null,
-          "slug": "口呆花"
+          "slug": "口呆花",
+          "alts": null
         },
         {
           "nameCn": "大食花",
-          "alts": null,
-          "slug": "大食花"
+          "slug": "大食花",
+          "alts": null
         }
       ],
       "stats": {
@@ -908,18 +908,18 @@
   "evolution": [
     {
       "nameCn": "喇叭芽",
-      "alts": null,
-      "slug": "喇叭芽"
+      "slug": "喇叭芽",
+      "alts": null
     },
     {
       "nameCn": "口呆花",
-      "alts": null,
-      "slug": "口呆花"
+      "slug": "口呆花",
+      "alts": null
     },
     {
       "nameCn": "大食花",
-      "alts": null,
-      "slug": "大食花"
+      "slug": "大食花",
+      "alts": null
     }
   ],
   "stats": {

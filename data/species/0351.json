@@ -30,11 +30,11 @@
       "obtains": {
         "map": [
           {
-            "text": "东区·白天",
+            "text": "狩猎地带·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "东区·夜晚",
+            "text": "狩猎地带·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -45,8 +45,8 @@
       "evolution": [
         {
           "nameCn": "飘浮泡泡",
-          "alts": null,
-          "slug": "飘浮泡泡"
+          "slug": "飘浮泡泡",
+          "alts": null
         }
       ],
       "stats": {
@@ -893,7 +893,7 @@
     {
       "slot": "0",
       "nameCn": "阴晴不定",
-      "href": "https://wiki.52poke.com/wiki/%E9%98%B4%E6%99%B4%E4%B8%8D%E5%AE%9A",
+      "href": "/特性/修改#阴晴不定",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -903,11 +903,11 @@
   "obtains": {
     "map": [
       {
-        "text": "东区·白天",
+        "text": "狩猎地带·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "东区·夜晚",
+        "text": "狩猎地带·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -918,8 +918,8 @@
   "evolution": [
     {
       "nameCn": "飘浮泡泡",
-      "alts": null,
-      "slug": "飘浮泡泡"
+      "slug": "飘浮泡泡",
+      "alts": null
     }
   ],
   "stats": {

@@ -33,7 +33,7 @@
         "static": [
           {
             "text": "常青森林扩展区",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -42,8 +42,8 @@
       "evolution": [
         {
           "nameCn": "毕力吉翁",
-          "alts": null,
-          "slug": "毕力吉翁"
+          "slug": "毕力吉翁",
+          "alts": null
         }
       ],
       "stats": {
@@ -862,18 +862,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "叶刃",
           "restricted": false,
           "original": false,
@@ -955,7 +943,7 @@
     "static": [
       {
         "text": "常青森林扩展区",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -964,8 +952,8 @@
   "evolution": [
     {
       "nameCn": "毕力吉翁",
-      "alts": null,
-      "slug": "毕力吉翁"
+      "slug": "毕力吉翁",
+      "alts": null
     }
   ],
   "stats": {
@@ -1781,18 +1769,6 @@
       "power": 120,
       "accuracy": 100,
       "pp": 10
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

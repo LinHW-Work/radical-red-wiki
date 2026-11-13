@@ -31,8 +31,8 @@
           "nameCn": "好胜",
           "href": "https://wiki.52poke.com/wiki/%E5%A5%BD%E8%83%9C",
           "original": false,
-          "restrictedNameCn": "透明特性",
-          "restrictedHref": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+          "restrictedNameCn": "恒净之躯",
+          "restrictedHref": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
           "restrictedOriginal": false
         }
       ],
@@ -50,18 +50,18 @@
       "evolution": [
         {
           "nameCn": "波加曼",
-          "alts": null,
-          "slug": "波加曼"
+          "slug": "波加曼",
+          "alts": null
         },
         {
           "nameCn": "波皇子",
-          "alts": null,
-          "slug": "波皇子"
+          "slug": "波皇子",
+          "alts": null
         },
         {
           "nameCn": "帝王拿波",
-          "alts": null,
-          "slug": "帝王拿波"
+          "slug": "帝王拿波",
+          "alts": null
         }
       ],
       "stats": {
@@ -891,8 +891,8 @@
       "nameCn": "好胜",
       "href": "https://wiki.52poke.com/wiki/%E5%A5%BD%E8%83%9C",
       "original": false,
-      "restrictedNameCn": "透明特性",
-      "restrictedHref": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+      "restrictedNameCn": "恒净之躯",
+      "restrictedHref": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
       "restrictedOriginal": false
     }
   ],
@@ -910,18 +910,18 @@
   "evolution": [
     {
       "nameCn": "波加曼",
-      "alts": null,
-      "slug": "波加曼"
+      "slug": "波加曼",
+      "alts": null
     },
     {
       "nameCn": "波皇子",
-      "alts": null,
-      "slug": "波皇子"
+      "slug": "波皇子",
+      "alts": null
     },
     {
       "nameCn": "帝王拿波",
-      "alts": null,
-      "slug": "帝王拿波"
+      "slug": "帝王拿波",
+      "alts": null
     }
   ],
   "stats": {

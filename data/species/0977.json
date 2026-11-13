@@ -48,7 +48,7 @@
       "obtains": {
         "map": [
           {
-            "text": "华蓝市·冲浪",
+            "text": "深灰市·冲浪",
             "href": "/分布/地图捕捉"
           },
           {
@@ -63,8 +63,8 @@
       "evolution": [
         {
           "nameCn": "吃吼霸",
-          "alts": null,
-          "slug": "吃吼霸"
+          "slug": "吃吼霸",
+          "alts": null
         }
       ],
       "stats": {
@@ -714,7 +714,7 @@
   "obtains": {
     "map": [
       {
-        "text": "华蓝市·冲浪",
+        "text": "深灰市·冲浪",
         "href": "/分布/地图捕捉"
       },
       {
@@ -729,8 +729,8 @@
   "evolution": [
     {
       "nameCn": "吃吼霸",
-      "alts": null,
-      "slug": "吃吼霸"
+      "slug": "吃吼霸",
+      "alts": null
     }
   ],
   "stats": {

@@ -52,7 +52,7 @@
         "evolution": [
           {
             "group": "evolution",
-            "text": "小嘴蜗·使用Link Cable",
+            "text": "小嘴蜗·使用连接电缆",
             "href": null
           }
         ]
@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "小嘴蜗",
-          "alts": null,
-          "slug": "小嘴蜗"
+          "slug": "小嘴蜗",
+          "alts": null
         },
         {
           "nameCn": "敏捷虫",
-          "alts": null,
-          "slug": "敏捷虫"
+          "slug": "敏捷虫",
+          "alts": null
         }
       ],
       "stats": {
@@ -248,10 +248,10 @@
         },
         {
           "level": 40,
-          "nameCn": "U转攻击",
+          "nameCn": "急速折返",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+          "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
           "type": "虫",
           "category": "物理",
           "power": 70,
@@ -924,7 +924,7 @@
     "evolution": [
       {
         "group": "evolution",
-        "text": "小嘴蜗·使用Link Cable",
+        "text": "小嘴蜗·使用连接电缆",
         "href": null
       }
     ]
@@ -932,13 +932,13 @@
   "evolution": [
     {
       "nameCn": "小嘴蜗",
-      "alts": null,
-      "slug": "小嘴蜗"
+      "slug": "小嘴蜗",
+      "alts": null
     },
     {
       "nameCn": "敏捷虫",
-      "alts": null,
-      "slug": "敏捷虫"
+      "slug": "敏捷虫",
+      "alts": null
     }
   ],
   "stats": {
@@ -1120,10 +1120,10 @@
     },
     {
       "level": 40,
-      "nameCn": "U转攻击",
+      "nameCn": "急速折返",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/U%E8%BD%AC%E6%94%BB%E5%87%BB",
+      "href": "https://wiki.52poke.com/wiki/%E6%80%A5%E9%80%9F%E6%8A%98%E8%BF%94",
       "type": "虫",
       "category": "物理",
       "power": 70,

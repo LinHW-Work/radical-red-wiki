@@ -19,8 +19,8 @@
       "abilities": [
         {
           "slot": "0",
-          "nameCn": "晶体管",
-          "href": "https://wiki.52poke.com/wiki/%E6%99%B6%E4%BD%93%E7%AE%A1",
+          "nameCn": "电晶体",
+          "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E6%99%B6%E4%BD%93",
           "original": false,
           "restrictedNameCn": null,
           "restrictedHref": null,
@@ -31,8 +31,12 @@
         "map": [],
         "static": [
           {
+            "text": "发电厂",
+            "href": "/分布/极巨巢穴"
+          },
+          {
             "text": "无人发电厂",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -41,8 +45,8 @@
       "evolution": [
         {
           "nameCn": "雷吉艾勒奇",
-          "alts": null,
-          "slug": "雷吉艾勒奇"
+          "slug": "雷吉艾勒奇",
+          "alts": null
         }
       ],
       "stats": {
@@ -579,8 +583,8 @@
   "abilities": [
     {
       "slot": "0",
-      "nameCn": "晶体管",
-      "href": "https://wiki.52poke.com/wiki/%E6%99%B6%E4%BD%93%E7%AE%A1",
+      "nameCn": "电晶体",
+      "href": "https://wiki.52poke.com/wiki/%E7%94%B5%E6%99%B6%E4%BD%93",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -591,8 +595,12 @@
     "map": [],
     "static": [
       {
+        "text": "发电厂",
+        "href": "/分布/极巨巢穴"
+      },
+      {
         "text": "无人发电厂",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -601,8 +609,8 @@
   "evolution": [
     {
       "nameCn": "雷吉艾勒奇",
-      "alts": null,
-      "slug": "雷吉艾勒奇"
+      "slug": "雷吉艾勒奇",
+      "alts": null
     }
   ],
   "stats": {

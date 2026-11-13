@@ -63,13 +63,13 @@
       "evolution": [
         {
           "nameCn": "蘑蘑菇",
-          "alts": null,
-          "slug": "蘑蘑菇"
+          "slug": "蘑蘑菇",
+          "alts": null
         },
         {
           "nameCn": "斗笠菇",
-          "alts": null,
-          "slug": "斗笠菇"
+          "slug": "斗笠菇",
+          "alts": null
         }
       ],
       "stats": {
@@ -744,7 +744,7 @@
     {
       "slot": "H",
       "nameCn": "飞毛腿",
-      "href": "https://wiki.52poke.com/wiki/%E9%A3%9E%E6%AF%9B%E8%85%BF",
+      "href": "/特性/修改#飞毛腿",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -769,13 +769,13 @@
   "evolution": [
     {
       "nameCn": "蘑蘑菇",
-      "alts": null,
-      "slug": "蘑蘑菇"
+      "slug": "蘑蘑菇",
+      "alts": null
     },
     {
       "nameCn": "斗笠菇",
-      "alts": null,
-      "slug": "斗笠菇"
+      "slug": "斗笠菇",
+      "alts": null
     }
   ],
   "stats": {

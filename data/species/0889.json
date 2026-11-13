@@ -32,7 +32,7 @@
         "static": [
           {
             "text": "神秘礼物：xo6HsTl5Uym1",
-            "href": "/分布/定点获取"
+            "href": "/分布/神秘礼物"
           }
         ],
         "npc": [],
@@ -41,8 +41,8 @@
       "evolution": [
         {
           "nameCn": "藏玛然特",
-          "alts": null,
-          "slug": "藏玛然特"
+          "slug": "藏玛然特",
+          "alts": null
         }
       ],
       "stats": {
@@ -787,8 +787,8 @@
       "evolution": [
         {
           "nameCn": "Zamazenta-Crowned",
-          "alts": null,
           "slug": "藏玛然特",
+          "alts": null,
           "forme": "盾之王"
         }
       ],
@@ -1459,7 +1459,7 @@
     "static": [
       {
         "text": "神秘礼物：xo6HsTl5Uym1",
-        "href": "/分布/定点获取"
+        "href": "/分布/神秘礼物"
       }
     ],
     "npc": [],
@@ -1468,8 +1468,8 @@
   "evolution": [
     {
       "nameCn": "藏玛然特",
-      "alts": null,
-      "slug": "藏玛然特"
+      "slug": "藏玛然特",
+      "alts": null
     }
   ],
   "stats": {

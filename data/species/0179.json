@@ -39,7 +39,7 @@
       "obtains": {
         "map": [
           {
-            "text": "常青市·晚上",
+            "text": "真新镇·晚上",
             "href": "/分布/地图捕捉"
           },
           {
@@ -62,18 +62,18 @@
       "evolution": [
         {
           "nameCn": "咩利羊",
-          "alts": null,
-          "slug": "咩利羊"
+          "slug": "咩利羊",
+          "alts": null
         },
         {
           "nameCn": "茸茸羊",
-          "alts": null,
-          "slug": "茸茸羊"
+          "slug": "茸茸羊",
+          "alts": null
         },
         {
           "nameCn": "电龙",
-          "alts": null,
-          "slug": "电龙"
+          "slug": "电龙",
+          "alts": null
         }
       ],
       "stats": {
@@ -857,7 +857,7 @@
   "obtains": {
     "map": [
       {
-        "text": "常青市·晚上",
+        "text": "真新镇·晚上",
         "href": "/分布/地图捕捉"
       },
       {
@@ -880,18 +880,18 @@
   "evolution": [
     {
       "nameCn": "咩利羊",
-      "alts": null,
-      "slug": "咩利羊"
+      "slug": "咩利羊",
+      "alts": null
     },
     {
       "nameCn": "茸茸羊",
-      "alts": null,
-      "slug": "茸茸羊"
+      "slug": "茸茸羊",
+      "alts": null
     },
     {
       "nameCn": "电龙",
-      "alts": null,
-      "slug": "电龙"
+      "slug": "电龙",
+      "alts": null
     }
   ],
   "stats": {

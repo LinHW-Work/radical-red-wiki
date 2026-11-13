@@ -60,18 +60,18 @@
       "evolution": [
         {
           "nameCn": "腕力",
-          "alts": null,
-          "slug": "腕力"
+          "slug": "腕力",
+          "alts": null
         },
         {
           "nameCn": "豪力",
-          "alts": null,
-          "slug": "豪力"
+          "slug": "豪力",
+          "alts": null
         },
         {
           "nameCn": "怪力",
-          "alts": null,
-          "slug": "怪力"
+          "slug": "怪力",
+          "alts": null
         }
       ],
       "stats": {
@@ -1242,18 +1242,18 @@
   "evolution": [
     {
       "nameCn": "腕力",
-      "alts": null,
-      "slug": "腕力"
+      "slug": "腕力",
+      "alts": null
     },
     {
       "nameCn": "豪力",
-      "alts": null,
-      "slug": "豪力"
+      "slug": "豪力",
+      "alts": null
     },
     {
       "nameCn": "怪力",
-      "alts": null,
-      "slug": "怪力"
+      "slug": "怪力",
+      "alts": null
     }
   ],
   "stats": {

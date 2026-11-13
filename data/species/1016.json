@@ -41,8 +41,12 @@
         "map": [],
         "static": [
           {
+            "text": "狩猎地带",
+            "href": "/分布/极巨巢穴"
+          },
+          {
             "text": "狩猎地带极西区",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -51,8 +55,8 @@
       "evolution": [
         {
           "nameCn": "吉雉鸡",
-          "alts": null,
-          "slug": "吉雉鸡"
+          "slug": "吉雉鸡",
+          "alts": null
         }
       ],
       "stats": {
@@ -66,10 +70,10 @@
       "levelMoves": [
         {
           "level": 1,
-          "nameCn": "Disarm Cry",
+          "nameCn": "魅惑之声",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Disarm Cry",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%AD%85%E6%83%91%E4%B9%8B%E5%A3%B0",
           "type": null,
           "category": null,
           "power": null,
@@ -705,18 +709,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "剑舞",
           "restricted": true,
           "original": false,
@@ -818,8 +810,12 @@
     "map": [],
     "static": [
       {
+        "text": "狩猎地带",
+        "href": "/分布/极巨巢穴"
+      },
+      {
         "text": "狩猎地带极西区",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -828,8 +824,8 @@
   "evolution": [
     {
       "nameCn": "吉雉鸡",
-      "alts": null,
-      "slug": "吉雉鸡"
+      "slug": "吉雉鸡",
+      "alts": null
     }
   ],
   "stats": {
@@ -843,10 +839,10 @@
   "levelMoves": [
     {
       "level": 1,
-      "nameCn": "Disarm Cry",
+      "nameCn": "魅惑之声",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Disarm Cry",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%AD%85%E6%83%91%E4%B9%8B%E5%A3%B0",
       "type": null,
       "category": null,
       "power": null,
@@ -1479,18 +1475,6 @@
       "power": null,
       "accuracy": null,
       "pp": 20
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

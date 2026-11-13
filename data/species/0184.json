@@ -61,18 +61,18 @@
       "evolution": [
         {
           "nameCn": "露力丽",
-          "alts": null,
-          "slug": "露力丽"
+          "slug": "露力丽",
+          "alts": null
         },
         {
           "nameCn": "玛力露",
-          "alts": null,
-          "slug": "玛力露"
+          "slug": "玛力露",
+          "alts": null
         },
         {
           "nameCn": "玛力露丽",
-          "alts": null,
-          "slug": "玛力露丽"
+          "slug": "玛力露丽",
+          "alts": null
         }
       ],
       "stats": {
@@ -1268,18 +1268,18 @@
   "evolution": [
     {
       "nameCn": "露力丽",
-      "alts": null,
-      "slug": "露力丽"
+      "slug": "露力丽",
+      "alts": null
     },
     {
       "nameCn": "玛力露",
-      "alts": null,
-      "slug": "玛力露"
+      "slug": "玛力露",
+      "alts": null
     },
     {
       "nameCn": "玛力露丽",
-      "alts": null,
-      "slug": "玛力露丽"
+      "slug": "玛力露丽",
+      "alts": null
     }
   ],
   "stats": {

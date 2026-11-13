@@ -38,7 +38,24 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "狩猎地带·冲浪",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "点之穴·冲浪",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "珍宝海滩·厉害吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "险峻岬角·冲浪",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": [
@@ -52,13 +69,13 @@
       "evolution": [
         {
           "nameCn": "滴蛛",
-          "alts": null,
-          "slug": "滴蛛"
+          "slug": "滴蛛",
+          "alts": null
         },
         {
           "nameCn": "滴蛛霸",
-          "alts": null,
-          "slug": "滴蛛霸"
+          "slug": "滴蛛霸",
+          "alts": null
         }
       ],
       "stats": {
@@ -846,7 +863,24 @@
     }
   ],
   "obtains": {
-    "map": [],
+    "map": [
+      {
+        "text": "狩猎地带·冲浪",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "点之穴·冲浪",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "珍宝海滩·厉害吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "险峻岬角·冲浪",
+        "href": "/分布/地图捕捉"
+      }
+    ],
     "static": [],
     "npc": [],
     "evolution": [
@@ -860,13 +894,13 @@
   "evolution": [
     {
       "nameCn": "滴蛛",
-      "alts": null,
-      "slug": "滴蛛"
+      "slug": "滴蛛",
+      "alts": null
     },
     {
       "nameCn": "滴蛛霸",
-      "alts": null,
-      "slug": "滴蛛霸"
+      "slug": "滴蛛霸",
+      "alts": null
     }
   ],
   "stats": {

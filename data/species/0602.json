@@ -41,18 +41,18 @@
       "evolution": [
         {
           "nameCn": "麻麻小鱼",
-          "alts": null,
-          "slug": "麻麻小鱼"
+          "slug": "麻麻小鱼",
+          "alts": null
         },
         {
           "nameCn": "麻麻鳗",
-          "alts": null,
-          "slug": "麻麻鳗"
+          "slug": "麻麻鳗",
+          "alts": null
         },
         {
           "nameCn": "麻麻鳗鱼王",
-          "alts": null,
-          "slug": "麻麻鳗鱼王"
+          "slug": "麻麻鳗鱼王",
+          "alts": null
         }
       ],
       "stats": {
@@ -211,18 +211,18 @@
   "evolution": [
     {
       "nameCn": "麻麻小鱼",
-      "alts": null,
-      "slug": "麻麻小鱼"
+      "slug": "麻麻小鱼",
+      "alts": null
     },
     {
       "nameCn": "麻麻鳗",
-      "alts": null,
-      "slug": "麻麻鳗"
+      "slug": "麻麻鳗",
+      "alts": null
     },
     {
       "nameCn": "麻麻鳗鱼王",
-      "alts": null,
-      "slug": "麻麻鳗鱼王"
+      "slug": "麻麻鳗鱼王",
+      "alts": null
     }
   ],
   "stats": {

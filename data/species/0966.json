@@ -52,13 +52,13 @@
       "evolution": [
         {
           "nameCn": "噗隆隆",
-          "alts": null,
-          "slug": "噗隆隆"
+          "slug": "噗隆隆",
+          "alts": null
         },
         {
           "nameCn": "普隆隆姆",
-          "alts": null,
-          "slug": "普隆隆姆"
+          "slug": "普隆隆姆",
+          "alts": null
         }
       ],
       "stats": {
@@ -705,10 +705,10 @@
         },
         {
           "level": null,
-          "nameCn": "自爆",
+          "nameCn": "玉石俱碎",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E7%88%86",
+          "href": "https://wiki.52poke.com/wiki/%E7%8E%89%E7%9F%B3%E4%BF%B1%E7%A2%8E",
           "type": "一般",
           "category": "物理",
           "power": 200,
@@ -812,18 +812,6 @@
           "power": null,
           "accuracy": null,
           "pp": 20
-        },
-        {
-          "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
         },
         {
           "level": null,
@@ -1011,13 +999,13 @@
   "evolution": [
     {
       "nameCn": "噗隆隆",
-      "alts": null,
-      "slug": "噗隆隆"
+      "slug": "噗隆隆",
+      "alts": null
     },
     {
       "nameCn": "普隆隆姆",
-      "alts": null,
-      "slug": "普隆隆姆"
+      "slug": "普隆隆姆",
+      "alts": null
     }
   ],
   "stats": {
@@ -1664,10 +1652,10 @@
     },
     {
       "level": null,
-      "nameCn": "自爆",
+      "nameCn": "玉石俱碎",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E8%87%AA%E7%88%86",
+      "href": "https://wiki.52poke.com/wiki/%E7%8E%89%E7%9F%B3%E4%BF%B1%E7%A2%8E",
       "type": "一般",
       "category": "物理",
       "power": 200,
@@ -1771,18 +1759,6 @@
       "power": null,
       "accuracy": null,
       "pp": 20
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

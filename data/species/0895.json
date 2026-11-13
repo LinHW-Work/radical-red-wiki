@@ -31,12 +31,12 @@
         "map": [],
         "static": [
           {
-            "text": "宝可梦屋 1f",
-            "href": "/分布/定点获取"
+            "text": "宝可梦屋",
+            "href": "/分布/极巨巢穴"
           },
           {
-            "text": "宝可梦屋",
-            "href": "/分布/定点获取"
+            "text": "宝可梦屋 1f",
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -45,8 +45,8 @@
       "evolution": [
         {
           "nameCn": "雷吉铎拉戈",
-          "alts": null,
-          "slug": "雷吉铎拉戈"
+          "slug": "雷吉铎拉戈",
+          "alts": null
         }
       ],
       "stats": {
@@ -204,10 +204,10 @@
         },
         {
           "level": 66,
-          "nameCn": "龙能量",
+          "nameCn": "巨龙威能",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E8%83%BD%E9%87%8F",
+          "href": "https://wiki.52poke.com/wiki/%E5%B7%A8%E9%BE%99%E5%A8%81%E8%83%BD",
           "type": "龙",
           "category": "特殊",
           "power": 150,
@@ -413,8 +413,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -558,12 +558,12 @@
     "map": [],
     "static": [
       {
-        "text": "宝可梦屋 1f",
-        "href": "/分布/定点获取"
+        "text": "宝可梦屋",
+        "href": "/分布/极巨巢穴"
       },
       {
-        "text": "宝可梦屋",
-        "href": "/分布/定点获取"
+        "text": "宝可梦屋 1f",
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -572,8 +572,8 @@
   "evolution": [
     {
       "nameCn": "雷吉铎拉戈",
-      "alts": null,
-      "slug": "雷吉铎拉戈"
+      "slug": "雷吉铎拉戈",
+      "alts": null
     }
   ],
   "stats": {
@@ -731,10 +731,10 @@
     },
     {
       "level": 66,
-      "nameCn": "龙能量",
+      "nameCn": "巨龙威能",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E8%83%BD%E9%87%8F",
+      "href": "https://wiki.52poke.com/wiki/%E5%B7%A8%E9%BE%99%E5%A8%81%E8%83%BD",
       "type": "龙",
       "category": "特殊",
       "power": 150,
@@ -940,8 +940,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,

@@ -51,18 +51,18 @@
       "evolution": [
         {
           "nameCn": "木守宫",
-          "alts": null,
-          "slug": "木守宫"
+          "slug": "木守宫",
+          "alts": null
         },
         {
           "nameCn": "森林蜥蜴",
-          "alts": null,
-          "slug": "森林蜥蜴"
+          "slug": "森林蜥蜴",
+          "alts": null
         },
         {
           "nameCn": "蜥蜴王",
-          "alts": null,
-          "slug": "蜥蜴王"
+          "slug": "蜥蜴王",
+          "alts": null
         }
       ],
       "stats": {
@@ -388,10 +388,10 @@
         },
         {
           "level": 85,
-          "nameCn": "甩尾",
+          "nameCn": "断尾",
           "restricted": true,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%94%A9%E5%B0%BE",
+          "href": "https://wiki.52poke.com/wiki/%E6%96%AD%E5%B0%BE",
           "type": "一般",
           "category": "变化",
           "power": null,
@@ -716,8 +716,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -974,10 +974,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1204,10 +1204,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1252,10 +1252,10 @@
         },
         {
           "level": null,
-          "nameCn": "地狱突刺",
+          "nameCn": "深渊突刺",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+          "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
           "type": "恶",
           "category": "物理",
           "power": 80,
@@ -1432,18 +1432,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "十字毒刃",
           "restricted": false,
           "original": false,
@@ -1554,18 +1542,18 @@
       "evolution": [
         {
           "nameCn": "木守宫",
-          "alts": null,
-          "slug": "木守宫"
+          "slug": "木守宫",
+          "alts": null
         },
         {
           "nameCn": "森林蜥蜴",
-          "alts": null,
-          "slug": "森林蜥蜴"
+          "slug": "森林蜥蜴",
+          "alts": null
         },
         {
           "nameCn": "蜥蜴王",
-          "alts": null,
-          "slug": "蜥蜴王"
+          "slug": "蜥蜴王",
+          "alts": null
         }
       ],
       "stats": {
@@ -1891,10 +1879,10 @@
         },
         {
           "level": 85,
-          "nameCn": "甩尾",
+          "nameCn": "断尾",
           "restricted": true,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%94%A9%E5%B0%BE",
+          "href": "https://wiki.52poke.com/wiki/%E6%96%AD%E5%B0%BE",
           "type": "一般",
           "category": "变化",
           "power": null,
@@ -1945,18 +1933,18 @@
   "evolution": [
     {
       "nameCn": "木守宫",
-      "alts": null,
-      "slug": "木守宫"
+      "slug": "木守宫",
+      "alts": null
     },
     {
       "nameCn": "森林蜥蜴",
-      "alts": null,
-      "slug": "森林蜥蜴"
+      "slug": "森林蜥蜴",
+      "alts": null
     },
     {
       "nameCn": "蜥蜴王",
-      "alts": null,
-      "slug": "蜥蜴王"
+      "slug": "蜥蜴王",
+      "alts": null
     }
   ],
   "stats": {
@@ -2282,10 +2270,10 @@
     },
     {
       "level": 85,
-      "nameCn": "甩尾",
+      "nameCn": "断尾",
       "restricted": true,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%94%A9%E5%B0%BE",
+      "href": "https://wiki.52poke.com/wiki/%E6%96%AD%E5%B0%BE",
       "type": "一般",
       "category": "变化",
       "power": null,
@@ -2610,8 +2598,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,
@@ -2868,10 +2856,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -3098,10 +3086,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -3146,10 +3134,10 @@
     },
     {
       "level": null,
-      "nameCn": "地狱突刺",
+      "nameCn": "深渊突刺",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+      "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
       "type": "恶",
       "category": "物理",
       "power": 80,
@@ -3323,18 +3311,6 @@
       "power": null,
       "accuracy": null,
       "pp": 15
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

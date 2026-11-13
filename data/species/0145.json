@@ -42,7 +42,7 @@
         "static": [
           {
             "text": "无人发电厂",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -51,8 +51,8 @@
       "evolution": [
         {
           "nameCn": "闪电鸟",
-          "alts": null,
-          "slug": "闪电鸟"
+          "slug": "闪电鸟",
+          "alts": null
         }
       ],
       "stats": {
@@ -877,8 +877,8 @@
           "nameCn": "不服输",
           "href": "https://wiki.52poke.com/wiki/%E4%B8%8D%E6%9C%8D%E8%BE%93",
           "original": false,
-          "restrictedNameCn": "透明特性",
-          "restrictedHref": "https://wiki.52poke.com/wiki/%E9%80%8F%E6%98%8E%E7%89%B9%E6%80%A7",
+          "restrictedNameCn": "恒净之躯",
+          "restrictedHref": "https://wiki.52poke.com/wiki/%E6%81%92%E5%87%80%E4%B9%8B%E8%BA%AF",
           "restrictedOriginal": false
         }
       ],
@@ -887,7 +887,7 @@
         "static": [
           {
             "text": "无人发电厂",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -896,8 +896,8 @@
       "evolution": [
         {
           "nameCn": "闪电鸟-伽勒尔",
-          "alts": null,
           "slug": "闪电鸟",
+          "alts": null,
           "forme": "伽勒尔"
         }
       ],
@@ -1569,7 +1569,7 @@
     "static": [
       {
         "text": "无人发电厂",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -1578,8 +1578,8 @@
   "evolution": [
     {
       "nameCn": "闪电鸟",
-      "alts": null,
-      "slug": "闪电鸟"
+      "slug": "闪电鸟",
+      "alts": null
     }
   ],
   "stats": {

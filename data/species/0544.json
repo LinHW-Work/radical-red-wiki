@@ -66,18 +66,18 @@
       "evolution": [
         {
           "nameCn": "百足蜈蚣",
-          "alts": null,
-          "slug": "百足蜈蚣"
+          "slug": "百足蜈蚣",
+          "alts": null
         },
         {
           "nameCn": "车轮球",
-          "alts": null,
-          "slug": "车轮球"
+          "slug": "车轮球",
+          "alts": null
         },
         {
           "nameCn": "蜈蚣王",
-          "alts": null,
-          "slug": "蜈蚣王"
+          "slug": "蜈蚣王",
+          "alts": null
         }
       ],
       "stats": {
@@ -639,10 +639,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -837,18 +837,18 @@
   "evolution": [
     {
       "nameCn": "百足蜈蚣",
-      "alts": null,
-      "slug": "百足蜈蚣"
+      "slug": "百足蜈蚣",
+      "alts": null
     },
     {
       "nameCn": "车轮球",
-      "alts": null,
-      "slug": "车轮球"
+      "slug": "车轮球",
+      "alts": null
     },
     {
       "nameCn": "蜈蚣王",
-      "alts": null,
-      "slug": "蜈蚣王"
+      "slug": "蜈蚣王",
+      "alts": null
     }
   ],
   "stats": {
@@ -1410,10 +1410,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

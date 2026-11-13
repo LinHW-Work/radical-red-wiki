@@ -48,7 +48,7 @@
       "obtains": {
         "map": [
           {
-            "text": "地鼠洞穴 b1f·晚上",
+            "text": "Diglett's Cave·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -59,13 +59,13 @@
       "evolution": [
         {
           "nameCn": "无壳海兔",
-          "alts": null,
-          "slug": "无壳海兔"
+          "slug": "无壳海兔",
+          "alts": null
         },
         {
           "nameCn": "海兔兽",
-          "alts": null,
-          "slug": "海兔兽"
+          "slug": "海兔兽",
+          "alts": null
         }
       ],
       "stats": {
@@ -711,7 +711,7 @@
   "obtains": {
     "map": [
       {
-        "text": "地鼠洞穴 b1f·晚上",
+        "text": "Diglett's Cave·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -722,13 +722,13 @@
   "evolution": [
     {
       "nameCn": "无壳海兔",
-      "alts": null,
-      "slug": "无壳海兔"
+      "slug": "无壳海兔",
+      "alts": null
     },
     {
       "nameCn": "海兔兽",
-      "alts": null,
-      "slug": "海兔兽"
+      "slug": "海兔兽",
+      "alts": null
     }
   ],
   "stats": {

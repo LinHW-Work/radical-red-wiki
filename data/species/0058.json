@@ -59,13 +59,13 @@
       "evolution": [
         {
           "nameCn": "卡蒂狗",
-          "alts": null,
-          "slug": "卡蒂狗"
+          "slug": "卡蒂狗",
+          "alts": null
         },
         {
           "nameCn": "风速狗",
-          "alts": null,
-          "slug": "风速狗"
+          "slug": "风速狗",
+          "alts": null
         }
       ],
       "stats": {
@@ -1028,14 +1028,14 @@
       "evolution": [
         {
           "nameCn": "卡蒂狗-洗翠",
-          "alts": null,
           "slug": "卡蒂狗",
+          "alts": null,
           "forme": "洗翠"
         },
         {
           "nameCn": "风速狗-洗翠",
-          "alts": null,
           "slug": "风速狗",
+          "alts": null,
           "forme": "洗翠"
         }
       ],
@@ -2207,13 +2207,13 @@
   "evolution": [
     {
       "nameCn": "卡蒂狗",
-      "alts": null,
-      "slug": "卡蒂狗"
+      "slug": "卡蒂狗",
+      "alts": null
     },
     {
       "nameCn": "风速狗",
-      "alts": null,
-      "slug": "风速狗"
+      "slug": "风速狗",
+      "alts": null
     }
   ],
   "stats": {

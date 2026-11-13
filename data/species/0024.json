@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "阿柏蛇",
-          "alts": null,
-          "slug": "阿柏蛇"
+          "slug": "阿柏蛇",
+          "alts": null
         },
         {
           "nameCn": "阿柏怪",
-          "alts": null,
-          "slug": "阿柏怪"
+          "slug": "阿柏怪",
+          "alts": null
         }
       ],
       "stats": {
@@ -224,10 +224,10 @@
         },
         {
           "level": 12,
-          "nameCn": "蛇瞪",
+          "nameCn": "大蛇瞪眼",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E8%9B%87%E7%9E%AA",
+          "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E8%9B%87%E7%9E%AA%E7%9C%BC",
           "type": "一般",
           "category": "变化",
           "power": null,
@@ -380,10 +380,10 @@
         },
         {
           "level": 69,
-          "nameCn": "甩尾",
+          "nameCn": "断尾",
           "restricted": true,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%94%A9%E5%B0%BE",
+          "href": "https://wiki.52poke.com/wiki/%E6%96%AD%E5%B0%BE",
           "type": "一般",
           "category": "变化",
           "power": null,
@@ -940,27 +940,15 @@
         },
         {
           "level": null,
-          "nameCn": "地狱突刺",
+          "nameCn": "深渊突刺",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+          "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
           "type": "恶",
           "category": "物理",
           "power": 80,
           "accuracy": 100,
           "pp": 15
-        },
-        {
-          "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
         },
         {
           "level": null,
@@ -1168,13 +1156,13 @@
   "evolution": [
     {
       "nameCn": "阿柏蛇",
-      "alts": null,
-      "slug": "阿柏蛇"
+      "slug": "阿柏蛇",
+      "alts": null
     },
     {
       "nameCn": "阿柏怪",
-      "alts": null,
-      "slug": "阿柏怪"
+      "slug": "阿柏怪",
+      "alts": null
     }
   ],
   "stats": {
@@ -1332,10 +1320,10 @@
     },
     {
       "level": 12,
-      "nameCn": "蛇瞪",
+      "nameCn": "大蛇瞪眼",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E8%9B%87%E7%9E%AA",
+      "href": "https://wiki.52poke.com/wiki/%E5%A4%A7%E8%9B%87%E7%9E%AA%E7%9C%BC",
       "type": "一般",
       "category": "变化",
       "power": null,
@@ -1488,10 +1476,10 @@
     },
     {
       "level": 69,
-      "nameCn": "甩尾",
+      "nameCn": "断尾",
       "restricted": true,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%94%A9%E5%B0%BE",
+      "href": "https://wiki.52poke.com/wiki/%E6%96%AD%E5%B0%BE",
       "type": "一般",
       "category": "变化",
       "power": null,
@@ -2048,27 +2036,15 @@
     },
     {
       "level": null,
-      "nameCn": "地狱突刺",
+      "nameCn": "深渊突刺",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+      "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
       "type": "恶",
       "category": "物理",
       "power": 80,
       "accuracy": 100,
       "pp": 15
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

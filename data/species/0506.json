@@ -59,18 +59,18 @@
       "evolution": [
         {
           "nameCn": "小约克",
-          "alts": null,
-          "slug": "小约克"
+          "slug": "小约克",
+          "alts": null
         },
         {
           "nameCn": "哈约克",
-          "alts": null,
-          "slug": "哈约克"
+          "slug": "哈约克",
+          "alts": null
         },
         {
           "nameCn": "长毛狗",
-          "alts": null,
-          "slug": "长毛狗"
+          "slug": "长毛狗",
+          "alts": null
         }
       ],
       "stats": {
@@ -918,7 +918,7 @@
     {
       "slot": "1",
       "nameCn": "捡拾",
-      "href": "https://wiki.52poke.com/wiki/%E6%8D%A1%E6%8B%BE",
+      "href": "/特性/修改#捡拾",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -948,18 +948,18 @@
   "evolution": [
     {
       "nameCn": "小约克",
-      "alts": null,
-      "slug": "小约克"
+      "slug": "小约克",
+      "alts": null
     },
     {
       "nameCn": "哈约克",
-      "alts": null,
-      "slug": "哈约克"
+      "slug": "哈约克",
+      "alts": null
     },
     {
       "nameCn": "长毛狗",
-      "alts": null,
-      "slug": "长毛狗"
+      "slug": "长毛狗",
+      "alts": null
     }
   ],
   "stats": {

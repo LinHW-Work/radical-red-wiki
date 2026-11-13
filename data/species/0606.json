@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "小灰怪",
-          "alts": null,
-          "slug": "小灰怪"
+          "slug": "小灰怪",
+          "alts": null
         },
         {
           "nameCn": "大宇怪",
-          "alts": null,
-          "slug": "大宇怪"
+          "slug": "大宇怪",
+          "alts": null
         }
       ],
       "stats": {
@@ -1110,10 +1110,10 @@
         },
         {
           "level": null,
-          "nameCn": "力量储存",
+          "nameCn": "辅助力量",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+          "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
           "type": "超能力",
           "category": "特殊",
           "power": 20,
@@ -1194,13 +1194,13 @@
   "evolution": [
     {
       "nameCn": "小灰怪",
-      "alts": null,
-      "slug": "小灰怪"
+      "slug": "小灰怪",
+      "alts": null
     },
     {
       "nameCn": "大宇怪",
-      "alts": null,
-      "slug": "大宇怪"
+      "slug": "大宇怪",
+      "alts": null
     }
   ],
   "stats": {
@@ -2244,10 +2244,10 @@
     },
     {
       "level": null,
-      "nameCn": "力量储存",
+      "nameCn": "辅助力量",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+      "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
       "type": "超能力",
       "category": "特殊",
       "power": 20,

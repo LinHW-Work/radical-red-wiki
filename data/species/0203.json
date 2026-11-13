@@ -56,7 +56,7 @@
         "static": [
           {
             "text": "8号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -65,13 +65,13 @@
       "evolution": [
         {
           "nameCn": "麒麟奇",
-          "alts": null,
-          "slug": "麒麟奇"
+          "slug": "麒麟奇",
+          "alts": null
         },
         {
           "nameCn": "奇麒麟",
-          "alts": null,
-          "slug": "奇麒麟"
+          "slug": "奇麒麟",
+          "alts": null
         }
       ],
       "stats": {
@@ -1211,7 +1211,7 @@
     "static": [
       {
         "text": "8号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -1220,13 +1220,13 @@
   "evolution": [
     {
       "nameCn": "麒麟奇",
-      "alts": null,
-      "slug": "麒麟奇"
+      "slug": "麒麟奇",
+      "alts": null
     },
     {
       "nameCn": "奇麒麟",
-      "alts": null,
-      "slug": "奇麒麟"
+      "slug": "奇麒麟",
+      "alts": null
     }
   ],
   "stats": {

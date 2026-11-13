@@ -61,7 +61,7 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "北区·厉害吊杆",
+            "text": "狩猎地带·厉害吊杆",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -72,13 +72,13 @@
       "evolution": [
         {
           "nameCn": "垃垃藻",
-          "alts": null,
-          "slug": "垃垃藻"
+          "slug": "垃垃藻",
+          "alts": null
         },
         {
           "nameCn": "毒藻龙",
-          "alts": null,
-          "slug": "毒藻龙"
+          "slug": "毒藻龙",
+          "alts": null
         }
       ],
       "stats": {
@@ -673,18 +673,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "雪景",
           "restricted": true,
           "original": false,
@@ -806,7 +794,7 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "北区·厉害吊杆",
+        "text": "狩猎地带·厉害吊杆",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -817,13 +805,13 @@
   "evolution": [
     {
       "nameCn": "垃垃藻",
-      "alts": null,
-      "slug": "垃垃藻"
+      "slug": "垃垃藻",
+      "alts": null
     },
     {
       "nameCn": "毒藻龙",
-      "alts": null,
-      "slug": "毒藻龙"
+      "slug": "毒藻龙",
+      "alts": null
     }
   ],
   "stats": {
@@ -1415,18 +1403,6 @@
       "power": 120,
       "accuracy": 100,
       "pp": 10
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

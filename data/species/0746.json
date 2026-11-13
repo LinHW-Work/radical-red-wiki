@@ -30,11 +30,15 @@
       "obtains": {
         "map": [
           {
-            "text": "华蓝市·好吊杆",
+            "text": "深灰市·好吊杆",
             "href": "/分布/地图捕捉"
           },
           {
             "text": "24号道路·好吊杆",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "险峻岬角·厉害吊杆",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -45,8 +49,8 @@
       "evolution": [
         {
           "nameCn": "弱丁鱼",
-          "alts": null,
-          "slug": "弱丁鱼"
+          "slug": "弱丁鱼",
+          "alts": null
         }
       ],
       "stats": {
@@ -204,10 +208,10 @@
         },
         {
           "level": 49,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -601,10 +605,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -696,7 +700,16 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "宝可梦塔·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "宝可梦塔·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": []
@@ -704,8 +717,8 @@
       "evolution": [
         {
           "nameCn": "弱丁鱼-七之岛",
-          "alts": null,
           "slug": "弱丁鱼",
+          "alts": null,
           "forme": "七之岛"
         }
       ],
@@ -876,10 +889,10 @@
         },
         {
           "level": 49,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1111,8 +1124,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -1377,8 +1390,8 @@
       "evolution": [
         {
           "nameCn": "弱丁鱼-鱼群",
-          "alts": null,
           "slug": "弱丁鱼",
+          "alts": null,
           "forme": "鱼群"
         }
       ],
@@ -1537,10 +1550,10 @@
         },
         {
           "level": 49,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1655,10 +1668,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1711,8 +1724,8 @@
       "evolution": [
         {
           "nameCn": "弱丁鱼-七之岛-鱼群",
-          "alts": null,
           "slug": "弱丁鱼",
+          "alts": null,
           "forme": "七之岛·鱼群"
         }
       ],
@@ -1883,10 +1896,10 @@
         },
         {
           "level": 49,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -2014,8 +2027,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -2229,11 +2242,15 @@
   "obtains": {
     "map": [
       {
-        "text": "华蓝市·好吊杆",
+        "text": "深灰市·好吊杆",
         "href": "/分布/地图捕捉"
       },
       {
         "text": "24号道路·好吊杆",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "险峻岬角·厉害吊杆",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -2244,8 +2261,8 @@
   "evolution": [
     {
       "nameCn": "弱丁鱼",
-      "alts": null,
-      "slug": "弱丁鱼"
+      "slug": "弱丁鱼",
+      "alts": null
     }
   ],
   "stats": {
@@ -2403,10 +2420,10 @@
     },
     {
       "level": 49,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -2800,10 +2817,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

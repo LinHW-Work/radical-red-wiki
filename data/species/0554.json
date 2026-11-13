@@ -50,13 +50,13 @@
       "evolution": [
         {
           "nameCn": "火红不倒翁",
-          "alts": null,
-          "slug": "火红不倒翁"
+          "slug": "火红不倒翁",
+          "alts": null
         },
         {
           "nameCn": "达摩狒狒",
-          "alts": null,
-          "slug": "达摩狒狒"
+          "slug": "达摩狒狒",
+          "alts": null
         }
       ],
       "stats": {
@@ -94,10 +94,10 @@
         },
         {
           "level": 6,
-          "nameCn": "烧尽",
+          "nameCn": "烧净",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
           "type": "火",
           "category": "特殊",
           "power": 60,
@@ -836,10 +836,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1020,14 +1020,14 @@
       "evolution": [
         {
           "nameCn": "火红不倒翁-伽勒尔",
-          "alts": null,
           "slug": "火红不倒翁",
+          "alts": null,
           "forme": "伽勒尔"
         },
         {
           "nameCn": "达摩狒狒-伽勒尔",
-          "alts": null,
           "slug": "达摩狒狒",
+          "alts": null,
           "forme": "伽勒尔"
         }
       ],
@@ -1613,10 +1613,10 @@
         },
         {
           "level": null,
-          "nameCn": "烧尽",
+          "nameCn": "烧净",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
           "type": "火",
           "category": "特殊",
           "power": 60,
@@ -1723,10 +1723,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1893,13 +1893,13 @@
   "evolution": [
     {
       "nameCn": "火红不倒翁",
-      "alts": null,
-      "slug": "火红不倒翁"
+      "slug": "火红不倒翁",
+      "alts": null
     },
     {
       "nameCn": "达摩狒狒",
-      "alts": null,
-      "slug": "达摩狒狒"
+      "slug": "达摩狒狒",
+      "alts": null
     }
   ],
   "stats": {
@@ -1937,10 +1937,10 @@
     },
     {
       "level": 6,
-      "nameCn": "烧尽",
+      "nameCn": "烧净",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
       "type": "火",
       "category": "特殊",
       "power": 60,
@@ -2679,10 +2679,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

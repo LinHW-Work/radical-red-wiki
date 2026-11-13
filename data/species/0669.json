@@ -1,17 +1,17 @@
 {
   "num": "0669",
-  "nameCn": "Flabébé",
+  "nameCn": "花蓓蓓",
   "nameEn": "Flabébé",
-  "slug": "Flabébé",
-  "path": "/图鉴/Flabébé",
+  "slug": "花蓓蓓",
+  "path": "/图鉴/花蓓蓓",
   "formes": [
     {
       "key": "Flabébé",
-      "label": "Flabébé",
+      "label": "花蓓蓓",
       "kind": "base",
       "num": "0669",
       "sprite": "0669.png",
-      "nameCn": "Flabébé",
+      "nameCn": "花蓓蓓",
       "nameEn": "Flabébé",
       "types": [
         "妖精"
@@ -37,26 +37,39 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "4号道路·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "4号道路·晚上",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "22号道路·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [],
         "evolution": []
       },
       "evolution": [
         {
-          "nameCn": "Flabébé",
-          "alts": null,
-          "slug": "Flabébé"
+          "nameCn": "花蓓蓓",
+          "slug": "花蓓蓓",
+          "alts": null
         },
         {
           "nameCn": "花叶蒂",
-          "alts": null,
-          "slug": "花叶蒂"
+          "slug": "花叶蒂",
+          "alts": null
         },
         {
           "nameCn": "花洁夫人",
-          "alts": null,
-          "slug": "花洁夫人"
+          "slug": "花洁夫人",
+          "alts": null
         }
       ],
       "stats": {
@@ -559,10 +572,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -728,26 +741,39 @@
     }
   ],
   "obtains": {
-    "map": [],
+    "map": [
+      {
+        "text": "4号道路·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "4号道路·晚上",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "22号道路·晚上",
+        "href": "/分布/地图捕捉"
+      }
+    ],
     "static": [],
     "npc": [],
     "evolution": []
   },
   "evolution": [
     {
-      "nameCn": "Flabébé",
-      "alts": null,
-      "slug": "Flabébé"
+      "nameCn": "花蓓蓓",
+      "slug": "花蓓蓓",
+      "alts": null
     },
     {
       "nameCn": "花叶蒂",
-      "alts": null,
-      "slug": "花叶蒂"
+      "slug": "花叶蒂",
+      "alts": null
     },
     {
       "nameCn": "花洁夫人",
-      "alts": null,
-      "slug": "花洁夫人"
+      "slug": "花洁夫人",
+      "alts": null
     }
   ],
   "stats": {
@@ -1250,10 +1276,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

@@ -39,7 +39,7 @@
       "obtains": {
         "map": [
           {
-            "text": "宝可梦屋 4f·白天",
+            "text": "宝可梦屋·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -56,18 +56,18 @@
       "evolution": [
         {
           "nameCn": "菊草叶",
-          "alts": null,
-          "slug": "菊草叶"
+          "slug": "菊草叶",
+          "alts": null
         },
         {
           "nameCn": "月桂叶",
-          "alts": null,
-          "slug": "月桂叶"
+          "slug": "月桂叶",
+          "alts": null
         },
         {
           "nameCn": "大竺葵",
-          "alts": null,
-          "slug": "大竺葵"
+          "slug": "大竺葵",
+          "alts": null
         }
       ],
       "stats": {
@@ -81,10 +81,10 @@
       "levelMoves": [
         {
           "level": 0,
-          "nameCn": "Drain Kiss",
+          "nameCn": "吸取之吻",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Drain Kiss",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
           "type": null,
           "category": null,
           "power": null,
@@ -141,10 +141,10 @@
         },
         {
           "level": 1,
-          "nameCn": "Drain Kiss",
+          "nameCn": "吸取之吻",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Drain Kiss",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
           "type": null,
           "category": null,
           "power": null,
@@ -1052,18 +1052,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "花粉团",
           "restricted": false,
           "original": false,
@@ -1127,7 +1115,7 @@
   "obtains": {
     "map": [
       {
-        "text": "宝可梦屋 4f·白天",
+        "text": "宝可梦屋·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1144,18 +1132,18 @@
   "evolution": [
     {
       "nameCn": "菊草叶",
-      "alts": null,
-      "slug": "菊草叶"
+      "slug": "菊草叶",
+      "alts": null
     },
     {
       "nameCn": "月桂叶",
-      "alts": null,
-      "slug": "月桂叶"
+      "slug": "月桂叶",
+      "alts": null
     },
     {
       "nameCn": "大竺葵",
-      "alts": null,
-      "slug": "大竺葵"
+      "slug": "大竺葵",
+      "alts": null
     }
   ],
   "stats": {
@@ -1169,10 +1157,10 @@
   "levelMoves": [
     {
       "level": 0,
-      "nameCn": "Drain Kiss",
+      "nameCn": "吸取之吻",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Drain Kiss",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
       "type": null,
       "category": null,
       "power": null,
@@ -1229,10 +1217,10 @@
     },
     {
       "level": 1,
-      "nameCn": "Drain Kiss",
+      "nameCn": "吸取之吻",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Drain Kiss",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
       "type": null,
       "category": null,
       "power": null,
@@ -2137,18 +2125,6 @@
       "power": 120,
       "accuracy": 100,
       "pp": 10
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

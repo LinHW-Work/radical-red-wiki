@@ -42,13 +42,13 @@
       "evolution": [
         {
           "nameCn": "原野水母",
-          "alts": null,
-          "slug": "原野水母"
+          "slug": "原野水母",
+          "alts": null
         },
         {
           "nameCn": "陆地水母",
-          "alts": null,
-          "slug": "陆地水母"
+          "slug": "陆地水母",
+          "alts": null
         }
       ],
       "stats": {
@@ -852,13 +852,13 @@
   "evolution": [
     {
       "nameCn": "原野水母",
-      "alts": null,
-      "slug": "原野水母"
+      "slug": "原野水母",
+      "alts": null
     },
     {
       "nameCn": "陆地水母",
-      "alts": null,
-      "slug": "陆地水母"
+      "slug": "陆地水母",
+      "alts": null
     }
   ],
   "stats": {

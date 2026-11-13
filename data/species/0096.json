@@ -59,7 +59,7 @@
         "static": [
           {
             "text": "11号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -68,13 +68,13 @@
       "evolution": [
         {
           "nameCn": "催眠貘",
-          "alts": null,
-          "slug": "催眠貘"
+          "slug": "催眠貘",
+          "alts": null
         },
         {
           "nameCn": "引梦貘人",
-          "alts": null,
-          "slug": "引梦貘人"
+          "slug": "引梦貘人",
+          "alts": null
         }
       ],
       "stats": {
@@ -1205,7 +1205,7 @@
     "static": [
       {
         "text": "11号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -1214,13 +1214,13 @@
   "evolution": [
     {
       "nameCn": "催眠貘",
-      "alts": null,
-      "slug": "催眠貘"
+      "slug": "催眠貘",
+      "alts": null
     },
     {
       "nameCn": "引梦貘人",
-      "alts": null,
-      "slug": "引梦貘人"
+      "slug": "引梦貘人",
+      "alts": null
     }
   ],
   "stats": {

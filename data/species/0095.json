@@ -49,15 +49,15 @@
       "obtains": {
         "map": [
           {
-            "text": "月见山 b2f·白天",
+            "text": "月见山·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "月见山 b2f·晚上",
+            "text": "月见山·晚上",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "岩山隧道 1f·晚上",
+            "text": "岩山隧道·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -68,13 +68,13 @@
       "evolution": [
         {
           "nameCn": "大岩蛇",
-          "alts": null,
-          "slug": "大岩蛇"
+          "slug": "大岩蛇",
+          "alts": null
         },
         {
           "nameCn": "大钢蛇",
-          "alts": null,
-          "slug": "大钢蛇"
+          "slug": "大钢蛇",
+          "alts": null
         }
       ],
       "stats": {
@@ -941,10 +941,10 @@
         },
         {
           "level": null,
-          "nameCn": "钻冲赛道",
+          "nameCn": "直冲钻",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+          "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
           "type": "地面",
           "category": "物理",
           "power": 80,
@@ -1206,15 +1206,15 @@
   "obtains": {
     "map": [
       {
-        "text": "月见山 b2f·白天",
+        "text": "月见山·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "月见山 b2f·晚上",
+        "text": "月见山·晚上",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "岩山隧道 1f·晚上",
+        "text": "岩山隧道·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1225,13 +1225,13 @@
   "evolution": [
     {
       "nameCn": "大岩蛇",
-      "alts": null,
-      "slug": "大岩蛇"
+      "slug": "大岩蛇",
+      "alts": null
     },
     {
       "nameCn": "大钢蛇",
-      "alts": null,
-      "slug": "大钢蛇"
+      "slug": "大钢蛇",
+      "alts": null
     }
   ],
   "stats": {
@@ -2098,10 +2098,10 @@
     },
     {
       "level": null,
-      "nameCn": "钻冲赛道",
+      "nameCn": "直冲钻",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E9%92%BB%E5%86%B2%E8%B5%9B%E9%81%93",
+      "href": "https://wiki.52poke.com/wiki/%E7%9B%B4%E5%86%B2%E9%92%BB",
       "type": "地面",
       "category": "物理",
       "power": 80,

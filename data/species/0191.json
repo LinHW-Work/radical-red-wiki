@@ -59,13 +59,13 @@
       "evolution": [
         {
           "nameCn": "向日种子",
-          "alts": null,
-          "slug": "向日种子"
+          "slug": "向日种子",
+          "alts": null
         },
         {
           "nameCn": "向日花怪",
-          "alts": null,
-          "slug": "向日花怪"
+          "slug": "向日花怪",
+          "alts": null
         }
       ],
       "stats": {
@@ -187,10 +187,10 @@
         },
         {
           "level": 25,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -727,10 +727,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -852,7 +852,7 @@
     {
       "slot": "1",
       "nameCn": "太阳之力",
-      "href": "https://wiki.52poke.com/wiki/%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%8A%9B",
+      "href": "/特性/修改#太阳之力",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -882,13 +882,13 @@
   "evolution": [
     {
       "nameCn": "向日种子",
-      "alts": null,
-      "slug": "向日种子"
+      "slug": "向日种子",
+      "alts": null
     },
     {
       "nameCn": "向日花怪",
-      "alts": null,
-      "slug": "向日花怪"
+      "slug": "向日花怪",
+      "alts": null
     }
   ],
   "stats": {
@@ -1010,10 +1010,10 @@
     },
     {
       "level": 25,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -1550,10 +1550,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

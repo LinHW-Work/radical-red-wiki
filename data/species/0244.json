@@ -41,7 +41,7 @@
         "static": [
           {
             "text": "2号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -50,8 +50,8 @@
       "evolution": [
         {
           "nameCn": "炎帝",
-          "alts": null,
-          "slug": "炎帝"
+          "slug": "炎帝",
+          "alts": null
         }
       ],
       "stats": {
@@ -934,7 +934,7 @@
     "static": [
       {
         "text": "2号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -943,8 +943,8 @@
   "evolution": [
     {
       "nameCn": "炎帝",
-      "alts": null,
-      "slug": "炎帝"
+      "slug": "炎帝",
+      "alts": null
     }
   ],
   "stats": {

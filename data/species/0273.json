@@ -59,18 +59,18 @@
       "evolution": [
         {
           "nameCn": "橡实果",
-          "alts": null,
-          "slug": "橡实果"
+          "slug": "橡实果",
+          "alts": null
         },
         {
           "nameCn": "长鼻叶",
-          "alts": null,
-          "slug": "长鼻叶"
+          "slug": "长鼻叶",
+          "alts": null
         },
         {
           "nameCn": "狡猾天狗",
-          "alts": null,
-          "slug": "狡猾天狗"
+          "slug": "狡猾天狗",
+          "alts": null
         }
       ],
       "stats": {
@@ -780,18 +780,18 @@
   "evolution": [
     {
       "nameCn": "橡实果",
-      "alts": null,
-      "slug": "橡实果"
+      "slug": "橡实果",
+      "alts": null
     },
     {
       "nameCn": "长鼻叶",
-      "alts": null,
-      "slug": "长鼻叶"
+      "slug": "长鼻叶",
+      "alts": null
     },
     {
       "nameCn": "狡猾天狗",
-      "alts": null,
-      "slug": "狡猾天狗"
+      "slug": "狡猾天狗",
+      "alts": null
     }
   ],
   "stats": {

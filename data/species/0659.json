@@ -63,13 +63,13 @@
       "evolution": [
         {
           "nameCn": "掘掘兔",
-          "alts": null,
-          "slug": "掘掘兔"
+          "slug": "掘掘兔",
+          "alts": null
         },
         {
           "nameCn": "掘地兔",
-          "alts": null,
-          "slug": "掘地兔"
+          "slug": "掘地兔",
+          "alts": null
         }
       ],
       "stats": {
@@ -715,10 +715,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -855,7 +855,7 @@
     {
       "slot": "0",
       "nameCn": "捡拾",
-      "href": "https://wiki.52poke.com/wiki/%E6%8D%A1%E6%8B%BE",
+      "href": "/特性/修改#捡拾",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -898,13 +898,13 @@
   "evolution": [
     {
       "nameCn": "掘掘兔",
-      "alts": null,
-      "slug": "掘掘兔"
+      "slug": "掘掘兔",
+      "alts": null
     },
     {
       "nameCn": "掘地兔",
-      "alts": null,
-      "slug": "掘地兔"
+      "slug": "掘地兔",
+      "alts": null
     }
   ],
   "stats": {
@@ -1550,10 +1550,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

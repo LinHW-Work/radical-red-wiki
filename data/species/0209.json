@@ -48,11 +48,11 @@
       "obtains": {
         "map": [
           {
-            "text": "21a号道路·白天",
+            "text": "21号道路（靠近真新镇）·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "21a号道路·晚上",
+            "text": "21号道路（靠近真新镇）·晚上",
             "href": "/分布/地图捕捉"
           },
           {
@@ -75,13 +75,13 @@
       "evolution": [
         {
           "nameCn": "布鲁",
-          "alts": null,
-          "slug": "布鲁"
+          "slug": "布鲁",
+          "alts": null
         },
         {
           "nameCn": "布鲁皇",
-          "alts": null,
-          "slug": "布鲁皇"
+          "slug": "布鲁皇",
+          "alts": null
         }
       ],
       "stats": {
@@ -1242,11 +1242,11 @@
   "obtains": {
     "map": [
       {
-        "text": "21a号道路·白天",
+        "text": "21号道路（靠近真新镇）·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "21a号道路·晚上",
+        "text": "21号道路（靠近真新镇）·晚上",
         "href": "/分布/地图捕捉"
       },
       {
@@ -1269,13 +1269,13 @@
   "evolution": [
     {
       "nameCn": "布鲁",
-      "alts": null,
-      "slug": "布鲁"
+      "slug": "布鲁",
+      "alts": null
     },
     {
       "nameCn": "布鲁皇",
-      "alts": null,
-      "slug": "布鲁皇"
+      "slug": "布鲁皇",
+      "alts": null
     }
   ],
   "stats": {

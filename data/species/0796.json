@@ -19,8 +19,8 @@
       "abilities": [
         {
           "slot": "0",
-          "nameCn": "兽提升",
-          "href": "https://wiki.52poke.com/wiki/%E5%85%BD%E6%8F%90%E5%8D%87",
+          "nameCn": "异兽提升",
+          "href": "https://wiki.52poke.com/wiki/%E5%BC%82%E5%85%BD%E6%8F%90%E5%8D%87",
           "original": false,
           "restrictedNameCn": "紧张感",
           "restrictedHref": "https://wiki.52poke.com/wiki/%E7%B4%A7%E5%BC%A0%E6%84%9F",
@@ -31,12 +31,12 @@
         "map": [],
         "static": [
           {
-            "text": "华蓝洞窟 2f",
-            "href": "/分布/定点获取"
+            "text": "华蓝洞窟",
+            "href": "/分布/极巨巢穴"
           },
           {
-            "text": "华蓝洞窟",
-            "href": "/分布/定点获取"
+            "text": "华蓝洞窟 2f",
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -45,8 +45,8 @@
       "evolution": [
         {
           "nameCn": "电束木",
-          "alts": null,
-          "slug": "电束木"
+          "slug": "电束木",
+          "alts": null
         }
       ],
       "stats": {
@@ -753,8 +753,8 @@
   "abilities": [
     {
       "slot": "0",
-      "nameCn": "兽提升",
-      "href": "https://wiki.52poke.com/wiki/%E5%85%BD%E6%8F%90%E5%8D%87",
+      "nameCn": "异兽提升",
+      "href": "https://wiki.52poke.com/wiki/%E5%BC%82%E5%85%BD%E6%8F%90%E5%8D%87",
       "original": false,
       "restrictedNameCn": "紧张感",
       "restrictedHref": "https://wiki.52poke.com/wiki/%E7%B4%A7%E5%BC%A0%E6%84%9F",
@@ -765,12 +765,12 @@
     "map": [],
     "static": [
       {
-        "text": "华蓝洞窟 2f",
-        "href": "/分布/定点获取"
+        "text": "华蓝洞窟",
+        "href": "/分布/极巨巢穴"
       },
       {
-        "text": "华蓝洞窟",
-        "href": "/分布/定点获取"
+        "text": "华蓝洞窟 2f",
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -779,8 +779,8 @@
   "evolution": [
     {
       "nameCn": "电束木",
-      "alts": null,
-      "slug": "电束木"
+      "slug": "电束木",
+      "alts": null
     }
   ],
   "stats": {

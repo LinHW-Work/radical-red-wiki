@@ -48,7 +48,7 @@
       "obtains": {
         "map": [
           {
-            "text": "岩山隧道 b1f·白天",
+            "text": "岩山隧道·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -65,18 +65,18 @@
       "evolution": [
         {
           "nameCn": "石丸子",
-          "alts": null,
-          "slug": "石丸子"
+          "slug": "石丸子",
+          "alts": null
         },
         {
           "nameCn": "地幔岩",
-          "alts": null,
-          "slug": "地幔岩"
+          "slug": "地幔岩",
+          "alts": null
         },
         {
           "nameCn": "庞岩怪",
-          "alts": null,
-          "slug": "庞岩怪"
+          "slug": "庞岩怪",
+          "alts": null
         }
       ],
       "stats": {
@@ -884,7 +884,7 @@
   "obtains": {
     "map": [
       {
-        "text": "岩山隧道 b1f·白天",
+        "text": "岩山隧道·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -901,18 +901,18 @@
   "evolution": [
     {
       "nameCn": "石丸子",
-      "alts": null,
-      "slug": "石丸子"
+      "slug": "石丸子",
+      "alts": null
     },
     {
       "nameCn": "地幔岩",
-      "alts": null,
-      "slug": "地幔岩"
+      "slug": "地幔岩",
+      "alts": null
     },
     {
       "nameCn": "庞岩怪",
-      "alts": null,
-      "slug": "庞岩怪"
+      "slug": "庞岩怪",
+      "alts": null
     }
   ],
   "stats": {

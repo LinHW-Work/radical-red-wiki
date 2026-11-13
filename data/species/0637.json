@@ -40,11 +40,19 @@
       "obtains": {
         "map": [
           {
-            "text": "冠军之路 1f·白天",
+            "text": "冠军之路·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "冠军之路 1f·晚上",
+            "text": "冠军之路·晚上",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "1,97·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "1,97·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -61,13 +69,13 @@
       "evolution": [
         {
           "nameCn": "燃烧虫",
-          "alts": null,
-          "slug": "燃烧虫"
+          "slug": "燃烧虫",
+          "alts": null
         },
         {
           "nameCn": "火神蛾",
-          "alts": null,
-          "slug": "火神蛾"
+          "slug": "火神蛾",
+          "alts": null
         }
       ],
       "stats": {
@@ -1023,7 +1031,7 @@
     {
       "slot": "0",
       "nameCn": "火焰之躯",
-      "href": "https://wiki.52poke.com/wiki/%E7%81%AB%E7%84%B0%E4%B9%8B%E8%BA%AF",
+      "href": "/特性/修改#火焰之躯",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1042,11 +1050,19 @@
   "obtains": {
     "map": [
       {
-        "text": "冠军之路 1f·白天",
+        "text": "冠军之路·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "冠军之路 1f·晚上",
+        "text": "冠军之路·晚上",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "1,97·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "1,97·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1063,13 +1079,13 @@
   "evolution": [
     {
       "nameCn": "燃烧虫",
-      "alts": null,
-      "slug": "燃烧虫"
+      "slug": "燃烧虫",
+      "alts": null
     },
     {
       "nameCn": "火神蛾",
-      "alts": null,
-      "slug": "火神蛾"
+      "slug": "火神蛾",
+      "alts": null
     }
   ],
   "stats": {

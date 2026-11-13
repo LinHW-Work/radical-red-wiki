@@ -19,8 +19,8 @@
       "abilities": [
         {
           "slot": "0",
-          "nameCn": "强颚",
-          "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E9%A2%9A",
+          "nameCn": "强壮之颚",
+          "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E5%A3%AE%E4%B9%8B%E9%A2%9A",
           "original": false,
           "restrictedNameCn": null,
           "restrictedHref": null,
@@ -48,11 +48,11 @@
       "obtains": {
         "map": [
           {
-            "text": "华蓝市·破旧吊杆",
+            "text": "深灰市·破旧吊杆",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "月见山 1f·白天",
+            "text": "月见山·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -63,13 +63,13 @@
       "evolution": [
         {
           "nameCn": "咬咬龟",
-          "alts": null,
-          "slug": "咬咬龟"
+          "slug": "咬咬龟",
+          "alts": null
         },
         {
           "nameCn": "暴噬龟",
-          "alts": null,
-          "slug": "暴噬龟"
+          "slug": "暴噬龟",
+          "alts": null
         }
       ],
       "stats": {
@@ -480,8 +480,8 @@
   "abilities": [
     {
       "slot": "0",
-      "nameCn": "强颚",
-      "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E9%A2%9A",
+      "nameCn": "强壮之颚",
+      "href": "https://wiki.52poke.com/wiki/%E5%BC%BA%E5%A3%AE%E4%B9%8B%E9%A2%9A",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -509,11 +509,11 @@
   "obtains": {
     "map": [
       {
-        "text": "华蓝市·破旧吊杆",
+        "text": "深灰市·破旧吊杆",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "月见山 1f·白天",
+        "text": "月见山·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -524,13 +524,13 @@
   "evolution": [
     {
       "nameCn": "咬咬龟",
-      "alts": null,
-      "slug": "咬咬龟"
+      "slug": "咬咬龟",
+      "alts": null
     },
     {
       "nameCn": "暴噬龟",
-      "alts": null,
-      "slug": "暴噬龟"
+      "slug": "暴噬龟",
+      "alts": null
     }
   ],
   "stats": {

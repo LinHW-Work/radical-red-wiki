@@ -61,13 +61,13 @@
       "evolution": [
         {
           "nameCn": "青绵鸟",
-          "alts": null,
-          "slug": "青绵鸟"
+          "slug": "青绵鸟",
+          "alts": null
         },
         {
           "nameCn": "七夕青鸟",
-          "alts": null,
-          "slug": "七夕青鸟"
+          "slug": "七夕青鸟",
+          "alts": null
         }
       ],
       "stats": {
@@ -225,10 +225,10 @@
         },
         {
           "level": 11,
-          "nameCn": "Disarm Cry",
+          "nameCn": "魅惑之声",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Disarm Cry",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%AD%85%E6%83%91%E4%B9%8B%E5%A3%B0",
           "type": null,
           "category": null,
           "power": null,
@@ -696,8 +696,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -1309,13 +1309,13 @@
       "evolution": [
         {
           "nameCn": "青绵鸟",
-          "alts": null,
-          "slug": "青绵鸟"
+          "slug": "青绵鸟",
+          "alts": null
         },
         {
           "nameCn": "七夕青鸟",
-          "alts": null,
-          "slug": "七夕青鸟"
+          "slug": "七夕青鸟",
+          "alts": null
         }
       ],
       "stats": {
@@ -1473,10 +1473,10 @@
         },
         {
           "level": 11,
-          "nameCn": "Disarm Cry",
+          "nameCn": "魅惑之声",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Disarm Cry",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%AD%85%E6%83%91%E4%B9%8B%E5%A3%B0",
           "type": null,
           "category": null,
           "power": null,
@@ -1693,13 +1693,13 @@
   "evolution": [
     {
       "nameCn": "青绵鸟",
-      "alts": null,
-      "slug": "青绵鸟"
+      "slug": "青绵鸟",
+      "alts": null
     },
     {
       "nameCn": "七夕青鸟",
-      "alts": null,
-      "slug": "七夕青鸟"
+      "slug": "七夕青鸟",
+      "alts": null
     }
   ],
   "stats": {
@@ -1857,10 +1857,10 @@
     },
     {
       "level": 11,
-      "nameCn": "Disarm Cry",
+      "nameCn": "魅惑之声",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Disarm Cry",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%AD%85%E6%83%91%E4%B9%8B%E5%A3%B0",
       "type": null,
       "category": null,
       "power": null,
@@ -2328,8 +2328,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,

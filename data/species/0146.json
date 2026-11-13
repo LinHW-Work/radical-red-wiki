@@ -42,7 +42,7 @@
         "static": [
           {
             "text": "狩猎地带极西区",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -51,8 +51,8 @@
       "evolution": [
         {
           "nameCn": "火焰鸟",
-          "alts": null,
-          "slug": "火焰鸟"
+          "slug": "火焰鸟",
+          "alts": null
         }
       ],
       "stats": {
@@ -162,10 +162,10 @@
         },
         {
           "level": 50,
-          "nameCn": "空气斩",
+          "nameCn": "空气之刃",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
           "type": "飞行",
           "category": "特殊",
           "power": 75,
@@ -859,7 +859,7 @@
         "static": [
           {
             "text": "狩猎地带极西区",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -868,8 +868,8 @@
       "evolution": [
         {
           "nameCn": "火焰鸟-伽勒尔",
-          "alts": null,
           "slug": "火焰鸟",
+          "alts": null,
           "forme": "伽勒尔"
         }
       ],
@@ -992,10 +992,10 @@
         },
         {
           "level": 35,
-          "nameCn": "空气斩",
+          "nameCn": "空气之刃",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+          "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
           "type": "飞行",
           "category": "特殊",
           "power": 75,
@@ -1366,10 +1366,10 @@
       "tutorMoves": [
         {
           "level": null,
-          "nameCn": "Dark Hole",
+          "nameCn": "暗黑洞",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Dark Hole",
+          "href": "/原创招式#暗黑洞",
           "type": null,
           "category": null,
           "power": null,
@@ -1504,7 +1504,7 @@
     {
       "slot": "H",
       "nameCn": "火焰之躯",
-      "href": "https://wiki.52poke.com/wiki/%E7%81%AB%E7%84%B0%E4%B9%8B%E8%BA%AF",
+      "href": "/特性/修改#火焰之躯",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -1516,7 +1516,7 @@
     "static": [
       {
         "text": "狩猎地带极西区",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -1525,8 +1525,8 @@
   "evolution": [
     {
       "nameCn": "火焰鸟",
-      "alts": null,
-      "slug": "火焰鸟"
+      "slug": "火焰鸟",
+      "alts": null
     }
   ],
   "stats": {
@@ -1636,10 +1636,10 @@
     },
     {
       "level": 50,
-      "nameCn": "空气斩",
+      "nameCn": "空气之刃",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E6%96%A9",
+      "href": "https://wiki.52poke.com/wiki/%E7%A9%BA%E6%B0%94%E4%B9%8B%E5%88%83",
       "type": "飞行",
       "category": "特殊",
       "power": 75,

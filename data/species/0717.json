@@ -33,7 +33,7 @@
         "static": [
           {
             "text": "神秘礼物：sW0rdPjYsrjx",
-            "href": "/分布/定点获取"
+            "href": "/分布/神秘礼物"
           }
         ],
         "npc": [],
@@ -42,8 +42,8 @@
       "evolution": [
         {
           "nameCn": "伊裴尔塔尔",
-          "alts": null,
-          "slug": "伊裴尔塔尔"
+          "slug": "伊裴尔塔尔",
+          "alts": null
         }
       ],
       "stats": {
@@ -213,10 +213,10 @@
         },
         {
           "level": 80,
-          "nameCn": "死亡之翼",
+          "nameCn": "归天之翼",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%AD%BB%E4%BA%A1%E4%B9%8B%E7%BF%BC",
+          "href": "https://wiki.52poke.com/wiki/%E5%BD%92%E5%A4%A9%E4%B9%8B%E7%BF%BC",
           "type": "飞行",
           "category": "特殊",
           "power": 80,
@@ -695,10 +695,10 @@
         },
         {
           "level": null,
-          "nameCn": "Dark Hole",
+          "nameCn": "暗黑洞",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Dark Hole",
+          "href": "/原创招式#暗黑洞",
           "type": null,
           "category": null,
           "power": null,
@@ -884,7 +884,7 @@
     "static": [
       {
         "text": "神秘礼物：sW0rdPjYsrjx",
-        "href": "/分布/定点获取"
+        "href": "/分布/神秘礼物"
       }
     ],
     "npc": [],
@@ -893,8 +893,8 @@
   "evolution": [
     {
       "nameCn": "伊裴尔塔尔",
-      "alts": null,
-      "slug": "伊裴尔塔尔"
+      "slug": "伊裴尔塔尔",
+      "alts": null
     }
   ],
   "stats": {
@@ -1064,10 +1064,10 @@
     },
     {
       "level": 80,
-      "nameCn": "死亡之翼",
+      "nameCn": "归天之翼",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%AD%BB%E4%BA%A1%E4%B9%8B%E7%BF%BC",
+      "href": "https://wiki.52poke.com/wiki/%E5%BD%92%E5%A4%A9%E4%B9%8B%E7%BF%BC",
       "type": "飞行",
       "category": "特殊",
       "power": 80,
@@ -1546,10 +1546,10 @@
     },
     {
       "level": null,
-      "nameCn": "Dark Hole",
+      "nameCn": "暗黑洞",
       "restricted": false,
       "original": true,
-      "href": "/原创招式/Dark Hole",
+      "href": "/原创招式#暗黑洞",
       "type": null,
       "category": null,
       "power": null,

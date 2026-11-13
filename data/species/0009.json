@@ -51,18 +51,18 @@
       "evolution": [
         {
           "nameCn": "杰尼龟",
-          "alts": null,
-          "slug": "杰尼龟"
+          "slug": "杰尼龟",
+          "alts": null
         },
         {
           "nameCn": "卡咪龟",
-          "alts": null,
-          "slug": "卡咪龟"
+          "slug": "卡咪龟",
+          "alts": null
         },
         {
           "nameCn": "水箭龟",
-          "alts": null,
-          "slug": "水箭龟"
+          "slug": "水箭龟",
+          "alts": null
         }
       ],
       "stats": {
@@ -1226,10 +1226,10 @@
         },
         {
           "level": null,
-          "nameCn": "水炮",
+          "nameCn": "加农水炮",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E7%82%AE",
+          "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E5%86%9C%E6%B0%B4%E7%82%AE",
           "type": "水",
           "category": "特殊",
           "power": 150,
@@ -1359,18 +1359,18 @@
       "evolution": [
         {
           "nameCn": "杰尼龟",
-          "alts": null,
-          "slug": "杰尼龟"
+          "slug": "杰尼龟",
+          "alts": null
         },
         {
           "nameCn": "卡咪龟",
-          "alts": null,
-          "slug": "卡咪龟"
+          "slug": "卡咪龟",
+          "alts": null
         },
         {
           "nameCn": "水箭龟",
-          "alts": null,
-          "slug": "水箭龟"
+          "slug": "水箭龟",
+          "alts": null
         }
       ],
       "stats": {
@@ -1690,18 +1690,18 @@
   "evolution": [
     {
       "nameCn": "杰尼龟",
-      "alts": null,
-      "slug": "杰尼龟"
+      "slug": "杰尼龟",
+      "alts": null
     },
     {
       "nameCn": "卡咪龟",
-      "alts": null,
-      "slug": "卡咪龟"
+      "slug": "卡咪龟",
+      "alts": null
     },
     {
       "nameCn": "水箭龟",
-      "alts": null,
-      "slug": "水箭龟"
+      "slug": "水箭龟",
+      "alts": null
     }
   ],
   "stats": {
@@ -2865,10 +2865,10 @@
     },
     {
       "level": null,
-      "nameCn": "水炮",
+      "nameCn": "加农水炮",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%B0%B4%E7%82%AE",
+      "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E5%86%9C%E6%B0%B4%E7%82%AE",
       "type": "水",
       "category": "特殊",
       "power": 150,

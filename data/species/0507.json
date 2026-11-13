@@ -60,18 +60,18 @@
       "evolution": [
         {
           "nameCn": "小约克",
-          "alts": null,
-          "slug": "小约克"
+          "slug": "小约克",
+          "alts": null
         },
         {
           "nameCn": "哈约克",
-          "alts": null,
-          "slug": "哈约克"
+          "slug": "哈约克",
+          "alts": null
         },
         {
           "nameCn": "长毛狗",
-          "alts": null,
-          "slug": "长毛狗"
+          "slug": "长毛狗",
+          "alts": null
         }
       ],
       "stats": {
@@ -1013,18 +1013,18 @@
   "evolution": [
     {
       "nameCn": "小约克",
-      "alts": null,
-      "slug": "小约克"
+      "slug": "小约克",
+      "alts": null
     },
     {
       "nameCn": "哈约克",
-      "alts": null,
-      "slug": "哈约克"
+      "slug": "哈约克",
+      "alts": null
     },
     {
       "nameCn": "长毛狗",
-      "alts": null,
-      "slug": "长毛狗"
+      "slug": "长毛狗",
+      "alts": null
     }
   ],
   "stats": {

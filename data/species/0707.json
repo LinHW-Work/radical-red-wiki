@@ -40,11 +40,19 @@
       "obtains": {
         "map": [
           {
-            "text": "北区·白天",
+            "text": "狩猎地带·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "北区·夜晚",
+            "text": "狩猎地带·晚上",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "珍宝海滩·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "珍宝海滩·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -55,8 +63,8 @@
       "evolution": [
         {
           "nameCn": "钥圈儿",
-          "alts": null,
-          "slug": "钥圈儿"
+          "slug": "钥圈儿",
+          "alts": null
         }
       ],
       "stats": {
@@ -142,10 +150,10 @@
         },
         {
           "level": 18,
-          "nameCn": "Drain Kiss",
+          "nameCn": "吸取之吻",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Drain Kiss",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
           "type": null,
           "category": null,
           "power": null,
@@ -154,10 +162,10 @@
         },
         {
           "level": 23,
-          "nameCn": "Crafty Guard",
+          "nameCn": "戏法防守",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Crafty Guard",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E6%88%8F%E6%B3%95%E9%98%B2%E5%AE%88",
           "type": null,
           "category": null,
           "power": null,
@@ -744,10 +752,10 @@
         },
         {
           "level": null,
-          "nameCn": "力量储存",
+          "nameCn": "辅助力量",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+          "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
           "type": "超能力",
           "category": "特殊",
           "power": 20,
@@ -808,11 +816,19 @@
   "obtains": {
     "map": [
       {
-        "text": "北区·白天",
+        "text": "狩猎地带·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "北区·夜晚",
+        "text": "狩猎地带·晚上",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "珍宝海滩·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "珍宝海滩·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -823,8 +839,8 @@
   "evolution": [
     {
       "nameCn": "钥圈儿",
-      "alts": null,
-      "slug": "钥圈儿"
+      "slug": "钥圈儿",
+      "alts": null
     }
   ],
   "stats": {
@@ -910,10 +926,10 @@
     },
     {
       "level": 18,
-      "nameCn": "Drain Kiss",
+      "nameCn": "吸取之吻",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Drain Kiss",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
       "type": null,
       "category": null,
       "power": null,
@@ -922,10 +938,10 @@
     },
     {
       "level": 23,
-      "nameCn": "Crafty Guard",
+      "nameCn": "戏法防守",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Crafty Guard",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E6%88%8F%E6%B3%95%E9%98%B2%E5%AE%88",
       "type": null,
       "category": null,
       "power": null,
@@ -1512,10 +1528,10 @@
     },
     {
       "level": null,
-      "nameCn": "力量储存",
+      "nameCn": "辅助力量",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+      "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
       "type": "超能力",
       "category": "特殊",
       "power": 20,

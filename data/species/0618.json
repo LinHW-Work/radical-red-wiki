@@ -49,7 +49,11 @@
       "obtains": {
         "map": [
           {
-            "text": "地鼠洞穴 b1f·白天",
+            "text": "岩山隧道·晚上",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "Diglett's Cave·白天",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -60,8 +64,8 @@
       "evolution": [
         {
           "nameCn": "泥巴鱼",
-          "alts": null,
-          "slug": "泥巴鱼"
+          "slug": "泥巴鱼",
+          "alts": null
         }
       ],
       "stats": {
@@ -863,10 +867,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -997,7 +1001,11 @@
       "obtains": {
         "map": [
           {
-            "text": "地鼠洞穴 b1f·晚上",
+            "text": "岩山隧道·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "Diglett's Cave·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -1008,8 +1016,8 @@
       "evolution": [
         {
           "nameCn": "泥巴鱼-伽勒尔",
-          "alts": null,
           "slug": "泥巴鱼",
+          "alts": null,
           "forme": "伽勒尔"
         }
       ],
@@ -1701,10 +1709,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1870,7 +1878,11 @@
   "obtains": {
     "map": [
       {
-        "text": "地鼠洞穴 b1f·白天",
+        "text": "岩山隧道·晚上",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "Diglett's Cave·白天",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1881,8 +1893,8 @@
   "evolution": [
     {
       "nameCn": "泥巴鱼",
-      "alts": null,
-      "slug": "泥巴鱼"
+      "slug": "泥巴鱼",
+      "alts": null
     }
   ],
   "stats": {
@@ -2684,10 +2696,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

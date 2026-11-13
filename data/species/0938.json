@@ -63,7 +63,7 @@
         "static": [
           {
             "text": "25号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -72,13 +72,13 @@
       "evolution": [
         {
           "nameCn": "光蚪仔",
-          "alts": null,
-          "slug": "光蚪仔"
+          "slug": "光蚪仔",
+          "alts": null
         },
         {
           "nameCn": "电肚蛙",
-          "alts": null,
-          "slug": "电肚蛙"
+          "slug": "电肚蛙",
+          "alts": null
         }
       ],
       "stats": {
@@ -684,7 +684,7 @@
     "static": [
       {
         "text": "25号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -693,13 +693,13 @@
   "evolution": [
     {
       "nameCn": "光蚪仔",
-      "alts": null,
-      "slug": "光蚪仔"
+      "slug": "光蚪仔",
+      "alts": null
     },
     {
       "nameCn": "电肚蛙",
-      "alts": null,
-      "slug": "电肚蛙"
+      "slug": "电肚蛙",
+      "alts": null
     }
   ],
   "stats": {

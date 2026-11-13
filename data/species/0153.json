@@ -51,18 +51,18 @@
       "evolution": [
         {
           "nameCn": "菊草叶",
-          "alts": null,
-          "slug": "菊草叶"
+          "slug": "菊草叶",
+          "alts": null
         },
         {
           "nameCn": "月桂叶",
-          "alts": null,
-          "slug": "月桂叶"
+          "slug": "月桂叶",
+          "alts": null
         },
         {
           "nameCn": "大竺葵",
-          "alts": null,
-          "slug": "大竺葵"
+          "slug": "大竺葵",
+          "alts": null
         }
       ],
       "stats": {
@@ -882,18 +882,6 @@
         },
         {
           "level": null,
-          "nameCn": "Move#0",
-          "restricted": false,
-          "original": true,
-          "href": "/原创招式/Move#0",
-          "type": null,
-          "category": null,
-          "power": null,
-          "accuracy": null,
-          "pp": null
-        },
-        {
-          "level": null,
           "nameCn": "花粉团",
           "restricted": false,
           "original": false,
@@ -969,18 +957,18 @@
   "evolution": [
     {
       "nameCn": "菊草叶",
-      "alts": null,
-      "slug": "菊草叶"
+      "slug": "菊草叶",
+      "alts": null
     },
     {
       "nameCn": "月桂叶",
-      "alts": null,
-      "slug": "月桂叶"
+      "slug": "月桂叶",
+      "alts": null
     },
     {
       "nameCn": "大竺葵",
-      "alts": null,
-      "slug": "大竺葵"
+      "slug": "大竺葵",
+      "alts": null
     }
   ],
   "stats": {
@@ -1797,18 +1785,6 @@
       "power": 120,
       "accuracy": 100,
       "pp": 10
-    },
-    {
-      "level": null,
-      "nameCn": "Move#0",
-      "restricted": false,
-      "original": true,
-      "href": "/原创招式/Move#0",
-      "type": null,
-      "category": null,
-      "power": null,
-      "accuracy": null,
-      "pp": null
     },
     {
       "level": null,

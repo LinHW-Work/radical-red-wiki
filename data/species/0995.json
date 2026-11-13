@@ -31,14 +31,14 @@
       "obtains": {
         "map": [
           {
-            "text": "西区·白天",
+            "text": "狩猎地带·白天",
             "href": "/分布/地图捕捉"
           }
         ],
         "static": [
           {
             "text": "狩猎地带西区",
-            "href": "/分布/定点获取"
+            "href": "/分布/特殊"
           }
         ],
         "npc": [],
@@ -47,8 +47,8 @@
       "evolution": [
         {
           "nameCn": "铁荆棘",
-          "alts": null,
-          "slug": "铁荆棘"
+          "slug": "铁荆棘",
+          "alts": null
         }
       ],
       "stats": {
@@ -194,10 +194,10 @@
         },
         {
           "level": 49,
-          "nameCn": "加速岩",
+          "nameCn": "冲岩",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E9%80%9F%E5%B2%A9",
+          "href": "https://wiki.52poke.com/wiki/%E5%86%B2%E5%B2%A9",
           "type": "岩石",
           "category": "物理",
           "power": 40,
@@ -1133,14 +1133,14 @@
   "obtains": {
     "map": [
       {
-        "text": "西区·白天",
+        "text": "狩猎地带·白天",
         "href": "/分布/地图捕捉"
       }
     ],
     "static": [
       {
         "text": "狩猎地带西区",
-        "href": "/分布/定点获取"
+        "href": "/分布/特殊"
       }
     ],
     "npc": [],
@@ -1149,8 +1149,8 @@
   "evolution": [
     {
       "nameCn": "铁荆棘",
-      "alts": null,
-      "slug": "铁荆棘"
+      "slug": "铁荆棘",
+      "alts": null
     }
   ],
   "stats": {
@@ -1296,10 +1296,10 @@
     },
     {
       "level": 49,
-      "nameCn": "加速岩",
+      "nameCn": "冲岩",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8A%A0%E9%80%9F%E5%B2%A9",
+      "href": "https://wiki.52poke.com/wiki/%E5%86%B2%E5%B2%A9",
       "type": "岩石",
       "category": "物理",
       "power": 40,

@@ -49,11 +49,19 @@
       "obtains": {
         "map": [
           {
-            "text": "东区·白天",
+            "text": "狩猎地带·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "东区·夜晚",
+            "text": "狩猎地带·晚上",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "连理之桥·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "连理之桥·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -64,8 +72,8 @@
       "evolution": [
         {
           "nameCn": "摔角鹰人",
-          "alts": null,
-          "slug": "摔角鹰人"
+          "slug": "摔角鹰人",
+          "alts": null
         }
       ],
       "stats": {
@@ -211,10 +219,10 @@
         },
         {
           "level": 36,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1038,10 +1046,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -1086,10 +1094,10 @@
         },
         {
           "level": null,
-          "nameCn": "地狱突刺",
+          "nameCn": "深渊突刺",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+          "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
           "type": "恶",
           "category": "物理",
           "power": 80,
@@ -1339,11 +1347,19 @@
   "obtains": {
     "map": [
       {
-        "text": "东区·白天",
+        "text": "狩猎地带·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "东区·夜晚",
+        "text": "狩猎地带·晚上",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "连理之桥·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "连理之桥·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1354,8 +1370,8 @@
   "evolution": [
     {
       "nameCn": "摔角鹰人",
-      "alts": null,
-      "slug": "摔角鹰人"
+      "slug": "摔角鹰人",
+      "alts": null
     }
   ],
   "stats": {
@@ -1501,10 +1517,10 @@
     },
     {
       "level": 36,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -2328,10 +2344,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -2376,10 +2392,10 @@
     },
     {
       "level": null,
-      "nameCn": "地狱突刺",
+      "nameCn": "深渊突刺",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%9C%B0%E7%8B%B1%E7%AA%81%E5%88%BA",
+      "href": "https://wiki.52poke.com/wiki/%E6%B7%B1%E6%B8%8A%E7%AA%81%E5%88%BA",
       "type": "恶",
       "category": "物理",
       "power": 80,

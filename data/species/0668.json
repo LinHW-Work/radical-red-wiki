@@ -51,6 +51,34 @@
           {
             "text": "13号道路·晚上",
             "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "1,100·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "1,100·晚上",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "1,97·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "1,98·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "1,98·晚上",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "1,99·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "1,99·晚上",
+            "href": "/分布/地图捕捉"
           }
         ],
         "static": [],
@@ -66,13 +94,13 @@
       "evolution": [
         {
           "nameCn": "小狮狮",
-          "alts": null,
-          "slug": "小狮狮"
+          "slug": "小狮狮",
+          "alts": null
         },
         {
           "nameCn": "火炎狮",
-          "alts": null,
-          "slug": "火炎狮"
+          "slug": "火炎狮",
+          "alts": null
         }
       ],
       "stats": {
@@ -230,10 +258,10 @@
         },
         {
           "level": 28,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -290,10 +318,10 @@
         },
         {
           "level": 51,
-          "nameCn": "烧尽",
+          "nameCn": "烧净",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+          "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
           "type": "火",
           "category": "特殊",
           "power": 60,
@@ -790,10 +818,10 @@
         },
         {
           "level": null,
-          "nameCn": "拼命",
+          "nameCn": "蛮干",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+          "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
           "type": "一般",
           "category": "物理",
           "power": null,
@@ -955,7 +983,7 @@
     {
       "slot": "0",
       "nameCn": "斗争心",
-      "href": "https://wiki.52poke.com/wiki/%E6%96%97%E4%BA%89%E5%BF%83",
+      "href": "/特性/修改#斗争心",
       "original": false,
       "restrictedNameCn": null,
       "restrictedHref": null,
@@ -985,6 +1013,34 @@
       {
         "text": "13号道路·晚上",
         "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "1,100·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "1,100·晚上",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "1,97·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "1,98·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "1,98·晚上",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "1,99·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "1,99·晚上",
+        "href": "/分布/地图捕捉"
       }
     ],
     "static": [],
@@ -1000,13 +1056,13 @@
   "evolution": [
     {
       "nameCn": "小狮狮",
-      "alts": null,
-      "slug": "小狮狮"
+      "slug": "小狮狮",
+      "alts": null
     },
     {
       "nameCn": "火炎狮",
-      "alts": null,
-      "slug": "火炎狮"
+      "slug": "火炎狮",
+      "alts": null
     }
   ],
   "stats": {
@@ -1164,10 +1220,10 @@
     },
     {
       "level": 28,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,
@@ -1224,10 +1280,10 @@
     },
     {
       "level": 51,
-      "nameCn": "烧尽",
+      "nameCn": "烧净",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%B0%BD",
+      "href": "https://wiki.52poke.com/wiki/%E7%83%A7%E5%87%80",
       "type": "火",
       "category": "特殊",
       "power": 60,
@@ -1724,10 +1780,10 @@
     },
     {
       "level": null,
-      "nameCn": "拼命",
+      "nameCn": "蛮干",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E6%8B%BC%E5%91%BD",
+      "href": "https://wiki.52poke.com/wiki/%E8%9B%AE%E5%B9%B2",
       "type": "一般",
       "category": "物理",
       "power": null,

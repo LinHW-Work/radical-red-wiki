@@ -29,7 +29,16 @@
         }
       ],
       "obtains": {
-        "map": [],
+        "map": [
+          {
+            "text": "宝可梦塔·白天",
+            "href": "/分布/地图捕捉"
+          },
+          {
+            "text": "宝可梦塔·晚上",
+            "href": "/分布/地图捕捉"
+          }
+        ],
         "static": [],
         "npc": [
           {
@@ -42,8 +51,8 @@
       "evolution": [
         {
           "nameCn": "谜拟丘",
-          "alts": null,
-          "slug": "谜拟丘"
+          "slug": "谜拟丘",
+          "alts": null
         }
       ],
       "stats": {
@@ -923,7 +932,16 @@
     }
   ],
   "obtains": {
-    "map": [],
+    "map": [
+      {
+        "text": "宝可梦塔·白天",
+        "href": "/分布/地图捕捉"
+      },
+      {
+        "text": "宝可梦塔·晚上",
+        "href": "/分布/地图捕捉"
+      }
+    ],
     "static": [],
     "npc": [
       {
@@ -936,8 +954,8 @@
   "evolution": [
     {
       "nameCn": "谜拟丘",
-      "alts": null,
-      "slug": "谜拟丘"
+      "slug": "谜拟丘",
+      "alts": null
     }
   ],
   "stats": {

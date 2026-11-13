@@ -53,27 +53,11 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 1f·白天",
+            "text": "双子岛·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "双子岛 1f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b3f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b3f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b4f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "双子岛 b4f·晚上",
+            "text": "双子岛·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -90,13 +74,13 @@
       "evolution": [
         {
           "nameCn": "迷唇娃",
-          "alts": null,
-          "slug": "迷唇娃"
+          "slug": "迷唇娃",
+          "alts": null
         },
         {
           "nameCn": "迷唇姐",
-          "alts": null,
-          "slug": "迷唇姐"
+          "slug": "迷唇姐",
+          "alts": null
         }
       ],
       "stats": {
@@ -122,10 +106,10 @@
         },
         {
           "level": 1,
-          "nameCn": "Drain Kiss",
+          "nameCn": "吸取之吻",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/Drain Kiss",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
           "type": null,
           "category": null,
           "power": null,
@@ -1214,10 +1198,10 @@
         },
         {
           "level": null,
-          "nameCn": "力量储存",
+          "nameCn": "辅助力量",
           "restricted": false,
           "original": false,
-          "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+          "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
           "type": "超能力",
           "category": "特殊",
           "power": 20,
@@ -1303,27 +1287,11 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "双子岛 1f·白天",
+        "text": "双子岛·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "双子岛 1f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "双子岛 b3f·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "双子岛 b3f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "双子岛 b4f·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "双子岛 b4f·晚上",
+        "text": "双子岛·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -1340,13 +1308,13 @@
   "evolution": [
     {
       "nameCn": "迷唇娃",
-      "alts": null,
-      "slug": "迷唇娃"
+      "slug": "迷唇娃",
+      "alts": null
     },
     {
       "nameCn": "迷唇姐",
-      "alts": null,
-      "slug": "迷唇姐"
+      "slug": "迷唇姐",
+      "alts": null
     }
   ],
   "stats": {
@@ -1372,10 +1340,10 @@
     },
     {
       "level": 1,
-      "nameCn": "Drain Kiss",
+      "nameCn": "吸取之吻",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/Drain Kiss",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E5%90%B8%E5%8F%96%E4%B9%8B%E5%90%BB",
       "type": null,
       "category": null,
       "power": null,
@@ -2464,10 +2432,10 @@
     },
     {
       "level": null,
-      "nameCn": "力量储存",
+      "nameCn": "辅助力量",
       "restricted": false,
       "original": false,
-      "href": "https://wiki.52poke.com/wiki/%E5%8A%9B%E9%87%8F%E5%82%A8%E5%AD%98",
+      "href": "https://wiki.52poke.com/wiki/%E8%BE%85%E5%8A%A9%E5%8A%9B%E9%87%8F",
       "type": "超能力",
       "category": "特殊",
       "power": 20,

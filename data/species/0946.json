@@ -40,11 +40,11 @@
       "obtains": {
         "map": [
           {
-            "text": "森林扩展区·白天",
+            "text": "常青森林·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "森林扩展区·晚上",
+            "text": "常青森林·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
@@ -55,13 +55,13 @@
       "evolution": [
         {
           "nameCn": "纳噬草",
-          "alts": null,
-          "slug": "纳噬草"
+          "slug": "纳噬草",
+          "alts": null
         },
         {
           "nameCn": "怖纳噬草",
-          "alts": null,
-          "slug": "怖纳噬草"
+          "slug": "怖纳噬草",
+          "alts": null
         }
       ],
       "stats": {
@@ -760,11 +760,11 @@
   "obtains": {
     "map": [
       {
-        "text": "森林扩展区·白天",
+        "text": "常青森林·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "森林扩展区·晚上",
+        "text": "常青森林·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
@@ -775,13 +775,13 @@
   "evolution": [
     {
       "nameCn": "纳噬草",
-      "alts": null,
-      "slug": "纳噬草"
+      "slug": "纳噬草",
+      "alts": null
     },
     {
       "nameCn": "怖纳噬草",
-      "alts": null,
-      "slug": "怖纳噬草"
+      "slug": "怖纳噬草",
+      "alts": null
     }
   ],
   "stats": {

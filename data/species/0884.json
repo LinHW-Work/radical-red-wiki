@@ -57,26 +57,18 @@
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "华蓝洞窟 1f·白天",
+            "text": "华蓝洞窟·白天",
             "href": "/分布/地图捕捉"
           },
           {
-            "text": "华蓝洞窟 1f·晚上",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "华蓝洞窟 2f·白天",
-            "href": "/分布/地图捕捉"
-          },
-          {
-            "text": "华蓝洞窟 2f·晚上",
+            "text": "华蓝洞窟·晚上",
             "href": "/分布/地图捕捉"
           }
         ],
         "static": [
           {
             "text": "13号道路",
-            "href": "/分布/定点获取"
+            "href": "/分布/极巨巢穴"
           }
         ],
         "npc": [],
@@ -85,13 +77,13 @@
       "evolution": [
         {
           "nameCn": "铝钢龙",
-          "alts": null,
-          "slug": "铝钢龙"
+          "slug": "铝钢龙",
+          "alts": null
         },
         {
           "nameCn": "铝钢桥龙",
-          "alts": null,
-          "slug": "铝钢桥龙"
+          "slug": "铝钢桥龙",
+          "alts": null
         }
       ],
       "stats": {
@@ -499,8 +491,8 @@
           "level": null,
           "nameCn": "龙之弹幕炮",
           "restricted": false,
-          "original": true,
-          "href": "/原创招式/龙之弹幕炮",
+          "original": false,
+          "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
           "tmNumber": "TM072",
           "type": null,
           "category": null,
@@ -954,26 +946,18 @@
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "华蓝洞窟 1f·白天",
+        "text": "华蓝洞窟·白天",
         "href": "/分布/地图捕捉"
       },
       {
-        "text": "华蓝洞窟 1f·晚上",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "华蓝洞窟 2f·白天",
-        "href": "/分布/地图捕捉"
-      },
-      {
-        "text": "华蓝洞窟 2f·晚上",
+        "text": "华蓝洞窟·晚上",
         "href": "/分布/地图捕捉"
       }
     ],
     "static": [
       {
         "text": "13号道路",
-        "href": "/分布/定点获取"
+        "href": "/分布/极巨巢穴"
       }
     ],
     "npc": [],
@@ -982,13 +966,13 @@
   "evolution": [
     {
       "nameCn": "铝钢龙",
-      "alts": null,
-      "slug": "铝钢龙"
+      "slug": "铝钢龙",
+      "alts": null
     },
     {
       "nameCn": "铝钢桥龙",
-      "alts": null,
-      "slug": "铝钢桥龙"
+      "slug": "铝钢桥龙",
+      "alts": null
     }
   ],
   "stats": {
@@ -1396,8 +1380,8 @@
       "level": null,
       "nameCn": "龙之弹幕炮",
       "restricted": false,
-      "original": true,
-      "href": "/原创招式/龙之弹幕炮",
+      "original": false,
+      "href": "https://wiki.52poke.com/wiki/%E9%BE%99%E4%B9%8B%E5%BC%B9%E5%B9%95%E7%82%AE",
       "tmNumber": "TM072",
       "type": null,
       "category": null,

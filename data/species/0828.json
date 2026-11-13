@@ -52,21 +52,21 @@
         "evolution": [
           {
             "group": "evolution",
-            "text": "偷儿狐·Lv.18",
+            "text": "狡小狐·Lv.18",
             "href": null
           }
         ]
       },
       "evolution": [
         {
-          "nameCn": "偷儿狐",
-          "alts": null,
-          "slug": "偷儿狐"
+          "nameCn": "狡小狐",
+          "slug": "狡小狐",
+          "alts": null
         },
         {
-          "nameCn": "狐大盗",
-          "alts": null,
-          "slug": "狐大盗"
+          "nameCn": "猾大狐",
+          "slug": "猾大狐",
+          "alts": null
         }
       ],
       "stats": {
@@ -598,10 +598,10 @@
         },
         {
           "level": null,
-          "nameCn": "Dark Hole",
+          "nameCn": "暗黑洞",
           "restricted": false,
           "original": true,
-          "href": "/原创招式/Dark Hole",
+          "href": "/原创招式#暗黑洞",
           "type": null,
           "category": null,
           "power": null,
@@ -830,21 +830,21 @@
     "evolution": [
       {
         "group": "evolution",
-        "text": "偷儿狐·Lv.18",
+        "text": "狡小狐·Lv.18",
         "href": null
       }
     ]
   },
   "evolution": [
     {
-      "nameCn": "偷儿狐",
-      "alts": null,
-      "slug": "偷儿狐"
+      "nameCn": "狡小狐",
+      "slug": "狡小狐",
+      "alts": null
     },
     {
-      "nameCn": "狐大盗",
-      "alts": null,
-      "slug": "狐大盗"
+      "nameCn": "猾大狐",
+      "slug": "猾大狐",
+      "alts": null
     }
   ],
   "stats": {
@@ -1376,10 +1376,10 @@
     },
     {
       "level": null,
-      "nameCn": "Dark Hole",
+      "nameCn": "暗黑洞",
       "restricted": false,
       "original": true,
-      "href": "/原创招式/Dark Hole",
+      "href": "/原创招式#暗黑洞",
       "type": null,
       "category": null,
       "power": null,

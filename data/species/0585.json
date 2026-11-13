@@ -60,13 +60,13 @@
       "evolution": [
         {
           "nameCn": "四季鹿",
-          "alts": null,
-          "slug": "四季鹿"
+          "slug": "四季鹿",
+          "alts": null
         },
         {
           "nameCn": "萌芽鹿",
-          "alts": null,
-          "slug": "萌芽鹿"
+          "slug": "萌芽鹿",
+          "alts": null
         }
       ],
       "stats": {
@@ -837,13 +837,13 @@
   "evolution": [
     {
       "nameCn": "四季鹿",
-      "alts": null,
-      "slug": "四季鹿"
+      "slug": "四季鹿",
+      "alts": null
     },
     {
       "nameCn": "萌芽鹿",
-      "alts": null,
-      "slug": "萌芽鹿"
+      "slug": "萌芽鹿",
+      "alts": null
     }
   ],
   "stats": {
